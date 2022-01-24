@@ -2,11 +2,8 @@
     "evolves_to": [
         {
             "evolution_details": [],
-            "evolves_to": [],
-            "id": "809",
-            "name": "melmetal"
+            "id": "809"
         }
     ],
-    "id": "808",
-    "name": "meltan"
+    "id": "808"
 }

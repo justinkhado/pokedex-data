@@ -3,9 +3,7 @@ import json
 import time
 import requests
 
-TOTAL_POKEMON = 898
-PARPATH = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
-BASE_URL = 'https://pokeapi.co/api/v2'
+from settings import TOTAL_POKEMON, PARPATH, BASE_URL
 
 def get_pokemon():
     for i in range(740, TOTAL_POKEMON + 1):
@@ -36,7 +34,3 @@ def get_evolution_chains():
             json.dump(chain, f, indent=4)
         
         time.sleep(5)
-
-if __name__ == '__main__':
-    #raw_pokemons = get_pokemon()
-    get_evolution_chains()
