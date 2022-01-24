@@ -77,14 +77,14 @@ def save_each_evolution_chain():
     dir_path = os.path.join(PARPATH, 'raw_data', 'evolution_chains')
     for file in os.listdir(dir_path):
         evolution_chain = {}
-        file_name = ''
+        file_names = []
         with open(os.path.join(dir_path, file)) as f:
             chain_object = json.load(f)
             evolution_chain = dict(chain_object['chain'])
             print(f"{chain_object['id']}: ", end='')
             
             pokemon_id = str(evolution_chain['species']['url'].split('/')[-2])
-            file_name += pokemon_id
+            file_names.append(pokemon_id)
             evolution_chain['id'] = pokemon_id
             evolution_chain['name'] = evolution_chain['species']['name']
             evolution_chain.pop('species')
@@ -93,7 +93,7 @@ def save_each_evolution_chain():
 
             for evo1 in evolution_chain['evolves_to']:
                 pokemon_id = str(evo1['species']['url'].split('/')[-2])
-                file_name += '_' + pokemon_id
+                file_names.append(pokemon_id)
                 evo1['id'] = pokemon_id
                 evo1['name'] = evo1['species']['name']
                 evo1.pop('species')
@@ -101,19 +101,22 @@ def save_each_evolution_chain():
 
                 for evo2 in evo1['evolves_to']:
                     pokemon_id = str(evo2['species']['url'].split('/')[-2])
-                    file_name += '_' + pokemon_id
+                    file_names.append(pokemon_id)
                     evo2['id'] = pokemon_id
                     evo2['name'] = evo2['species']['name']
                     evo2.pop('species')
                     evo2.pop('is_baby')
                     evo2.pop('evolves_to')
 
-        print(file_name)
-        filepath = os.path.join(PARPATH, 'evolution_chains', f'{file_name}.json')
-        with open(filepath, 'w') as f:
-            json.dump(evolution_chain, f, indent=4)
+        print(file_names)
+        for file_name in file_names:
+            filepath = os.path.join(PARPATH, 'evolution_chains', f'{file_name}.json')
+            with open(filepath, 'w') as f:
+                json.dump(evolution_chain, f, indent=4)
 
 if __name__ == '__main__':
     # save_pokemons()
     # save_each_pokemon()
-    save_each_evolution_chain()
+    # save_each_evolution_chain()
+
+    print(len(os.listdir(os.path.join(PARPATH, 'evolution_chains'))))
