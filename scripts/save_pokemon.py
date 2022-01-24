@@ -50,7 +50,7 @@ def save_pokemons():
     pokemons = {'pokemons': []}
     for i in range(1, TOTAL_POKEMON + 1):
         pokemon = {}
-        filepath = os.path.join(PARPATH, 'pokemon', f'{i}.json')
+        filepath = os.path.join(PARPATH, 'data', 'pokemon', f'{i}.json')
         with open(filepath) as f:
             pokemon_untrimmed = json.load(f)
             pokemon['name'] = pokemon_untrimmed['name']
@@ -62,7 +62,7 @@ def save_pokemons():
             
             pokemons['pokemons'].append(pokemon)
             
-    filepath = os.path.join(PARPATH, 'pokemons.json')    
+    filepath = os.path.join(PARPATH, 'data', 'pokemons.json')    
     with open(filepath, 'w') as f:
         json.dump(pokemons, f, indent=4)
 
@@ -77,7 +77,7 @@ def save_each_pokemon():
             pokemon['abilities'] = _get_abilities(pokemon_raw['abilities'])
             # pokemon['moves'] = _get_moves()
         
-        filepath = os.path.join(PARPATH, 'pokemon', f'{i}.json')
+        filepath = os.path.join(PARPATH, 'data', 'pokemon', f'{i}.json')
         with open(filepath, 'w') as f:
             json.dump(pokemon, f, indent=4)
 

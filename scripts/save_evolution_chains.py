@@ -113,7 +113,7 @@ def save_each_evolution_chain():
 
         print(file_names)
         for file_name in file_names:
-            filepath = os.path.join(PARPATH, 'evolution_chains', f'{file_name}.json')
+            filepath = os.path.join(PARPATH, 'data', 'evolution_chains', f'{file_name}.json')
             with open(filepath, 'w') as f:
                 json.dump(evolution_chain, f, indent=4)
 

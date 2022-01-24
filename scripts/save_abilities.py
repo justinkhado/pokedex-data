@@ -17,7 +17,7 @@ def save_each_ability():
                     break
             
         print(f"{ability['id']}: {ability['name']}")
-        filepath = os.path.join(PARPATH, 'abilities', f"{ability['id']}.json")
+        filepath = os.path.join(PARPATH, 'data', 'abilities', f"{ability['id']}.json")
         with open(filepath, 'w') as f:
             json.dump(ability, f, indent=4)
 
