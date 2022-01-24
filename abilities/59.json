@@ -1,0 +1,5 @@
+{
+    "id": 59,
+    "name": "forecast",
+    "effect": "Changes castform's type and form to match the weather."
+}

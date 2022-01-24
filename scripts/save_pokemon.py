@@ -5,9 +5,15 @@ from settings import TOTAL_POKEMON, PARPATH
 
 def _clean_pokemon_raw(pokemon_raw):
     pokemon = {}
-    for attr in ('name', 'id', 'abilities', 'moves'):
+    for attr in ('name', 'id'):
         pokemon[attr] = pokemon_raw[attr]
     
+    # convert decimeter to ft and inches
+    pokemon['height'] = f"{int(pokemon_raw['height'] * 3.937 // 12)}\'{round(pokemon_raw['height'] * 3.937 % 12)}\""
+
+    # convert hectogram to lbs
+    pokemon['weight'] = f"{round(pokemon_raw['weight'] / 4.536, 1)} lbs"
+
     pokemon['types'] = []
     for _type in pokemon_raw['types']:
         pokemon['types'].append(_type['type']['name'])
@@ -18,12 +24,6 @@ def _clean_pokemon_raw(pokemon_raw):
         if 'special-' in stat_name:
             stat_name = stat_name.replace('special-', 'sp. ')
         pokemon['stats'][stat_name] = stat['base_stat']
-
-    # convert decimeter to ft and inches
-    pokemon['height'] = f"{int(pokemon_raw['height'] * 3.937 // 12)}\'{round(pokemon_raw['height'] * 3.937 % 12)}\""
-
-    # convert hectogram to lbs
-    pokemon['weight'] = f"{round(pokemon_raw['weight'] / 4.536, 1)} lbs"
 
     return pokemon
 
@@ -44,6 +44,7 @@ def _get_generation(id):
         return 7
     elif id <= 898:
         return 8
+
 
 def save_pokemons():
     pokemons = {'pokemons': []}
@@ -72,14 +73,13 @@ def save_each_pokemon():
         filepath = os.path.join(PARPATH, 'raw_data', 'pokemon', f'{i}.json')
         with open(filepath) as f:
             pokemon_raw = json.load(f)            
-            pokemon_clean = _clean_pokemon_raw(pokemon_raw)
-            pokemon = dict(pokemon_clean)
-
-        filepath = os.path.join(PARPATH, 'evolution_chains', f'{i}.json')
-        with open(filepath) as f:
-            evolution_chain = json.load(f)
-            pokemon['evolution_chain'] = evolution_chain
+            pokemon = _clean_pokemon_raw(pokemon_raw)
+            pokemon['abilities'] = _get_abilities(pokemon_raw['abilities'])
+            # pokemon['moves'] = _get_moves()
         
         filepath = os.path.join(PARPATH, 'pokemon', f'{i}.json')
         with open(filepath, 'w') as f:
             json.dump(pokemon, f, indent=4)
+
+if __name__ == '__main__':
+    save_each_pokemon()

@@ -1,0 +1,5 @@
+{
+    "id": 107,
+    "name": "anticipation",
+    "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+}

@@ -1,0 +1,5 @@
+{
+    "id": 131,
+    "name": "healer",
+    "effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+}

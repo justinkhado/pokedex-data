@@ -1,0 +1,5 @@
+{
+    "id": 90,
+    "name": "poison-heal",
+    "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+}

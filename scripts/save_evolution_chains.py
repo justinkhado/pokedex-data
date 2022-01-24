@@ -85,11 +85,11 @@ def _clean_evolution_chain(evolution_chain, id):
 
 
 def save_each_evolution_chain():
-    dir_path = os.path.join(PARPATH, 'raw_data', 'evolution_chains')
-    for file in os.listdir(dir_path):
+    dirpath = os.path.join(PARPATH, 'raw_data', 'evolution_chains')
+    for file in os.listdir(dirpath):
         evolution_chain = {}
         file_names = []
-        with open(os.path.join(dir_path, file)) as f:
+        with open(os.path.join(dirpath, file)) as f:
             chain_object = json.load(f)
             evolution_chain = dict(chain_object['chain'])
             print(f"{chain_object['id']}: ", end='')

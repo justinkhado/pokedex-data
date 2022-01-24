@@ -1,0 +1,5 @@
+{
+    "id": 5,
+    "name": "sturdy",
+    "effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+}

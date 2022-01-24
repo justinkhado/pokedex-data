@@ -1,0 +1,5 @@
+{
+    "id": 112,
+    "name": "slow-start",
+    "effect": "Halves Attack and Speed for five turns upon entering battle."
+}
