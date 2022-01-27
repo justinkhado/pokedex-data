@@ -1,0 +1,12 @@
+{
+    "id": 10016,
+    "name": "shadow-panic",
+    "power": null,
+    "accuracy": 90,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "status",
+    "description": "",
+    "effect": "Confuses the target."
+}

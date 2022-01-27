@@ -1,0 +1,12 @@
+{
+    "id": 816,
+    "name": "jungle-healing",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "description": "The user becomes one with the jungle, restoring HP\nand healing any status conditions of itself and its ally\nPok\u00e9mon in battle.",
+    "effect": "Inflicts regular damage."
+}

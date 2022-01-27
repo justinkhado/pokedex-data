@@ -1,0 +1,12 @@
+{
+    "id": 571,
+    "name": "forests-curse",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "description": "The user puts a forest curse on the target.\nThe target is now Grass type as well.",
+    "effect": "Adds grass to the target's types."
+}

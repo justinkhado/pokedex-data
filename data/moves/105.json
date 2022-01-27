@@ -1,0 +1,12 @@
+{
+    "id": 105,
+    "name": "recover",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "Restoring its own cells, the user restores its own HP\nby half of its max HP.",
+    "effect": "Heals the user for half its max HP."
+}

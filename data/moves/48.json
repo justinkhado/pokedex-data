@@ -1,0 +1,12 @@
+{
+    "id": 48,
+    "name": "supersonic",
+    "power": null,
+    "accuracy": 55,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user generates odd sound waves from its body\nthat confuse the target.",
+    "effect": "Confuses the target."
+}

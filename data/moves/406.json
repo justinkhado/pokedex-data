@@ -1,0 +1,12 @@
+{
+    "id": 406,
+    "name": "dragon-pulse",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "special",
+    "description": "The target is attacked with a shock wave generated\nby the user\u2019s gaping mouth.",
+    "effect": "Inflicts regular damage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 5,
+    "name": "mega-punch",
+    "power": 80,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The target is slugged by a punch thrown with\nmuscle-packed power.",
+    "effect": "Inflicts regular damage."
+}

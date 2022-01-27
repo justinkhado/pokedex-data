@@ -1,0 +1,12 @@
+{
+    "id": 509,
+    "name": "circle-throw",
+    "power": 60,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": -6,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The target is thrown, and a different Pok\u00e9mon is\ndragged out. In the wild, this ends a battle against\na single Pok\u00e9mon.",
+    "effect": "Inflicts regular damage, then switches the target out for another of its trainer's Pok\u00e9mon, selected at random.\n\nIf the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok\u00e9mon, it will not be switched out.  If the target is a wild Pok\u00e9mon, the battle ends instead."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 79,
+    "name": "sleep-powder",
+    "power": null,
+    "accuracy": 75,
+    "pp": 15,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "description": "The user scatters a big cloud of sleep-inducing dust\naround the target.",
+    "effect": "Puts the target to sleep."
+}

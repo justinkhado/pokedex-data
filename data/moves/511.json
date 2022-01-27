@@ -1,0 +1,12 @@
+{
+    "id": 511,
+    "name": "quash",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "status",
+    "description": "The user suppresses the target and makes its move\ngo last.",
+    "effect": "Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 380,
+    "name": "gastro-acid",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "status",
+    "description": "The user hurls up its stomach acids on the target.\nThe fluid eliminates the effect of the target\u2019s Ability.",
+    "effect": "The target's ability is disabled as long as it remains on the field.\n\nThis effect is passed on by baton pass."
+}

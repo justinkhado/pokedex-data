@@ -1,0 +1,12 @@
+{
+    "id": 544,
+    "name": "gear-grind",
+    "power": 50,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "The user attacks by throwing steel gears at its\ntarget twice.",
+    "effect": "Inflicts regular damage.  Hits twice in one turn."
+}

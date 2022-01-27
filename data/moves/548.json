@@ -1,0 +1,12 @@
+{
+    "id": 548,
+    "name": "secret-sword",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "special",
+    "description": "The user cuts with its long horn. The odd power\ncontained in the horn does physical damage to\nthe target.",
+    "effect": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."
+}

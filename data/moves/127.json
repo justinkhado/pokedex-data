@@ -1,0 +1,12 @@
+{
+    "id": 127,
+    "name": "waterfall",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "physical",
+    "description": "The user charges at the target and may make\nit flinch.",
+    "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+}

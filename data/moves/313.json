@@ -1,0 +1,12 @@
+{
+    "id": 313,
+    "name": "fake-tears",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "status",
+    "description": "The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat.",
+    "effect": "Lowers the target's Special Defense by two stages."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 92,
+    "name": "toxic",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "status",
+    "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+    "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon."
+}

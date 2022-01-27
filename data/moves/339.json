@@ -1,0 +1,12 @@
+{
+    "id": 339,
+    "name": "bulk-up",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "status",
+    "description": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
+    "effect": "Raises the user's Attack and Defense by one stage each."
+}

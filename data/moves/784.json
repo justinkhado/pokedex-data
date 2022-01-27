@@ -1,0 +1,12 @@
+{
+    "id": 784,
+    "name": "breaking-swipe",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "physical",
+    "description": "The user swings its tough tail wildly and attacks\nopposing Pok\u00e9mon. This also lowers their Attack stats.",
+    "effect": "Inflicts regular damage.  Lowers the target's Attack by one stage."
+}

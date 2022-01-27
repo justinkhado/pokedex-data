@@ -1,0 +1,12 @@
+{
+    "id": 757,
+    "name": "max-flare",
+    "power": 100,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "physical",
+    "description": "This is a Fire-type attack Dynamax Pok\u00e9mon use.\nThe user intensifies the sun for five turns.",
+    "effect": "Inflicts regular damage."
+}

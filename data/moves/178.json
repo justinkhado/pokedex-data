@@ -1,0 +1,12 @@
+{
+    "id": 178,
+    "name": "cotton-spore",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "description": "The user releases cotton-like spores that cling to\nopposing Pok\u00e9mon, which harshly lowers their\nSpeed stats.",
+    "effect": "Lowers the target's Speed by two stages."
+}

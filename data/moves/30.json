@@ -1,0 +1,12 @@
+{
+    "id": 30,
+    "name": "horn-attack",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The target is jabbed with a sharply pointed horn to\ninflict damage.",
+    "effect": "Inflicts regular damage."
+}

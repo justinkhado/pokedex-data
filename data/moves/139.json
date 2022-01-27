@@ -1,0 +1,12 @@
+{
+    "id": 139,
+    "name": "poison-gas",
+    "power": null,
+    "accuracy": 90,
+    "pp": 40,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "status",
+    "description": "A cloud of poison gas is sprayed in the face of\nopposing Pok\u00e9mon, poisoning those it hits.",
+    "effect": "Poisons the target."
+}

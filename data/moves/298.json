@@ -1,0 +1,12 @@
+{
+    "id": 298,
+    "name": "teeter-dance",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user performs a wobbly dance that confuses\nthe Pok\u00e9mon around it.",
+    "effect": "Confuses all targets."
+}

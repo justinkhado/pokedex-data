@@ -1,0 +1,12 @@
+{
+    "id": 255,
+    "name": "spit-up",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "special",
+    "description": "The power stored using the move Stockpile is\nreleased at once in an attack. The more power\nis stored, the greater the move\u2019s power.",
+    "effect": "Inflicts regular damage.  Power is equal to 100 times the amount of energy stored by stockpile.  Ignores the random factor in the damage formula.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail.\n\nThis move cannot be copied by mirror move."
+}

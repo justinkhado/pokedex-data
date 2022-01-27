@@ -1,0 +1,12 @@
+{
+    "id": 613,
+    "name": "oblivion-wing",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "special",
+    "description": "The user absorbs its target\u2019s HP. The user\u2019s HP is\nrestored by over half of the damage taken by\nthe target.",
+    "effect": "Deals regular damage.  Drains 75% of the damage inflicted to heal the user."
+}

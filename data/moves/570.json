@@ -1,0 +1,12 @@
+{
+    "id": 570,
+    "name": "parabolic-charge",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "special",
+    "description": "The user attacks everything around it. The user\u2019s HP\nis restored by half the damage taken by those hit.",
+    "effect": "Heals the user for half the total damage dealt to all targets."
+}

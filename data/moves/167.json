@@ -1,0 +1,12 @@
+{
+    "id": 167,
+    "name": "triple-kick",
+    "power": 10,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "A consecutive three-kick attack that becomes more\npowerful with each successful hit.",
+    "effect": "Inflicts regular damage.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate accuracy check, and this move stops if a hit misses.\n\nskill link does not apply."
+}

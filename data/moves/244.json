@@ -1,0 +1,12 @@
+{
+    "id": 244,
+    "name": "psych-up",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user hypnotizes itself into copying any stat\nchange made by the target.",
+    "effect": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror move."
+}

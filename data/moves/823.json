@@ -1,0 +1,12 @@
+{
+    "id": 823,
+    "name": "thunderous-kick",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user overwhelms the target with lightning-like\nmovement before delivering a kick. This also lowers\nthe target\u2019s Defense stat.",
+    "effect": "Inflicts regular damage."
+}

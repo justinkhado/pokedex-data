@@ -1,0 +1,12 @@
+{
+    "id": 401,
+    "name": "aqua-tail",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "physical",
+    "description": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.",
+    "effect": "Inflicts regular damage."
+}

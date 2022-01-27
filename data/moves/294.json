@@ -1,0 +1,12 @@
+{
+    "id": 294,
+    "name": "tail-glow",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "status",
+    "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+    "effect": "Raises the user's Special Attack by three stages."
+}

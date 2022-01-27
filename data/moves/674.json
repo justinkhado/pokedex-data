@@ -1,0 +1,12 @@
+{
+    "id": 674,
+    "name": "gear-up",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "status",
+    "description": "The user engages its gears to raise the Attack and\nSp. Atk stats of ally Pok\u00e9mon with the Plus or\nMinus Ability.",
+    "effect": "Raises the Attack and Special Attack of all friendly Pok\u00e9mon with plus or minus by one stage."
+}

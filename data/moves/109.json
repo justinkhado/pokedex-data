@@ -1,0 +1,12 @@
+{
+    "id": 109,
+    "name": "confuse-ray",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ghost",
+    "damage_class": "status",
+    "description": "The target is exposed to a sinister ray that\ntriggers confusion.",
+    "effect": "Confuses the target."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 402,
+    "name": "seed-bomb",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user slams a barrage of hard-shelled seeds\ndown on the target from above.",
+    "effect": "Inflicts regular damage."
+}

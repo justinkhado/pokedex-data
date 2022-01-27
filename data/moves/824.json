@@ -1,0 +1,12 @@
+{
+    "id": 824,
+    "name": "glacial-lance",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "physical",
+    "description": "The user attacks by hurling a blizzard-cloaked\nicicle lance at opposing Pok\u00e9mon.",
+    "effect": "Inflicts regular damage."
+}

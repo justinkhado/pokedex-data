@@ -1,0 +1,12 @@
+{
+    "id": 238,
+    "name": "cross-chop",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user delivers a double chop with its forearms\ncrossed. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

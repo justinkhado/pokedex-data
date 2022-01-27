@@ -1,0 +1,12 @@
+{
+    "id": 434,
+    "name": "draco-meteor",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "special",
+    "description": "Comets are summoned down from the sky onto the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
+    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+}

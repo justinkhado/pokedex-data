@@ -1,0 +1,12 @@
+{
+    "id": 778,
+    "name": "drum-beating",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user plays its drum, controlling the drum\u2019s roots\nto attack the target. This also lowers the target\u2019s\nSpeed stat.",
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage."
+}

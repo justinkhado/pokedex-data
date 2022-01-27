@@ -1,0 +1,12 @@
+{
+    "id": 439,
+    "name": "rock-wrecker",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "rock",
+    "damage_class": "physical",
+    "description": "The user launches a huge boulder at the target to\nattack. The user can\u2019t move on the next turn.",
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

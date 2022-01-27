@@ -1,0 +1,12 @@
+{
+    "id": 805,
+    "name": "terrain-pulse",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "special",
+    "description": "The user utilizes the power of the terrain to attack.\nThis move\u2019s type and power changes depending on\nthe terrain when it\u2019s used.",
+    "effect": "Inflicts regular damage."
+}

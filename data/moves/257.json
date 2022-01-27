@@ -1,0 +1,12 @@
+{
+    "id": 257,
+    "name": "heat-wave",
+    "power": 95,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The user attacks by exhaling hot breath on opposing\nPok\u00e9mon. This may also leave those Pok\u00e9mon with\na burn.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target."
+}

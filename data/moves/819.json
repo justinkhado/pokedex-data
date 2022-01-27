@@ -1,0 +1,12 @@
+{
+    "id": 819,
+    "name": "thunder-cage",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "special",
+    "description": "The user traps the target in a cage of sparking\nelectricity for four to five turns.",
+    "effect": "Inflicts regular damage."
+}

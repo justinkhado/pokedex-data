@@ -1,0 +1,12 @@
+{
+    "id": 62,
+    "name": "aurora-beam",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "special",
+    "description": "The target is hit with a rainbow-colored beam.\nThis may also lower the target\u2019s Attack stat.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage."
+}

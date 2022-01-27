@@ -1,0 +1,12 @@
+{
+    "id": 126,
+    "name": "fire-blast",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The target is attacked with an intense blast of\nall-consuming fire. This may also leave the target\nwith a burn.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target."
+}

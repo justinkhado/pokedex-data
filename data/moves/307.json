@@ -1,0 +1,12 @@
+{
+    "id": 307,
+    "name": "blast-burn",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The target is razed by a fiery explosion. The user\ncan\u2019t move on the next turn.",
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 72,
+    "name": "mega-drain",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "special",
+    "description": "A nutrient-draining attack. The user\u2019s HP is restored\nby half the damage taken by the target.",
+    "effect": "Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

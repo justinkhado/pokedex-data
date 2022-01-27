@@ -1,0 +1,12 @@
+{
+    "id": 515,
+    "name": "final-gambit",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "special",
+    "description": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP.",
+    "effect": "Inflicts damage equal to the user's remaining HP.  User faints."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 460,
+    "name": "spacial-rend",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "special",
+    "description": "The user tears the target along with the space\naround it. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

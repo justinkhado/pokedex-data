@@ -1,0 +1,12 @@
+{
+    "id": 383,
+    "name": "copycat",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user mimics the move used immediately before\nit. The move fails if no other move has been\nused yet.",
+    "effect": "Uses the last move that was used successfully by any Pok\u00e9mon, including the user.\n\nThis move cannot copy itself, nor roar nor whirlwind.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+}

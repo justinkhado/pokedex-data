@@ -1,0 +1,12 @@
+{
+    "id": 172,
+    "name": "flame-wheel",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "physical",
+    "description": "The user cloaks itself in fire and charges at the\ntarget. This may also leave the target with a burn.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target.  Frozen Pok\u00e9mon may use this move, in which case they will thaw."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 95,
+    "name": "hypnosis",
+    "power": null,
+    "accuracy": 60,
+    "pp": 20,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+    "effect": "Puts the target to sleep."
+}

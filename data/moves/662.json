@@ -1,0 +1,12 @@
+{
+    "id": 662,
+    "name": "spirit-shackle",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ghost",
+    "damage_class": "physical",
+    "description": "The user attacks while simultaneously stitching the\ntarget\u2019s shadow to the ground to prevent the target\nfrom escaping.",
+    "effect": "Inflicts regular damage.  Traps the target."
+}

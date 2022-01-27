@@ -1,0 +1,12 @@
+{
+    "id": 425,
+    "name": "shadow-sneak",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "type": "ghost",
+    "damage_class": "physical",
+    "description": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+    "effect": "Inflicts regular damage."
+}

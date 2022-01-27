@@ -1,0 +1,12 @@
+{
+    "id": 321,
+    "name": "tickle",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user tickles the target into laughing, reducing its\nAttack and Defense stats.",
+    "effect": "Lowers the target's Attack and Defense by one stage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 157,
+    "name": "rock-slide",
+    "power": 75,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "rock",
+    "damage_class": "physical",
+    "description": "Large boulders are hurled at opposing Pok\u00e9mon to\ninflict damage. This may also make the opposing\nPok\u00e9mon flinch.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+}

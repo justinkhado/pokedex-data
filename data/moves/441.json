@@ -1,0 +1,12 @@
+{
+    "id": 441,
+    "name": "gunk-shot",
+    "power": 120,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "physical",
+    "description": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target."
+}

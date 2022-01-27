@@ -1,0 +1,12 @@
+{
+    "id": 285,
+    "name": "skill-swap",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user employs its psychic power to exchange\nAbilities with the target.",
+    "effect": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pok\u00e9mon has multitype or wonder guard, this move will fail."
+}

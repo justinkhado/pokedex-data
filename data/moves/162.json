@@ -1,0 +1,12 @@
+{
+    "id": 162,
+    "name": "super-fang",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The user chomps hard on the target with its sharp\nfront fangs. This cuts the target\u2019s HP in half.",
+    "effect": "Inflicts typeless damage equal to half the target's remaining HP."
+}

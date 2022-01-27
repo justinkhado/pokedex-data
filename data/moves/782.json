@@ -1,0 +1,12 @@
+{
+    "id": 782,
+    "name": "behemoth-bash",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "The user becomes a gigantic shield and slams into\nthe target. This move deals twice the damage if the\ntarget is Dynamaxed.",
+    "effect": ""
+}

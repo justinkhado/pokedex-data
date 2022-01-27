@@ -1,0 +1,12 @@
+{
+    "id": 75,
+    "name": "razor-leaf",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "Sharp-edged leaves are launched to slash at opposing\nPok\u00e9mon. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

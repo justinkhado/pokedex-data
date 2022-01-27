@@ -1,0 +1,12 @@
+{
+    "id": 526,
+    "name": "work-up",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user is roused, and its Attack and Sp. Atk\nstats increase.",
+    "effect": "Raises the user's Attack and Special Attack by one stage each."
+}

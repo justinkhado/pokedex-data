@@ -1,0 +1,12 @@
+{
+    "id": 825,
+    "name": "astral-barrage",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "ghost",
+    "damage_class": "special",
+    "description": "The user attacks by sending a frightful amount of small\nghosts at opposing Pok\u00e9mon.",
+    "effect": "Inflicts regular damage."
+}

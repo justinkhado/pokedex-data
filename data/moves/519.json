@@ -1,0 +1,12 @@
+{
+    "id": 519,
+    "name": "fire-pledge",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "A column of fire hits the target. When used with its\ngrass equivalent, its power increases and a vast sea\nof fire appears.",
+    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used water pledge earlier this turn, moves used by any friendly Pok\u00e9mon have doubled effect chance for four turns (including this one)."
+}

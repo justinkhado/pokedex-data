@@ -1,0 +1,12 @@
+{
+    "id": 147,
+    "name": "spore",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "description": "The user scatters bursts of spores that\ninduce sleep.",
+    "effect": "Puts the target to sleep."
+}

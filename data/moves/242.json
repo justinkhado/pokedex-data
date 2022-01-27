@@ -1,0 +1,12 @@
+{
+    "id": 242,
+    "name": "crunch",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "The user crunches up the target with sharp fangs.\nThis may also lower the target\u2019s Defense stat.",
+    "effect": "Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage."
+}

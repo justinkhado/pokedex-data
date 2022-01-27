@@ -1,0 +1,12 @@
+{
+    "id": 796,
+    "name": "steel-beam",
+    "power": 140,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "special",
+    "description": "The user fires a beam of steel that it collected from its\nentire body. This also damages the user.",
+    "effect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up. The user still takes damage if the move is blocked by Protect or Substitute, misses, or if the target has Flash Fire."
+}

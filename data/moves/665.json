@@ -1,0 +1,12 @@
+{
+    "id": 665,
+    "name": "ice-hammer",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "physical",
+    "description": "The user swings and hits with its strong, heavy fist.\nIt lowers the user\u2019s Speed, however.",
+    "effect": "Inflicts regular damage, then lowers the user's Speed by one stage."
+}

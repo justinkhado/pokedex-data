@@ -1,0 +1,12 @@
+{
+    "id": 793,
+    "name": "false-surrender",
+    "power": 80,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "The user pretends to bow its head, but then it stabs the\ntarget with its disheveled hair. This attack never misses.",
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

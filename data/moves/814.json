@@ -1,0 +1,12 @@
+{
+    "id": 814,
+    "name": "dual-wingbeat",
+    "power": 40,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "physical",
+    "description": "The user slams the target with its wings.\nThe target is hit twice in a row.",
+    "effect": "Inflicts regular damage."
+}

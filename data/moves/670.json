@@ -1,0 +1,12 @@
+{
+    "id": 670,
+    "name": "leafage",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user attacks by pelting the target with leaves.",
+    "effect": "Inflicts regular damage."
+}

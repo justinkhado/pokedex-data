@@ -1,0 +1,12 @@
+{
+    "id": 673,
+    "name": "laser-focus",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user concentrates intensely. The attack on the\nnext turn always results in a critical hit.",
+    "effect": "The user's next move will result in a critical hit."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 615,
+    "name": "thousand-waves",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "The user attacks with a wave that crawls along\nthe ground. Those it hits can\u2019t flee from battle.",
+    "effect": "Inflicts regular damage.  Traps the target."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 276,
+    "name": "superpower",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user attacks the target with great power.\nHowever, this also lowers the user\u2019s Attack and\nDefense stats.",
+    "effect": "Inflicts regular damage, then lowers the user's Attack and Defense by one stage each."
+}

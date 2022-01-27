@@ -1,0 +1,12 @@
+{
+    "id": 206,
+    "name": "false-swipe",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP.",
+    "effect": "Inflicts regular damage.  Will not reduce the target's HP below 1."
+}

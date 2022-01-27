@@ -1,0 +1,12 @@
+{
+    "id": 794,
+    "name": "meteor-assault",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user attacks wildly with its thick leek.\nThe user can\u2019t move on the next turn, because the\nforce of this move makes it stagger.",
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

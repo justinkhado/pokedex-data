@@ -1,0 +1,12 @@
+{
+    "id": 129,
+    "name": "swift",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "special",
+    "description": "Star-shaped rays are shot at opposing Pok\u00e9mon.\nThis attack never misses.",
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

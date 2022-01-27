@@ -1,0 +1,12 @@
+{
+    "id": 433,
+    "name": "trick-room",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "priority": -7,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user creates a bizarre area in which slower\nPok\u00e9mon get to move first for five turns.",
+    "effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect."
+}

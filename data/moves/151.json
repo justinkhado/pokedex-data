@@ -1,0 +1,12 @@
+{
+    "id": 151,
+    "name": "acid-armor",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "status",
+    "description": "The user alters its cellular structure to liquefy itself,\nsharply raising its Defense stat.",
+    "effect": "Raises the user's Defense by two stages."
+}

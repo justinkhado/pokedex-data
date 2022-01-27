@@ -1,0 +1,12 @@
+{
+    "id": 621,
+    "name": "hyperspace-fury",
+    "power": 100,
+    "accuracy": null,
+    "pp": 5,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "Using its many arms, the user unleashes a barrage of\nattacks that ignore the effects of moves like Protect\nand Detect. But the user\u2019s Defense stat falls.",
+    "effect": "Inflicts regular damage.  Bypasses and removes any protection effect on the target."
+}

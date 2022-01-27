@@ -1,0 +1,12 @@
+{
+    "id": 120,
+    "name": "self-destruct",
+    "power": 200,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.",
+    "effect": "User faints, even if the attack fails or misses.  Inflicts regular damage."
+}

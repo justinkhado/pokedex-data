@@ -1,0 +1,12 @@
+{
+    "id": 137,
+    "name": "glare",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user intimidates the target with the pattern on\nits belly to cause paralysis.",
+    "effect": "Paralyzes the target."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 455,
+    "name": "defend-order",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "status",
+    "description": "The user calls out its underlings to shield its body,\nraising its Defense and Sp. Def stats.",
+    "effect": "Raises the user's Defense and Special Defense by one stage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 370,
+    "name": "close-combat",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user fights the target up close without guarding\nitself. This also lowers the user\u2019s Defense and\nSp. Def stats.",
+    "effect": "Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each."
+}

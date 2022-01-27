@@ -1,0 +1,12 @@
+{
+    "id": 225,
+    "name": "dragon-breath",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "special",
+    "description": "The user exhales a mighty gust that inflicts damage.\nThis may also leave the target with paralysis.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+}

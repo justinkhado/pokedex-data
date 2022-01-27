@@ -1,0 +1,12 @@
+{
+    "id": 10010,
+    "name": "shadow-storm",
+    "power": 95,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "special",
+    "description": "",
+    "effect": "Inflicts regular damage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 70,
+    "name": "strength",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The target is slugged with a punch thrown at\nmaximum power.",
+    "effect": "Inflicts regular damage."
+}

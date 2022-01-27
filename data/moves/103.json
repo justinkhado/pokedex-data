@@ -1,0 +1,12 @@
+{
+    "id": 103,
+    "name": "screech",
+    "power": null,
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "An earsplitting screech harshly lowers the target\u2019s\nDefense stat.",
+    "effect": "Lowers the target's Defense by two stages."
+}

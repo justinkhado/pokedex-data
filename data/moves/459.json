@@ -1,0 +1,12 @@
+{
+    "id": 459,
+    "name": "roar-of-time",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "special",
+    "description": "The user blasts the target with power that distorts\neven time. The user can\u2019t move on the next turn.",
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

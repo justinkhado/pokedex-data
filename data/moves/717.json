@@ -1,0 +1,12 @@
+{
+    "id": 717,
+    "name": "natures-madness",
+    "power": null,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "fairy",
+    "damage_class": "special",
+    "description": "The user hits the target with the force of nature.\nIt halves the target\u2019s HP.",
+    "effect": "Inflicts typeless damage equal to half the target's remaining HP."
+}

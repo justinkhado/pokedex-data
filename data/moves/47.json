@@ -1,0 +1,12 @@
+{
+    "id": 47,
+    "name": "sing",
+    "power": null,
+    "accuracy": 55,
+    "pp": 15,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.",
+    "effect": "Puts the target to sleep."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 553,
+    "name": "freeze-shock",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "physical",
+    "description": "On the second turn, the user hits the target with\nelectrically charged ice. This may also leave the\ntarget with paralysis.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.  User charges for one turn before attacking."
+}

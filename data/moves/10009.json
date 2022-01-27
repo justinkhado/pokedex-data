@@ -1,0 +1,12 @@
+{
+    "id": 10009,
+    "name": "shadow-rave",
+    "power": 70,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "special",
+    "description": "",
+    "effect": "Inflicts regular damage."
+}

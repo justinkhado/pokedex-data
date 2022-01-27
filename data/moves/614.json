@@ -1,0 +1,12 @@
+{
+    "id": 614,
+    "name": "thousand-arrows",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "This move also hits opposing Pok\u00e9mon that are in\nthe air. Those Pok\u00e9mon are knocked down to\nthe ground.",
+    "effect": "Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of flying-type Pok\u00e9mon."
+}

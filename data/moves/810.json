@@ -1,0 +1,12 @@
+{
+    "id": 810,
+    "name": "corrosive-gas",
+    "power": null,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "status",
+    "description": "The user surrounds everything around it with\nhighly acidic gas and melts away items they hold.",
+    "effect": "Inflicts regular damage."
+}

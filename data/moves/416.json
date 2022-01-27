@@ -1,0 +1,12 @@
+{
+    "id": 416,
+    "name": "giga-impact",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The user charges at the target using every bit of its\npower. The user can\u2019t move on the next turn.",
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

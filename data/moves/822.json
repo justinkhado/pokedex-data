@@ -1,0 +1,12 @@
+{
+    "id": 822,
+    "name": "fiery-wrath",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "special",
+    "description": "The user transforms its wrath into a fire-like aura\nto attack. This may also make opposing Pok\u00e9mon flinch.",
+    "effect": "Inflicts regular damage."
+}

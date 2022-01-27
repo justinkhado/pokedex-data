@@ -1,0 +1,12 @@
+{
+    "id": 800,
+    "name": "meteor-beam",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "rock",
+    "damage_class": "special",
+    "description": "In this two-turn attack, the user gathers space power\nand boosts its Sp. Atk stat, then attacks the target\non the next turn.",
+    "effect": "Inflicts regular damage."
+}

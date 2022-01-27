@@ -1,0 +1,12 @@
+{
+    "id": 69,
+    "name": "seismic-toss",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user\u2019s level.",
+    "effect": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+}

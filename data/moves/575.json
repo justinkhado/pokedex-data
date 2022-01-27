@@ -1,0 +1,12 @@
+{
+    "id": 575,
+    "name": "parting-shot",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "status",
+    "description": "With a parting threat, the user lowers the target\u2019s\nAttack and Sp. Atk stats. Then it switches with a\nparty Pok\u00e9mon.",
+    "effect": "Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out."
+}

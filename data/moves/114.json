@@ -1,0 +1,12 @@
+{
+    "id": 114,
+    "name": "haze",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "status",
+    "description": "The user creates a haze that eliminates every stat\nchange among all the Pok\u00e9mon engaged in battle.",
+    "effect": "Removes stat, accuracy, and evasion modifiers from every Pok\u00e9mon on the field.\n\nThis does not count as a stat reduction for the purposes of clear body or white smoke."
+}

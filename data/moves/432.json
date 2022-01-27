@@ -1,0 +1,12 @@
+{
+    "id": 432,
+    "name": "defog",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "status",
+    "description": "A strong wind blows away the target\u2019s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget\u2019s evasiveness.",
+    "effect": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move."
+}

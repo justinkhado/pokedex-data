@@ -1,0 +1,12 @@
+{
+    "id": 88,
+    "name": "rock-throw",
+    "power": 50,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "type": "rock",
+    "damage_class": "physical",
+    "description": "The user picks up and throws a small rock at the\ntarget to attack.",
+    "effect": "Inflicts regular damage."
+}

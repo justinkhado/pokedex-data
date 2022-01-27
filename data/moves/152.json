@@ -1,0 +1,12 @@
+{
+    "id": 152,
+    "name": "crabhammer",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "physical",
+    "description": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

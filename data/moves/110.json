@@ -1,0 +1,12 @@
+{
+    "id": 110,
+    "name": "withdraw",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "status",
+    "description": "The user withdraws its body into its hard shell,\nraising its Defense stat.",
+    "effect": "Raises the user's Defense by one stage."
+}

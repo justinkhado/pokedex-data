@@ -1,0 +1,12 @@
+{
+    "id": 549,
+    "name": "glaciate",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "special",
+    "description": "The user attacks by blowing freezing cold air at\nopposing Pok\u00e9mon. This lowers their Speed stats.",
+    "effect": "Inflicts regular damage.  Lowers the target's Speed by one stage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 264,
+    "name": "focus-punch",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -3,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+    "effect": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk."
+}

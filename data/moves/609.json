@@ -1,0 +1,12 @@
+{
+    "id": 609,
+    "name": "nuzzle",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "physical",
+    "description": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+    "effect": "Inflicts regular damage.  Has a 100% chance to paralyze the target."
+}

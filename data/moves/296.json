@@ -1,0 +1,12 @@
+{
+    "id": 296,
+    "name": "mist-ball",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "A mist-like flurry of down envelops and damages the\ntarget. This may also lower the target\u2019s Sp. Atk stat.",
+    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Special Attack by one stage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 24,
+    "name": "double-kick",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The target is quickly kicked twice in succession\nusing both feet.",
+    "effect": "Inflicts regular damage.  Hits twice in one turn."
+}

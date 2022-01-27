@@ -1,0 +1,12 @@
+{
+    "id": 10003,
+    "name": "shadow-blitz",
+    "power": 40,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "physical",
+    "description": "",
+    "effect": "Inflicts regular damage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 205,
+    "name": "rollout",
+    "power": 30,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "type": "rock",
+    "damage_class": "physical",
+    "description": "The user continually rolls into the target over five\nturns. It becomes more powerful each time it hits.",
+    "effect": "Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.\n\nIf the user has used defense curl since entering the field, this move has double power."
+}

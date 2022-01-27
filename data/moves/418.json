@@ -1,0 +1,12 @@
+{
+    "id": 418,
+    "name": "bullet-punch",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "The user strikes the target with tough punches as\nfast as bullets. This move always goes first.",
+    "effect": "Inflicts regular damage."
+}

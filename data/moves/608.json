@@ -1,0 +1,12 @@
+{
+    "id": 608,
+    "name": "baby-doll-eyes",
+    "power": null,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "type": "fairy",
+    "damage_class": "status",
+    "description": "The user stares at the target with its baby-doll\neyes, which lowers the target\u2019s Attack stat. This move\nalways goes first.",
+    "effect": "Lowers the target's Attack by one stage."
+}

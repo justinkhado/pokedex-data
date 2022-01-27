@@ -1,0 +1,12 @@
+{
+    "id": 364,
+    "name": "feint",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 2,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves.",
+    "effect": "Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome."
+}

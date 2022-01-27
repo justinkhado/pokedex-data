@@ -1,0 +1,12 @@
+{
+    "id": 775,
+    "name": "clangorous-soul",
+    "power": null,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "status",
+    "description": "The user raises all its stats by using some of its HP.",
+    "effect": ""
+}

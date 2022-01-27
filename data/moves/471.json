@@ -1,0 +1,12 @@
+{
+    "id": 471,
+    "name": "power-split",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user employs its psychic power to average its\nAttack and Sp. Atk stats with those of the target.",
+    "effect": "Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pok\u00e9mon. Unmodified Special Attack is averaged the same way.\n\nThis effect applies before any other persistent changes to unmodified Attack or Special Attack, such as flower gift during sunny day."
+}

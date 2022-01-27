@@ -1,0 +1,12 @@
+{
+    "id": 277,
+    "name": "magic-coat",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 4,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "Moves like Leech Seed and moves that inflict status\nconditions are blocked by a barrier and reflected back\nto the user of those moves.",
+    "effect": "The first non-damaging move targeting the user this turn that inflicts major status effects, stat changes, or trapping effects will be reflected at its user.\n\ndefog, memento, and teeter dance are not reflected.\n\nattract, flatter, gastro acid, leech seed, swagger, worry seed, and yawn are reflected.\n\nThis move cannot be copied by mirror move."
+}

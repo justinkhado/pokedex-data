@@ -1,0 +1,12 @@
+{
+    "id": 56,
+    "name": "hydro-pump",
+    "power": 110,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The target is blasted by a huge volume of water\nlaunched under great pressure.",
+    "effect": "Inflicts regular damage."
+}

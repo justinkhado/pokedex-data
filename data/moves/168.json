@@ -1,0 +1,12 @@
+{
+    "id": 168,
+    "name": "thief",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "The user attacks and steals the target\u2019s held item\nsimultaneously. The user can\u2019t steal anything if it\nalready holds an item.",
+    "effect": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPok\u00e9mon with sticky hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome."
+}

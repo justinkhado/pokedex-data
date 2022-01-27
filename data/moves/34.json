@@ -1,0 +1,12 @@
+{
+    "id": 34,
+    "name": "body-slam",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The user drops onto the target with its full body\nweight. This may also leave the target with paralysis.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+}

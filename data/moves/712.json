@@ -1,0 +1,12 @@
+{
+    "id": 712,
+    "name": "spectral-thief",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ghost",
+    "damage_class": "physical",
+    "description": "The user hides in the target\u2019s shadow, steals\nthe target\u2019s stat boosts, and then attacks.",
+    "effect": "Steals the target's stat increases, then inflicts regular damage.  Will not steal stat increases that would put any of the user's stats at more than +6; any excess is left on the target.  Stolen increases are affected by abilities as normal."
+}

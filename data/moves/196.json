@@ -1,0 +1,12 @@
+{
+    "id": 196,
+    "name": "icy-wind",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "special",
+    "description": "The user attacks with a gust of chilled air. This also\nlowers opposing Pok\u00e9mon\u2019s Speed stats.",
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage."
+}

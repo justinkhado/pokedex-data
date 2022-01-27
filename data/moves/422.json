@@ -1,0 +1,12 @@
+{
+    "id": 422,
+    "name": "thunder-fang",
+    "power": 65,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "physical",
+    "description": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 688,
+    "name": "trop-kick",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user lands an intense kick of tropical origins on\nthe target. This also lowers the target\u2019s Attack stat.",
+    "effect": "Inflicts regular damage.  Lowers the target's Attack by one stage."
+}

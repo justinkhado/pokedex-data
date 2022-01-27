@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "pound",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The target is physically pounded with a long tail, a\nforeleg, or the like.",
+    "effect": "Inflicts regular damage."
+}

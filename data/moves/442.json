@@ -1,0 +1,12 @@
+{
+    "id": 442,
+    "name": "iron-head",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+}

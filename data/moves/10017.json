@@ -1,0 +1,12 @@
+{
+    "id": 10017,
+    "name": "shadow-shed",
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "status",
+    "description": "",
+    "effect": "Removes the effects of light screen, reflect, and safeguard."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 738,
+    "name": "sappy-seed",
+    "power": 100,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+    "effect": "Inflicts regular damage."
+}

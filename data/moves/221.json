@@ -1,0 +1,12 @@
+{
+    "id": 221,
+    "name": "sacred-fire",
+    "power": 100,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "physical",
+    "description": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+    "effect": "Inflicts regular damage.  Has a 50% chance to burn the target.  Frozen Pok\u00e9mon may use this move, in which case they will thaw."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 58,
+    "name": "ice-beam",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "special",
+    "description": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target."
+}

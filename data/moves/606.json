@@ -1,0 +1,12 @@
+{
+    "id": 606,
+    "name": "celebrate",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The Pok\u00e9mon congratulates you on your special day!",
+    "effect": "Does nothing."
+}

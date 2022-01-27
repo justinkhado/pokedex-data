@@ -1,0 +1,12 @@
+{
+    "id": 756,
+    "name": "court-change",
+    "power": null,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "With its mysterious power, the user swaps the effects on\neither side of the field.",
+    "effect": ""
+}

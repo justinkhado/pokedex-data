@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "name": "scratch",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "Hard, pointed, sharp claws rake the target to\ninflict damage.",
+    "effect": "Inflicts regular damage."
+}

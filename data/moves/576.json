@@ -1,0 +1,12 @@
+{
+    "id": 576,
+    "name": "topsy-turvy",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "status",
+    "description": "All stat changes affecting the target turn\ntopsy-turvy and become the opposite of what\nthey were.",
+    "effect": "Inverts the target's stat modifiers."
+}

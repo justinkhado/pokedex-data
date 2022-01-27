@@ -44,5 +44,19 @@ def download_abilties():
 
         time.sleep(5)
 
+def download_moves():
+    r = requests.get(f"{BASE_URL}/move?limit=1000")
+    move_list = r.json()['results']
+
+    for i, move_url in enumerate(move_list):
+        r = requests.get(move_url['url'])
+        move = r.json()
+        _download_resource('moves', move)
+        
+        time.sleep(2)
+        if (i + 1) % 100 == 0:
+            time.sleep(60)
+
+
 if __name__ == '__main__':
-    download_abilties()
+    pass

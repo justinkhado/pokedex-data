@@ -1,0 +1,12 @@
+{
+    "id": 768,
+    "name": "max-wyrmwind",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "physical",
+    "description": "This is a Dragon-type attack Dynamax Pok\u00e9mon use.\nThis lowers the target\u2019s Attack stat.",
+    "effect": "Inflicts regular damage."
+}

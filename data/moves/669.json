@@ -1,0 +1,12 @@
+{
+    "id": 669,
+    "name": "solar-blade",
+    "power": 125,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "In this two-turn attack, the user gathers light and fills a\nblade with the light\u2019s energy, attacking the target on the\nnext turn.",
+    "effect": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk."
+}

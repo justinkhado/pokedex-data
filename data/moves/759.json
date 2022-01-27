@@ -1,0 +1,12 @@
+{
+    "id": 759,
+    "name": "max-lightning",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "physical",
+    "description": "This is an Electric-type attack Dynamax Pok\u00e9mon use.\nThe user turns the ground into Electric Terrain for\nfive turns.",
+    "effect": "Inflicts regular damage."
+}

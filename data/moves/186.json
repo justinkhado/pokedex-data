@@ -1,0 +1,12 @@
+{
+    "id": 186,
+    "name": "sweet-kiss",
+    "power": null,
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0,
+    "type": "fairy",
+    "damage_class": "status",
+    "description": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion.",
+    "effect": "Confuses the target."
+}

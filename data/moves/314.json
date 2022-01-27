@@ -1,0 +1,12 @@
+{
+    "id": 314,
+    "name": "air-cutter",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "special",
+    "description": "The user launches razor-like wind to slash opposing\nPok\u00e9mon. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

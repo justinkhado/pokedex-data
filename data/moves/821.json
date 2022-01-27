@@ -1,0 +1,12 @@
+{
+    "id": 821,
+    "name": "freezing-glare",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "The user shoots its psychic power from its eyes\nto attack. This may also leave the target frozen.",
+    "effect": "Inflicts regular damage."
+}

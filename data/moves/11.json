@@ -1,0 +1,12 @@
+{
+    "id": 11,
+    "name": "vice-grip",
+    "power": 55,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The target is gripped and squeezed from both sides\nto inflict damage.",
+    "effect": "Inflicts regular damage."
+}

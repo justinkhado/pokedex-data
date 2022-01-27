@@ -1,0 +1,12 @@
+{
+    "id": 619,
+    "name": "precipice-blades",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "The user attacks opposing Pok\u00e9mon by manifesting\nthe power of the land in fearsome blades of stone.",
+    "effect": "Inflicts regular damage."
+}

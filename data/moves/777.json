@@ -1,0 +1,12 @@
+{
+    "id": 777,
+    "name": "decorate",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "fairy",
+    "damage_class": "status",
+    "description": "The user sharply raises the target\u2019s Attack and Sp. Atk\nstats by decorating the target.",
+    "effect": ""
+}

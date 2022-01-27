@@ -1,0 +1,12 @@
+{
+    "id": 747,
+    "name": "stuff-cheeks",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user eats its held Berry, then sharply raises its\nDefense stat.",
+    "effect": "Inflicts regular damage, then (if successful) removes major status effects from every Pok\u00e9mon in the user's party."
+}

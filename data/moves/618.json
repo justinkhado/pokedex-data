@@ -1,0 +1,12 @@
+{
+    "id": 618,
+    "name": "origin-pulse",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user attacks opposing Pok\u00e9mon with countless\nbeams of light that glow a deep and brilliant blue.",
+    "effect": "Inflicts regular damage."
+}

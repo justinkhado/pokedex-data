@@ -1,0 +1,12 @@
+{
+    "id": 183,
+    "name": "mach-punch",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user throws a punch at blinding speed. This\nmove always goes first.",
+    "effect": "Inflicts regular damage."
+}

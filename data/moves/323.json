@@ -1,0 +1,12 @@
+{
+    "id": 323,
+    "name": "water-spout",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user spouts water to damage opposing\nPok\u00e9mon. The lower the user\u2019s HP, the lower the\nmove\u2019s power.",
+    "effect": "Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+}

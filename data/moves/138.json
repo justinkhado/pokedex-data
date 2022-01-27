@@ -1,0 +1,12 @@
+{
+    "id": 138,
+    "name": "dream-eater",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "The user eats the dreams of a sleeping target.\nThe user\u2019s HP is restored by half the damage taken by\nthe target.",
+    "effect": "Fails if not used on a sleeping Pok\u00e9mon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

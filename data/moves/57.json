@@ -1,0 +1,12 @@
+{
+    "id": 57,
+    "name": "surf",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+    "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power."
+}

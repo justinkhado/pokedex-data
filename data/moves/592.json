@@ -1,0 +1,12 @@
+{
+    "id": 592,
+    "name": "steam-eruption",
+    "power": 110,
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to burn the target."
+}

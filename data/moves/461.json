@@ -1,0 +1,12 @@
+{
+    "id": 461,
+    "name": "lunar-dance",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user faints. In return, the Pok\u00e9mon taking its\nplace will have its status and HP fully restored.",
+    "effect": "User faints.  Its replacement's HP and PP are fully restored, and any major status effect is removed."
+}

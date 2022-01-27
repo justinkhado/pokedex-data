@@ -1,0 +1,12 @@
+{
+    "id": 104,
+    "name": "double-team",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "By moving rapidly, the user makes illusory copies of\nitself to raise its evasiveness.",
+    "effect": "Raises the user's evasion by one stage."
+}

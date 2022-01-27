@@ -1,0 +1,12 @@
+{
+    "id": 760,
+    "name": "max-strike",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "This is a Normal-type attack Dynamax Pok\u00e9mon use.\nThis lowers the target\u2019s Speed stat.",
+    "effect": "Inflicts regular damage."
+}

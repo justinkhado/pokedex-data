@@ -1,0 +1,12 @@
+{
+    "id": 89,
+    "name": "earthquake",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "The user sets off an earthquake that strikes every\nPok\u00e9mon around it.",
+    "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 10011,
+    "name": "shadow-wave",
+    "power": 50,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "special",
+    "description": "",
+    "effect": "Inflicts regular damage."
+}

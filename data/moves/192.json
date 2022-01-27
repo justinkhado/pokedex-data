@@ -1,0 +1,12 @@
+{
+    "id": 192,
+    "name": "zap-cannon",
+    "power": 120,
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "special",
+    "description": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+    "effect": "Inflicts regular damage.  Has a 100% chance to paralyze the target."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 355,
+    "name": "roost",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "status",
+    "description": "The user lands and rests its body. This move restores\nthe user\u2019s HP by up to half of its max HP.",
+    "effect": "Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn."
+}

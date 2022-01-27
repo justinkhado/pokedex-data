@@ -1,0 +1,12 @@
+{
+    "id": 342,
+    "name": "poison-tail",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "physical",
+    "description": "The user hits the target with its tail. This may also\npoison the target. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target."
+}

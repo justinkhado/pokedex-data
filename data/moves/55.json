@@ -1,0 +1,12 @@
+{
+    "id": 55,
+    "name": "water-gun",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The target is blasted with a forceful shot of water.",
+    "effect": "Inflicts regular damage."
+}

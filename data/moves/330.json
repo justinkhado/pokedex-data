@@ -1,0 +1,12 @@
+{
+    "id": 330,
+    "name": "muddy-water",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user attacks by shooting muddy water at opposing\nPok\u00e9mon. This may also lower their accuracy.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage."
+}

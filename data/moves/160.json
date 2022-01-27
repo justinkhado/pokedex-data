@@ -1,0 +1,12 @@
+{
+    "id": 160,
+    "name": "conversion",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user changes its type to become the same type\nas the move at the top of the list of moves it knows.",
+    "effect": "User's type changes to the type of one of its moves, selected at random.  hidden power and weather ball are treated as normal.  Only moves with a different type are eligible, and curse is never eligible.  If the user has no suitable moves, this move will fail."
+}

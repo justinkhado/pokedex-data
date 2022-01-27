@@ -1,0 +1,12 @@
+{
+    "id": 482,
+    "name": "sludge-wave",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "special",
+    "description": "The user strikes everything around it by swamping\nthe area with a giant sludge wave. This may also\npoison those hit.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to poison the target."
+}

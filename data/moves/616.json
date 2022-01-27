@@ -1,0 +1,12 @@
+{
+    "id": 616,
+    "name": "lands-wrath",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "The user gathers the energy of the land and focuses\nthat power on opposing Pok\u00e9mon to damage them.",
+    "effect": "Inflicts regular damage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 753,
+    "name": "octolock",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "status",
+    "description": "The user locks the target in and prevents it from\nfleeing. This move also lowers the target\u2019s Defense\nand Sp. Def every turn.",
+    "effect": ""
+}

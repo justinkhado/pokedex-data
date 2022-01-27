@@ -1,0 +1,12 @@
+{
+    "id": 311,
+    "name": "weather-ball",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "special",
+    "description": "This attack move varies in power and type\ndepending on the weather.",
+    "effect": "Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move."
+}

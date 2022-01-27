@@ -1,0 +1,12 @@
+{
+    "id": 352,
+    "name": "water-pulse",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+    "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target."
+}

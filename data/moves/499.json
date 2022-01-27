@@ -1,0 +1,12 @@
+{
+    "id": 499,
+    "name": "clear-smog",
+    "power": 50,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "special",
+    "description": "The user attacks the target by throwing a clump of\nspecial mud. All stat changes are returned to normal.",
+    "effect": "Inflicts regular damage.  All of the target's stat modifiers are reset to zero."
+}

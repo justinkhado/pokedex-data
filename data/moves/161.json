@@ -1,0 +1,12 @@
+{
+    "id": 161,
+    "name": "tri-attack",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "special",
+    "description": "The user strikes with a simultaneous three-beam attack.\nThis may also burn, freeze, or paralyze the target.",
+    "effect": "Inflicts regular damage.  Has a 20% chance to burn, freeze, or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur."
+}

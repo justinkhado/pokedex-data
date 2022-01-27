@@ -1,0 +1,12 @@
+{
+    "id": 766,
+    "name": "max-airstream",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "physical",
+    "description": "This is a Flying-type attack Dynamax Pok\u00e9mon use.\nThis raises ally Pok\u00e9mon\u2019s Speed stats.",
+    "effect": "Inflicts regular damage."
+}

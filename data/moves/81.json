@@ -1,0 +1,12 @@
+{
+    "id": 81,
+    "name": "string-shot",
+    "power": null,
+    "accuracy": 95,
+    "pp": 40,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "status",
+    "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+    "effect": "Lowers the target's Speed by two stages."
+}

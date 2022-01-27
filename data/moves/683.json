@@ -1,0 +1,12 @@
+{
+    "id": 683,
+    "name": "speed-swap",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user exchanges Speed stats with the target.",
+    "effect": "Exchanges the original Speed stats of the user and target."
+}

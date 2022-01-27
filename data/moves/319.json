@@ -1,0 +1,12 @@
+{
+    "id": 319,
+    "name": "metal-sound",
+    "power": null,
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "status",
+    "description": "A horrible sound like scraping metal harshly lowers\nthe target\u2019s Sp. Def stat.",
+    "effect": "Lowers the target's Special Defense by two stages."
+}

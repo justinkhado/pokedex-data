@@ -1,0 +1,12 @@
+{
+    "id": 230,
+    "name": "sweet-scent",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "A sweet scent that harshly lowers opposing\nPok\u00e9mon\u2019s evasiveness.",
+    "effect": "Lowers the target's evasion by one stage."
+}

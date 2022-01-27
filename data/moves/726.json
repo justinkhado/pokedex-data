@@ -1,0 +1,12 @@
+{
+    "id": 726,
+    "name": "lets-snuggle-forever",
+    "power": 190,
+    "accuracy": null,
+    "pp": 1,
+    "priority": 0,
+    "type": "fairy",
+    "damage_class": "physical",
+    "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+    "effect": "After inflicting damage, all Normal-type moves become Electric-type for the remainder of the turn, including status moves. This effect is applied after move type-changing abilities, such as Pixilate and Normalize."
+}

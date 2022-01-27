@@ -1,0 +1,12 @@
+{
+    "id": 799,
+    "name": "scale-shot",
+    "power": 25,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "physical",
+    "description": "The user attacks by shooting scales two to five times\nin a row. This move boosts the user\u2019s Speed stat but\nlowers its Defense stat.",
+    "effect": "Inflicts regular damage."
+}

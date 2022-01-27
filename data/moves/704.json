@@ -1,0 +1,12 @@
+{
+    "id": 704,
+    "name": "shell-trap",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": -3,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The user sets a shell trap. If the user is hit by a\nphysical move, the trap will explode and inflict\ndamage on opposing Pok\u00e9mon.",
+    "effect": "Inflicts regular damage.  If the user was not yet hit by an opponent's physical move this turn, this move will fail."
+}

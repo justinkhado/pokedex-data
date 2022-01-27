@@ -1,0 +1,12 @@
+{
+    "id": 366,
+    "name": "tailwind",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "status",
+    "description": "The user whips up a turbulent whirlwind that ups\nthe Speed stats of the user and its allies for\nfour turns.",
+    "effect": "For the next three turns, all Pok\u00e9mon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field."
+}

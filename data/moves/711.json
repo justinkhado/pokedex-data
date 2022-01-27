@@ -1,0 +1,12 @@
+{
+    "id": 711,
+    "name": "prismatic-laser",
+    "power": 160,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "The user shoots powerful lasers using the power of\na prism. The user can\u2019t move on the next turn.",
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+}

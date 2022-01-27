@@ -1,0 +1,12 @@
+{
+    "id": 9,
+    "name": "thunder-punch",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "physical",
+    "description": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target."
+}

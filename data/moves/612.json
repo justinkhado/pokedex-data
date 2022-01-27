@@ -1,0 +1,12 @@
+{
+    "id": 612,
+    "name": "power-up-punch",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "Striking opponents over and over makes the user\u2019s\nfists harder. Hitting a target raises the Attack stat.",
+    "effect": "Inflicts regular damage.  Raises the user's Attack by one stage."
+}

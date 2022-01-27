@@ -1,0 +1,12 @@
+{
+    "id": 427,
+    "name": "psycho-cut",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "physical",
+    "description": "The user tears at the target with blades formed by\npsychic power. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

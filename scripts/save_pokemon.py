@@ -45,6 +45,20 @@ def _get_generation(id):
     elif id <= 898:
         return 8
 
+def _get_abilities(abilities_raw):
+    dirpath = os.path.join(PARPATH, 'data', 'abilities')
+    abilities = []
+    for ability_raw in abilities_raw:
+        id = ability_raw['ability']['url'].split('/')[-2]
+        filepath = os.path.join(dirpath, f"{id}.json")
+        with open(filepath) as f:
+            ability = json.load(f)
+            ability.pop('id')
+            ability['hidden'] = ability_raw['is_hidden']
+            abilities.append(ability)
+    
+    return abilities
+
 
 def save_pokemons():
     pokemons = {'pokemons': []}
@@ -67,7 +81,8 @@ def save_pokemons():
         json.dump(pokemons, f, indent=4)
 
 def save_each_pokemon():
-    for i in range(1, 2):
+    for i in range(1, 4):
+        print(i)
         pokemon = {}
 
         filepath = os.path.join(PARPATH, 'raw_data', 'pokemon', f'{i}.json')

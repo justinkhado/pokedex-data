@@ -1,0 +1,12 @@
+{
+    "id": 663,
+    "name": "darkest-lariat",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "The user swings both arms and hits the target.\nThe target\u2019s stat changes don\u2019t affect this\nattack\u2019s damage.",
+    "effect": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion."
+}

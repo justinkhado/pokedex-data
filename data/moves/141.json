@@ -1,0 +1,12 @@
+{
+    "id": 141,
+    "name": "leech-life",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "physical",
+    "description": "The user drains the target\u2019s blood. The user\u2019s HP is\nrestored by half the damage taken by the target.",
+    "effect": "Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

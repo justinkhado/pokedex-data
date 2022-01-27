@@ -1,0 +1,12 @@
+{
+    "id": 334,
+    "name": "iron-defense",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "status",
+    "description": "The user hardens its body\u2019s surface like iron,\nsharply raising its Defense stat.",
+    "effect": "Raises the user's Defense by two stages."
+}

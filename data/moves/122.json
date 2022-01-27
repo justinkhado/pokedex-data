@@ -1,0 +1,12 @@
+{
+    "id": 122,
+    "name": "lick",
+    "power": 30,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "type": "ghost",
+    "damage_class": "physical",
+    "description": "The target is licked with a long tongue, causing\ndamage. This may also leave the target\nwith paralysis.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+}

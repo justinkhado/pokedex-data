@@ -1,0 +1,12 @@
+{
+    "id": 487,
+    "name": "soak",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "status",
+    "description": "The user shoots a torrent of water at the target and\nchanges the target\u2019s type to Water.",
+    "effect": "Changes the target to pure water-type until it leaves the field.  If the target has multitype, this move will fail."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 202,
+    "name": "giga-drain",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "special",
+    "description": "A nutrient-draining attack. The user\u2019s HP is restored\nby half the damage taken by the target.",
+    "effect": "Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+}

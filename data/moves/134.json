@@ -1,0 +1,12 @@
+{
+    "id": 134,
+    "name": "kinesis",
+    "power": null,
+    "accuracy": 80,
+    "pp": 15,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user distracts the target by bending a spoon.\nThis lowers the target\u2019s accuracy.",
+    "effect": "Lowers the target's accuracy by one stage."
+}

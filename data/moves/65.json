@@ -1,0 +1,12 @@
+{
+    "id": 65,
+    "name": "drill-peck",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "physical",
+    "description": "A corkscrewing attack that strikes the target with a\nsharp beak acting as a drill.",
+    "effect": "Inflicts regular damage."
+}

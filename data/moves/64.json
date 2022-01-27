@@ -1,0 +1,12 @@
+{
+    "id": 64,
+    "name": "peck",
+    "power": 35,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "physical",
+    "description": "The target is jabbed with a sharply pointed beak\nor horn.",
+    "effect": "Inflicts regular damage."
+}

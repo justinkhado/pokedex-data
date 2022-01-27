@@ -1,0 +1,12 @@
+{
+    "id": 803,
+    "name": "grassy-glide",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "Gliding on the ground, the user attacks the target.\nThis move always goes first on Grassy Terrain.",
+    "effect": "Inflicts regular damage."
+}

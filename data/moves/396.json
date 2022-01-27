@@ -1,0 +1,12 @@
+{
+    "id": 396,
+    "name": "aura-sphere",
+    "power": 80,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "special",
+    "description": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

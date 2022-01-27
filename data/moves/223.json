@@ -1,0 +1,12 @@
+{
+    "id": 223,
+    "name": "dynamic-punch",
+    "power": 100,
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+    "effect": "Inflicts regular damage.  Has a 100% chance to confuse the target."
+}

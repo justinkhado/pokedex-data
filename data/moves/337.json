@@ -1,0 +1,12 @@
+{
+    "id": 337,
+    "name": "dragon-claw",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "physical",
+    "description": "The user slashes the target with huge sharp claws.",
+    "effect": "Inflicts regular damage."
+}

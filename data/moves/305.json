@@ -1,0 +1,12 @@
+{
+    "id": 305,
+    "name": "poison-fang",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "physical",
+    "description": "The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned.",
+    "effect": "Inflicts regular damage.  Has a 50% chance to badly poison the target."
+}

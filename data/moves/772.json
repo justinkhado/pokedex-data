@@ -1,0 +1,12 @@
+{
+    "id": 772,
+    "name": "max-darkness",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "This is a Dark-type attack Dynamax Pok\u00e9mon use.\nThis lowers the target\u2019s Sp. Def stat.",
+    "effect": "Inflicts regular damage."
+}

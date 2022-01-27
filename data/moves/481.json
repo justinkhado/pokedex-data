@@ -1,0 +1,12 @@
+{
+    "id": 481,
+    "name": "flame-burst",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+    "effect": "Inflicts regular damage.  If this move successfully hits the target, any Pok\u00e9mon adjacent to the target are damaged for 1/16 their max HP."
+}

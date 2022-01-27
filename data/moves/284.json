@@ -1,0 +1,12 @@
+{
+    "id": 284,
+    "name": "eruption",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The user attacks opposing Pok\u00e9mon with explosive\nfury. The lower the user\u2019s HP, the lower the\nmove\u2019s power.",
+    "effect": "Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."
+}

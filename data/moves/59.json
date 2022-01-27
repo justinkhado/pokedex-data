@@ -1,0 +1,12 @@
+{
+    "id": 59,
+    "name": "blizzard",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 5,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "special",
+    "description": "A howling blizzard is summoned to strike opposing\nPok\u00e9mon. This may also leave the opposing\nPok\u00e9mon frozen.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target.\n\nDuring hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect."
+}

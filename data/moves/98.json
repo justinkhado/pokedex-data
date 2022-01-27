@@ -1,0 +1,12 @@
+{
+    "id": 98,
+    "name": "quick-attack",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+    "effect": "Inflicts regular damage."
+}

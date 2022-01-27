@@ -1,0 +1,12 @@
+{
+    "id": 817,
+    "name": "wicked-blow",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "physical",
+    "description": "The user, having mastered the Dark style, strikes the\ntarget with a fierce blow. This attack always results\nin a critical hit.",
+    "effect": "Inflicts regular damage."
+}

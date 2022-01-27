@@ -1,0 +1,12 @@
+{
+    "id": 373,
+    "name": "embargo",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "status",
+    "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+    "effect": "Target cannot use its held item for five turns.  If the target leaves the field, this effect ends.\n\nIf a Pok\u00e9mon under this effect uses bug bite or pluck on a Pok\u00e9mon holding a berry, the berry is destroyed but not used.  If a Pok\u00e9mon under this effect uses fling, it will fail.\n\nThis effect is passed by baton pass."
+}

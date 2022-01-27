@@ -1,0 +1,12 @@
+{
+    "id": 559,
+    "name": "fusion-bolt",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "physical",
+    "description": "The user throws down a giant lightning bolt. This\nmove\u2019s power is increased when influenced by an\nenormous flame.",
+    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used fusion flare earlier this turn, this move has double power."
+}

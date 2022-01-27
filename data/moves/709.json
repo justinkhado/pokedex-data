@@ -1,0 +1,12 @@
+{
+    "id": 709,
+    "name": "accelerock",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 1,
+    "type": "rock",
+    "damage_class": "physical",
+    "description": "The user smashes into the target at high speed.\nThis move always goes first.",
+    "effect": "Inflicts regular damage."
+}

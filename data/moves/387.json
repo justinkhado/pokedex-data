@@ -1,0 +1,12 @@
+{
+    "id": 387,
+    "name": "last-resort",
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+    "effect": "Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail."
+}

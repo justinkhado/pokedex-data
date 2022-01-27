@@ -1,0 +1,12 @@
+{
+    "id": 116,
+    "name": "focus-energy",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+    "effect": "User's critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field, this move will fail.\n\nThis effect is passed on by baton pass."
+}

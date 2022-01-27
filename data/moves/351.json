@@ -1,0 +1,12 @@
+{
+    "id": 351,
+    "name": "shock-wave",
+    "power": 60,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "special",
+    "description": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses.",
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 61,
+    "name": "bubble-beam",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower the target\u2019s Speed stat.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage."
+}

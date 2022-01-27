@@ -1,0 +1,12 @@
+{
+    "id": 428,
+    "name": "zen-headbutt",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "physical",
+    "description": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+    "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+}

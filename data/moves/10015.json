@@ -1,0 +1,12 @@
+{
+    "id": 10015,
+    "name": "shadow-mist",
+    "power": null,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "status",
+    "description": "",
+    "effect": "Lowers the target's evasion by two stages."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 97,
+    "name": "agility",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user relaxes and lightens its body to move\nfaster. This sharply raises the Speed stat.",
+    "effect": "Raises the user's Speed by two stages."
+}

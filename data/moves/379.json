@@ -1,0 +1,12 @@
+{
+    "id": 379,
+    "name": "power-trick",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user employs its psychic power to switch its\nAttack stat with its Defense stat.",
+    "effect": "The user's original Attack and Defense are swapped.\n\nThis effect is passed on by baton pass."
+}

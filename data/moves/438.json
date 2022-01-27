@@ -1,0 +1,12 @@
+{
+    "id": 438,
+    "name": "power-whip",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user violently whirls its vines, tentacles, or the\nlike to harshly lash the target.",
+    "effect": "Inflicts regular damage."
+}

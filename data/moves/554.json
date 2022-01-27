@@ -1,0 +1,12 @@
+{
+    "id": 554,
+    "name": "ice-burn",
+    "power": 140,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "special",
+    "description": "On the second turn, an ultracold, freezing wind\nsurrounds the target. This may leave the target with\na burn.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to burn the target.  User charges for one turn before attacking."
+}

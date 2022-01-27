@@ -1,0 +1,12 @@
+{
+    "id": 820,
+    "name": "dragon-energy",
+    "power": 150,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "dragon",
+    "damage_class": "special",
+    "description": "Converting its life-force into power, the user attacks\nopposing Pok\u00e9mon. The lower the user\u2019s HP, the lower\nthe move\u2019s power.",
+    "effect": "Inflicts regular damage."
+}

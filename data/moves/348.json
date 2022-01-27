@@ -1,0 +1,12 @@
+{
+    "id": 348,
+    "name": "leaf-blade",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user handles a sharp leaf like a sword and\nattacks by cutting its target. Critical hits land\nmore easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 315,
+    "name": "overheat",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The user attacks the target at full power. The attack\u2019s\nrecoil harshly lowers the user\u2019s Sp. Atk stat.",
+    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+}

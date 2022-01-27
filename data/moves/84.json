@@ -1,0 +1,12 @@
+{
+    "id": 84,
+    "name": "thunder-shock",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "special",
+    "description": "A jolt of electricity crashes down on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target."
+}

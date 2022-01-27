@@ -1,0 +1,12 @@
+{
+    "id": 826,
+    "name": "eerie-spell",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "The user attacks with its tremendous psychic power.\nThis also removes 3 PP from the target\u2019s last move.",
+    "effect": "Inflicts regular damage."
+}

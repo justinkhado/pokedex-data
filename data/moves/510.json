@@ -1,0 +1,12 @@
+{
+    "id": 510,
+    "name": "incinerate",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The user attacks opposing Pok\u00e9mon with fire.\nIf a Pok\u00e9mon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+    "effect": "Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move."
+}

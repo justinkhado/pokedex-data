@@ -1,0 +1,12 @@
+{
+    "id": 518,
+    "name": "water-pledge",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "A column of water hits the target. When used with\nits fire equivalent, its power increases and a\nrainbow appears.",
+    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used grass pledge earlier this turn, all opposing Pok\u00e9mon have halved Speed for four turns (including this one)."
+}

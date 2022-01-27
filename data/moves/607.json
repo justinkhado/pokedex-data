@@ -1,0 +1,12 @@
+{
+    "id": 607,
+    "name": "hold-hands",
+    "power": null,
+    "accuracy": null,
+    "pp": 40,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user and an ally hold hands. This makes them\nvery happy.",
+    "effect": "Does nothing."
+}

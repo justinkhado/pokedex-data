@@ -1,0 +1,12 @@
+{
+    "id": 417,
+    "name": "nasty-plot",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "dark",
+    "damage_class": "status",
+    "description": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user\u2019s Sp. Atk stat.",
+    "effect": "Raises the user's Special Attack by two stages."
+}

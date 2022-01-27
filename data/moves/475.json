@@ -1,0 +1,12 @@
+{
+    "id": 475,
+    "name": "autotomize",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "status",
+    "description": "The user sheds part of its body to make itself lighter\nand sharply raise its Speed stat.",
+    "effect": "Raises the user's Speed by two stages.  Halves the user's weight; this effect does not stack."
+}

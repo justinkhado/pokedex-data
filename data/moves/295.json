@@ -1,0 +1,12 @@
+{
+    "id": 295,
+    "name": "luster-purge",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "The user lets loose a damaging burst of light. This\nmay also lower the target\u2019s Sp. Def stat.",
+    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Special Defense by one stage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 774,
+    "name": "max-steelspike",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "This is a Steel-type attack Dynamax Pok\u00e9mon use.\nThis raises ally Pok\u00e9mon\u2019s Defense stats.",
+    "effect": "Inflicts regular damage."
+}

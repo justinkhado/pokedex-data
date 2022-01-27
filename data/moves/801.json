@@ -1,0 +1,12 @@
+{
+    "id": 801,
+    "name": "shell-side-arm",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "special",
+    "description": "This move inflicts physical or special damage,\nwhichever will be more effective. This may also poison\nthe target.",
+    "effect": "Inflicts regular damage."
+}

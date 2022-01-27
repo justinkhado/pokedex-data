@@ -1,0 +1,12 @@
+{
+    "id": 785,
+    "name": "branch-poke",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "The user attacks the target by poking it with a sharply\npointed branch.",
+    "effect": "Inflicts regular damage."
+}

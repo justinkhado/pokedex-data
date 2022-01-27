@@ -1,0 +1,12 @@
+{
+    "id": 224,
+    "name": "megahorn",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "physical",
+    "description": "Using its tough and impressive horn, the user rams\ninto the target with no letup.",
+    "effect": "Inflicts regular damage."
+}

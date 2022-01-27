@@ -1,0 +1,12 @@
+{
+    "id": 263,
+    "name": "facade",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "This attack move doubles its power if the user is\npoisoned, burned, or paralyzed.",
+    "effect": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power."
+}

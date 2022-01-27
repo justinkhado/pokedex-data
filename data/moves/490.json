@@ -1,0 +1,12 @@
+{
+    "id": 490,
+    "name": "low-sweep",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user makes a swift attack on the target\u2019s legs,\nwhich lowers the target\u2019s Speed stat.",
+    "effect": "Lowers the target's Speed by one stage."
+}

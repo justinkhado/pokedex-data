@@ -1,0 +1,12 @@
+{
+    "id": 707,
+    "name": "stomping-tantrum",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "Driven by frustration, the user attacks the target.\nIf the user\u2019s previous move has failed, the power of\nthis move doubles.",
+    "effect": "Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message \"But it failed!\") or was ineffective due to types."
+}

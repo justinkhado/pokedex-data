@@ -1,0 +1,12 @@
+{
+    "id": 261,
+    "name": "will-o-wisp",
+    "power": null,
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "status",
+    "description": "The user shoots a sinister flame at the target to inflict\na burn.",
+    "effect": "Burns the target."
+}

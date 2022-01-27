@@ -1,0 +1,12 @@
+{
+    "id": 404,
+    "name": "x-scissor",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "physical",
+    "description": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.",
+    "effect": "Inflicts regular damage."
+}

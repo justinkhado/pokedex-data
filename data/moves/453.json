@@ -1,0 +1,12 @@
+{
+    "id": 453,
+    "name": "aqua-jet",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 1,
+    "type": "water",
+    "damage_class": "physical",
+    "description": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+    "effect": "Inflicts regular damage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 694,
+    "name": "aurora-veil",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "ice",
+    "damage_class": "status",
+    "description": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+    "effect": "Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not hail, or the weather is disabled by the effects of cloud nine or air lock, this move will fail.\n\nAny regular damage dealt to an affected Pok\u00e9mon is reduced by \u00bd.  (If there are multiple Pok\u00e9mon on the affected field, the reduction is \u2153.)"
+}

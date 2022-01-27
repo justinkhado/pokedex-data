@@ -1,0 +1,12 @@
+{
+    "id": 748,
+    "name": "no-retreat",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "status",
+    "description": "This move raises all the user\u2019s stats but prevents\nthe user from switching out or fleeing.",
+    "effect": " with a 100% chance to make the target flinch."
+}

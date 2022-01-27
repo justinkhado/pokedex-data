@@ -1,0 +1,12 @@
+{
+    "id": 742,
+    "name": "double-iron-bash",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "The user rotates, centering the hex nut in its chest,\nand then strikes with its arms twice in a row. This may\nalso make the target flinch.",
+    "effect": "Inflicts regular damage.  Hits twice in one turn."
+}

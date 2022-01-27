@@ -1,0 +1,12 @@
+{
+    "id": 807,
+    "name": "burning-jealousy",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "fire",
+    "damage_class": "special",
+    "description": "The user attacks with energy from jealousy. This leaves\nall opposing Pok\u00e9mon that have had their stats boosted\nduring the turn with a burn.",
+    "effect": "Inflicts regular damage."
+}

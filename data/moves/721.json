@@ -1,0 +1,12 @@
+{
+    "id": 721,
+    "name": "plasma-fists",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "physical",
+    "description": "The user attacks with electrically charged fists.\nThis move changes Normal-type moves to\nElectric-type moves.",
+    "effect": "Inflicts regular damage."
+}

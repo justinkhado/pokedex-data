@@ -1,0 +1,12 @@
+{
+    "id": 469,
+    "name": "wide-guard",
+    "power": null,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 3,
+    "type": "rock",
+    "damage_class": "status",
+    "description": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+    "effect": "Moves with multiple targets will not hit friendly Pok\u00e9mon for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nThis move cannot be selected by assist or metronome."
+}

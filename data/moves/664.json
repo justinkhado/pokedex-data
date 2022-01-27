@@ -1,0 +1,12 @@
+{
+    "id": 664,
+    "name": "sparkling-aria",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "water",
+    "damage_class": "special",
+    "description": "The user bursts into song, emitting many bubbles.\nAny Pok\u00e9mon suffering from a burn will be healed\nby the touch of these bubbles.",
+    "effect": "Inflicts regular damage.  If the target has a burn and takes damage from this move, its burn is healed."
+}

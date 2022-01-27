@@ -1,0 +1,12 @@
+{
+    "id": 815,
+    "name": "scorching-sands",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "special",
+    "description": "The user throws scorching sand at the target to attack.\nThis may also leave the target with a burn.",
+    "effect": "Inflicts regular damage."
+}

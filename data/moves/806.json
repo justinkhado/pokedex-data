@@ -1,0 +1,12 @@
+{
+    "id": 806,
+    "name": "skitter-smack",
+    "power": 70,
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "physical",
+    "description": "The user skitters behind the target to attack. This also\nlowers the target\u2019s Sp. Atk stat.",
+    "effect": "Inflicts regular damage."
+}

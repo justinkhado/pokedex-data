@@ -1,0 +1,12 @@
+{
+    "id": 312,
+    "name": "aromatherapy",
+    "power": null,
+    "accuracy": null,
+    "pp": 5,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "status",
+    "description": "The user releases a soothing scent that heals all\nstatus conditions affecting the user\u2019s party.",
+    "effect": "Removes major status effects and confusion from every Pok\u00e9mon in the user's party."
+}

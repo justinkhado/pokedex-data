@@ -1,0 +1,12 @@
+{
+    "id": 529,
+    "name": "drill-run",
+    "power": 80,
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0,
+    "type": "ground",
+    "damage_class": "physical",
+    "description": "The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

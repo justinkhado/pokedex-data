@@ -1,0 +1,12 @@
+{
+    "id": 297,
+    "name": "feather-dance",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "status",
+    "description": "The user covers the target\u2019s body with a mass of\ndown that harshly lowers its Attack stat.",
+    "effect": "Lowers the target's Attack by two stages."
+}

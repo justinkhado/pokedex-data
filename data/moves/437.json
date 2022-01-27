@@ -1,0 +1,12 @@
+{
+    "id": 437,
+    "name": "leaf-storm",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "special",
+    "description": "The user whips up a storm of leaves around the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
+    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+}

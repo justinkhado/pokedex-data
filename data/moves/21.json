@@ -1,0 +1,12 @@
+{
+    "id": 21,
+    "name": "slam",
+    "power": 80,
+    "accuracy": 75,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The target is slammed with a long tail, vines, or the\nlike to inflict damage.",
+    "effect": "Inflicts regular damage."
+}

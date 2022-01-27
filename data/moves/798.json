@@ -1,0 +1,12 @@
+{
+    "id": 798,
+    "name": "steel-roller",
+    "power": 130,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "steel",
+    "damage_class": "physical",
+    "description": "The user attacks while destroying the terrain. This move\nfails when the ground hasn\u2019t turned into a terrain.",
+    "effect": "Inflicts regular damage."
+}

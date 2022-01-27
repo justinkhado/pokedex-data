@@ -1,0 +1,12 @@
+{
+    "id": 605,
+    "name": "dazzling-gleam",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "fairy",
+    "damage_class": "special",
+    "description": "The user damages opposing Pok\u00e9mon by emitting a\npowerful flash.",
+    "effect": "Inflicts regular damage."
+}

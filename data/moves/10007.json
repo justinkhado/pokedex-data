@@ -1,0 +1,12 @@
+{
+    "id": 10007,
+    "name": "shadow-end",
+    "power": 120,
+    "accuracy": 60,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "physical",
+    "description": "",
+    "effect": "Inflicts regular damage.  User takes 1/2 of its current HP in recoil."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 17,
+    "name": "wing-attack",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "type": "flying",
+    "damage_class": "physical",
+    "description": "The target is struck with large, imposing wings\nspread wide to inflict damage.",
+    "effect": "Inflicts regular damage."
+}

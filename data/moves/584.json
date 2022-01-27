@@ -1,0 +1,12 @@
+{
+    "id": 584,
+    "name": "fairy-wind",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "type": "fairy",
+    "damage_class": "special",
+    "description": "The user stirs up a fairy wind and strikes the target\nwith it.",
+    "effect": "Inflicts regular damage."
+}

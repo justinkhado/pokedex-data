@@ -1,0 +1,12 @@
+{
+    "id": 153,
+    "name": "explosion",
+    "power": 250,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "physical",
+    "description": "The user attacks everything around it by causing a\ntremendous explosion. The user faints upon using\nthis move.",
+    "effect": "User faints, even if the attack fails or misses.  Inflicts regular damage."
+}

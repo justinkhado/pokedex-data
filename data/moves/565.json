@@ -1,0 +1,12 @@
+{
+    "id": 565,
+    "name": "fell-stinger",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "physical",
+    "description": "When the user knocks out a target with this move,\nthe user\u2019s Attack stat rises drastically.",
+    "effect": "Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target."
+}

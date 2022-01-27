@@ -1,0 +1,12 @@
+{
+    "id": 582,
+    "name": "electrify",
+    "power": null,
+    "accuracy": null,
+    "pp": 20,
+    "priority": 0,
+    "type": "electric",
+    "damage_class": "status",
+    "description": "If the target is electrified before it uses a move\nduring that turn, the target\u2019s move becomes\nElectric type.",
+    "effect": "Changes the target's move's type to electric if it hasn't moved yet this turn."
+}

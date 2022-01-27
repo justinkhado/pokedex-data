@@ -1,0 +1,12 @@
+{
+    "id": 454,
+    "name": "attack-order",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "bug",
+    "damage_class": "physical",
+    "description": "The user calls out its underlings to pummel the\ntarget. Critical hits land more easily.",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

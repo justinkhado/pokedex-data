@@ -1,0 +1,12 @@
+{
+    "id": 249,
+    "name": "rock-smash",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage."
+}

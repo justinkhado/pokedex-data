@@ -1,0 +1,12 @@
+{
+    "id": 76,
+    "name": "solar-beam",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "special",
+    "description": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
+    "effect": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk."
+}

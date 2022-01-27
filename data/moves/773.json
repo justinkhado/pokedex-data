@@ -1,0 +1,12 @@
+{
+    "id": 773,
+    "name": "max-overgrowth",
+    "power": 10,
+    "accuracy": null,
+    "pp": 10,
+    "priority": 0,
+    "type": "grass",
+    "damage_class": "physical",
+    "description": "This is a Grass-type attack Dynamax Pok\u00e9mon use.\nThe user turns the ground into Grassy Terrain for\nfive turns.",
+    "effect": "Inflicts regular damage."
+}

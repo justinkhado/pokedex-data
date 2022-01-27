@@ -1,0 +1,12 @@
+{
+    "id": 395,
+    "name": "force-palm",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "fighting",
+    "damage_class": "physical",
+    "description": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+}

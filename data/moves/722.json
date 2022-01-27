@@ -1,0 +1,12 @@
+{
+    "id": 722,
+    "name": "photon-geyser",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "special",
+    "description": "The user attacks a target with a pillar of light. This\nmove inflicts Attack or Sp. Atk damage\u2014whichever\nstat is higher for the user.",
+    "effect": "Inflicts regular damage."
+}

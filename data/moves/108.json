@@ -1,0 +1,12 @@
+{
+    "id": 108,
+    "name": "smokescreen",
+    "power": null,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user releases an obscuring cloud of smoke or\nink. This lowers the target\u2019s accuracy.",
+    "effect": "Lowers the target's accuracy by one stage."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 101,
+    "name": "night-shade",
+    "power": null,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "type": "ghost",
+    "damage_class": "special",
+    "description": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user\u2019s level.",
+    "effect": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."
+}

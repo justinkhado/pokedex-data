@@ -1,0 +1,12 @@
+{
+    "id": 106,
+    "name": "harden",
+    "power": null,
+    "accuracy": null,
+    "pp": 30,
+    "priority": 0,
+    "type": "normal",
+    "damage_class": "status",
+    "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+    "effect": "Raises the user's Defense by one stage."
+}

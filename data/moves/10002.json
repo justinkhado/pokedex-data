@@ -1,0 +1,12 @@
+{
+    "id": 10002,
+    "name": "shadow-blast",
+    "power": 80,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "physical",
+    "description": "",
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+}

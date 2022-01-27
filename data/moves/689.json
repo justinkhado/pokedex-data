@@ -1,0 +1,12 @@
+{
+    "id": 689,
+    "name": "instruct",
+    "power": null,
+    "accuracy": null,
+    "pp": 15,
+    "priority": 0,
+    "type": "psychic",
+    "damage_class": "status",
+    "description": "The user instructs the target to use the target\u2019s last\nmove again.",
+    "effect": "The target immediately uses its most recently-used move.  This is independent of the target's normal action for the turn (i.e., it may end up moving twice), but otherwise functions as usual, including deduction of PP.  This effect works for disabled moves and ignores torment."
+}

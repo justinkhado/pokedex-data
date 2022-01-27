@@ -1,0 +1,12 @@
+{
+    "id": 188,
+    "name": "sludge-bomb",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "special",
+    "description": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target."
+}

@@ -1,0 +1,12 @@
+{
+    "id": 77,
+    "name": "poison-powder",
+    "power": null,
+    "accuracy": 75,
+    "pp": 35,
+    "priority": 0,
+    "type": "poison",
+    "damage_class": "status",
+    "description": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+    "effect": "Poisons the target."
+}

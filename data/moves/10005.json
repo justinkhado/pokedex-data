@@ -1,0 +1,12 @@
+{
+    "id": 10005,
+    "name": "shadow-break",
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "type": "shadow",
+    "damage_class": "physical",
+    "description": "",
+    "effect": "Inflicts regular damage."
+}
