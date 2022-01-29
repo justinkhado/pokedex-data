@@ -8,5 +8,8 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The user attacks by breathing a special, hot fire.\nThis also lowers the target\u2019s Sp. Atk stat.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+    "machines": {
+        "sword-shield": "tm92"
+    }
 }

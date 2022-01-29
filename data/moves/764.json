@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "physical",
     "description": "This is a Poison-type attack Dynamax Pok\u00e9mon use.\nThis raises ally Pok\u00e9mon\u2019s Sp. Atk stats.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

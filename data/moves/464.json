@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "status",
     "description": "Opposing Pok\u00e9mon are dragged into a world of total\ndarkness that makes them sleep.",
-    "effect": "Puts the target to sleep."
+    "effect": "Puts the target to sleep.",
+    "machines": {}
 }

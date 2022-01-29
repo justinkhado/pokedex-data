@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "status",
     "description": "The user protects itself by wrapping its body in soft\ncotton, which drastically raises the user\u2019s\nDefense stat.",
-    "effect": "Raises the user's Defense by three stages."
+    "effect": "Raises the user's Defense by three stages.",
+    "machines": {}
 }

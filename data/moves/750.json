@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user scatters a cloud of magic powder that\nchanges the target to Psychic type.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

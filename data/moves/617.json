@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "special",
     "description": "Drawing power from the Eternal Flower, the user\nfires a powerful beam of light. This also damages the\nuser quite a lot.",
-    "effect": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil."
+    "effect": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.",
+    "machines": {}
 }

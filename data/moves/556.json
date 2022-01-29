@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {}
 }

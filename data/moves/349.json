@@ -8,5 +8,8 @@
     "type": "dragon",
     "damage_class": "status",
     "description": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
-    "effect": "Raises the user's Attack and Speed by one stage each."
+    "effect": "Raises the user's Attack and Speed by one stage each.",
+    "machines": {
+        "sword-shield": "tr51"
+    }
 }

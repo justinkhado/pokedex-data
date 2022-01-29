@@ -8,5 +8,9 @@
     "type": "dark",
     "damage_class": "status",
     "description": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
-    "effect": "Raises the user's Attack and accuracy by one stage."
+    "effect": "Raises the user's Attack and accuracy by one stage.",
+    "machines": {
+        "black-2-white-2": "tm01",
+        "x-y": "tm01"
+    }
 }

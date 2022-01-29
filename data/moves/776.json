@@ -8,5 +8,8 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user attacks by slamming its body into the target.\nThe higher the user\u2019s Defense, the more damage it can\ninflict on the target.",
-    "effect": ""
+    "effect": "",
+    "machines": {
+        "sword-shield": "tr99"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The target is hammered with a large pincer. Critical\nhits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "machines": {}
 }

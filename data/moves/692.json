@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "physical",
     "description": "The user uses its body like a hammer to attack the\ntarget and inflict damage.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

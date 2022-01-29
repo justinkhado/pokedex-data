@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "This attack move doubles its power if the user is\npoisoned, burned, or paralyzed.",
-    "effect": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power."
+    "effect": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power.",
+    "machines": {
+        "sword-shield": "tm39",
+        "emerald": "tm42",
+        "platinum": "tm42",
+        "black-2-white-2": "tm42",
+        "x-y": "tm42",
+        "ultra-sun-ultra-moon": "tm42"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is stomped with a big foot. This may also\nmake the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.\n\nPower is doubled against Pok\u00e9mon that have used minimize since entering the field."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.\n\nPower is doubled against Pok\u00e9mon that have used minimize since entering the field.",
+    "machines": {}
 }

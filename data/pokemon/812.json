@@ -1,84 +1,29 @@
 {
     "name": "rillaboom",
     "id": 812,
+    "height": "6'11\"",
+    "weight": "198.4 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "grass",
-                "url": "https://pokeapi.co/api/v2/type/12/"
-            }
-        }
+        "grass"
     ],
+    "stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 90,
+        "sp. attack": 60,
+        "sp. defense": 70,
+        "speed": 85
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "overgrow",
-                "url": "https://pokeapi.co/api/v2/ability/65/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "overgrow",
+            "effect": "Strengthens grass moves to inflict 1.5\u00d7 damage at 1/3 max HP or less.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "grassy-surge",
-                "url": "https://pokeapi.co/api/v2/ability/229/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "grassy-surge",
+            "effect": "When this Pok\u00e9mon enters battle, it changes the terrain to Grassy Terrain.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 100,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 125,
-            "effort": 3,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 90,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 70,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 85,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 21,
-    "weight": 900
+    ]
 }

@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "status",
     "description": "The user unleashes its grudge on the move last used\nby the target by cutting 4 PP from it.",
-    "effect": "Lowers the PP of the target's last used move by 4.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if its last used move has 0 PP remaining, this move will fail."
+    "effect": "Lowers the PP of the target's last used move by 4.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if its last used move has 0 PP remaining, this move will fail.",
+    "machines": {}
 }

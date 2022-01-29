@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "status",
     "description": "",
-    "effect": "Lowers the target's Defense by two stages."
+    "effect": "Lowers the target's Defense by two stages.",
+    "machines": {}
 }

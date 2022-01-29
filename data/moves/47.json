@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.",
-    "effect": "Puts the target to sleep."
+    "effect": "Puts the target to sleep.",
+    "machines": {}
 }

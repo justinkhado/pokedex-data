@@ -1,0 +1,230 @@
+{
+    "yellow": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            },
+            {
+                "id": 78,
+                "name": "stun-spore",
+                "power": null,
+                "accuracy": 75,
+                "pp": 30,
+                "priority": 0,
+                "type": "grass",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "level": 6
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 15
+            }
+        ],
+        "egg": [
+            {
+                "id": 77,
+                "name": "poison-powder",
+                "power": null,
+                "accuracy": 75,
+                "pp": 35,
+                "priority": 0,
+                "type": "poison",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+                "effect": "Poisons the target."
+            },
+            {
+                "id": 78,
+                "name": "stun-spore",
+                "power": null,
+                "accuracy": 75,
+                "pp": 30,
+                "priority": 0,
+                "type": "grass",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+                "effect": "Paralyzes the target."
+            },
+            {
+                "id": 476,
+                "name": "rage-powder",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 2,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of irritating powder to\ndraw attention to itself. Opposing Pok\u00e9mon aim only at\nthe user.",
+                "effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome."
+            }
+        ],
+        "tutor": [],
+        "machine": []
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            },
+            {
+                "id": 78,
+                "name": "stun-spore",
+                "power": null,
+                "accuracy": 75,
+                "pp": 30,
+                "priority": 0,
+                "type": "grass",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "level": 6
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 15
+            }
+        ],
+        "egg": [
+            {
+                "id": 77,
+                "name": "poison-powder",
+                "power": null,
+                "accuracy": 75,
+                "pp": 35,
+                "priority": 0,
+                "type": "poison",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+                "effect": "Poisons the target."
+            },
+            {
+                "id": 78,
+                "name": "stun-spore",
+                "power": null,
+                "accuracy": 75,
+                "pp": 30,
+                "priority": 0,
+                "type": "grass",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+                "effect": "Paralyzes the target."
+            },
+            {
+                "id": 476,
+                "name": "rage-powder",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 2,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "The user scatters a cloud of irritating powder to\ndraw attention to itself. Opposing Pok\u00e9mon aim only at\nthe user.",
+                "effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome."
+            }
+        ],
+        "tutor": [],
+        "machine": []
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

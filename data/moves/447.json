@@ -8,5 +8,12 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user snares the target with grass and trips it.\nThe heavier the target, the greater the\nmove\u2019s power.",
-    "effect": "Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.\n\nTarget's weight | Power\n--------------- | ----:\nUp to 10kg      |    20\nUp to 25kg      |    40\nUp to 50kg      |    60\nUp to 100kg     |    80\nUp to 200kg     |   100\nAbove 200kg     |   120\n"
+    "effect": "Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.\n\nTarget's weight | Power\n--------------- | ----:\nUp to 10kg      |    20\nUp to 25kg      |    40\nUp to 50kg      |    60\nUp to 100kg     |    80\nUp to 200kg     |   100\nAbove 200kg     |   120\n",
+    "machines": {
+        "platinum": "tm86",
+        "black-2-white-2": "tm86",
+        "x-y": "tm86",
+        "ultra-sun-ultra-moon": "tm86",
+        "sword-shield": "tr77"
+    }
 }

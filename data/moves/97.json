@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user relaxes and lightens its body to move\nfaster. This sharply raises the Speed stat.",
-    "effect": "Raises the user's Speed by two stages."
+    "effect": "Raises the user's Speed by two stages.",
+    "machines": {
+        "sword-shield": "tr12"
+    }
 }

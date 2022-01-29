@@ -8,5 +8,11 @@
     "type": "electric",
     "damage_class": "special",
     "description": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat.",
-    "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+    "machines": {
+        "platinum": "tm57",
+        "black-2-white-2": "tm57",
+        "x-y": "tm57",
+        "ultra-sun-ultra-moon": "tm57"
+    }
 }

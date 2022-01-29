@@ -8,5 +8,6 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user throws the bone it holds. The bone loops\naround to hit the target twice\u2014coming and going.",
-    "effect": "Inflicts regular damage.  Hits twice in one turn."
+    "effect": "Inflicts regular damage.  Hits twice in one turn.",
+    "machines": {}
 }

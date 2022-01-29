@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

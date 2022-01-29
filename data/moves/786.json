@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "special",
     "description": "The user attacks opposing Pok\u00e9mon by twanging\na guitar or bass guitar, causing a huge echo and\nstrong vibration.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

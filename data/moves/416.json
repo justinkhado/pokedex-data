@@ -8,5 +8,12 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user charges at the target using every bit of its\npower. The user can\u2019t move on the next turn.",
-    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "machines": {
+        "sword-shield": "tm09",
+        "platinum": "tm68",
+        "black-2-white-2": "tm68",
+        "x-y": "tm68",
+        "ultra-sun-ultra-moon": "tm68"
+    }
 }

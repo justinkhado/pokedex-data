@@ -8,5 +8,10 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move\u2019s power\nis increased.",
-    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon fainted on the previous turn, this move has double power."
+    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon fainted on the previous turn, this move has double power.",
+    "machines": {
+        "black-2-white-2": "tm67",
+        "x-y": "tm67",
+        "sword-shield": "tm79"
+    }
 }

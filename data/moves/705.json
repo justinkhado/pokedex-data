@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "special",
     "description": "The user unleashes a strong beam. The attack\u2019s\nrecoil harshly lowers the user\u2019s Sp. Atk stat.",
-    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "machines": {}
 }

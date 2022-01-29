@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "physical",
     "description": "The user disappears, then strikes the target on the\nnext turn. This move hits even if the target\nprotects itself.",
-    "effect": "Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.\n\nThis move cannot be selected by sleep talk."
+    "effect": "Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.\n\nThis move cannot be selected by sleep talk.",
+    "machines": {}
 }

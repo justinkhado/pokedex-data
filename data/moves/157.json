@@ -8,5 +8,13 @@
     "type": "rock",
     "damage_class": "physical",
     "description": "Large boulders are hurled at opposing Pok\u00e9mon to\ninflict damage. This may also make the opposing\nPok\u00e9mon flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {
+        "sword-shield": "tm22",
+        "yellow": "tm48",
+        "platinum": "tm80",
+        "black-2-white-2": "tm80",
+        "x-y": "tm80",
+        "ultra-sun-ultra-moon": "tm80"
+    }
 }

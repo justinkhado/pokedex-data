@@ -8,5 +8,8 @@
     "type": "bug",
     "damage_class": "physical",
     "description": "Using its tough and impressive horn, the user rams\ninto the target with no letup.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr28"
+    }
 }

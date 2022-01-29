@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "physical",
     "description": "The user attacks the target with so much force that it\ncould break the target\u2019s spirit. This also lowers the\ntarget\u2019s Sp. Atk stat.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+    "machines": {}
 }

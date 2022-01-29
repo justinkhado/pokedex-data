@@ -8,5 +8,12 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user draws power from nature and fires it at the\ntarget. This may also lower the target\u2019s Sp. Def stat.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+    "machines": {
+        "platinum": "tm53",
+        "black-2-white-2": "tm53",
+        "x-y": "tm53",
+        "ultra-sun-ultra-moon": "tm53",
+        "sword-shield": "tr65"
+    }
 }

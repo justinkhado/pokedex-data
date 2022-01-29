@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats.",
-    "effect": "Raises the user's Defense and Special Defense by one stage."
+    "effect": "Raises the user's Defense and Special Defense by one stage.",
+    "machines": {
+        "sword-shield": "tr44"
+    }
 }

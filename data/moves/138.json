@@ -8,5 +8,13 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The user eats the dreams of a sleeping target.\nThe user\u2019s HP is restored by half the damage taken by\nthe target.",
-    "effect": "Fails if not used on a sleeping Pok\u00e9mon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+    "effect": "Fails if not used on a sleeping Pok\u00e9mon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "machines": {
+        "yellow": "tm42",
+        "crystal": "tm42",
+        "platinum": "tm85",
+        "black-2-white-2": "tm85",
+        "x-y": "tm85",
+        "ultra-sun-ultra-moon": "tm85"
+    }
 }

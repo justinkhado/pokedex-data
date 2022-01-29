@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "special",
     "description": "The user attacks everything around it and faints upon\nusing this move. This move\u2019s power is increased on\nMisty Terrain.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

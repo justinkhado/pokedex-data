@@ -8,5 +8,8 @@
     "type": "ground",
     "damage_class": "special",
     "description": "The user makes the ground under the target erupt\nwith power. This may also lower the target\u2019s\nSp. Def stat.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+    "machines": {
+        "sword-shield": "tr67"
+    }
 }

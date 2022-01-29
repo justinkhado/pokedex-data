@@ -59,20 +59,16 @@ def _get_abilities(abilities_raw):
     
     return abilities
 
-
 def save_pokemons():
     pokemons = {'pokemons': []}
-    for i in range(1, TOTAL_POKEMON + 1):
+    for i in range(1, 808):
         pokemon = {}
         filepath = os.path.join(PARPATH, 'data', 'pokemon', f'{i}.json')
         with open(filepath) as f:
             pokemon_untrimmed = json.load(f)
-            pokemon['name'] = pokemon_untrimmed['name']
-            pokemon['id'] = pokemon_untrimmed['id']
+            for attr in ('name', 'id', 'types'):
+                pokemon[attr] = pokemon_untrimmed[attr]
             pokemon['gen'] = _get_generation(pokemon['id'])
-            pokemon['types'] = []
-            for type in pokemon_untrimmed['types']:
-                pokemon['types'].append(type['type']['name'])            
             
             pokemons['pokemons'].append(pokemon)
             
@@ -81,7 +77,7 @@ def save_pokemons():
         json.dump(pokemons, f, indent=4)
 
 def save_each_pokemon():
-    for i in range(1, 4):
+    for i in range(1, TOTAL_POKEMON + 1):
         print(i)
         pokemon = {}
 
@@ -90,11 +86,10 @@ def save_each_pokemon():
             pokemon_raw = json.load(f)            
             pokemon = _clean_pokemon_raw(pokemon_raw)
             pokemon['abilities'] = _get_abilities(pokemon_raw['abilities'])
-            # pokemon['moves'] = _get_moves()
         
         filepath = os.path.join(PARPATH, 'data', 'pokemon', f'{i}.json')
         with open(filepath, 'w') as f:
             json.dump(pokemon, f, indent=4)
 
 if __name__ == '__main__':
-    save_each_pokemon()
+    save_pokemons()

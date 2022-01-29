@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "special",
     "description": "The user emits a sinister ray to attack the target.\nThis move can be used on the target regardless of\nits Abilities.",
-    "effect": "Inflicts regular damage.  Other Pok\u00e9mon's abilities cannot activate in response to this move.  In particular, it hits through disguise"
+    "effect": "Inflicts regular damage.  Other Pok\u00e9mon's abilities cannot activate in response to this move.  In particular, it hits through disguise",
+    "machines": {}
 }

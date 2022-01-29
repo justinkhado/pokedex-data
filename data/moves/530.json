@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "physical",
     "description": "The user attacks its target by hitting it with brutal\nstrikes. The target is hit twice in a row.",
-    "effect": "Inflicts regular damage.  Hits twice in one turn."
+    "effect": "Inflicts regular damage.  Hits twice in one turn.",
+    "machines": {}
 }

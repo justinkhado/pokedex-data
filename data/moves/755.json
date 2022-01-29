@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The user rends the target with its hard gills.\nIf the user attacks before the target, the power of this\nmove is doubled.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

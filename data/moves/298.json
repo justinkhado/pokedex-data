@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user performs a wobbly dance that confuses\nthe Pok\u00e9mon around it.",
-    "effect": "Confuses all targets."
+    "effect": "Confuses all targets.",
+    "machines": {}
 }

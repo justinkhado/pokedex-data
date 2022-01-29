@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.",
-    "effect": "Puts the target to sleep."
+    "effect": "Puts the target to sleep.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user utilizes the power of the terrain to attack.\nThis move\u2019s type and power changes depending on\nthe terrain when it\u2019s used.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

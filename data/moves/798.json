@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user attacks while destroying the terrain. This move\nfails when the ground hasn\u2019t turned into a terrain.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

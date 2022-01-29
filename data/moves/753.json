@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "status",
     "description": "The user locks the target in and prevents it from\nfleeing. This move also lowers the target\u2019s Defense\nand Sp. Def every turn.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

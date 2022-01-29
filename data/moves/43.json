@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user gives opposing Pok\u00e9mon an intimidating\nleer that lowers the Defense stat.",
-    "effect": "Lowers the target's Defense by one stage."
+    "effect": "Lowers the target's Defense by one stage.",
+    "machines": {}
 }

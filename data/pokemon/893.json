@@ -1,83 +1,25 @@
 {
     "name": "zarude",
     "id": 893,
+    "height": "5'11\"",
+    "weight": "154.3 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "dark",
-                "url": "https://pokeapi.co/api/v2/type/17/"
-            }
-        },
-        {
-            "slot": 2,
-            "type": {
-                "name": "grass",
-                "url": "https://pokeapi.co/api/v2/type/12/"
-            }
-        }
+        "dark",
+        "grass"
     ],
+    "stats": {
+        "hp": 105,
+        "attack": 120,
+        "defense": 105,
+        "sp. attack": 70,
+        "sp. defense": 95,
+        "speed": 105
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "leaf-guard",
-                "url": "https://pokeapi.co/api/v2/ability/102/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "leaf-guard",
+            "effect": "Protects against major status ailments during strong sunlight.",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 105,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 120,
-            "effort": 3,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 105,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 70,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 95,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 105,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 18,
-    "weight": 700
+    ]
 }

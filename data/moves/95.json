@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
-    "effect": "Puts the target to sleep."
+    "effect": "Puts the target to sleep.",
+    "machines": {}
 }

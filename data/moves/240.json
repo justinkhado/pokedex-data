@@ -8,5 +8,14 @@
     "type": "water",
     "damage_class": "status",
     "description": "The user summons a heavy rain that falls for five\nturns, powering up Water-type moves. It lowers\nthe power of Fire-type moves.",
-    "effect": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.\n\nIf the user is holding damp rock, this effect lasts for eight turns.\n\nthunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.\n\nsolar beam has half power.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPok\u00e9mon with swift swim have doubled original Speed.\n\nPok\u00e9mon with forecast become water.\n\nPok\u00e9mon with dry skin heal 1/8 max HP, Pok\u00e9mon with hydration are cured of major status effects, and Pok\u00e9mon with rain dish heal 1/16 max HP at the end of each turn."
+    "effect": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.\n\nIf the user is holding damp rock, this effect lasts for eight turns.\n\nthunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.\n\nsolar beam has half power.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPok\u00e9mon with swift swim have doubled original Speed.\n\nPok\u00e9mon with forecast become water.\n\nPok\u00e9mon with dry skin heal 1/8 max HP, Pok\u00e9mon with hydration are cured of major status effects, and Pok\u00e9mon with rain dish heal 1/16 max HP at the end of each turn.",
+    "machines": {
+        "crystal": "tm18",
+        "emerald": "tm18",
+        "platinum": "tm18",
+        "black-2-white-2": "tm18",
+        "x-y": "tm18",
+        "ultra-sun-ultra-moon": "tm18",
+        "sword-shield": "tm33"
+    }
 }

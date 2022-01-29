@@ -1,76 +1,24 @@
 {
     "name": "kubfu",
     "id": 891,
+    "height": "1'12\"",
+    "weight": "26.5 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "fighting",
-                "url": "https://pokeapi.co/api/v2/type/2/"
-            }
-        }
+        "fighting"
     ],
+    "stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 60,
+        "sp. attack": 53,
+        "sp. defense": 50,
+        "speed": 72
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "inner-focus",
-                "url": "https://pokeapi.co/api/v2/ability/39/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "inner-focus",
+            "effect": "Prevents flinching.",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 90,
-            "effort": 1,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 53,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 50,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 72,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 6,
-    "weight": 120
+    ]
 }

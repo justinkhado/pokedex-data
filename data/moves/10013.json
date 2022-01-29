@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "special",
     "description": "",
-    "effect": "Halves HP of all Pok\u00e9mon on the field.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+    "effect": "Halves HP of all Pok\u00e9mon on the field.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "machines": {}
 }

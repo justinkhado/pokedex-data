@@ -1,0 +1,538 @@
+{
+    "yellow": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 204,
+                "name": "charm",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "fairy",
+                "damage_class": "status",
+                "description": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target\u2019s\nAttack stat.",
+                "effect": "Lowers the target's Attack by two stages.",
+                "level": 1
+            },
+            {
+                "id": 227,
+                "name": "encore",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user compels the target to keep using the move\nit encored for three turns.",
+                "effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+                "level": 1
+            },
+            {
+                "id": 68,
+                "name": "counter",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "A retaliation move that counters any physical attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 194,
+                "name": "destiny-bond",
+                "power": null,
+                "accuracy": null,
+                "pp": 5,
+                "priority": 0,
+                "type": "ghost",
+                "damage_class": "status",
+                "description": "After using this move, if the user faints, the\nPok\u00e9mon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+                "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "level": 15
+            },
+            {
+                "id": 243,
+                "name": "mirror-coat",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "psychic",
+                "damage_class": "special",
+                "description": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 204,
+                "name": "charm",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "fairy",
+                "damage_class": "status",
+                "description": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target\u2019s\nAttack stat.",
+                "effect": "Lowers the target's Attack by two stages.",
+                "level": 1
+            },
+            {
+                "id": 227,
+                "name": "encore",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user compels the target to keep using the move\nit encored for three turns.",
+                "effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+                "level": 1
+            },
+            {
+                "id": 68,
+                "name": "counter",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "A retaliation move that counters any physical attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 194,
+                "name": "destiny-bond",
+                "power": null,
+                "accuracy": null,
+                "pp": 5,
+                "priority": 0,
+                "type": "ghost",
+                "damage_class": "status",
+                "description": "After using this move, if the user faints, the\nPok\u00e9mon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+                "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "level": 15
+            },
+            {
+                "id": 243,
+                "name": "mirror-coat",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "psychic",
+                "damage_class": "special",
+                "description": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 204,
+                "name": "charm",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "fairy",
+                "damage_class": "status",
+                "description": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target\u2019s\nAttack stat.",
+                "effect": "Lowers the target's Attack by two stages.",
+                "level": 1
+            },
+            {
+                "id": 227,
+                "name": "encore",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user compels the target to keep using the move\nit encored for three turns.",
+                "effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+                "level": 1
+            },
+            {
+                "id": 68,
+                "name": "counter",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "A retaliation move that counters any physical attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 194,
+                "name": "destiny-bond",
+                "power": null,
+                "accuracy": null,
+                "pp": 5,
+                "priority": 0,
+                "type": "ghost",
+                "damage_class": "status",
+                "description": "After using this move, if the user faints, the\nPok\u00e9mon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+                "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "level": 15
+            },
+            {
+                "id": 243,
+                "name": "mirror-coat",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "psychic",
+                "damage_class": "special",
+                "description": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 204,
+                "name": "charm",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "fairy",
+                "damage_class": "status",
+                "description": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target\u2019s\nAttack stat.",
+                "effect": "Lowers the target's Attack by two stages.",
+                "level": 1
+            },
+            {
+                "id": 227,
+                "name": "encore",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user compels the target to keep using the move\nit encored for three turns.",
+                "effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+                "level": 1
+            },
+            {
+                "id": 68,
+                "name": "counter",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "A retaliation move that counters any physical attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 194,
+                "name": "destiny-bond",
+                "power": null,
+                "accuracy": null,
+                "pp": 5,
+                "priority": 0,
+                "type": "ghost",
+                "damage_class": "status",
+                "description": "After using this move, if the user faints, the\nPok\u00e9mon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+                "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "level": 15
+            },
+            {
+                "id": 243,
+                "name": "mirror-coat",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "psychic",
+                "damage_class": "special",
+                "description": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": [
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "machine": "tm20"
+            }
+        ]
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 204,
+                "name": "charm",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "fairy",
+                "damage_class": "status",
+                "description": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target\u2019s\nAttack stat.",
+                "effect": "Lowers the target's Attack by two stages.",
+                "level": 1
+            },
+            {
+                "id": 227,
+                "name": "encore",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user compels the target to keep using the move\nit encored for three turns.",
+                "effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+                "level": 1
+            },
+            {
+                "id": 68,
+                "name": "counter",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "A retaliation move that counters any physical attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 194,
+                "name": "destiny-bond",
+                "power": null,
+                "accuracy": null,
+                "pp": 5,
+                "priority": 0,
+                "type": "ghost",
+                "damage_class": "status",
+                "description": "After using this move, if the user faints, the\nPok\u00e9mon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+                "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+                "level": 15
+            },
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "level": 15
+            },
+            {
+                "id": 243,
+                "name": "mirror-coat",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -5,
+                "type": "psychic",
+                "damage_class": "special",
+                "description": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+                "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": [
+            {
+                "id": 219,
+                "name": "safeguard",
+                "power": null,
+                "accuracy": null,
+                "pp": 25,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+                "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+                "machine": "tm20"
+            }
+        ]
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "A consecutive three-kick attack that becomes more\npowerful with each successful hit.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

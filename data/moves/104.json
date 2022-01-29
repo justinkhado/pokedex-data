@@ -8,5 +8,14 @@
     "type": "normal",
     "damage_class": "status",
     "description": "By moving rapidly, the user makes illusory copies of\nitself to raise its evasiveness.",
-    "effect": "Raises the user's evasion by one stage."
+    "effect": "Raises the user's evasion by one stage.",
+    "machines": {
+        "yellow": "tm32",
+        "crystal": "tm32",
+        "emerald": "tm32",
+        "platinum": "tm32",
+        "black-2-white-2": "tm32",
+        "x-y": "tm32",
+        "ultra-sun-ultra-moon": "tm32"
+    }
 }

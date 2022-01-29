@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user has teatime with all the Pok\u00e9mon in the battle.\nEach Pok\u00e9mon eats its held Berry.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

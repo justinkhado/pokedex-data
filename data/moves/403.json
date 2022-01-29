@@ -8,5 +8,8 @@
     "type": "flying",
     "damage_class": "special",
     "description": "The user attacks with a blade of air that slices even\nthe sky. This may also make the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {
+        "sword-shield": "tm95"
+    }
 }

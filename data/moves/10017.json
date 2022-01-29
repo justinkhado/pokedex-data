@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "status",
     "description": "",
-    "effect": "Removes the effects of light screen, reflect, and safeguard."
+    "effect": "Removes the effects of light screen, reflect, and safeguard.",
+    "machines": {}
 }

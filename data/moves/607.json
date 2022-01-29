@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user and an ally hold hands. This makes them\nvery happy.",
-    "effect": "Does nothing."
+    "effect": "Does nothing.",
+    "machines": {}
 }

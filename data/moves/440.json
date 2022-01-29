@@ -8,5 +8,8 @@
     "type": "poison",
     "damage_class": "physical",
     "description": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.",
+    "machines": {
+        "sword-shield": "tm73"
+    }
 }

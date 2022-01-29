@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "special",
     "description": "The user rubs the scales on its entire body and makes\na huge noise to attack opposing Pok\u00e9mon.\nThe user\u2019s Defense stat goes down after the attack.",
-    "effect": "Inflicts regular damage.  Lowers the user's Defense by one stage."
+    "effect": "Inflicts regular damage.  Lowers the user's Defense by one stage.",
+    "machines": {}
 }

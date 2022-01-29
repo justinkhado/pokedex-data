@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "status",
     "description": "A sweet scent that harshly lowers opposing\nPok\u00e9mon\u2019s evasiveness.",
-    "effect": "Lowers the target's evasion by one stage."
+    "effect": "Lowers the target's evasion by one stage.",
+    "machines": {
+        "crystal": "tm12"
+    }
 }

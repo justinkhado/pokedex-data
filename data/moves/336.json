@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user howls loudly to raise the spirit of itself and\nallies. This raises their Attack stats.",
-    "effect": "Raises the user's Attack by one stage."
+    "effect": "Raises the user's Attack by one stage.",
+    "machines": {}
 }

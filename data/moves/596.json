@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "status",
     "description": "In addition to protecting the user from attacks, this\nmove also damages any attacker that makes\ndirect contact.",
-    "effect": "Blocks damaging attacks and damages attacking Pok\u00e9mon for 1/8 their max HP."
+    "effect": "Blocks damaging attacks and damages attacking Pok\u00e9mon for 1/8 their max HP.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user lashes out to vent its frustration toward\nthe target. If the user\u2019s stats were lowered during this\nturn, the power of this move is doubled.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

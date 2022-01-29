@@ -8,5 +8,15 @@
     "type": "electric",
     "damage_class": "special",
     "description": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.\n\nDuring rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny day, this move has 50% accuracy."
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.\n\nDuring rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny day, this move has 50% accuracy.",
+    "machines": {
+        "yellow": "tm25",
+        "crystal": "tm25",
+        "emerald": "tm25",
+        "platinum": "tm25",
+        "black-2-white-2": "tm25",
+        "x-y": "tm25",
+        "ultra-sun-ultra-moon": "tm25",
+        "sword-shield": "tr09"
+    }
 }

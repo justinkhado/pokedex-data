@@ -1,0 +1,371 @@
+{
+    "yellow": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [
+            {
+                "id": 16,
+                "name": "gust",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "special",
+                "description": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+                "effect": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+                "level": 1
+            },
+            {
+                "id": 230,
+                "name": "sweet-scent",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "A sweet scent that harshly lowers opposing\nPok\u00e9mon\u2019s evasiveness.",
+                "effect": "Lowers the target's evasion by one stage.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 13
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 129,
+                "name": "swift",
+                "power": 60,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "special",
+                "description": "Star-shaped rays are shot at opposing Pok\u00e9mon.\nThis attack never misses.",
+                "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+            },
+            {
+                "id": 173,
+                "name": "snore",
+                "power": 50,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "special",
+                "description": "This attack can be used only if the user is asleep.\nThe harsh noise may also make the target flinch.",
+                "effect": "Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch."
+            },
+            {
+                "id": 189,
+                "name": "mud-slap",
+                "power": 20,
+                "accuracy": 100,
+                "pp": 10,
+                "priority": 0,
+                "type": "ground",
+                "damage_class": "special",
+                "description": "The user hurls mud in the target\u2019s face to inflict\ndamage and lower its accuracy.",
+                "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage."
+            },
+            {
+                "id": 283,
+                "name": "endeavor",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "This attack move cuts down the target\u2019s HP to equal\nthe user\u2019s HP.",
+                "effect": "Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage."
+            },
+            {
+                "id": 314,
+                "name": "air-cutter",
+                "power": 60,
+                "accuracy": 95,
+                "pp": 25,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "special",
+                "description": "The user launches razor-like wind to slash opposing\nPok\u00e9mon. Critical hits land more easily.",
+                "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+            },
+            {
+                "id": 466,
+                "name": "ominous-wind",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "ghost",
+                "damage_class": "special",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage."
+            }
+        ],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 16,
+                "name": "gust",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "special",
+                "description": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+                "effect": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+                "level": 1
+            },
+            {
+                "id": 230,
+                "name": "sweet-scent",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "A sweet scent that harshly lowers opposing\nPok\u00e9mon\u2019s evasiveness.",
+                "effect": "Lowers the target's evasion by one stage.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 13
+            },
+            {
+                "id": 405,
+                "name": "bug-buzz",
+                "power": 90,
+                "accuracy": 100,
+                "pp": 10,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "special",
+                "description": "The user generates a damaging sound wave by\nvibration. This may also lower the target\u2019s\nSp. Def stat.",
+                "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+                "level": 29
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 173,
+                "name": "snore",
+                "power": 50,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "special",
+                "description": "This attack can be used only if the user is asleep.\nThe harsh noise may also make the target flinch.",
+                "effect": "Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch."
+            },
+            {
+                "id": 283,
+                "name": "endeavor",
+                "power": null,
+                "accuracy": 100,
+                "pp": 5,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "This attack move cuts down the target\u2019s HP to equal\nthe user\u2019s HP.",
+                "effect": "Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage."
+            },
+            {
+                "id": 366,
+                "name": "tailwind",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "status",
+                "description": "The user whips up a turbulent whirlwind that ups\nthe Speed stats of the user and its allies for\nfour turns.",
+                "effect": "For the next three turns, all Pok\u00e9mon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field."
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+            }
+        ],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 16,
+                "name": "gust",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "special",
+                "description": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+                "effect": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+                "level": 1
+            },
+            {
+                "id": 230,
+                "name": "sweet-scent",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "A sweet scent that harshly lowers opposing\nPok\u00e9mon\u2019s evasiveness.",
+                "effect": "Lowers the target's evasion by one stage.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 13
+            },
+            {
+                "id": 405,
+                "name": "bug-buzz",
+                "power": 90,
+                "accuracy": 100,
+                "pp": 10,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "special",
+                "description": "The user generates a damaging sound wave by\nvibration. This may also lower the target\u2019s\nSp. Def stat.",
+                "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+                "level": 29
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 16,
+                "name": "gust",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "special",
+                "description": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+                "effect": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+                "level": 1
+            },
+            {
+                "id": 230,
+                "name": "sweet-scent",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "A sweet scent that harshly lowers opposing\nPok\u00e9mon\u2019s evasiveness.",
+                "effect": "Lowers the target's evasion by one stage.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 13
+            },
+            {
+                "id": 405,
+                "name": "bug-buzz",
+                "power": 90,
+                "accuracy": 100,
+                "pp": 10,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "special",
+                "description": "The user generates a damaging sound wave by\nvibration. This may also lower the target\u2019s\nSp. Def stat.",
+                "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+                "level": 29
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

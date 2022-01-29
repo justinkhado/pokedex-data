@@ -8,5 +8,14 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The user charges at the target and may make\nit flinch.",
-    "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+    "machines": {
+        "ultra-sun-ultra-moon": "tm98",
+        "black-2-white-2": "hm05",
+        "x-y": "hm05",
+        "crystal": "hm07",
+        "emerald": "hm07",
+        "platinum": "hm07",
+        "sword-shield": "tr16"
+    }
 }

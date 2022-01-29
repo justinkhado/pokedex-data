@@ -8,5 +8,8 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to confuse the target."
+    "effect": "Inflicts regular damage.  Has a 100% chance to confuse the target.",
+    "machines": {
+        "crystal": "tm01"
+    }
 }

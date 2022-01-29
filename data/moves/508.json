@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "status",
     "description": "The user rotates its gears, raising its Attack stat and\nsharply raising its Speed stat.",
-    "effect": "Raises the user's Attack by one stage and its Speed by two stages."
+    "effect": "Raises the user's Attack by one stage and its Speed by two stages.",
+    "machines": {}
 }

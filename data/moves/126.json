@@ -8,5 +8,15 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The target is attacked with an intense blast of\nall-consuming fire. This may also leave the target\nwith a burn.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+    "machines": {
+        "yellow": "tm38",
+        "crystal": "tm38",
+        "emerald": "tm38",
+        "platinum": "tm38",
+        "black-2-white-2": "tm38",
+        "x-y": "tm38",
+        "ultra-sun-ultra-moon": "tm38",
+        "sword-shield": "tr15"
+    }
 }

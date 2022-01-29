@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is cut with a scythe or claw.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "yellow": "hm01",
+        "crystal": "hm01",
+        "emerald": "hm01",
+        "platinum": "hm01",
+        "black-2-white-2": "hm01",
+        "x-y": "hm01"
+    }
 }

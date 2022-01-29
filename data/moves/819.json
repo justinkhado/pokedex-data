@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "special",
     "description": "The user traps the target in a cage of sparking\nelectricity for four to five turns.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

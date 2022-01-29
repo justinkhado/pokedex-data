@@ -8,5 +8,13 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user attacks with a swift chop. It can also break\nbarriers, such as Light Screen and Reflect.",
-    "effect": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage."
+    "effect": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage.",
+    "machines": {
+        "emerald": "tm31",
+        "platinum": "tm31",
+        "black-2-white-2": "tm31",
+        "x-y": "tm31",
+        "ultra-sun-ultra-moon": "tm31",
+        "sword-shield": "tm43"
+    }
 }

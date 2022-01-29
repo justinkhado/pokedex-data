@@ -1,83 +1,25 @@
 {
     "name": "eternatus",
     "id": 890,
+    "height": "65'7\"",
+    "weight": "2094.4 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "poison",
-                "url": "https://pokeapi.co/api/v2/type/4/"
-            }
-        },
-        {
-            "slot": 2,
-            "type": {
-                "name": "dragon",
-                "url": "https://pokeapi.co/api/v2/type/16/"
-            }
-        }
+        "poison",
+        "dragon"
     ],
+    "stats": {
+        "hp": 140,
+        "attack": 85,
+        "defense": 95,
+        "sp. attack": 145,
+        "sp. defense": 95,
+        "speed": 130
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "pressure",
-                "url": "https://pokeapi.co/api/v2/ability/46/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "pressure",
+            "effect": "Increases the PP cost of moves targetting the Pok\u00e9mon by one.",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 140,
-            "effort": 3,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 85,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 95,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 145,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 95,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 130,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 200,
-    "weight": 9500
+    ]
 }

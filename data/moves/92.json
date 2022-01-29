@@ -8,5 +8,14 @@
     "type": "poison",
     "damage_class": "status",
     "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
-    "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon."
+    "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
+    "machines": {
+        "yellow": "tm06",
+        "crystal": "tm06",
+        "emerald": "tm06",
+        "platinum": "tm06",
+        "black-2-white-2": "tm06",
+        "x-y": "tm06",
+        "ultra-sun-ultra-moon": "tm06"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user charges the target at blinding speed.\nThis move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to confuse the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user attacks the target by poking it with a sharply\npointed branch.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

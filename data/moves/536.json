@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user attacks its target by encircling it in sharp\nleaves. This attack may also lower the\ntarget\u2019s accuracy.",
-    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage."
+    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.",
+    "machines": {}
 }

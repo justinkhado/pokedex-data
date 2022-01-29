@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "status",
     "description": "The user levitates using electrically generated\nmagnetism for five turns.",
-    "effect": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton pass."
+    "effect": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton pass.",
+    "machines": {}
 }

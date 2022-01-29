@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "status",
     "description": "This move enables the user to protect itself from all attacks.\nIts chance of failing rises if it is used in succession.\nDirect contact harshly lowers the attacker\u2019s Defense stat.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

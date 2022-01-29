@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "status",
     "description": "Flattery is used to confuse the target. However,\nthis also raises the target\u2019s Sp. Atk stat.",
-    "effect": "Raises the target's Special Attack by one stage, then confuses it."
+    "effect": "Raises the target's Special Attack by one stage, then confuses it.",
+    "machines": {}
 }

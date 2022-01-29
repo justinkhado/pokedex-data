@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
-    "effect": "Raises the user's Defense by one stage."
+    "effect": "Raises the user's Defense by one stage.",
+    "machines": {}
 }

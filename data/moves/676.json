@@ -8,5 +8,8 @@
     "type": "bug",
     "damage_class": "special",
     "description": "The user attacks the enemy with a pollen puff that\nexplodes. If the target is an ally, it gives the ally a\npollen puff that restores its HP instead.",
-    "effect": "If the target is an opponent, inflicts regular damage.  If the target is an ally, heals the target for 50% of its max HP."
+    "effect": "If the target is an opponent, inflicts regular damage.  If the target is an ally, heals the target for 50% of its max HP.",
+    "machines": {
+        "sword-shield": "tr96"
+    }
 }

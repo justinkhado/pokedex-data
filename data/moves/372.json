@@ -8,5 +8,8 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "If the target has already taken some damage in the\nsame turn, this attack\u2019s power is doubled.",
-    "effect": "Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power."
+    "effect": "Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power.",
+    "machines": {
+        "sword-shield": "tm58"
+    }
 }

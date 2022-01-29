@@ -1,0 +1,343 @@
+{
+    "yellow": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            },
+            {
+                "id": 175,
+                "name": "flail",
+                "power": null,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
+                "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+                "level": 30
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            },
+            {
+                "id": 175,
+                "name": "flail",
+                "power": null,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
+                "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+                "level": 30
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            },
+            {
+                "id": 175,
+                "name": "flail",
+                "power": null,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
+                "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+                "level": 30
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 340,
+                "name": "bounce",
+                "power": 85,
+                "accuracy": 85,
+                "pp": 5,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "physical",
+                "description": "The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis.",
+                "effect": "Inflicts regular damage.  User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a 30% chance to paralyze the target.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk."
+            }
+        ],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            },
+            {
+                "id": 175,
+                "name": "flail",
+                "power": null,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
+                "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+                "level": 30
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 340,
+                "name": "bounce",
+                "power": 85,
+                "accuracy": 85,
+                "pp": 5,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "physical",
+                "description": "The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis.",
+                "effect": "Inflicts regular damage.  User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a 30% chance to paralyze the target.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk."
+            }
+        ],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            },
+            {
+                "id": 175,
+                "name": "flail",
+                "power": null,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
+                "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+                "level": 30
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 150,
+                "name": "splash",
+                "power": null,
+                "accuracy": null,
+                "pp": 40,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user just flops and splashes around to no effect\nat all...",
+                "effect": "Does nothing.\n\nThis move cannot be used while gravity is in effect.",
+                "level": 1
+            },
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 15
+            },
+            {
+                "id": 175,
+                "name": "flail",
+                "power": null,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
+                "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+                "level": 30
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

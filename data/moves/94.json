@@ -8,5 +8,15 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The target is hit by a strong telekinetic force.\nThis may also lower the target\u2019s Sp. Def stat.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+    "machines": {
+        "yellow": "tm29",
+        "crystal": "tm29",
+        "emerald": "tm29",
+        "platinum": "tm29",
+        "black-2-white-2": "tm29",
+        "x-y": "tm29",
+        "ultra-sun-ultra-moon": "tm29",
+        "sword-shield": "tr11"
+    }
 }

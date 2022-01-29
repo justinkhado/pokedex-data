@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "This is a Dark-type attack Dynamax Pok\u00e9mon use.\nThis lowers the target\u2019s Sp. Def stat.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

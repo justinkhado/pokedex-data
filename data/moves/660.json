@@ -8,5 +8,6 @@
     "type": "bug",
     "damage_class": "physical",
     "description": "Although this move has great power, it only works\nthe first turn each time the user enters battle.",
-    "effect": "Inflicts regular damage. Can only be used on the user's first turn after entering the field."
+    "effect": "Inflicts regular damage. Can only be used on the user's first turn after entering the field.",
+    "machines": {}
 }

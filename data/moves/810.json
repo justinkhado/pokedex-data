@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "status",
     "description": "The user surrounds everything around it with\nhighly acidic gas and melts away items they hold.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

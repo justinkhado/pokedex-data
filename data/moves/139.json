@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "status",
     "description": "A cloud of poison gas is sprayed in the face of\nopposing Pok\u00e9mon, poisoning those it hits.",
-    "effect": "Poisons the target."
+    "effect": "Poisons the target.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user eats its held Berry, then sharply raises its\nDefense stat.",
-    "effect": "Inflicts regular damage, then (if successful) removes major status effects from every Pok\u00e9mon in the user's party."
+    "effect": "Inflicts regular damage, then (if successful) removes major status effects from every Pok\u00e9mon in the user's party.",
+    "machines": {}
 }

@@ -1,84 +1,28 @@
 {
     "name": "raboot",
     "id": 814,
+    "height": "1'12\"",
+    "weight": "19.8 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "fire",
-                "url": "https://pokeapi.co/api/v2/type/10/"
-            }
-        }
+        "fire"
     ],
+    "stats": {
+        "hp": 65,
+        "attack": 86,
+        "defense": 60,
+        "sp. attack": 55,
+        "sp. defense": 60,
+        "speed": 94
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "blaze",
-                "url": "https://pokeapi.co/api/v2/ability/66/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "blaze",
+            "effect": "Strengthens fire moves to inflict 1.5\u00d7 damage at 1/3 max HP or less.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "libero",
-                "url": "https://pokeapi.co/api/v2/ability/236/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "libero",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 65,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 86,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 55,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 94,
-            "effort": 2,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 6,
-    "weight": 90
+    ]
 }

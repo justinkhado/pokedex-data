@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "physical",
     "description": "The user stabs the target with a poisonous stinger.\nThis may also poison the target.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+    "machines": {}
 }

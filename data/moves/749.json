@@ -8,5 +8,6 @@
     "type": "rock",
     "damage_class": "status",
     "description": "The user pours sticky tar over the target, lowering the\ntarget\u2019s Speed stat. The target becomes weaker to\nFire-type moves.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

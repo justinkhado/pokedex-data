@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "special",
     "description": "The target is attacked with a discharge of filthy\ngases. This may also poison the target.",
-    "effect": "Inflicts regular damage.  Has a 40% chance to poison the target."
+    "effect": "Inflicts regular damage.  Has a 40% chance to poison the target.",
+    "machines": {}
 }

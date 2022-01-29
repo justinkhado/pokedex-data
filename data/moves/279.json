@@ -8,5 +8,8 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "This attack move\u2019s power is doubled if the user has\nbeen hurt by the opponent in the same turn.",
-    "effect": "Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.\n\npain split does not count as damaging the user."
+    "effect": "Inflicts regular damage.  If the target damaged the user this turn and was the last to do so, this move has double power.\n\npain split does not count as damaging the user.",
+    "machines": {
+        "sword-shield": "tm42"
+    }
 }

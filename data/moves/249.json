@@ -8,5 +8,12 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage."
+    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+    "machines": {
+        "crystal": "tm08",
+        "black-2-white-2": "tm94",
+        "x-y": "tm94",
+        "emerald": "hm06",
+        "platinum": "hm06"
+    }
 }

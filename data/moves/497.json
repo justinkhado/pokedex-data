@@ -8,5 +8,10 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user attacks the target with an echoing voice.\nIf this move is used every turn, its power\nis increased.",
-    "effect": "Inflicts regular damage.  If any friendly Pok\u00e9mon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200."
+    "effect": "Inflicts regular damage.  If any friendly Pok\u00e9mon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200.",
+    "machines": {
+        "black-2-white-2": "tm49",
+        "x-y": "tm49",
+        "ultra-sun-ultra-moon": "tm49"
+    }
 }

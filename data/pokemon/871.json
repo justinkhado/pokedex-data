@@ -1,84 +1,29 @@
 {
     "name": "pincurchin",
     "id": 871,
+    "height": "0'12\"",
+    "weight": "2.2 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "electric",
-                "url": "https://pokeapi.co/api/v2/type/13/"
-            }
-        }
+        "electric"
     ],
+    "stats": {
+        "hp": 48,
+        "attack": 101,
+        "defense": 95,
+        "sp. attack": 91,
+        "sp. defense": 85,
+        "speed": 15
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "lightning-rod",
-                "url": "https://pokeapi.co/api/v2/ability/31/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "lightning-rod",
+            "effect": "Redirects single-target electric moves to this Pok\u00e9mon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "electric-surge",
-                "url": "https://pokeapi.co/api/v2/ability/226/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "electric-surge",
+            "effect": "When this Pok\u00e9mon enters battle, it changes the terrain to Electric Terrain.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 48,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 101,
-            "effort": 2,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 95,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 91,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 85,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 15,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 3,
-    "weight": 10
+    ]
 }

@@ -8,5 +8,14 @@
     "type": "electric",
     "damage_class": "special",
     "description": "A strong electric blast crashes down on the target.\nThis may also leave the target with paralysis.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target.",
+    "machines": {
+        "yellow": "tm24",
+        "emerald": "tm24",
+        "platinum": "tm24",
+        "black-2-white-2": "tm24",
+        "x-y": "tm24",
+        "ultra-sun-ultra-moon": "tm24",
+        "sword-shield": "tr08"
+    }
 }

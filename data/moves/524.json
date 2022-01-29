@@ -8,5 +8,10 @@
     "type": "ice",
     "damage_class": "special",
     "description": "The user blows its cold breath on the target. This\nattack always results in a critical hit.",
-    "effect": "Inflicts regular damage.  Always scores a critical hit."
+    "effect": "Inflicts regular damage.  Always scores a critical hit.",
+    "machines": {
+        "black-2-white-2": "tm79",
+        "x-y": "tm79",
+        "ultra-sun-ultra-moon": "tm79"
+    }
 }

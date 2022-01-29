@@ -8,5 +8,6 @@
     "type": "rock",
     "damage_class": "physical",
     "description": "This is a Rock-type attack Dynamax Pok\u00e9mon use.\nThe user summons a sandstorm lasting five turns.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

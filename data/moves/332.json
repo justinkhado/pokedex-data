@@ -8,5 +8,12 @@
     "type": "flying",
     "damage_class": "physical",
     "description": "The user confounds the target with speed, then\nslashes. This attack never misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {
+        "emerald": "tm40",
+        "platinum": "tm40",
+        "black-2-white-2": "tm40",
+        "x-y": "tm40",
+        "ultra-sun-ultra-moon": "tm40"
+    }
 }

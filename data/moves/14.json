@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "status",
     "description": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user\u2019s Attack stat.",
-    "effect": "Raises the user's Attack by two stages."
+    "effect": "Raises the user's Attack by two stages.",
+    "machines": {
+        "yellow": "tm03",
+        "platinum": "tm75",
+        "black-2-white-2": "tm75",
+        "x-y": "tm75",
+        "ultra-sun-ultra-moon": "tm75",
+        "sword-shield": "tr00"
+    }
 }

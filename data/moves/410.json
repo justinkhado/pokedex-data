@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "special",
     "description": "The user whirls its fists to send a wave of pure\nvacuum at the target. This move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

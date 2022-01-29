@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "This is a Grass-type attack Dynamax Pok\u00e9mon use.\nThe user turns the ground into Grassy Terrain for\nfive turns.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

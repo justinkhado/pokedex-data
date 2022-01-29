@@ -8,5 +8,8 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user gets all party Pok\u00e9mon to attack the target.\nThe more party Pok\u00e9mon, the greater the number\nof attacks.",
-    "effect": "Inflicts typeless regular damage.  Every Pok\u00e9mon in the user's party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pok\u00e9mon still get STAB.\n\nThis effect breaks through wonder guard."
+    "effect": "Inflicts typeless regular damage.  Every Pok\u00e9mon in the user's party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pok\u00e9mon still get STAB.\n\nThis effect breaks through wonder guard.",
+    "machines": {
+        "sword-shield": "tm37"
+    }
 }

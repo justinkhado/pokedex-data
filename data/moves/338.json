@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user slams the target with the roots of an\nenormous tree. The user can\u2019t move on the next turn.",
-    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "machines": {}
 }

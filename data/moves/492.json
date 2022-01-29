@@ -8,5 +8,8 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user turns the target\u2019s power against it.\nThe higher the target\u2019s Attack stat, the greater\nthe damage it deals.",
-    "effect": "Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's."
+    "effect": "Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.",
+    "machines": {
+        "sword-shield": "tr81"
+    }
 }

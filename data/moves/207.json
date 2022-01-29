@@ -8,5 +8,12 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user enrages and confuses the target. However,\nthis also sharply raises the target\u2019s Attack stat.",
-    "effect": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied."
+    "effect": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied.",
+    "machines": {
+        "crystal": "tm34",
+        "platinum": "tm87",
+        "black-2-white-2": "tm87",
+        "x-y": "tm87",
+        "ultra-sun-ultra-moon": "tm87"
+    }
 }

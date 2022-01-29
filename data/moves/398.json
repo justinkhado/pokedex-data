@@ -8,5 +8,12 @@
     "type": "poison",
     "damage_class": "physical",
     "description": "The target is stabbed with a tentacle, arm, or the like\nsteeped in poison. This may also poison the target.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+    "machines": {
+        "platinum": "tm84",
+        "black-2-white-2": "tm84",
+        "x-y": "tm84",
+        "ultra-sun-ultra-moon": "tm84",
+        "sword-shield": "tr57"
+    }
 }

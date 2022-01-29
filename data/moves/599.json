@@ -8,5 +8,8 @@
     "type": "poison",
     "damage_class": "status",
     "description": "Opposing Pok\u00e9mon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
-    "effect": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+    "effect": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned.",
+    "machines": {
+        "sword-shield": "tr91"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user slashes the target the instant an\nopportunity arises. Critical hits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "machines": {}
 }

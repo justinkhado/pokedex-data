@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "Using a hyperspace hole, the user appears right\nnext to the target and strikes. This also hits a target\nusing a move such as Protect or Detect.",
-    "effect": "Inflicts regular damage.  Bypasses and removes any protection effect on the target."
+    "effect": "Inflicts regular damage.  Bypasses and removes any protection effect on the target.",
+    "machines": {}
 }

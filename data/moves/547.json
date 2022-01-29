@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user sings an ancient song and attacks by\nappealing to the hearts of the listening opposing\nPok\u00e9mon. This may also induce sleep.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to put the target to sleep.\nIf the user is a meloetta, it will toggle between Aria and Pirouette Forme."
+    "effect": "Inflicts regular damage.  Has a 10% chance to put the target to sleep.\nIf the user is a meloetta, it will toggle between Aria and Pirouette Forme.",
+    "machines": {}
 }

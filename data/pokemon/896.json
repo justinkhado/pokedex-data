@@ -1,76 +1,23 @@
 {
     "name": "glastrier",
     "id": 896,
+    "height": "7'3\"",
+    "weight": "1763.7 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "ice",
-                "url": "https://pokeapi.co/api/v2/type/15/"
-            }
-        }
+        "ice"
     ],
+    "stats": {
+        "hp": 100,
+        "attack": 145,
+        "defense": 130,
+        "sp. attack": 65,
+        "sp. defense": 110,
+        "speed": 30
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "chilling-neigh",
-                "url": "https://pokeapi.co/api/v2/ability/264/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "chilling-neigh",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 100,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 145,
-            "effort": 3,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 130,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 65,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 110,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 30,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 22,
-    "weight": 8000
+    ]
 }

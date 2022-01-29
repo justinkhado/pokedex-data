@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "special",
     "description": "The target is hit with a watery blast. The user can\u2019t\nmove on the next turn.",
-    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user attacks opposing Pok\u00e9mon by manifesting\nthe power of the land in fearsome blades of stone.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

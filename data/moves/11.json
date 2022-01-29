@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is gripped and squeezed from both sides\nto inflict damage.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

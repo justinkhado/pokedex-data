@@ -8,5 +8,8 @@
     "type": "electric",
     "damage_class": "special",
     "description": "The user attacks and captures opposing Pok\u00e9mon\nusing an electric net. This lowers their Speed stats.",
-    "effect": "Lowers the target's Speed by one stage."
+    "effect": "Lowers the target's Speed by one stage.",
+    "machines": {
+        "sword-shield": "tm82"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-    "effect": "For the next five turns, the target may not use any moves that only restore HP, and move effects that heal the target are disabled.  Moves that steal HP may still be used, but will only inflict damage and not heal the target."
+    "effect": "For the next five turns, the target may not use any moves that only restore HP, and move effects that heal the target are disabled.  Moves that steal HP may still be used, but will only inflict damage and not heal the target.",
+    "machines": {}
 }

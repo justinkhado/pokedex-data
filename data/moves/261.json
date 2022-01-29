@@ -8,5 +8,12 @@
     "type": "fire",
     "damage_class": "status",
     "description": "The user shoots a sinister flame at the target to inflict\na burn.",
-    "effect": "Burns the target."
+    "effect": "Burns the target.",
+    "machines": {
+        "sword-shield": "tm38",
+        "platinum": "tm61",
+        "black-2-white-2": "tm61",
+        "x-y": "tm61",
+        "ultra-sun-ultra-moon": "tm61"
+    }
 }

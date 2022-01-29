@@ -8,5 +8,9 @@
     "type": "electric",
     "damage_class": "special",
     "description": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {
+        "emerald": "tm34",
+        "platinum": "tm34"
+    }
 }

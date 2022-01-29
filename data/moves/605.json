@@ -8,5 +8,10 @@
     "type": "fairy",
     "damage_class": "special",
     "description": "The user damages opposing Pok\u00e9mon by emitting a\npowerful flash.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "x-y": "tm99",
+        "ultra-sun-ultra-moon": "tm99",
+        "sword-shield": "tr92"
+    }
 }

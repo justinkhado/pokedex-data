@@ -8,5 +8,8 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "Driven by frustration, the user attacks the target.\nIf the user\u2019s previous move has failed, the power of\nthis move doubles.",
-    "effect": "Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message \"But it failed!\") or was ineffective due to types."
+    "effect": "Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message \"But it failed!\") or was ineffective due to types.",
+    "machines": {
+        "sword-shield": "tm98"
+    }
 }

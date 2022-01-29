@@ -1,99 +1,35 @@
 {
     "name": "dracovish",
     "id": 882,
+    "height": "7'7\"",
+    "weight": "474.0 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "water",
-                "url": "https://pokeapi.co/api/v2/type/11/"
-            }
-        },
-        {
-            "slot": 2,
-            "type": {
-                "name": "dragon",
-                "url": "https://pokeapi.co/api/v2/type/16/"
-            }
-        }
+        "water",
+        "dragon"
     ],
+    "stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 100,
+        "sp. attack": 70,
+        "sp. defense": 80,
+        "speed": 75
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "water-absorb",
-                "url": "https://pokeapi.co/api/v2/ability/11/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "water-absorb",
+            "effect": "Absorbs water moves, healing for 1/4 max HP.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "strong-jaw",
-                "url": "https://pokeapi.co/api/v2/ability/173/"
-            },
-            "is_hidden": false,
-            "slot": 2
+            "name": "strong-jaw",
+            "effect": "Strengthens biting moves to 1.5\u00d7 their power.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "sand-rush",
-                "url": "https://pokeapi.co/api/v2/ability/146/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "sand-rush",
+            "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 90,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 90,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 100,
-            "effort": 2,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 70,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 75,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 23,
-    "weight": 2150
+    ]
 }

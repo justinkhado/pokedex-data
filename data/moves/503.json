@@ -8,5 +8,11 @@
     "type": "water",
     "damage_class": "special",
     "description": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to burn the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to burn the target.",
+    "machines": {
+        "black-2-white-2": "tm55",
+        "x-y": "tm55",
+        "ultra-sun-ultra-moon": "tm55",
+        "sword-shield": "tr84"
+    }
 }

@@ -1,5 +1,6 @@
 import os
 import json
+from platform import machine
 import time
 import requests
 
@@ -57,6 +58,19 @@ def download_moves():
         if (i + 1) % 100 == 0:
             time.sleep(60)
 
+def download_machines():
+    r = requests.get(f"{BASE_URL}/machine")
+    count = r.json()['count']
+    r = requests.get(f"{BASE_URL}/machine?limit={count}")
+    machine_list = r.json()['results']
+
+    for i, machine_url in enumerate(machine_list):
+        r = requests.get(machine_url['url'])
+        machine = r.json()
+        _download_resource('machines', machine)
+
+        if (i + 1) % 100 == 0:
+            time.sleep(60)
 
 if __name__ == '__main__':
-    pass
+    download_machines()

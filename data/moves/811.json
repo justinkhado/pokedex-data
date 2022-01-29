@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "status",
     "description": "The user properly coaches its ally Pok\u00e9mon,\nboosting their Attack and Defense stats.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

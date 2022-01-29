@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user\u2019s Sp. Def stat.",
-    "effect": "Raises the user's Special Defense by two stages."
+    "effect": "Raises the user's Special Defense by two stages.",
+    "machines": {
+        "sword-shield": "tr17"
+    }
 }

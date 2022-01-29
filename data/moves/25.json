@@ -8,5 +8,9 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is attacked by a kick launched with\nmuscle-packed power.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tm01",
+        "yellow": "tm05"
+    }
 }

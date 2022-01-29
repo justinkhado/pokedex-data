@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "Using Happy Hour doubles the amount of prize\nmoney received after battle.",
-    "effect": "Doubles prize money.\n\nStacks with a held item.  Only works once per battle."
+    "effect": "Doubles prize money.\n\nStacks with a held item.  Only works once per battle.",
+    "machines": {}
 }

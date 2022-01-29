@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "Cloaked in flames, the user attacks the target by\ndancing and flapping its wings. This may also raise the\nuser\u2019s Sp. Atk stat.",
-    "effect": "Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage.",
+    "machines": {}
 }

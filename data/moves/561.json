@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "status",
     "description": "Using a pulled-up mat as a shield, the user protects\nitself and its allies from damaging moves. This does\nnot stop status moves.",
-    "effect": "Protects all friendly Pok\u00e9mon from damaging moves.  Only works on the first turn after the user is sent out."
+    "effect": "Protects all friendly Pok\u00e9mon from damaging moves.  Only works on the first turn after the user is sent out.",
+    "machines": {}
 }

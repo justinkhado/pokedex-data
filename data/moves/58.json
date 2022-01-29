@@ -8,5 +8,14 @@
     "type": "ice",
     "damage_class": "special",
     "description": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target.",
+    "machines": {
+        "yellow": "tm13",
+        "emerald": "tm13",
+        "platinum": "tm13",
+        "black-2-white-2": "tm13",
+        "x-y": "tm13",
+        "ultra-sun-ultra-moon": "tm13",
+        "sword-shield": "tr05"
+    }
 }

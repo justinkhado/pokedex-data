@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "physical",
     "description": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {}
 }

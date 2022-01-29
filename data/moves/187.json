@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
-    "effect": "User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail."
+    "effect": "User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail.",
+    "machines": {}
 }

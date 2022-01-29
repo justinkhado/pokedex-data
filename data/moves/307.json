@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The target is razed by a fiery explosion. The user\ncan\u2019t move on the next turn.",
-    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "machines": {}
 }

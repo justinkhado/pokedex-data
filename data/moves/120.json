@@ -8,5 +8,9 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.",
-    "effect": "User faints, even if the attack fails or misses.  Inflicts regular damage."
+    "effect": "User faints, even if the attack fails or misses.  Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tm20",
+        "yellow": "tm36"
+    }
 }

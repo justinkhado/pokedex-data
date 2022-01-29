@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user creates a protective field that prevents\nstatus conditions for five turns.",
-    "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash."
+    "effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+    "machines": {
+        "sword-shield": "tm19",
+        "emerald": "tm20",
+        "platinum": "tm20",
+        "black-2-white-2": "tm20",
+        "x-y": "tm20",
+        "ultra-sun-ultra-moon": "tm20"
+    }
 }

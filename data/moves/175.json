@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move\u2019s power.",
-    "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n"
+    "effect": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0\u2013 1                    |  200\n 2\u2013 5                    |  150\n 6\u201312                    |  100\n13\u201321                    |   80\n22\u201342                    |   40\n43\u201364                    |   20\n",
+    "machines": {}
 }

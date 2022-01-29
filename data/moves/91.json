@@ -8,5 +8,14 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user burrows into the ground, then attacks on\nthe next turn.",
-    "effect": "Inflicts regular damage.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, earthquake, fissure, and magnitude still hit the user normally, and their power is doubled if appropriate.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be selected by sleep talk."
+    "effect": "Inflicts regular damage.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, earthquake, fissure, and magnitude still hit the user normally, and their power is doubled if appropriate.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be selected by sleep talk.",
+    "machines": {
+        "sword-shield": "tm15",
+        "yellow": "tm28",
+        "crystal": "tm28",
+        "emerald": "tm28",
+        "platinum": "tm28",
+        "black-2-white-2": "tm28",
+        "x-y": "tm28"
+    }
 }

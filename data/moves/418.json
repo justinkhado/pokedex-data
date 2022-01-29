@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user strikes the target with tough punches as\nfast as bullets. This move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "special",
     "description": "The target is hit with a rainbow-colored beam.\nThis may also lower the target\u2019s Attack stat.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.",
+    "machines": {}
 }

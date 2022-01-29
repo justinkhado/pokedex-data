@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user slaps down the target\u2019s held item, and that\nitem can\u2019t be used in that battle. The move does\nmore damage if the target has a held item.",
-    "effect": "Inflicts regular damage.  Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky hold, it will take damage but not lose its item."
+    "effect": "Inflicts regular damage.  Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky hold, it will take damage but not lose its item.",
+    "machines": {}
 }

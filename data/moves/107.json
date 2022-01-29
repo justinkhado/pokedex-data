@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user compresses its body to make itself look\nsmaller, which sharply raises its evasiveness.",
-    "effect": "Raises the user's evasion by two stages.\n\nstomp and steamroller have double power against Pok\u00e9mon that have used this move since entering the field."
+    "effect": "Raises the user's evasion by two stages.\n\nstomp and steamroller have double power against Pok\u00e9mon that have used this move since entering the field.",
+    "machines": {}
 }

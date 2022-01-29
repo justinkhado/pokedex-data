@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user creates a bizarre area in which Pok\u00e9mon\u2019s\nDefense and Sp. Def stats are swapped for\nfive turns.",
-    "effect": "For five turns (including this one), every Pok\u00e9mon's Defense and Special Defense are swapped."
+    "effect": "For five turns (including this one), every Pok\u00e9mon's Defense and Special Defense are swapped.",
+    "machines": {
+        "sword-shield": "tm71"
+    }
 }

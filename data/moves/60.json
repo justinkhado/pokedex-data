@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to confuse the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to confuse the target.",
+    "machines": {}
 }

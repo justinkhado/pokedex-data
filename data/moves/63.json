@@ -8,5 +8,15 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The target is attacked with a powerful beam.\nThe user can\u2019t move on the next turn.",
-    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."
+    "effect": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "machines": {
+        "sword-shield": "tm08",
+        "yellow": "tm15",
+        "crystal": "tm15",
+        "emerald": "tm15",
+        "platinum": "tm15",
+        "black-2-white-2": "tm15",
+        "x-y": "tm15",
+        "ultra-sun-ultra-moon": "tm15"
+    }
 }

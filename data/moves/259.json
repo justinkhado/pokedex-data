@@ -8,5 +8,12 @@
     "type": "dark",
     "damage_class": "status",
     "description": "The user torments and enrages the target, making it\nincapable of using the same move twice in a row.",
-    "effect": "Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.\n\nIf the target is forced to attempt a repeated move due to choice band, choice scarf, choice specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn."
+    "effect": "Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.\n\nIf the target is forced to attempt a repeated move due to choice band, choice scarf, choice specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn.",
+    "machines": {
+        "emerald": "tm41",
+        "platinum": "tm41",
+        "black-2-white-2": "tm41",
+        "x-y": "tm41",
+        "ultra-sun-ultra-moon": "tm41"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.",
-    "effect": "Lowers the target's Attack and Special Attack by one stage."
+    "effect": "Lowers the target's Attack and Special Attack by one stage.",
+    "machines": {}
 }

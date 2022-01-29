@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "physical",
     "description": "With a hot flame on its forehead, the user hurls itself\nat its target. This lowers the user\u2019s Defense, Sp. Def,\nand Speed stats.",
-    "effect": "Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each."
+    "effect": "Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user makes a soothing bell chime to heal the\nstatus conditions of all the party Pok\u00e9mon.",
-    "effect": "Removes major status effects and confusion from every Pok\u00e9mon in the user's party."
+    "effect": "Removes major status effects and confusion from every Pok\u00e9mon in the user's party.",
+    "machines": {}
 }

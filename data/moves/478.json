@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user creates a bizarre area in which Pok\u00e9mon\u2019s\nheld items lose their effects for five turns.",
-    "effect": "For five turns (including this one), passive effects of held items are ignored, and Pok\u00e9mon will not use their held items."
+    "effect": "For five turns (including this one), passive effects of held items are ignored, and Pok\u00e9mon will not use their held items.",
+    "machines": {
+        "sword-shield": "tm72"
+    }
 }

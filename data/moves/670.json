@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user attacks by pelting the target with leaves.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

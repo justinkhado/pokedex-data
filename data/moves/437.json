@@ -8,5 +8,8 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user whips up a storm of leaves around the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
-    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "machines": {
+        "sword-shield": "tr71"
+    }
 }

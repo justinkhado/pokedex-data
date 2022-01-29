@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-    "effect": "For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.\n\nThis effect is removed by gravity.  If Gravity is already in effect, this move will fail."
+    "effect": "For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.\n\nThis effect is removed by gravity.  If Gravity is already in effect, this move will fail.",
+    "machines": {
+        "black-2-white-2": "tm19"
+    }
 }

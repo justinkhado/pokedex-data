@@ -1,92 +1,34 @@
 {
     "name": "blipbug",
     "id": 824,
+    "height": "1'4\"",
+    "weight": "17.6 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "bug",
-                "url": "https://pokeapi.co/api/v2/type/7/"
-            }
-        }
+        "bug"
     ],
+    "stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "sp. attack": 25,
+        "sp. defense": 45,
+        "speed": 45
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "swarm",
-                "url": "https://pokeapi.co/api/v2/ability/68/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "swarm",
+            "effect": "Strengthens bug moves to inflict 1.5\u00d7 damage at 1/3 max HP or less.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "compound-eyes",
-                "url": "https://pokeapi.co/api/v2/ability/14/"
-            },
-            "is_hidden": false,
-            "slot": 2
+            "name": "compound-eyes",
+            "effect": "Increases moves' accuracy to 1.3\u00d7.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "telepathy",
-                "url": "https://pokeapi.co/api/v2/ability/140/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "telepathy",
+            "effect": "Protects against friendly Pok\u00e9mon's damaging moves.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 25,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 20,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 20,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 25,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 45,
-            "effort": 1,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 45,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 4,
-    "weight": 80
+    ]
 }

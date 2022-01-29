@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user boasts its strength and attacks the target.\nThe more the user\u2019s stats are raised, the greater the\nmove\u2019s power.",
-    "effect": "Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pok\u00e9mon with all five stats modified to +6, this move's power is 31\u00d7."
+    "effect": "Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pok\u00e9mon with all five stats modified to +6, this move's power is 31\u00d7.",
+    "machines": {}
 }

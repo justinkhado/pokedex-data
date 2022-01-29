@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {}
 }

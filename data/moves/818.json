@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The user, having mastered the Water style, strikes the\ntarget with a flowing motion three times in a row. This\nattack always results in a critical hit.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

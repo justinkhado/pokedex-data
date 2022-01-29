@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "physical",
     "description": "This is a Fairy-type attack Dynamax Pok\u00e9mon use.\nThe user turns the ground into Misty Terrain for\nfive turns.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

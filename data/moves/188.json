@@ -8,5 +8,14 @@
     "type": "poison",
     "damage_class": "special",
     "description": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to poison the target.",
+    "machines": {
+        "crystal": "tm36",
+        "emerald": "tm36",
+        "platinum": "tm36",
+        "black-2-white-2": "tm36",
+        "x-y": "tm36",
+        "ultra-sun-ultra-moon": "tm36",
+        "sword-shield": "tr22"
+    }
 }

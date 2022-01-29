@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.",
-    "effect": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass."
+    "effect": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass.",
+    "machines": {}
 }

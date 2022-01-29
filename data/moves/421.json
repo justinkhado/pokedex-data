@@ -8,5 +8,12 @@
     "type": "ghost",
     "damage_class": "physical",
     "description": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "machines": {
+        "platinum": "tm65",
+        "black-2-white-2": "tm65",
+        "x-y": "tm65",
+        "ultra-sun-ultra-moon": "tm65",
+        "sword-shield": "tm65"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "status",
     "description": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion.",
-    "effect": "Confuses the target."
+    "effect": "Confuses the target.",
+    "machines": {}
 }

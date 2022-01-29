@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "status",
     "description": "The user faints when using this move. In return, this\nharshly lowers the target\u2019s Attack and Sp. Atk stats.",
-    "effect": "Lowers the target's Attack and Special Attack by two stages.  User faints."
+    "effect": "Lowers the target's Attack and Special Attack by two stages.  User faints.",
+    "machines": {}
 }

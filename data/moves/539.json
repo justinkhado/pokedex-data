@@ -8,5 +8,6 @@
     "type": "dark",
     "damage_class": "special",
     "description": "The user lets loose a pitch-black shock wave at its\ntarget. This may also lower the target\u2019s accuracy.",
-    "effect": "Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage."
+    "effect": "Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage.",
+    "machines": {}
 }

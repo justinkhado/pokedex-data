@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The user attacks with energy from jealousy. This leaves\nall opposing Pok\u00e9mon that have had their stats boosted\nduring the turn with a burn.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

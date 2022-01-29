@@ -8,5 +8,12 @@
     "type": "rock",
     "damage_class": "physical",
     "description": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "machines": {
+        "platinum": "tm71",
+        "black-2-white-2": "tm71",
+        "x-y": "tm71",
+        "ultra-sun-ultra-moon": "tm71",
+        "sword-shield": "tr75"
+    }
 }

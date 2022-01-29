@@ -8,5 +8,10 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user is roused, and its Attack and Sp. Atk\nstats increase.",
-    "effect": "Raises the user's Attack and Special Attack by one stage each."
+    "effect": "Raises the user's Attack and Special Attack by one stage each.",
+    "machines": {
+        "ultra-sun-ultra-moon": "tm01",
+        "black-2-white-2": "tm83",
+        "sword-shield": "tr85"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user attacks the target by dancing very hard.\nThe user\u2019s type determines the type of this move.",
-    "effect": "Inflicts regular damage.  This move's type matches the user's first type, if any; otherwise, it's typeless."
+    "effect": "Inflicts regular damage.  This move's type matches the user's first type, if any; otherwise, it's typeless.",
+    "machines": {}
 }

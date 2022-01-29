@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "physical",
     "description": "The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned.",
-    "effect": "Inflicts regular damage.  Has a 50% chance to badly poison the target."
+    "effect": "Inflicts regular damage.  Has a 50% chance to badly poison the target.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user growls in an endearing way, making\nopposing Pok\u00e9mon less wary. This lowers their\nAttack stats.",
-    "effect": "Lowers the target's Attack by one stage."
+    "effect": "Lowers the target's Attack by one stage.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "status",
     "description": "The user shoots poisonous threads to poison the\ntarget and lower the target\u2019s Speed stat.",
-    "effect": "Poisons the target and lowers its Speed by one stage."
+    "effect": "Poisons the target and lowers its Speed by one stage.",
+    "machines": {}
 }

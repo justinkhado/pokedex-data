@@ -8,5 +8,8 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user fiercely attacks the target using its\nentire body.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr94"
+    }
 }

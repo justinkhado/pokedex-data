@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "A spin attack that can also eliminate such moves as\nBind, Wrap, and Leech Seed. This also raises the user\u2019s\nSpeed stat.",
-    "effect": "Inflicts regular damage.  Removes leech seed from the user, frees the user from bind, clamp, fire spin, magma storm, sand tomb, whirlpool, and wrap, and clears spikes, stealth rock, and toxic spikes from the user's side of the field.  If this move misses or has no effect, its effect doesn't activate."
+    "effect": "Inflicts regular damage.  Removes leech seed from the user, frees the user from bind, clamp, fire spin, magma storm, sand tomb, whirlpool, and wrap, and clears spikes, stealth rock, and toxic spikes from the user's side of the field.  If this move misses or has no effect, its effect doesn't activate.",
+    "machines": {}
 }

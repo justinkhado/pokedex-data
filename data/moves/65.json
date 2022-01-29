@@ -8,5 +8,6 @@
     "type": "flying",
     "damage_class": "physical",
     "description": "A corkscrewing attack that strikes the target with a\nsharp beak acting as a drill.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

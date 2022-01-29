@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "physical",
     "description": "A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {}
 }

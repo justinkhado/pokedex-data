@@ -8,5 +8,9 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "The target is punched with an icy fist. This may also\nleave the target frozen.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target.",
+    "machines": {
+        "sword-shield": "tm04",
+        "crystal": "tm33"
+    }
 }

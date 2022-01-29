@@ -8,5 +8,8 @@
     "type": "electric",
     "damage_class": "status",
     "description": "The user\u2019s body generates an eerie impulse.\nExposing the target to it harshly lowers the target\u2019s\nSp. Atk stat.",
-    "effect": "Lowers the target's Special Attack by two stages."
+    "effect": "Lowers the target's Special Attack by two stages.",
+    "machines": {
+        "sword-shield": "tm93"
+    }
 }

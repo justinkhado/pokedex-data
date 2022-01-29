@@ -1,76 +1,24 @@
 {
     "name": "meltan",
     "id": 808,
+    "height": "0'8\"",
+    "weight": "17.6 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "steel",
-                "url": "https://pokeapi.co/api/v2/type/9/"
-            }
-        }
+        "steel"
     ],
+    "stats": {
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "sp. attack": 55,
+        "sp. defense": 35,
+        "speed": 34
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "magnet-pull",
-                "url": "https://pokeapi.co/api/v2/ability/42/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "magnet-pull",
+            "effect": "Prevents steel opponents from fleeing or switching out.",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 46,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 65,
-            "effort": 1,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 65,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 55,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 35,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 34,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 2,
-    "weight": 80
+    ]
 }

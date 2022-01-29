@@ -8,5 +8,8 @@
     "type": "dark",
     "damage_class": "status",
     "description": "The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat.",
-    "effect": "Lowers the target's Special Defense by two stages."
+    "effect": "Lowers the target's Special Defense by two stages.",
+    "machines": {
+        "sword-shield": "tm47"
+    }
 }

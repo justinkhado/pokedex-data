@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "physical",
     "description": "The user attacks with electrically charged fists.\nThis move changes Normal-type moves to\nElectric-type moves.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

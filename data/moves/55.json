@@ -8,5 +8,8 @@
     "type": "water",
     "damage_class": "special",
     "description": "The target is blasted with a forceful shot of water.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "yellow": "tm12"
+    }
 }

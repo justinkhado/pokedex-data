@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "special",
     "description": "The user attacks the target by throwing a clump of\nspecial mud. All stat changes are returned to normal.",
-    "effect": "Inflicts regular damage.  All of the target's stat modifiers are reset to zero."
+    "effect": "Inflicts regular damage.  All of the target's stat modifiers are reset to zero.",
+    "machines": {}
 }

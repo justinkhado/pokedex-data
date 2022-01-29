@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user reflects the target\u2019s type, making the user the\nsame type as the target.",
-    "effect": "User's type changes to match the target's."
+    "effect": "User's type changes to match the target's.",
+    "machines": {}
 }

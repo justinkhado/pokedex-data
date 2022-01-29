@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "special",
     "description": "Comets are summoned down from the sky onto the\ntarget. The attack\u2019s recoil harshly lowers the user\u2019s\nSp. Atk stat.",
-    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages."
+    "effect": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "machines": {}
 }

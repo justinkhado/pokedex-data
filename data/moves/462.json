@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is crushed with great force. The more HP\nthe target has left, the greater this move\u2019s power.",
-    "effect": "Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121."
+    "effect": "Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "physical",
     "description": "After making its attack, the user rushes back to\nswitch places with a party Pok\u00e9mon in waiting.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

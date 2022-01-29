@@ -8,5 +8,8 @@
     "type": "grass",
     "damage_class": "status",
     "description": "The user turns the ground to grass for five turns.\nThis restores the HP of Pok\u00e9mon on the ground a\nlittle every turn and powers up Grass-type moves.",
-    "effect": "For five turns, heals all Pok\u00e9mon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5\u00d7 their power.\n\nChanges nature power to energy ball."
+    "effect": "For five turns, heals all Pok\u00e9mon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5\u00d7 their power.\n\nChanges nature power to energy ball.",
+    "machines": {
+        "sword-shield": "tm88"
+    }
 }

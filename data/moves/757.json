@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "physical",
     "description": "This is a Fire-type attack Dynamax Pok\u00e9mon use.\nThe user intensifies the sun for five turns.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

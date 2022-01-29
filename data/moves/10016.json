@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "status",
     "description": "",
-    "effect": "Confuses the target."
+    "effect": "Confuses the target.",
+    "machines": {}
 }

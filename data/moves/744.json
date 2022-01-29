@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "special",
     "description": "The user unleashes a strong beam from its core.\nThis move deals twice the damage if the target\nis Dynamaxed.",
-    "effect": "Inflicts regular damage, then (if successful) sets light screen on the user's side of the field."
+    "effect": "Inflicts regular damage, then (if successful) sets light screen on the user's side of the field.",
+    "machines": {}
 }

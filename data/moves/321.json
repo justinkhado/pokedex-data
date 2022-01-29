@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user tickles the target into laughing, reducing its\nAttack and Defense stats.",
-    "effect": "Lowers the target's Attack and Defense by one stage."
+    "effect": "Lowers the target's Attack and Defense by one stage.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "flying",
     "damage_class": "physical",
     "description": "The target is struck with large, imposing wings\nspread wide to inflict damage.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

@@ -1,92 +1,33 @@
 {
     "name": "perrserker",
     "id": 863,
+    "height": "2'7\"",
+    "weight": "61.7 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "steel",
-                "url": "https://pokeapi.co/api/v2/type/9/"
-            }
-        }
+        "steel"
     ],
+    "stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 100,
+        "sp. attack": 50,
+        "sp. defense": 60,
+        "speed": 50
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "battle-armor",
-                "url": "https://pokeapi.co/api/v2/ability/4/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "battle-armor",
+            "effect": "Protects against critical hits.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "tough-claws",
-                "url": "https://pokeapi.co/api/v2/ability/181/"
-            },
-            "is_hidden": false,
-            "slot": 2
+            "name": "tough-claws",
+            "effect": "Strengthens moves that make contact to 1.33\u00d7 their power.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "steely-spirit",
-                "url": "https://pokeapi.co/api/v2/ability/252/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "steely-spirit",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 70,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 110,
-            "effort": 2,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 100,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 50,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 50,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 8,
-    "weight": 280
+    ]
 }

@@ -1,99 +1,35 @@
 {
     "name": "dreepy",
     "id": 885,
+    "height": "1'8\"",
+    "weight": "4.4 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "dragon",
-                "url": "https://pokeapi.co/api/v2/type/16/"
-            }
-        },
-        {
-            "slot": 2,
-            "type": {
-                "name": "ghost",
-                "url": "https://pokeapi.co/api/v2/type/8/"
-            }
-        }
+        "dragon",
+        "ghost"
     ],
+    "stats": {
+        "hp": 28,
+        "attack": 60,
+        "defense": 30,
+        "sp. attack": 40,
+        "sp. defense": 30,
+        "speed": 82
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "clear-body",
-                "url": "https://pokeapi.co/api/v2/ability/29/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "clear-body",
+            "effect": "Prevents stats from being lowered by other Pok\u00e9mon.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "infiltrator",
-                "url": "https://pokeapi.co/api/v2/ability/151/"
-            },
-            "is_hidden": false,
-            "slot": 2
+            "name": "infiltrator",
+            "effect": "Bypasses light screen, reflect, and safeguard.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "cursed-body",
-                "url": "https://pokeapi.co/api/v2/ability/130/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "cursed-body",
+            "effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 28,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 60,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 30,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 40,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 30,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 82,
-            "effort": 1,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 5,
-    "weight": 20
+    ]
 }

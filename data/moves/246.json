@@ -8,5 +8,6 @@
     "type": "rock",
     "damage_class": "special",
     "description": "The user attacks with a prehistoric power.\nThis may also raise all the user\u2019s stats at once.",
-    "effect": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage."
+    "effect": "Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.",
+    "machines": {}
 }

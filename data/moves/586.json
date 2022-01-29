@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

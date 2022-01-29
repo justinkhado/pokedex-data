@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "The user attacks by hurling a blizzard-cloaked\nicicle lance at opposing Pok\u00e9mon.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

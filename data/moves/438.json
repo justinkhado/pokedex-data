@@ -8,5 +8,8 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user violently whirls its vines, tentacles, or the\nlike to harshly lash the target.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr72"
+    }
 }

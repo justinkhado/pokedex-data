@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "status",
     "description": "The user releases cotton-like spores that cling to\nopposing Pok\u00e9mon, which harshly lowers their\nSpeed stats.",
-    "effect": "Lowers the target's Speed by two stages."
+    "effect": "Lowers the target's Speed by two stages.",
+    "machines": {}
 }

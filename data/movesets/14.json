@@ -1,0 +1,276 @@
+{
+    "yellow": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            },
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 7
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            },
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 7
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            },
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 7
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 334,
+                "name": "iron-defense",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "steel",
+                "damage_class": "status",
+                "description": "The user hardens its body\u2019s surface like iron,\nsharply raising its Defense stat.",
+                "effect": "Raises the user's Defense by two stages."
+            }
+        ],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            },
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 7
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 334,
+                "name": "iron-defense",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "steel",
+                "damage_class": "status",
+                "description": "The user hardens its body\u2019s surface like iron,\nsharply raising its Defense stat.",
+                "effect": "Raises the user's Defense by two stages."
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+            },
+            {
+                "id": 527,
+                "name": "electroweb",
+                "power": 55,
+                "accuracy": 95,
+                "pp": 15,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks and captures opposing Pok\u00e9mon\nusing an electric net. This lowers their Speed stats.",
+                "effect": "Lowers the target's Speed by one stage."
+            }
+        ],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            },
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 7
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 0
+            },
+            {
+                "id": 106,
+                "name": "harden",
+                "power": null,
+                "accuracy": null,
+                "pp": 30,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+                "effect": "Raises the user's Defense by one stage.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

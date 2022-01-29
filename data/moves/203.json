@@ -8,5 +8,10 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user endures any attack with at least 1 HP.\nIts chance of failing rises if it is used in succession.",
-    "effect": "The user's HP cannot be lowered below 1 by any means for the remainder of this turn.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.\n\nThis move cannot be selected by assist or metronome."
+    "effect": "The user's HP cannot be lowered below 1 by any means for the remainder of this turn.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.\n\nThis move cannot be selected by assist or metronome.",
+    "machines": {
+        "crystal": "tm20",
+        "platinum": "tm58",
+        "sword-shield": "tr26"
+    }
 }

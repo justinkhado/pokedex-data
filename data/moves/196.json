@@ -8,5 +8,9 @@
     "type": "ice",
     "damage_class": "special",
     "description": "The user attacks with a gust of chilled air. This also\nlowers opposing Pok\u00e9mon\u2019s Speed stats.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+    "machines": {
+        "crystal": "tm16",
+        "sword-shield": "tm27"
+    }
 }

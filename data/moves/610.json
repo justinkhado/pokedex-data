@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user holds back when it attacks, and the target\nis left with at least 1 HP.",
-    "effect": "Inflicts regular damage.  Will not reduce the target's HP below 1."
+    "effect": "Inflicts regular damage.  Will not reduce the target's HP below 1.",
+    "machines": {}
 }

@@ -8,5 +8,11 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user makes a swift attack on the target\u2019s legs,\nwhich lowers the target\u2019s Speed stat.",
-    "effect": "Lowers the target's Speed by one stage."
+    "effect": "Lowers the target's Speed by one stage.",
+    "machines": {
+        "black-2-white-2": "tm47",
+        "x-y": "tm47",
+        "ultra-sun-ultra-moon": "tm47",
+        "sword-shield": "tm75"
+    }
 }

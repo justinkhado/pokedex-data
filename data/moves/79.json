@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "status",
     "description": "The user scatters a big cloud of sleep-inducing dust\naround the target.",
-    "effect": "Puts the target to sleep."
+    "effect": "Puts the target to sleep.",
+    "machines": {}
 }

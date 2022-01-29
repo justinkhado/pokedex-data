@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
-    "effect": "Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type, this move will fail."
+    "effect": "Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type, this move will fail.",
+    "machines": {}
 }

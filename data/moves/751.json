@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "physical",
     "description": "The user attacks twice using Dreepy. If there are two\ntargets, this move hits each target once.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

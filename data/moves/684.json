@@ -8,5 +8,9 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user stabs the target with a sharp horn. This\nattack never misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {
+        "ultra-sun-ultra-moon": "tm67",
+        "sword-shield": "tm96"
+    }
 }

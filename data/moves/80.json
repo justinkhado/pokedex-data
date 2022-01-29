@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user attacks the target by scattering petals for\ntwo to three turns. The user then becomes confused.",
-    "effect": "Inflicts regular damage.  User is forced to attack with this move for 2\u20133 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move."
+    "effect": "Inflicts regular damage.  User is forced to attack with this move for 2\u20133 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+    "machines": {}
 }

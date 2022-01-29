@@ -8,5 +8,9 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user teleports using a strange power and\nswitches places with one of its allies.",
-    "effect": "User switches position on the field with the friendly Pok\u00e9mon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pok\u00e9mon, this move will fail."
+    "effect": "User switches position on the field with the friendly Pok\u00e9mon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pok\u00e9mon, this move will fail.",
+    "machines": {
+        "black-2-white-2": "tm51",
+        "sword-shield": "tr83"
+    }
 }

@@ -8,5 +8,10 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user employs its psychic power to exchange\nAbilities with the target.",
-    "effect": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pok\u00e9mon has multitype or wonder guard, this move will fail."
+    "effect": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pok\u00e9mon has multitype or wonder guard, this move will fail.",
+    "machines": {
+        "emerald": "tm48",
+        "platinum": "tm48",
+        "sword-shield": "tr40"
+    }
 }

@@ -1,83 +1,25 @@
 {
     "name": "calyrex",
     "id": 898,
+    "height": "3'7\"",
+    "weight": "17.0 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "psychic",
-                "url": "https://pokeapi.co/api/v2/type/14/"
-            }
-        },
-        {
-            "slot": 2,
-            "type": {
-                "name": "grass",
-                "url": "https://pokeapi.co/api/v2/type/12/"
-            }
-        }
+        "psychic",
+        "grass"
     ],
+    "stats": {
+        "hp": 100,
+        "attack": 80,
+        "defense": 80,
+        "sp. attack": 80,
+        "sp. defense": 80,
+        "speed": 80
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "unnerve",
-                "url": "https://pokeapi.co/api/v2/ability/127/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "unnerve",
+            "effect": "Prevents opposing Pok\u00e9mon from eating held Berries.",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 100,
-            "effort": 3,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 11,
-    "weight": 77
+    ]
 }

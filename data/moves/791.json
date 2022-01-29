@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "status",
     "description": "The user scatters mysterious water around and restores\nthe HP of itself and its ally Pok\u00e9mon in the battle.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

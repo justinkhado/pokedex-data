@@ -8,5 +8,13 @@
     "type": "ice",
     "damage_class": "status",
     "description": "The user summons a hailstorm lasting five turns.\nIt damages all Pok\u00e9mon except Ice types.",
-    "effect": "Changes the weather to hail for five turns, during which non-ice Pok\u00e9mon are damaged for 1/16 their max HP at the end of every turn.\n\nIf the user is holding icy rock, this effect lasts for eight turns.\n\nblizzard has 100% accuracy.  If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPok\u00e9mon with snow cloak are exempt from this effect's damage."
+    "effect": "Changes the weather to hail for five turns, during which non-ice Pok\u00e9mon are damaged for 1/16 their max HP at the end of every turn.\n\nIf the user is holding icy rock, this effect lasts for eight turns.\n\nblizzard has 100% accuracy.  If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPok\u00e9mon with snow cloak are exempt from this effect's damage.",
+    "machines": {
+        "emerald": "tm07",
+        "platinum": "tm07",
+        "black-2-white-2": "tm07",
+        "x-y": "tm07",
+        "ultra-sun-ultra-moon": "tm07",
+        "sword-shield": "tm35"
+    }
 }

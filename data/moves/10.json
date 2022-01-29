@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "Hard, pointed, sharp claws rake the target to\ninflict damage.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

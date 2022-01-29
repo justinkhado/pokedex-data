@@ -8,5 +8,8 @@
     "type": "fairy",
     "damage_class": "status",
     "description": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target\u2019s\nAttack stat.",
-    "effect": "Lowers the target's Attack by two stages."
+    "effect": "Lowers the target's Attack by two stages.",
+    "machines": {
+        "sword-shield": "tm29"
+    }
 }

@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user exchanges Speed stats with the target.",
-    "effect": "Exchanges the original Speed stats of the user and target."
+    "effect": "Exchanges the original Speed stats of the user and target.",
+    "machines": {
+        "sword-shield": "tm62"
+    }
 }

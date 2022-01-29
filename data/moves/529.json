@@ -8,5 +8,8 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "machines": {
+        "sword-shield": "tr87"
+    }
 }

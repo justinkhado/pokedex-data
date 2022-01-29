@@ -8,5 +8,6 @@
     "type": "flying",
     "damage_class": "physical",
     "description": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds. But it lowers\nits own Defense and Sp. Def stats in the process.",
-    "effect": "Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each."
+    "effect": "Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each.",
+    "machines": {}
 }

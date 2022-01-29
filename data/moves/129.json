@@ -8,5 +8,10 @@
     "type": "normal",
     "damage_class": "special",
     "description": "Star-shaped rays are shot at opposing Pok\u00e9mon.\nThis attack never misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {
+        "yellow": "tm39",
+        "crystal": "tm39",
+        "sword-shield": "tm40"
+    }
 }

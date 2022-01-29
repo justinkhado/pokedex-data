@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
-    "effect": "Inflicts regular damage.  Hits twice in one turn."
+    "effect": "Inflicts regular damage.  Hits twice in one turn.",
+    "machines": {}
 }

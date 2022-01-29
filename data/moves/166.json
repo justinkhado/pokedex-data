@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "It enables the user to permanently learn the move\nlast used by the target. Once used,\nSketch disappears.",
-    "effect": "Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.\n\nThis move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore."
+    "effect": "Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.\n\nThis move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore.",
+    "machines": {}
 }

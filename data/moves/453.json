@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

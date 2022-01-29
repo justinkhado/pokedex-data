@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-    "effect": "Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.\n\nThis move cannot be used while gravity is in effect."
+    "effect": "Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.\n\nThis move cannot be used while gravity is in effect.",
+    "machines": {}
 }

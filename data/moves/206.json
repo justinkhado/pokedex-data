@@ -8,5 +8,12 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP.",
-    "effect": "Inflicts regular damage.  Will not reduce the target's HP below 1."
+    "effect": "Inflicts regular damage.  Will not reduce the target's HP below 1.",
+    "machines": {
+        "platinum": "tm54",
+        "black-2-white-2": "tm54",
+        "x-y": "tm54",
+        "ultra-sun-ultra-moon": "tm54",
+        "sword-shield": "tm94"
+    }
 }

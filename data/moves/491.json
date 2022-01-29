@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "special",
     "description": "The user spits fluid that works to melt the target.\nThis harshly lowers the target\u2019s Sp. Def stat.",
-    "effect": "Inflicts regular damage.  Lowers the target's Special Defense by two stages."
+    "effect": "Inflicts regular damage.  Lowers the target's Special Defense by two stages.",
+    "machines": {}
 }

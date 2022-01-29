@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "status",
     "description": "The user puts a forest curse on the target.\nThe target is now Grass type as well.",
-    "effect": "Adds grass to the target's types."
+    "effect": "Adds grass to the target's types.",
+    "machines": {}
 }

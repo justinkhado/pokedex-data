@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user attacks the target with an acidic liquid created\nfrom tart apples. This also lowers the target\u2019s\nSp. Def stat.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

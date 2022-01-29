@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "special",
     "description": "Converting its life-force into power, the user attacks\nopposing Pok\u00e9mon. The lower the user\u2019s HP, the lower\nthe move\u2019s power.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user attacks last. In return, this throw move\nnever misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {}
 }

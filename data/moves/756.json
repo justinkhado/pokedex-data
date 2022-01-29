@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "With its mysterious power, the user swaps the effects on\neither side of the field.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

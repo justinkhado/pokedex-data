@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-    "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target."
+    "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
+    "machines": {}
 }

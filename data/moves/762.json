@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "physical",
     "description": "This is a Ghost-type attack Dynamax Pok\u00e9mon use.\nThis lowers the target\u2019s Defense stat.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

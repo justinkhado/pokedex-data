@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The user brings down a giant flame. This move\u2019s\npower is increased when influenced by an enormous\nlightning bolt.",
-    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used fusion bolt earlier this turn, this move has double power."
+    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used fusion bolt earlier this turn, this move has double power.",
+    "machines": {}
 }

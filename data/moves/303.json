@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user slacks off, restoring its own HP by up to\nhalf of its max HP.",
-    "effect": "Heals the user for half its max HP."
+    "effect": "Heals the user for half its max HP.",
+    "machines": {}
 }

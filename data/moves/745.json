@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "special",
     "description": "The user ignores the effects of opposing Pok\u00e9mon\u2019s\nmoves and Abilities that draw in moves, allowing this\nmove to hit the chosen target.",
-    "effect": "Inflicts regular damage, then (if successful) sets reflect on the user's side of the field."
+    "effect": "Inflicts regular damage, then (if successful) sets reflect on the user's side of the field.",
+    "machines": {}
 }

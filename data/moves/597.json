@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "status",
     "description": "The user raises the Sp. Def stat of an ally Pok\u00e9mon\nby using a mysterious aroma.",
-    "effect": "Raises a selected ally's Special Defense by one stage."
+    "effect": "Raises a selected ally's Special Defense by one stage.",
+    "machines": {}
 }

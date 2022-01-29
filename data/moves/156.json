@@ -8,5 +8,15 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user goes to sleep for two turns. This fully\nrestores the user\u2019s HP and heals any\nstatus conditions.",
-    "effect": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.\n\nThis move fails if the Pok\u00e9mon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pok\u00e9mon is at full health or is already asleep."
+    "effect": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.\n\nThis move fails if the Pok\u00e9mon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pok\u00e9mon is at full health or is already asleep.",
+    "machines": {
+        "sword-shield": "tm21",
+        "yellow": "tm44",
+        "crystal": "tm44",
+        "emerald": "tm44",
+        "platinum": "tm44",
+        "black-2-white-2": "tm44",
+        "x-y": "tm44",
+        "ultra-sun-ultra-moon": "tm44"
+    }
 }

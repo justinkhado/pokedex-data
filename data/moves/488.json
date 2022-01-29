@@ -8,5 +8,10 @@
     "type": "fire",
     "damage_class": "physical",
     "description": "Cloaking itself in flame, the user attacks the target.\nThen, building up more power, the user raises its\nSpeed stat.",
-    "effect": "Inflicts regular damage.  Raises the user's Speed by one stage."
+    "effect": "Inflicts regular damage.  Raises the user's Speed by one stage.",
+    "machines": {
+        "black-2-white-2": "tm43",
+        "x-y": "tm43",
+        "ultra-sun-ultra-moon": "tm43"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "special",
     "description": "If the Pok\u00e9mon the user has inflicted damage on\nhave already used their moves, this move eliminates\nthe effect of the target\u2019s Ability.",
-    "effect": "Inflicts regular damage.  If the target has already moved this turn, its ability is nullified."
+    "effect": "Inflicts regular damage.  If the target has already moved this turn, its ability is nullified.",
+    "machines": {}
 }

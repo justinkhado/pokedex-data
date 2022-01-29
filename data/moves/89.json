@@ -8,5 +8,15 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user sets off an earthquake that strikes every\nPok\u00e9mon around it.",
-    "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power."
+    "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power.",
+    "machines": {
+        "yellow": "tm26",
+        "crystal": "tm26",
+        "emerald": "tm26",
+        "platinum": "tm26",
+        "black-2-white-2": "tm26",
+        "x-y": "tm26",
+        "ultra-sun-ultra-moon": "tm26",
+        "sword-shield": "tr10"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user draws attention to itself, making all targets\ntake aim only at the user.",
-    "effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome."
+    "effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome.",
+    "machines": {}
 }

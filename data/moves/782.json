@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user becomes a gigantic shield and slams into\nthe target. This move deals twice the damage if the\ntarget is Dynamaxed.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

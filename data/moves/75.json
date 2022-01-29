@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "Sharp-edged leaves are launched to slash at opposing\nPok\u00e9mon. Critical hits land more easily.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "machines": {}
 }

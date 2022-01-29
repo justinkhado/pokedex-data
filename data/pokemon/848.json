@@ -1,99 +1,35 @@
 {
     "name": "toxel",
     "id": 848,
+    "height": "1'4\"",
+    "weight": "24.3 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "electric",
-                "url": "https://pokeapi.co/api/v2/type/13/"
-            }
-        },
-        {
-            "slot": 2,
-            "type": {
-                "name": "poison",
-                "url": "https://pokeapi.co/api/v2/type/4/"
-            }
-        }
+        "electric",
+        "poison"
     ],
+    "stats": {
+        "hp": 40,
+        "attack": 38,
+        "defense": 35,
+        "sp. attack": 54,
+        "sp. defense": 35,
+        "speed": 40
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "rattled",
-                "url": "https://pokeapi.co/api/v2/ability/155/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "rattled",
+            "effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "static",
-                "url": "https://pokeapi.co/api/v2/ability/9/"
-            },
-            "is_hidden": false,
-            "slot": 2
+            "name": "static",
+            "effect": "Has a 30% chance of paralyzing attacking Pok\u00e9mon on contact.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "klutz",
-                "url": "https://pokeapi.co/api/v2/ability/103/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "klutz",
+            "effect": "Prevents the Pok\u00e9mon from using its held item in battle.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 40,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 38,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 35,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 54,
-            "effort": 1,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 35,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 40,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 4,
-    "weight": 110
+    ]
 }

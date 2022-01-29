@@ -8,5 +8,8 @@
     "type": "flying",
     "damage_class": "special",
     "description": "The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to confuse the target.\n\nThis move can hit Pok\u00e9mon under the effect of bounce, fly, or sky drop.\n\nDuring rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy."
+    "effect": "Inflicts regular damage.  Has a 30% chance to confuse the target.\n\nThis move can hit Pok\u00e9mon under the effect of bounce, fly, or sky drop.\n\nDuring rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy.",
+    "machines": {
+        "sword-shield": "tr89"
+    }
 }

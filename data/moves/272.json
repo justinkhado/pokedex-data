@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user mimics the target completely, copying the\ntarget\u2019s Ability.",
-    "effect": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.\n\nThis move cannot be copied by mirror move."
+    "effect": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.\n\nThis move cannot be copied by mirror move.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "Using its psychic power of suggestion, the user\ntransfers its status conditions to the target.",
-    "effect": "If the user has a major status effect and the target does not, the user's status is transferred to the target."
+    "effect": "If the user has a major status effect and the target does not, the user's status is transferred to the target.",
+    "machines": {}
 }

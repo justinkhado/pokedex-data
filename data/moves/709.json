@@ -8,5 +8,6 @@
     "type": "rock",
     "damage_class": "physical",
     "description": "The user smashes into the target at high speed.\nThis move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

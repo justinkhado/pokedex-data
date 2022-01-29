@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The target is scared off, and a different Pok\u00e9mon is\ndragged out. In the wild, this ends a battle against a\nsingle Pok\u00e9mon.",
-    "effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pok\u00e9mon with suction cups or under the effect of ingrain."
+    "effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pok\u00e9mon with suction cups or under the effect of ingrain.",
+    "machines": {
+        "crystal": "tm05",
+        "emerald": "tm05",
+        "platinum": "tm05",
+        "black-2-white-2": "tm05",
+        "x-y": "tm05",
+        "ultra-sun-ultra-moon": "tm05"
+    }
 }

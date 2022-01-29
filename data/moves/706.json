@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "physical",
     "description": "The user bites the target with its psychic\ncapabilities. This can also destroy Light Screen\nand Reflect.",
-    "effect": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage."
+    "effect": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr97"
+    }
 }

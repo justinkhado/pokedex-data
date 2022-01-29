@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target.",
-    "effect": "User swaps its Defense and Special Defense modifiers with the target."
+    "effect": "User swaps its Defense and Special Defense modifiers with the target.",
+    "machines": {
+        "sword-shield": "tm61"
+    }
 }

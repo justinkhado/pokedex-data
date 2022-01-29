@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user emits a shock wave from its body to attack\nits target. This may also harshly lower the target\u2019s\nSp. Def stat.",
-    "effect": "Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages."
+    "effect": "Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages.",
+    "machines": {}
 }

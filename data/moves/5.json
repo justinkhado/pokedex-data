@@ -8,5 +8,9 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is slugged by a punch thrown with\nmuscle-packed power.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tm00",
+        "yellow": "tm01"
+    }
 }

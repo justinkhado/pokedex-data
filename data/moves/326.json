@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The user attacks with an odd, unseeable power.\nThis may also make the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 10% chance to make the target flinch.",
+    "machines": {}
 }

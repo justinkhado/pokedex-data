@@ -8,5 +8,9 @@
     "type": "bug",
     "damage_class": "special",
     "description": "While resisting, the user attacks opposing Pok\u00e9mon.\nThis lowers the Sp. Atk stats of those hit.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+    "machines": {
+        "black-2-white-2": "tm76",
+        "x-y": "tm76"
+    }
 }

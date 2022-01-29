@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user employs its psychic power to average its\nDefense and Sp. Def stats with those of the target.",
-    "effect": "Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pok\u00e9mon. Unmodified Special Defense is averaged the same way."
+    "effect": "Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pok\u00e9mon. Unmodified Special Defense is averaged the same way.",
+    "machines": {}
 }

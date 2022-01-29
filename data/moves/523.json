@@ -8,5 +8,11 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stats of\nthose hit.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+    "machines": {
+        "black-2-white-2": "tm78",
+        "x-y": "tm78",
+        "ultra-sun-ultra-moon": "tm78",
+        "sword-shield": "tm81"
+    }
 }

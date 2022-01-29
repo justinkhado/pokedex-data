@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "physical",
     "description": "",
-    "effect": "Inflicts regular damage.  User takes 1/2 of its current HP in recoil."
+    "effect": "Inflicts regular damage.  User takes 1/2 of its current HP in recoil.",
+    "machines": {}
 }

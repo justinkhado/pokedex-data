@@ -1,0 +1,276 @@
+{
+    "yellow": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 86,
+                "name": "thunder-wave",
+                "power": null,
+                "accuracy": 90,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "status",
+                "description": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "level": 1
+            },
+            {
+                "id": 209,
+                "name": "spark",
+                "power": 65,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "physical",
+                "description": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+                "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+                "level": 1
+            },
+            {
+                "id": 451,
+                "name": "charge-beam",
+                "power": 50,
+                "accuracy": 90,
+                "pp": 10,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat.",
+                "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 393,
+                "name": "magnet-rise",
+                "power": null,
+                "accuracy": null,
+                "pp": 10,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "status",
+                "description": "The user levitates using electrically generated\nmagnetism for five turns.",
+                "effect": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton pass."
+            }
+        ],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 86,
+                "name": "thunder-wave",
+                "power": null,
+                "accuracy": 90,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "status",
+                "description": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "level": 1
+            },
+            {
+                "id": 209,
+                "name": "spark",
+                "power": 65,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "physical",
+                "description": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+                "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+                "level": 1
+            },
+            {
+                "id": 451,
+                "name": "charge-beam",
+                "power": 50,
+                "accuracy": 90,
+                "pp": 10,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat.",
+                "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": [
+            {
+                "id": 451,
+                "name": "charge-beam",
+                "power": 50,
+                "accuracy": 90,
+                "pp": 10,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat.",
+                "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+                "machine": "tm57"
+            },
+            {
+                "id": 86,
+                "name": "thunder-wave",
+                "power": null,
+                "accuracy": 90,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "status",
+                "description": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "machine": "tm73"
+            }
+        ]
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 86,
+                "name": "thunder-wave",
+                "power": null,
+                "accuracy": 90,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "status",
+                "description": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "level": 1
+            },
+            {
+                "id": 209,
+                "name": "spark",
+                "power": 65,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "physical",
+                "description": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+                "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+                "level": 1
+            },
+            {
+                "id": 451,
+                "name": "charge-beam",
+                "power": 50,
+                "accuracy": 90,
+                "pp": 10,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat.",
+                "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": [
+            {
+                "id": 451,
+                "name": "charge-beam",
+                "power": 50,
+                "accuracy": 90,
+                "pp": 10,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat.",
+                "effect": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.",
+                "machine": "tm57"
+            },
+            {
+                "id": 86,
+                "name": "thunder-wave",
+                "power": null,
+                "accuracy": 90,
+                "pp": 20,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "status",
+                "description": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+                "effect": "Paralyzes the target.",
+                "machine": "tm73"
+            }
+        ]
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

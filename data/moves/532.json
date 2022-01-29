@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user drains the target\u2019s energy with its horns.\nThe user\u2019s HP is restored by half the damage taken\nby the target.",
-    "effect": "Inflicts regular damage.  Drains half the damage inflicted to heal the user."
+    "effect": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "machines": {}
 }

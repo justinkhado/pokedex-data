@@ -8,5 +8,13 @@
     "type": "fighting",
     "damage_class": "status",
     "description": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
-    "effect": "Raises the user's Attack and Defense by one stage each."
+    "effect": "Raises the user's Attack and Defense by one stage each.",
+    "machines": {
+        "emerald": "tm08",
+        "platinum": "tm08",
+        "black-2-white-2": "tm08",
+        "x-y": "tm08",
+        "ultra-sun-ultra-moon": "tm08",
+        "sword-shield": "tr48"
+    }
 }

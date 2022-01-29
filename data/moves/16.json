@@ -8,5 +8,6 @@
     "type": "flying",
     "damage_class": "special",
     "description": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
-    "effect": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."
+    "effect": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+    "machines": {}
 }

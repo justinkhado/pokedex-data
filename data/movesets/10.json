@@ -1,0 +1,341 @@
+{
+    "yellow": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 173,
+                "name": "snore",
+                "power": 50,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "special",
+                "description": "This attack can be used only if the user is asleep.\nThe harsh noise may also make the target flinch.",
+                "effect": "Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch."
+            }
+        ],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 173,
+                "name": "snore",
+                "power": 50,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "special",
+                "description": "This attack can be used only if the user is asleep.\nThe harsh noise may also make the target flinch.",
+                "effect": "Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch."
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen."
+            },
+            {
+                "id": 527,
+                "name": "electroweb",
+                "power": 55,
+                "accuracy": 95,
+                "pp": 15,
+                "priority": 0,
+                "type": "electric",
+                "damage_class": "special",
+                "description": "The user attacks and captures opposing Pok\u00e9mon\nusing an electric net. This lowers their Speed stats.",
+                "effect": "Lowers the target's Speed by one stage."
+            }
+        ],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 15
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 33,
+                "name": "tackle",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+                "effect": "Inflicts regular damage.",
+                "level": 1
+            },
+            {
+                "id": 81,
+                "name": "string-shot",
+                "power": null,
+                "accuracy": 95,
+                "pp": 40,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "status",
+                "description": "Opposing Pok\u00e9mon are bound with silk blown from\nthe user\u2019s mouth that harshly lowers the Speed stat.",
+                "effect": "Lowers the target's Speed by two stages.",
+                "level": 1
+            },
+            {
+                "id": 450,
+                "name": "bug-bite",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "bug",
+                "damage_class": "physical",
+                "description": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+                "effect": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+                "level": 9
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

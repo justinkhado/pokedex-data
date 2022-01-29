@@ -8,5 +8,12 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user attacks everything around it by causing a\ntremendous explosion. The user faints upon using\nthis move.",
-    "effect": "User faints, even if the attack fails or misses.  Inflicts regular damage."
+    "effect": "User faints, even if the attack fails or misses.  Inflicts regular damage.",
+    "machines": {
+        "yellow": "tm47",
+        "platinum": "tm64",
+        "black-2-white-2": "tm64",
+        "x-y": "tm64",
+        "ultra-sun-ultra-moon": "tm64"
+    }
 }

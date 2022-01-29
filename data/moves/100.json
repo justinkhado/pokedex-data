@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user switches places with a party Pok\u00e9mon in\nwaiting, if any. If a wild Pok\u00e9mon uses this move,\nit flees.",
-    "effect": "Does nothing.  Wild battles end immediately."
+    "effect": "Does nothing.  Wild battles end immediately.",
+    "machines": {
+        "yellow": "tm30"
+    }
 }

@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-    "effect": "Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1."
+    "effect": "Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+    "machines": {
+        "crystal": "tm21",
+        "emerald": "tm21",
+        "platinum": "tm21",
+        "black-2-white-2": "tm21",
+        "x-y": "tm21",
+        "ultra-sun-ultra-moon": "tm21"
+    }
 }

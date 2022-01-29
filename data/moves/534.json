@@ -8,5 +8,8 @@
     "type": "water",
     "damage_class": "physical",
     "description": "The user cuts its target with sharp shells. This may\nalso lower the target\u2019s Defense stat.",
-    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage."
+    "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+    "machines": {
+        "sword-shield": "tm83"
+    }
 }

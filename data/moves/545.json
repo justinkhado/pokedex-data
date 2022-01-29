@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to burn the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to burn the target.",
+    "machines": {}
 }

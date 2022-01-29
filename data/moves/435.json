@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "special",
     "description": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+    "machines": {}
 }

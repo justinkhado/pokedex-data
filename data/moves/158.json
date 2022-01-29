@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 10% chance to make the target flinch.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user\u2019s mysterious psychic wave changes the\ntarget\u2019s Ability to Simple.",
-    "effect": "Changes the target's ability to simple."
+    "effect": "Changes the target's ability to simple.",
+    "machines": {}
 }

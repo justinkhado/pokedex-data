@@ -8,5 +8,8 @@
     "type": "rock",
     "damage_class": "special",
     "description": "The user attacks with a ray of light that sparkles as\nif it were made of gemstones.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr63"
+    }
 }

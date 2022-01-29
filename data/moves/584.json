@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "special",
     "description": "The user stirs up a fairy wind and strikes the target\nwith it.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

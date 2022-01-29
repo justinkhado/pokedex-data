@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "The user swings and hits with its strong, heavy fist.\nIt lowers the user\u2019s Speed, however.",
-    "effect": "Inflicts regular damage, then lowers the user's Speed by one stage."
+    "effect": "Inflicts regular damage, then lowers the user's Speed by one stage.",
+    "machines": {}
 }

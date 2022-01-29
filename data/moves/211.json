@@ -8,5 +8,13 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The target is hit with wings of steel. This may also\nraise the user\u2019s Defense stat.",
-    "effect": "Inflicts regular damage. Has a 10% chance to raise the user's Defense one stage."
+    "effect": "Inflicts regular damage. Has a 10% chance to raise the user's Defense one stage.",
+    "machines": {
+        "sword-shield": "tm30",
+        "crystal": "tm47",
+        "emerald": "tm47",
+        "platinum": "tm47",
+        "x-y": "tm51",
+        "ultra-sun-ultra-moon": "tm51"
+    }
 }

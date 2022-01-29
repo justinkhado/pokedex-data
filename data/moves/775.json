@@ -8,5 +8,6 @@
     "type": "dragon",
     "damage_class": "status",
     "description": "The user raises all its stats by using some of its HP.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

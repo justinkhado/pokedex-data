@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "This attack hits first and makes the target flinch.\nIt only works the first turn each time the user\nenters battle.",
-    "effect": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field."
+    "effect": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.",
+    "machines": {}
 }

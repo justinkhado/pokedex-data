@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The Pok\u00e9mon congratulates you on your special day!",
-    "effect": "Does nothing."
+    "effect": "Does nothing.",
+    "machines": {}
 }

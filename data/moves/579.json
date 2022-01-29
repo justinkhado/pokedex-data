@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "status",
     "description": "The user raises the Defense stats of all Grass-type\nPok\u00e9mon in battle with a mysterious power.",
-    "effect": "Raises the Defense of all grass Pok\u00e9mon in battle."
+    "effect": "Raises the Defense of all grass Pok\u00e9mon in battle.",
+    "machines": {}
 }

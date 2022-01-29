@@ -8,5 +8,15 @@
     "type": "grass",
     "damage_class": "special",
     "description": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
-    "effect": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk."
+    "effect": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk.",
+    "machines": {
+        "sword-shield": "tm11",
+        "yellow": "tm22",
+        "crystal": "tm22",
+        "emerald": "tm22",
+        "platinum": "tm22",
+        "black-2-white-2": "tm22",
+        "x-y": "tm22",
+        "ultra-sun-ultra-moon": "tm22"
+    }
 }

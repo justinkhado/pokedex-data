@@ -8,5 +8,8 @@
     "type": "dragon",
     "damage_class": "special",
     "description": "The user exhales a mighty gust that inflicts damage.\nThis may also leave the target with paralysis.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target."
+    "effect": "Inflicts regular damage.  Has a 30% chance to paralyze the target.",
+    "machines": {
+        "crystal": "tm24"
+    }
 }

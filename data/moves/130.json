@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user tucks in its head to raise its Defense\nstat on the first turn, then rams the target on the\nnext turn.",
-    "effect": "Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.\n\nThis move cannot be selected by sleep talk."
+    "effect": "Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.\n\nThis move cannot be selected by sleep talk.",
+    "machines": {
+        "yellow": "tm40"
+    }
 }

@@ -8,5 +8,8 @@
     "type": "steel",
     "damage_class": "status",
     "description": "The user hardens its body\u2019s surface like iron,\nsharply raising its Defense stat.",
-    "effect": "Raises the user's Defense by two stages."
+    "effect": "Raises the user's Defense by two stages.",
+    "machines": {
+        "sword-shield": "tr46"
+    }
 }

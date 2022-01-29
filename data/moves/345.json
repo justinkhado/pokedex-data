@@ -8,5 +8,8 @@
     "type": "grass",
     "damage_class": "special",
     "description": "The user scatters curious leaves that chase the\ntarget. This attack never misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {
+        "sword-shield": "tm10"
+    }
 }

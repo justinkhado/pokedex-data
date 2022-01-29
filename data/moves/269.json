@@ -8,5 +8,13 @@
     "type": "dark",
     "damage_class": "status",
     "description": "The target is taunted into a rage that allows it to use\nonly attack moves for three turns.",
-    "effect": "Target is forced to only use damaging moves for the next 3\u20135 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.\n\nassist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.\n\nbide, counter, endeavor, metal burst, and mirror coat are allowed."
+    "effect": "Target is forced to only use damaging moves for the next 3\u20135 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.\n\nassist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.\n\nbide, counter, endeavor, metal burst, and mirror coat are allowed.",
+    "machines": {
+        "emerald": "tm12",
+        "platinum": "tm12",
+        "black-2-white-2": "tm12",
+        "x-y": "tm12",
+        "ultra-sun-ultra-moon": "tm12",
+        "sword-shield": "tr37"
+    }
 }

@@ -8,5 +8,12 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user stores power, then attacks. If the user\nmoves after the target, this attack\u2019s power will\nbe doubled.",
-    "effect": "Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power."
+    "effect": "Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power.",
+    "machines": {
+        "sword-shield": "tm57",
+        "platinum": "tm66",
+        "black-2-white-2": "tm66",
+        "x-y": "tm66",
+        "ultra-sun-ultra-moon": "tm66"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "status",
     "description": "",
-    "effect": "Changes the weather to Shadow Sky for five turns.  Pok\u00e9mon other than shadow Pok\u00e9mon take 1/16 their max HP at the end of every turn.  This move is typeless for the purposes of weather ball."
+    "effect": "Changes the weather to Shadow Sky for five turns.  Pok\u00e9mon other than shadow Pok\u00e9mon take 1/16 their max HP at the end of every turn.  This move is typeless for the purposes of weather ball.",
+    "machines": {}
 }

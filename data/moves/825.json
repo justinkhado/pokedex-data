@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "special",
     "description": "The user attacks by sending a frightful amount of small\nghosts at opposing Pok\u00e9mon.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

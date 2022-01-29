@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user assists an ally by boosting the power of\nthat ally\u2019s attack.",
-    "effect": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome."
+    "effect": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+    "machines": {
+        "sword-shield": "tm41"
+    }
 }

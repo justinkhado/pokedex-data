@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "special",
     "description": "The user hits the target with throwing stars two to\nfive times in a row. This move always goes first.",
-    "effect": "Inflicts regular damage.  Hits 2\u20135 times."
+    "effect": "Inflicts regular damage.  Hits 2\u20135 times.",
+    "machines": {}
 }

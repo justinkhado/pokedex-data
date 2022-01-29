@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "special",
     "description": "Letting out a charming cry, the user does emotional\ndamage to opposing Pok\u00e9mon. This attack\nnever misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion.",
+    "machines": {}
 }

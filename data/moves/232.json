@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The target is raked with steel claws. This may also\nraise the user\u2019s Attack stat.",
-    "effect": "Inflicts regular damage. Has a 10% chance to raise the user's Attack one stage."
+    "effect": "Inflicts regular damage. Has a 10% chance to raise the user's Attack one stage.",
+    "machines": {}
 }

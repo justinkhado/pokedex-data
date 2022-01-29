@@ -8,5 +8,13 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
-    "effect": "Raises the user's Special Attack and Special Defense by one stage each."
+    "effect": "Raises the user's Special Attack and Special Defense by one stage each.",
+    "machines": {
+        "emerald": "tm04",
+        "platinum": "tm04",
+        "black-2-white-2": "tm04",
+        "x-y": "tm04",
+        "ultra-sun-ultra-moon": "tm04",
+        "sword-shield": "tr49"
+    }
 }

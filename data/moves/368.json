@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user retaliates with much greater force against\nthe opponent that last inflicted damage on it.",
-    "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a damaging move this turn.  Inflicts 1.5\u00d7 the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored."
+    "effect": "Targets the last opposing Pok\u00e9mon to hit the user with a damaging move this turn.  Inflicts 1.5\u00d7 the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.",
+    "machines": {}
 }

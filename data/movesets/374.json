@@ -1,0 +1,194 @@
+{
+    "yellow": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "crystal": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "emerald": {
+        "level-up": [
+            {
+                "id": 36,
+                "name": "take-down",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+                "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "platinum": {
+        "level-up": [
+            {
+                "id": 36,
+                "name": "take-down",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+                "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 334,
+                "name": "iron-defense",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "steel",
+                "damage_class": "status",
+                "description": "The user hardens its body\u2019s surface like iron,\nsharply raising its Defense stat.",
+                "effect": "Raises the user's Defense by two stages."
+            },
+            {
+                "id": 428,
+                "name": "zen-headbutt",
+                "power": 80,
+                "accuracy": 90,
+                "pp": 15,
+                "priority": 0,
+                "type": "psychic",
+                "damage_class": "physical",
+                "description": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+            },
+            {
+                "id": 442,
+                "name": "iron-head",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "steel",
+                "damage_class": "physical",
+                "description": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+                "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+            }
+        ],
+        "machine": []
+    },
+    "black-2-white-2": {
+        "level-up": [
+            {
+                "id": 36,
+                "name": "take-down",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+                "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [
+            {
+                "id": 334,
+                "name": "iron-defense",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "steel",
+                "damage_class": "status",
+                "description": "The user hardens its body\u2019s surface like iron,\nsharply raising its Defense stat.",
+                "effect": "Raises the user's Defense by two stages."
+            },
+            {
+                "id": 428,
+                "name": "zen-headbutt",
+                "power": 80,
+                "accuracy": 90,
+                "pp": 15,
+                "priority": 0,
+                "type": "psychic",
+                "damage_class": "physical",
+                "description": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+            },
+            {
+                "id": 442,
+                "name": "iron-head",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "steel",
+                "damage_class": "physical",
+                "description": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+                "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+            }
+        ],
+        "machine": []
+    },
+    "x-y": {
+        "level-up": [
+            {
+                "id": 36,
+                "name": "take-down",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+                "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "ultra-sun-ultra-moon": {
+        "level-up": [
+            {
+                "id": 36,
+                "name": "take-down",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+                "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+                "level": 1
+            }
+        ],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    },
+    "sword-shield": {
+        "level-up": [],
+        "egg": [],
+        "tutor": [],
+        "machine": []
+    }
+}

@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The target is slugged with a punch thrown at\nmaximum power.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "yellow": "hm04",
+        "crystal": "hm04",
+        "emerald": "hm04",
+        "platinum": "hm04",
+        "black-2-white-2": "hm04",
+        "x-y": "hm04"
+    }
 }

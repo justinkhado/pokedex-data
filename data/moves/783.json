@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "physical",
     "description": "Morpeko attacks and raises its Speed with the energy\nstored in its cheeks. This move\u2019s type changes\ndepending on the user\u2019s form.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

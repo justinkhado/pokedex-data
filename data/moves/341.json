@@ -8,5 +8,8 @@
     "type": "ground",
     "damage_class": "special",
     "description": "The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target\u2019s Speed stat.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.",
+    "machines": {
+        "sword-shield": "tm53"
+    }
 }

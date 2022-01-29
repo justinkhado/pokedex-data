@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user rotates, centering the hex nut in its chest,\nand then strikes with its arms twice in a row. This may\nalso make the target flinch.",
-    "effect": "Inflicts regular damage.  Hits twice in one turn."
+    "effect": "Inflicts regular damage.  Hits twice in one turn.",
+    "machines": {}
 }

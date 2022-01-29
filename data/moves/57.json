@@ -8,5 +8,15 @@
     "type": "water",
     "damage_class": "special",
     "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
-    "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power."
+    "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+    "machines": {
+        "ultra-sun-ultra-moon": "tm94",
+        "yellow": "hm03",
+        "crystal": "hm03",
+        "emerald": "hm03",
+        "platinum": "hm03",
+        "black-2-white-2": "hm03",
+        "x-y": "hm03",
+        "sword-shield": "tr04"
+    }
 }

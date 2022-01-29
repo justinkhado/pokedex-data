@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "status",
     "description": "After using this move, if the user faints, the\nPok\u00e9mon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
-    "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome."
+    "effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+    "machines": {}
 }

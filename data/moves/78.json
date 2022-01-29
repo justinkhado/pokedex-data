@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "status",
     "description": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
-    "effect": "Paralyzes the target."
+    "effect": "Paralyzes the target.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "status",
     "description": "The user boosts the power of the Electric move it\nuses on the next turn. This also raises the user\u2019s\nSp. Def stat.",
-    "effect": "Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled."
+    "effect": "Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled.",
+    "machines": {}
 }

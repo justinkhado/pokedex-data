@@ -8,5 +8,6 @@
     "type": "water",
     "damage_class": "special",
     "description": "The user attacks opposing Pok\u00e9mon with countless\nbeams of light that glow a deep and brilliant blue.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

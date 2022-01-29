@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The user attacks the target with its psychic power.\nThis move\u2019s power goes up and damages all opposing\nPok\u00e9mon on Psychic Terrain.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

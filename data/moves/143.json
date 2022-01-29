@@ -8,5 +8,8 @@
     "type": "flying",
     "damage_class": "physical",
     "description": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.",
-    "effect": "Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a 30% chance to make the target flinch.\n\nThis move cannot be selected by sleep talk."
+    "effect": "Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a 30% chance to make the target flinch.\n\nThis move cannot be selected by sleep talk.",
+    "machines": {
+        "yellow": "tm43"
+    }
 }

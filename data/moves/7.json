@@ -8,5 +8,9 @@
     "type": "fire",
     "damage_class": "physical",
     "description": "The target is punched with a fiery fist. This may also\nleave the target with a burn.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+    "machines": {
+        "sword-shield": "tm03",
+        "crystal": "tm48"
+    }
 }

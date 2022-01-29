@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "status",
     "description": "The target is exposed to a sinister ray that\ntriggers confusion.",
-    "effect": "Confuses the target."
+    "effect": "Confuses the target.",
+    "machines": {}
 }

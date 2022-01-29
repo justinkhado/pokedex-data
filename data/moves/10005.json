@@ -8,5 +8,6 @@
     "type": "shadow",
     "damage_class": "physical",
     "description": "",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

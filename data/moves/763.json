@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "This is an Ice-type attack Dynamax Pok\u00e9mon use.\nThe user summons a hailstorm lasting five turns.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

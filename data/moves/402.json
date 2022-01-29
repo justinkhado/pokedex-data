@@ -8,5 +8,8 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user slams a barrage of hard-shelled seeds\ndown on the target from above.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr59"
+    }
 }

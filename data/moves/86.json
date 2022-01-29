@@ -8,5 +8,13 @@
     "type": "electric",
     "damage_class": "status",
     "description": "The user launches a weak jolt of electricity that\nparalyzes the target.",
-    "effect": "Paralyzes the target."
+    "effect": "Paralyzes the target.",
+    "machines": {
+        "sword-shield": "tm14",
+        "yellow": "tm45",
+        "platinum": "tm73",
+        "black-2-white-2": "tm73",
+        "x-y": "tm73",
+        "ultra-sun-ultra-moon": "tm73"
+    }
 }

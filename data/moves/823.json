@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "physical",
     "description": "The user overwhelms the target with lightning-like\nmovement before delivering a kick. This also lowers\nthe target\u2019s Defense stat.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

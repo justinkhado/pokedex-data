@@ -8,5 +8,14 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "A wondrous wall of light is put up to reduce damage\nfrom physical attacks for five turns.",
-    "effect": "Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.\n\nIf the user is holding light clay, the barrier lasts for eight turns.\n\nbrick break or defog used by an opponent will destroy the barrier."
+    "effect": "Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.\n\nIf the user is holding light clay, the barrier lasts for eight turns.\n\nbrick break or defog used by an opponent will destroy the barrier.",
+    "machines": {
+        "sword-shield": "tm18",
+        "yellow": "tm33",
+        "emerald": "tm33",
+        "platinum": "tm33",
+        "black-2-white-2": "tm33",
+        "x-y": "tm33",
+        "ultra-sun-ultra-moon": "tm33"
+    }
 }

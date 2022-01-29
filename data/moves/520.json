@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "special",
     "description": "A column of grass hits the target. When used with\nits water equivalent, its power increases and a vast\nswamp appears.",
-    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used fire pledge earlier this turn, all opposing Pok\u00e9mon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one)."
+    "effect": "Inflicts regular damage.  If a friendly Pok\u00e9mon used fire pledge earlier this turn, all opposing Pok\u00e9mon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one).",
+    "machines": {}
 }

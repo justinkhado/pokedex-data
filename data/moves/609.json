@@ -8,5 +8,6 @@
     "type": "electric",
     "damage_class": "physical",
     "description": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to paralyze the target."
+    "effect": "Inflicts regular damage.  Has a 100% chance to paralyze the target.",
+    "machines": {}
 }

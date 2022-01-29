@@ -8,5 +8,6 @@
     "type": "ground",
     "damage_class": "status",
     "description": "The user regains up to half of its max HP. It restores\nmore HP in a sandstorm.",
-    "effect": "Heals the user for \u00bd its max HP.  During a sandstorm, the healing is increased to \u2154."
+    "effect": "Heals the user for \u00bd its max HP.  During a sandstorm, the healing is increased to \u2154.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user generates odd sound waves from its body\nthat confuse the target.",
-    "effect": "Confuses the target."
+    "effect": "Confuses the target.",
+    "machines": {}
 }

@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.",
-    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
+    "machines": {
+        "crystal": "tm02"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "fairy",
     "damage_class": "status",
     "description": "The user sharply raises the target\u2019s Attack and Sp. Atk\nstats by decorating the target.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

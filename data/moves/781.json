@@ -8,5 +8,6 @@
     "type": "steel",
     "damage_class": "physical",
     "description": "The user becomes a gigantic sword and cuts the target.\nThis move deals twice the damage if the target\nis Dynamaxed.",
-    "effect": ""
+    "effect": "",
+    "machines": {}
 }

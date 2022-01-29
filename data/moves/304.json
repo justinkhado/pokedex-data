@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user lets loose a horribly echoing shout with\nthe power to inflict damage.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "sword-shield": "tr42"
+    }
 }

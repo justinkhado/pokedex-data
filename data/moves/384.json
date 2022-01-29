@@ -8,5 +8,8 @@
     "type": "psychic",
     "damage_class": "status",
     "description": "The user employs its psychic power to switch\nchanges to its Attack and Sp. Atk stats with\nthe target.",
-    "effect": "User swaps its Attack and Special Attack stat modifiers modifiers with the target."
+    "effect": "User swaps its Attack and Special Attack stat modifiers modifiers with the target.",
+    "machines": {
+        "sword-shield": "tm60"
+    }
 }

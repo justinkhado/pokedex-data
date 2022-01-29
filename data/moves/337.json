@@ -8,5 +8,13 @@
     "type": "dragon",
     "damage_class": "physical",
     "description": "The user slashes the target with huge sharp claws.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {
+        "emerald": "tm02",
+        "platinum": "tm02",
+        "black-2-white-2": "tm02",
+        "x-y": "tm02",
+        "ultra-sun-ultra-moon": "tm02",
+        "sword-shield": "tr47"
+    }
 }

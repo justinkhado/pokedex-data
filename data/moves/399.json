@@ -8,5 +8,11 @@
     "type": "dark",
     "damage_class": "special",
     "description": "The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.",
-    "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+    "machines": {
+        "platinum": "tm79",
+        "x-y": "tm97",
+        "ultra-sun-ultra-moon": "tm97",
+        "sword-shield": "tr58"
+    }
 }

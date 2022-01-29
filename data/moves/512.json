@@ -8,5 +8,11 @@
     "type": "flying",
     "damage_class": "physical",
     "description": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
-    "effect": "Inflicts regular damage.  If the user has no held item, this move has double power."
+    "effect": "Inflicts regular damage.  If the user has no held item, this move has double power.",
+    "machines": {
+        "black-2-white-2": "tm62",
+        "x-y": "tm62",
+        "ultra-sun-ultra-moon": "tm62",
+        "sword-shield": "tm78"
+    }
 }

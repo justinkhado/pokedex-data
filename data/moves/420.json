@@ -8,5 +8,6 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "The user flash-freezes chunks of ice and hurls them\nat the target. This move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

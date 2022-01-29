@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user helps the target and makes it use its move\nright after the user.",
-    "effect": "The target will act next this turn, regardless of Speed or move priority.\nIf the target has already acted this turn, this move will fail."
+    "effect": "The target will act next this turn, regardless of Speed or move priority.\nIf the target has already acted this turn, this move will fail.",
+    "machines": {}
 }

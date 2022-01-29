@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "special",
     "description": "Opposing Pok\u00e9mon are attacked with a spray of harsh\nacid. This may also lower their Sp. Def stats.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage."
+    "effect": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.",
+    "machines": {}
 }

@@ -8,5 +8,6 @@
     "type": "psychic",
     "damage_class": "special",
     "description": "The user shoots its psychic power from its eyes\nto attack. This may also leave the target frozen.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

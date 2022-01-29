@@ -8,5 +8,6 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user restores its own HP by up to half of its\nmax HP.",
-    "effect": "Heals the user for half its max HP."
+    "effect": "Heals the user for half its max HP.",
+    "machines": {}
 }

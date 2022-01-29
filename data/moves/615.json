@@ -8,5 +8,6 @@
     "type": "ground",
     "damage_class": "physical",
     "description": "The user attacks with a wave that crawls along\nthe ground. Those it hits can\u2019t flee from battle.",
-    "effect": "Inflicts regular damage.  Traps the target."
+    "effect": "Inflicts regular damage.  Traps the target.",
+    "machines": {}
 }

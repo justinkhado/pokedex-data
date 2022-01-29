@@ -8,5 +8,8 @@
     "type": "dragon",
     "damage_class": "physical",
     "description": "The user swings its tough tail wildly and attacks\nopposing Pok\u00e9mon. This also lowers their Attack stats.",
-    "effect": "Inflicts regular damage.  Lowers the target's Attack by one stage."
+    "effect": "Inflicts regular damage.  Lowers the target's Attack by one stage.",
+    "machines": {
+        "sword-shield": "tm99"
+    }
 }

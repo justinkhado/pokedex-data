@@ -8,5 +8,12 @@
     "type": "normal",
     "damage_class": "status",
     "description": "The user hypnotizes itself into copying any stat\nchange made by the target.",
-    "effect": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror move."
+    "effect": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror move.",
+    "machines": {
+        "crystal": "tm09",
+        "platinum": "tm77",
+        "black-2-white-2": "tm77",
+        "x-y": "tm77",
+        "ultra-sun-ultra-moon": "tm77"
+    }
 }

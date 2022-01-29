@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "special",
     "description": "The user attacks by engulfing the target in an\nintense fire. This leaves the target with a burn.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to burn the target."
+    "effect": "Inflicts regular damage.  Has a 100% chance to burn the target.",
+    "machines": {}
 }

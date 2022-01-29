@@ -1,92 +1,33 @@
 {
     "name": "rolycoly",
     "id": 837,
+    "height": "0'12\"",
+    "weight": "26.5 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "rock",
-                "url": "https://pokeapi.co/api/v2/type/6/"
-            }
-        }
+        "rock"
     ],
+    "stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 50,
+        "sp. attack": 40,
+        "sp. defense": 50,
+        "speed": 30
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "steam-engine",
-                "url": "https://pokeapi.co/api/v2/ability/243/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "steam-engine",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "heatproof",
-                "url": "https://pokeapi.co/api/v2/ability/85/"
-            },
-            "is_hidden": false,
-            "slot": 2
+            "name": "heatproof",
+            "effect": "Halves damage from fire moves and burns.",
+            "hidden": false
         },
         {
-            "ability": {
-                "name": "flash-fire",
-                "url": "https://pokeapi.co/api/v2/ability/18/"
-            },
-            "is_hidden": true,
-            "slot": 3
+            "name": "flash-fire",
+            "effect": "Protects against fire moves.  Once one has been blocked, the Pok\u00e9mon's own Fire moves inflict 1.5\u00d7 damage until it leaves battle.",
+            "hidden": true
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 30,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 40,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 50,
-            "effort": 1,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 40,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 50,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 30,
-            "effort": 0,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 3,
-    "weight": 120
+    ]
 }

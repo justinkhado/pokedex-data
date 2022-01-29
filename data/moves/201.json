@@ -8,5 +8,14 @@
     "type": "rock",
     "damage_class": "status",
     "description": "A five-turn sandstorm is summoned to hurt all\ncombatants except Rock, Ground, and Steel types.\nIt raises the Sp. Def stat of Rock types.",
-    "effect": "Changes the weather to a sandstorm for five turns.  Pok\u00e9mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok\u00e9mon's original Special Defense is raised by 50% for the duration of this effect.\n\nsolar beam's power is halved.\n\nmoonlight, morning sun, and synthesis only heal 1/4 the user's max HP."
+    "effect": "Changes the weather to a sandstorm for five turns.  Pok\u00e9mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok\u00e9mon's original Special Defense is raised by 50% for the duration of this effect.\n\nsolar beam's power is halved.\n\nmoonlight, morning sun, and synthesis only heal 1/4 the user's max HP.",
+    "machines": {
+        "sword-shield": "tm32",
+        "crystal": "tm37",
+        "emerald": "tm37",
+        "platinum": "tm37",
+        "black-2-white-2": "tm37",
+        "x-y": "tm37",
+        "ultra-sun-ultra-moon": "tm37"
+    }
 }

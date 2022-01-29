@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user stirs up a violent petal blizzard and attacks\neverything around it.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

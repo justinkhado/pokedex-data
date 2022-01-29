@@ -8,5 +8,11 @@
     "type": "dark",
     "damage_class": "special",
     "description": "The user yells as if it\u2019s ranting about something,\nwhich lowers the Sp. Atk stats of opposing Pok\u00e9mon.",
-    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage."
+    "effect": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.",
+    "machines": {
+        "sword-shield": "tm85",
+        "black-2-white-2": "tm95",
+        "x-y": "tm95",
+        "ultra-sun-ultra-moon": "tm95"
+    }
 }

@@ -8,5 +8,9 @@
     "type": "electric",
     "damage_class": "physical",
     "description": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to paralyze the target.",
+    "machines": {
+        "sword-shield": "tm05",
+        "crystal": "tm41"
+    }
 }

@@ -8,5 +8,8 @@
     "type": "fire",
     "damage_class": "physical",
     "description": "The user launches a kick that lands a critical hit\nmore easily. This may also leave the target with\na burn.",
-    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target."
+    "effect": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target.",
+    "machines": {
+        "sword-shield": "tr41"
+    }
 }

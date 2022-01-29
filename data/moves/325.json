@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "physical",
     "description": "The user throws a punch from the shadows. This\nattack never misses.",
-    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers."
+    "effect": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "machines": {}
 }

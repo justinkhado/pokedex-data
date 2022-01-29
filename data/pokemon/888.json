@@ -1,76 +1,23 @@
 {
     "name": "zacian-hero",
     "id": 888,
+    "height": "9'2\"",
+    "weight": "242.5 lbs",
     "types": [
-        {
-            "slot": 1,
-            "type": {
-                "name": "fairy",
-                "url": "https://pokeapi.co/api/v2/type/18/"
-            }
-        }
+        "fairy"
     ],
+    "stats": {
+        "hp": 92,
+        "attack": 130,
+        "defense": 115,
+        "sp. attack": 80,
+        "sp. defense": 115,
+        "speed": 138
+    },
     "abilities": [
         {
-            "ability": {
-                "name": "intrepid-sword",
-                "url": "https://pokeapi.co/api/v2/ability/234/"
-            },
-            "is_hidden": false,
-            "slot": 1
+            "name": "intrepid-sword",
+            "hidden": false
         }
-    ],
-    "moves": [],
-    "stats": [
-        {
-            "base_stat": 92,
-            "effort": 0,
-            "stat": {
-                "name": "hp",
-                "url": "https://pokeapi.co/api/v2/stat/1/"
-            }
-        },
-        {
-            "base_stat": 130,
-            "effort": 0,
-            "stat": {
-                "name": "attack",
-                "url": "https://pokeapi.co/api/v2/stat/2/"
-            }
-        },
-        {
-            "base_stat": 115,
-            "effort": 0,
-            "stat": {
-                "name": "defense",
-                "url": "https://pokeapi.co/api/v2/stat/3/"
-            }
-        },
-        {
-            "base_stat": 80,
-            "effort": 0,
-            "stat": {
-                "name": "special-attack",
-                "url": "https://pokeapi.co/api/v2/stat/4/"
-            }
-        },
-        {
-            "base_stat": 115,
-            "effort": 0,
-            "stat": {
-                "name": "special-defense",
-                "url": "https://pokeapi.co/api/v2/stat/5/"
-            }
-        },
-        {
-            "base_stat": 138,
-            "effort": 3,
-            "stat": {
-                "name": "speed",
-                "url": "https://pokeapi.co/api/v2/stat/6/"
-            }
-        }
-    ],
-    "height": 28,
-    "weight": 1100
+    ]
 }

@@ -8,5 +8,9 @@
     "type": "normal",
     "damage_class": "physical",
     "description": "Numerous coins are hurled at the target to inflict\ndamage. Money is earned after the battle.",
-    "effect": "Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used."
+    "effect": "Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used.",
+    "machines": {
+        "sword-shield": "tm02",
+        "yellow": "tm16"
+    }
 }

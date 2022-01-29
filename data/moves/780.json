@@ -8,5 +8,6 @@
     "type": "fire",
     "damage_class": "physical",
     "description": "The user attacks by igniting a small stone and launching\nit as a fiery ball at the target. This may also leave the\ntarget with a burn.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target."
+    "effect": "Inflicts regular damage.  Has a 10% chance to burn the target.",
+    "machines": {}
 }

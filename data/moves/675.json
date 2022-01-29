@@ -8,5 +8,8 @@
     "type": "dark",
     "damage_class": "physical",
     "description": "The user attacks the target\u2019s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns.",
-    "effect": "Inflicts regular damage.  Silences the target for two turns, preventing it from using any sound-based moves."
+    "effect": "Inflicts regular damage.  Silences the target for two turns, preventing it from using any sound-based moves.",
+    "machines": {
+        "sword-shield": "tr95"
+    }
 }

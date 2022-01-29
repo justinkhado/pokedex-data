@@ -8,5 +8,13 @@
     "type": "normal",
     "damage_class": "status",
     "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-    "effect": "Lowers the target's accuracy by one stage."
+    "effect": "Lowers the target's accuracy by one stage.",
+    "machines": {
+        "platinum": "tm70",
+        "black-2-white-2": "tm70",
+        "x-y": "tm70",
+        "yellow": "hm05",
+        "crystal": "hm05",
+        "emerald": "hm05"
+    }
 }

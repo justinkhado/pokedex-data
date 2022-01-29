@@ -8,5 +8,6 @@
     "type": "bug",
     "damage_class": "status",
     "description": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target.",
-    "effect": "Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move."
+    "effect": "Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move.",
+    "machines": {}
 }

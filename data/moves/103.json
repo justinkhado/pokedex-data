@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "status",
     "description": "An earsplitting screech harshly lowers the target\u2019s\nDefense stat.",
-    "effect": "Lowers the target's Defense by two stages."
+    "effect": "Lowers the target's Defense by two stages.",
+    "machines": {
+        "sword-shield": "tm16"
+    }
 }

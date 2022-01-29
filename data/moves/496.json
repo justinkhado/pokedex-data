@@ -8,5 +8,11 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.",
-    "effect": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pok\u00e9mon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pok\u00e9mon using other moves will then continue to act as usual."
+    "effect": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pok\u00e9mon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pok\u00e9mon using other moves will then continue to act as usual.",
+    "machines": {
+        "black-2-white-2": "tm48",
+        "x-y": "tm48",
+        "ultra-sun-ultra-moon": "tm48",
+        "sword-shield": "tm76"
+    }
 }

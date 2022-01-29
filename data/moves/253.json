@@ -8,5 +8,8 @@
     "type": "normal",
     "damage_class": "special",
     "description": "The user attacks in an uproar for three turns.\nDuring that time, no Pok\u00e9mon can fall asleep.",
-    "effect": "Inflicts regular damage.  User is forced to use this move for 2\u20135 turns, selected at random.  All Pok\u00e9mon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPok\u00e9mon cannot use rest during this effect.\n\nThis move cannot be selected by sleep talk."
+    "effect": "Inflicts regular damage.  User is forced to use this move for 2\u20135 turns, selected at random.  All Pok\u00e9mon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPok\u00e9mon cannot use rest during this effect.\n\nThis move cannot be selected by sleep talk.",
+    "machines": {
+        "sword-shield": "tr35"
+    }
 }

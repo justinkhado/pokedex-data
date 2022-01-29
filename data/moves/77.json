@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "status",
     "description": "The user scatters a cloud of poisonous dust that\npoisons the target.",
-    "effect": "Poisons the target."
+    "effect": "Poisons the target.",
+    "machines": {}
 }

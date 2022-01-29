@@ -8,5 +8,11 @@
     "type": "rock",
     "damage_class": "status",
     "description": "The user polishes its body to reduce drag.\nThis sharply raises the Speed stat.",
-    "effect": "Raises the user's Speed by two stages."
+    "effect": "Raises the user's Speed by two stages.",
+    "machines": {
+        "platinum": "tm69",
+        "black-2-white-2": "tm69",
+        "x-y": "tm69",
+        "ultra-sun-ultra-moon": "tm69"
+    }
 }

@@ -8,5 +8,6 @@
     "type": "fighting",
     "damage_class": "status",
     "description": "This move raises all the user\u2019s stats but prevents\nthe user from switching out or fleeing.",
-    "effect": " with a 100% chance to make the target flinch."
+    "effect": " with a 100% chance to make the target flinch.",
+    "machines": {}
 }

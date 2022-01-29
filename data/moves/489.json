@@ -8,5 +8,6 @@
     "type": "poison",
     "damage_class": "status",
     "description": "The user coils up and concentrates. This raises its\nAttack and Defense stats as well as its accuracy.",
-    "effect": "Raises the user's Attack, Defense, and accuracy by one stage each."
+    "effect": "Raises the user's Attack, Defense, and accuracy by one stage each.",
+    "machines": {}
 }

@@ -8,5 +8,9 @@
     "type": "water",
     "damage_class": "special",
     "description": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
-    "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target."
+    "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
+    "machines": {
+        "emerald": "tm03",
+        "platinum": "tm03"
+    }
 }

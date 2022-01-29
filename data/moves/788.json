@@ -8,5 +8,6 @@
     "type": "grass",
     "damage_class": "physical",
     "description": "The user inflicts damage by dropping an apple from\nhigh above. This also lowers the target\u2019s Defense stat.",
-    "effect": "Inflicts regular damage.  Lowers the target's Defense by one stage."
+    "effect": "Inflicts regular damage.  Lowers the target's Defense by one stage.",
+    "machines": {}
 }

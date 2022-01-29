@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "physical",
     "description": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
-    "effect": "Inflicts regular damage."
+    "effect": "Inflicts regular damage.",
+    "machines": {}
 }

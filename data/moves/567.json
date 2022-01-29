@@ -8,5 +8,6 @@
     "type": "ghost",
     "damage_class": "status",
     "description": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target\u2019s type.",
-    "effect": "Adds ghost to the target's types."
+    "effect": "Adds ghost to the target's types.",
+    "machines": {}
 }

@@ -8,5 +8,8 @@
     "type": "ice",
     "damage_class": "physical",
     "description": "The user bites with cold-infused fangs. This may\nalso make the target flinch or leave it frozen.",
-    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch."
+    "effect": "Inflicts regular damage.  Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch.",
+    "machines": {
+        "sword-shield": "tm67"
+    }
 }
