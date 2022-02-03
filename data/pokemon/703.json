@@ -8,6 +8,7 @@
         "fairy"
     ],
     "stats": {
+        "total": 500,
         "hp": 50,
         "attack": 50,
         "defense": 150,

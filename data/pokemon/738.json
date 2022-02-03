@@ -8,6 +8,7 @@
         "electric"
     ],
     "stats": {
+        "total": 500,
         "hp": 77,
         "attack": 70,
         "defense": 90,

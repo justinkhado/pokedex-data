@@ -8,6 +8,7 @@
         "dark"
     ],
     "stats": {
+        "total": 600,
         "hp": 100,
         "attack": 134,
         "defense": 110,

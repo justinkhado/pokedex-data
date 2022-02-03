@@ -8,6 +8,7 @@
         "rock"
     ],
     "stats": {
+        "total": 535,
         "hp": 115,
         "attack": 140,
         "defense": 130,

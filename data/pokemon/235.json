@@ -7,6 +7,7 @@
         "normal"
     ],
     "stats": {
+        "total": 250,
         "hp": 55,
         "attack": 20,
         "defense": 35,

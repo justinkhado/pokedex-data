@@ -8,6 +8,7 @@
         "steel"
     ],
     "stats": {
+        "total": 350,
         "hp": 30,
         "attack": 42,
         "defense": 118,

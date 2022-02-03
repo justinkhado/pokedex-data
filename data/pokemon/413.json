@@ -8,6 +8,7 @@
         "grass"
     ],
     "stats": {
+        "total": 424,
         "hp": 60,
         "attack": 59,
         "defense": 85,

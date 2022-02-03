@@ -7,6 +7,7 @@
         "ice"
     ],
     "stats": {
+        "total": 304,
         "hp": 55,
         "attack": 69,
         "defense": 85,

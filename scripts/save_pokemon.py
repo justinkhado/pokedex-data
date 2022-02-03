@@ -18,12 +18,13 @@ def _clean_pokemon_raw(pokemon_raw):
     for _type in pokemon_raw['types']:
         pokemon['types'].append(_type['type']['name'])
 
-    pokemon['stats'] = {}
+    pokemon['stats'] = {'total': 0}
     for stat in pokemon_raw['stats']:
         stat_name = stat['stat']['name']
         if 'special-' in stat_name:
             stat_name = stat_name.replace('special-', 'sp. ')
         pokemon['stats'][stat_name] = stat['base_stat']
+        pokemon['stats']['total'] += stat['base_stat']
 
     return pokemon
 
@@ -92,4 +93,4 @@ def save_each_pokemon():
             json.dump(pokemon, f, indent=4)
 
 if __name__ == '__main__':
-    save_pokemons()
+    save_each_pokemon()

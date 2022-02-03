@@ -7,6 +7,7 @@
         "bug"
     ],
     "stats": {
+        "total": 305,
         "hp": 50,
         "attack": 40,
         "defense": 85,

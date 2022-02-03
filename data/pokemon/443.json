@@ -8,6 +8,7 @@
         "ground"
     ],
     "stats": {
+        "total": 300,
         "hp": 58,
         "attack": 70,
         "defense": 45,

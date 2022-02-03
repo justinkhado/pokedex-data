@@ -8,6 +8,7 @@
         "water"
     ],
     "stats": {
+        "total": 355,
         "hp": 30,
         "attack": 80,
         "defense": 90,

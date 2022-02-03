@@ -8,6 +8,7 @@
         "dragon"
     ],
     "stats": {
+        "total": 600,
         "hp": 92,
         "attack": 105,
         "defense": 90,

@@ -8,6 +8,7 @@
         "flying"
     ],
     "stats": {
+        "total": 245,
         "hp": 40,
         "attack": 45,
         "defense": 35,

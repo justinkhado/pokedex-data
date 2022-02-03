@@ -8,6 +8,7 @@
         "psychic"
     ],
     "stats": {
+        "total": 455,
         "hp": 65,
         "attack": 50,
         "defense": 35,

@@ -8,6 +8,7 @@
         "ghost"
     ],
     "stats": {
+        "total": 303,
         "hp": 59,
         "attack": 74,
         "defense": 50,

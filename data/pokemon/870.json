@@ -7,6 +7,7 @@
         "fighting"
     ],
     "stats": {
+        "total": 470,
         "hp": 65,
         "attack": 100,
         "defense": 100,

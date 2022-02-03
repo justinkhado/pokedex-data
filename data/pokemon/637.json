@@ -8,6 +8,7 @@
         "fire"
     ],
     "stats": {
+        "total": 550,
         "hp": 85,
         "attack": 60,
         "defense": 65,

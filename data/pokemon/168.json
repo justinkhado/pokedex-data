@@ -8,6 +8,7 @@
         "poison"
     ],
     "stats": {
+        "total": 400,
         "hp": 70,
         "attack": 90,
         "defense": 70,
