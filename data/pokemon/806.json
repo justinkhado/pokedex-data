@@ -26,23 +26,23 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ground",
             "rock",
+            "ground",
             "water",
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "1": [
-            "flying",
             "dragon",
-            "psychic",
-            "electric"
+            "electric",
+            "flying",
+            "psychic"
         ],
         "1/2": [
-            "fairy",
-            "fire",
             "grass",
             "ice",
+            "fairy",
+            "fire",
             "steel",
             "poison"
         ],

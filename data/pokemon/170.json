@@ -40,16 +40,16 @@
             "ground"
         ],
         "1": [
-            "fighting",
-            "fairy",
-            "rock",
             "poison",
-            "psychic",
-            "ghost",
+            "rock",
             "normal",
+            "bug",
             "dark",
             "dragon",
-            "bug",
+            "fighting",
+            "fairy",
+            "ghost",
+            "psychic",
             "electric"
         ],
         "1/2": [

@@ -35,23 +35,23 @@
         "2": [],
         "1": [
             "flying",
+            "normal",
+            "dark",
+            "ground",
+            "bug",
+            "dragon",
             "fighting",
             "fairy",
-            "psychic",
             "ghost",
-            "normal",
-            "ground",
-            "dark",
-            "dragon",
-            "bug",
+            "psychic",
             "ice",
             "water"
         ],
         "1/2": [
-            "steel",
             "fire",
-            "rock",
-            "poison"
+            "steel",
+            "poison",
+            "rock"
         ],
         "1/4": []
     }

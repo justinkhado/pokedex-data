@@ -39,21 +39,21 @@
             "ice",
             "fairy",
             "dragon",
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "1": [
             "flying",
             "rock",
-            "psychic",
             "ground",
-            "steel"
+            "steel",
+            "psychic"
         ],
         "1/2": [
             "water",
             "fire",
-            "grass",
             "electric",
+            "grass",
             "poison",
             "bug"
         ],

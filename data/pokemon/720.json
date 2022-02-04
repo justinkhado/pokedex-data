@@ -25,21 +25,21 @@
     ],
     "type_chart": {
         "4": [
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "2": [],
         "1": [
             "flying",
-            "rock",
-            "fire",
             "grass",
-            "electric",
-            "fairy",
             "ice",
+            "rock",
             "ground",
-            "steel",
+            "electric",
             "dragon",
+            "fairy",
+            "fire",
+            "steel",
             "water",
             "bug"
         ],

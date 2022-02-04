@@ -40,23 +40,23 @@
         "2": [
             "fairy",
             "bug",
-            "steel",
             "rock",
-            "fire"
+            "fire",
+            "steel"
         ],
         "1": [
-            "flying",
             "poison",
+            "flying",
             "grass",
-            "electric",
             "normal",
             "ground",
+            "electric",
             "dragon",
             "water"
         ],
         "1/2": [
-            "ghost",
             "dark",
+            "ghost",
             "ice"
         ],
         "1/4": []

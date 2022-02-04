@@ -43,12 +43,12 @@
         ],
         "1": [
             "flying",
-            "fire",
-            "ghost",
             "normal",
             "dark",
-            "steel",
             "dragon",
+            "fire",
+            "steel",
+            "ghost",
             "grass"
         ],
         "1/2": [

@@ -37,17 +37,17 @@
         "4": [],
         "2": [
             "ice",
-            "flying",
             "fire",
+            "flying",
             "psychic"
         ],
         "1": [
             "rock",
-            "ghost",
             "normal",
             "dark",
-            "steel",
             "dragon",
+            "steel",
+            "ghost",
             "ground",
             "poison",
             "bug"

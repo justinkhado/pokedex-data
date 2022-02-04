@@ -37,18 +37,18 @@
             "bug"
         ],
         "1": [
-            "fairy",
             "rock",
-            "psychic",
-            "ghost",
             "dark",
             "dragon",
+            "fairy",
+            "ghost",
+            "psychic",
             "poison",
-            "flying",
             "fire",
+            "flying",
             "ground",
-            "grass",
-            "water"
+            "water",
+            "grass"
         ],
         "1/2": [
             "normal",

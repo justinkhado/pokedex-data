@@ -69,7 +69,7 @@ def _get_type_chart(types_raw):
             types.append(json.load(f))
     
     if len(types) == 1:
-        return types[0]
+        return {**types[0], '4': [], '1/4': []}
 
     type_chart = {}
     type_chart['4'] = list(set(types[0]['2']).intersection(set(types[1]['2'])))

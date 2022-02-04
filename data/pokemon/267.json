@@ -33,21 +33,21 @@
             "rock"
         ],
         "2": [
-            "flying",
             "fire",
+            "flying",
             "ice",
             "electric"
         ],
         "1": [
-            "fairy",
             "poison",
-            "psychic",
-            "ghost",
             "normal",
             "dark",
-            "steel",
             "dragon",
-            "water"
+            "fairy",
+            "steel",
+            "water",
+            "ghost",
+            "psychic"
         ],
         "1/2": [
             "bug"

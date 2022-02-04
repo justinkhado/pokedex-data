@@ -44,17 +44,17 @@
             "rock"
         ],
         "1/2": [
-            "flying",
+            "dragon",
             "normal",
-            "psychic",
-            "dragon"
+            "flying",
+            "psychic"
         ],
         "1/4": [
-            "fairy",
             "grass",
             "ice",
-            "steel",
-            "bug"
+            "bug",
+            "fairy",
+            "steel"
         ]
     }
 }

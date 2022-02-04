@@ -27,17 +27,17 @@
         "4": [],
         "2": [
             "dragon",
-            "ground",
-            "rock"
+            "rock",
+            "ground"
         ],
         "1": [
-            "flying",
-            "fighting",
             "poison",
-            "psychic",
-            "ghost",
+            "flying",
             "normal",
             "dark",
+            "fighting",
+            "ghost",
+            "psychic",
             "water",
             "ice",
             "fairy"

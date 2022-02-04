@@ -39,17 +39,17 @@
         ],
         "2": [
             "rock",
-            "fairy",
-            "dragon"
+            "dragon",
+            "fairy"
         ],
         "1": [
-            "flying",
             "poison",
-            "psychic",
-            "ghost",
+            "flying",
             "normal",
             "dark",
             "steel",
+            "ghost",
+            "psychic",
             "electric"
         ],
         "1/2": [

@@ -31,20 +31,20 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ghost",
             "dark",
+            "ghost",
             "ice",
-            "grass",
-            "water"
+            "water",
+            "grass"
         ],
         "1": [
             "flying",
+            "ground",
+            "dragon",
             "fairy",
             "fire",
-            "psychic",
-            "ground",
             "steel",
-            "dragon"
+            "psychic"
         ],
         "1/2": [
             "bug",

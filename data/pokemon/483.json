@@ -35,8 +35,8 @@
             "ground"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "ice",
             "fairy",
             "dragon",
@@ -45,10 +45,10 @@
         "1/2": [
             "flying",
             "rock",
-            "psychic",
             "normal",
-            "steel",
             "bug",
+            "steel",
+            "psychic",
             "water",
             "electric"
         ],

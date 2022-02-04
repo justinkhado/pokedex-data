@@ -42,17 +42,17 @@
         ],
         "1": [
             "flying",
-            "rock",
-            "fire",
             "grass",
-            "electric",
-            "fairy",
             "ice",
+            "rock",
             "normal",
             "ground",
+            "electric",
+            "fairy",
+            "fire",
             "water",
-            "dark",
-            "bug"
+            "bug",
+            "dark"
         ],
         "1/2": [
             "psychic"

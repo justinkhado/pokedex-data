@@ -34,23 +34,23 @@
         ],
         "2": [
             "ice",
-            "flying",
             "fire",
+            "flying",
             "steel"
         ],
         "1": [
-            "fairy",
             "rock",
-            "psychic",
-            "ghost",
             "normal",
+            "fairy",
+            "ghost",
+            "psychic",
             "bug"
         ],
         "1/2": [
             "water",
             "ground",
-            "grass",
             "electric",
+            "grass",
             "fighting",
             "dark"
         ],

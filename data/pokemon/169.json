@@ -38,22 +38,22 @@
         ],
         "1": [
             "flying",
-            "fire",
-            "ghost",
             "normal",
             "dark",
-            "steel",
             "dragon",
-            "water"
+            "fire",
+            "steel",
+            "water",
+            "ghost"
         ],
         "1/2": [
-            "fairy",
-            "poison"
+            "poison",
+            "fairy"
         ],
         "1/4": [
             "fighting",
-            "grass",
-            "bug"
+            "bug",
+            "grass"
         ]
     }
 }

@@ -41,21 +41,21 @@
         ],
         "1": [
             "flying",
-            "rock",
-            "fire",
             "grass",
-            "electric",
-            "fairy",
-            "psychic",
             "ice",
+            "rock",
             "normal",
             "ground",
+            "electric",
+            "fairy",
+            "fire",
             "water",
+            "psychic",
             "fighting"
         ],
         "1/2": [
-            "dark",
-            "bug"
+            "bug",
+            "dark"
         ],
         "1/4": []
     }

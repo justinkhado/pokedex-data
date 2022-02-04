@@ -48,18 +48,18 @@
         ],
         "1/2": [
             "electric",
-            "fairy",
-            "rock",
             "grass",
-            "psychic",
             "ice",
+            "rock",
             "normal",
+            "bug",
             "dragon",
-            "bug"
+            "fairy",
+            "psychic"
         ],
         "1/4": [
-            "flying",
-            "steel"
+            "steel",
+            "flying"
         ]
     }
 }

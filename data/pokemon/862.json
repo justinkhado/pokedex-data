@@ -42,17 +42,17 @@
             "bug"
         ],
         "1": [
-            "flying",
-            "rock",
-            "fire",
             "poison",
+            "flying",
             "grass",
-            "electric",
             "ice",
+            "rock",
             "normal",
             "ground",
-            "steel",
+            "electric",
             "dragon",
+            "fire",
+            "steel",
             "water"
         ],
         "1/2": [

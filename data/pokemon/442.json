@@ -35,18 +35,18 @@
         ],
         "1": [
             "flying",
-            "rock",
-            "fire",
             "grass",
-            "electric",
             "ice",
+            "rock",
             "ground",
-            "steel",
+            "electric",
             "dragon",
+            "fire",
+            "steel",
             "water",
             "bug",
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "1/2": [
             "poison"

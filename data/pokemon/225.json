@@ -38,26 +38,26 @@
             "rock"
         ],
         "2": [
-            "steel",
             "fire",
+            "steel",
             "electric"
         ],
         "1": [
-            "flying",
-            "fairy",
             "poison",
-            "psychic",
-            "ghost",
+            "flying",
             "normal",
             "dark",
             "dragon",
+            "fairy",
             "water",
+            "ghost",
+            "psychic",
             "ice",
             "fighting"
         ],
         "1/2": [
-            "grass",
-            "bug"
+            "bug",
+            "grass"
         ],
         "1/4": []
     }

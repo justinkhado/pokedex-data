@@ -26,19 +26,19 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fighting",
             "grass",
             "ground",
+            "fighting",
             "steel",
             "water",
             "fairy",
             "psychic"
         ],
         "1": [
-            "ice",
             "ghost",
-            "dragon",
+            "ice",
             "electric",
+            "dragon",
             "flying"
         ],
         "1/2": [
@@ -46,8 +46,8 @@
             "normal",
             "fire",
             "rock",
-            "dark",
-            "bug"
+            "bug",
+            "dark"
         ],
         "1/4": []
     }

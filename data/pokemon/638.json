@@ -27,23 +27,23 @@
         "4": [],
         "2": [
             "fighting",
-            "ground",
-            "fire"
+            "fire",
+            "ground"
         ],
         "1": [
             "ghost",
-            "water",
             "electric",
-            "flying",
+            "water",
             "fairy",
+            "flying",
             "psychic"
         ],
         "1/2": [
             "grass",
             "ice",
             "normal",
-            "steel",
             "dragon",
+            "steel",
             "dark"
         ],
         "1/4": [

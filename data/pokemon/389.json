@@ -33,21 +33,21 @@
             "ice"
         ],
         "2": [
-            "flying",
             "fire",
-            "bug"
+            "bug",
+            "flying"
         ],
         "1": [
-            "fighting",
-            "fairy",
-            "psychic",
-            "ghost",
             "normal",
             "dark",
-            "steel",
             "dragon",
-            "grass",
+            "fighting",
+            "fairy",
+            "steel",
+            "ghost",
+            "psychic",
             "water",
+            "grass",
             "poison"
         ],
         "1/2": [

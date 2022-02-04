@@ -34,25 +34,25 @@
         ],
         "2": [
             "ground",
-            "grass",
-            "water"
+            "water",
+            "grass"
         ],
         "1": [
-            "fairy",
+            "ice",
             "rock",
             "electric",
-            "psychic",
-            "ice",
+            "fairy",
             "ghost",
+            "psychic",
             "poison",
             "fighting"
         ],
         "1/2": [
-            "flying",
             "normal",
             "fire",
-            "dark",
-            "bug"
+            "flying",
+            "bug",
+            "dark"
         ],
         "1/4": []
     }

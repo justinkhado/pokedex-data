@@ -44,21 +44,21 @@
             "psychic"
         ],
         "1": [
-            "fighting",
             "poison",
-            "ghost",
             "normal",
             "ground",
-            "steel"
+            "fighting",
+            "steel",
+            "ghost"
         ],
         "1/2": [
             "water",
             "fire",
-            "grass",
             "electric",
+            "grass",
             "rock",
-            "dark",
-            "bug"
+            "bug",
+            "dark"
         ],
         "1/4": []
     }

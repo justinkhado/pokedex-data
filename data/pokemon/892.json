@@ -31,15 +31,15 @@
             "fighting"
         ],
         "1": [
-            "fire",
             "poison",
             "grass",
-            "electric",
             "ice",
             "normal",
             "ground",
-            "steel",
+            "electric",
             "dragon",
+            "fire",
+            "steel",
             "water",
             "bug"
         ],

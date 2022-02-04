@@ -38,22 +38,22 @@
         "2": [
             "fighting",
             "rock",
-            "grass",
-            "electric"
+            "electric",
+            "grass"
         ],
         "1": [
-            "flying",
-            "fairy",
             "poison",
-            "psychic",
-            "ghost",
+            "flying",
             "normal",
+            "bug",
             "ground",
             "dark",
             "dragon",
-            "bug",
-            "steel",
-            "fire"
+            "fairy",
+            "ghost",
+            "psychic",
+            "fire",
+            "steel"
         ],
         "1/2": [
             "water"

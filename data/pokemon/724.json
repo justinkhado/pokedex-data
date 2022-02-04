@@ -32,25 +32,25 @@
         "4": [],
         "2": [
             "ice",
-            "flying",
             "fire",
-            "ghost",
-            "dark"
+            "flying",
+            "dark",
+            "ghost"
         ],
         "1": [
-            "fairy",
             "rock",
-            "psychic",
-            "steel",
             "dragon",
+            "fairy",
+            "steel",
+            "psychic",
             "poison",
             "bug"
         ],
         "1/2": [
             "water",
             "ground",
-            "grass",
-            "electric"
+            "electric",
+            "grass"
         ],
         "1/4": []
     }

@@ -29,14 +29,14 @@
             "ice",
             "fairy",
             "dragon",
+            "bug",
             "ghost",
-            "dark",
-            "bug"
+            "dark"
         ],
         "1": [
+            "poison",
             "flying",
             "rock",
-            "poison",
             "normal",
             "ground",
             "steel"
@@ -44,8 +44,8 @@
         "1/2": [
             "water",
             "fire",
-            "grass",
             "electric",
+            "grass",
             "fighting",
             "psychic"
         ],

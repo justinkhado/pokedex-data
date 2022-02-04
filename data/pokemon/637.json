@@ -38,12 +38,12 @@
         ],
         "1": [
             "poison",
-            "electric",
-            "psychic",
-            "ghost",
             "normal",
             "dark",
+            "electric",
             "dragon",
+            "ghost",
+            "psychic",
             "ground",
             "fire"
         ],

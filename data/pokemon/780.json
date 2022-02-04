@@ -42,21 +42,21 @@
             "dragon"
         ],
         "1": [
+            "poison",
             "flying",
             "rock",
-            "poison",
-            "psychic",
             "normal",
             "ground",
-            "steel",
+            "bug",
             "dark",
-            "bug"
+            "steel",
+            "psychic"
         ],
         "1/2": [
             "water",
             "fire",
-            "grass",
-            "electric"
+            "electric",
+            "grass"
         ],
         "1/4": []
     }

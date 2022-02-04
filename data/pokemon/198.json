@@ -42,19 +42,19 @@
             "electric"
         ],
         "1": [
-            "flying",
-            "fire",
             "poison",
+            "flying",
             "normal",
-            "steel",
             "dragon",
+            "fire",
+            "steel",
             "water",
             "fighting",
             "bug"
         ],
         "1/2": [
-            "ghost",
             "dark",
+            "ghost",
             "grass"
         ],
         "1/4": []

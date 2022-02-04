@@ -28,27 +28,27 @@
             "bug"
         ],
         "2": [
-            "ghost",
             "dark",
+            "ghost",
             "poison",
-            "flying",
             "ice",
-            "fire"
+            "fire",
+            "flying"
         ],
         "1": [
-            "fairy",
             "rock",
             "normal",
-            "steel",
-            "dragon"
+            "dragon",
+            "fairy",
+            "steel"
         ],
         "1/2": [
             "fighting",
             "psychic",
             "water",
             "ground",
-            "grass",
-            "electric"
+            "electric",
+            "grass"
         ],
         "1/4": []
     }

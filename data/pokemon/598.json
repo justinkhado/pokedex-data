@@ -36,22 +36,22 @@
             "fighting"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "ground",
             "ice",
-            "flying",
-            "bug"
+            "bug",
+            "flying"
         ],
         "1/2": [
-            "water",
             "electric",
-            "fairy",
+            "water",
             "rock",
-            "psychic",
             "normal",
+            "dragon",
+            "fairy",
             "steel",
-            "dragon"
+            "psychic"
         ],
         "1/4": [
             "grass"

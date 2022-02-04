@@ -39,19 +39,19 @@
             "fighting",
             "fire",
             "steel",
-            "grass",
-            "water"
+            "water",
+            "grass"
         ],
         "1": [
             "flying",
-            "fairy",
-            "psychic",
-            "ghost",
             "normal",
-            "ground",
             "dark",
-            "dragon",
+            "ground",
             "bug",
+            "dragon",
+            "fairy",
+            "ghost",
+            "psychic",
             "ice",
             "rock"
         ],

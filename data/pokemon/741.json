@@ -32,24 +32,24 @@
             "electric"
         ],
         "1": [
-            "flying",
             "poison",
-            "psychic",
-            "ghost",
+            "flying",
             "normal",
             "dark",
             "dragon",
+            "ghost",
+            "psychic",
             "ice"
         ],
         "1/2": [
-            "steel",
             "fairy",
             "fire",
+            "steel",
             "fighting"
         ],
         "1/4": [
-            "grass",
-            "bug"
+            "bug",
+            "grass"
         ]
     }
 }

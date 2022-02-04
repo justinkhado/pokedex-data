@@ -28,25 +28,25 @@
             "ice"
         ],
         "2": [
-            "fairy",
-            "dragon"
+            "dragon",
+            "fairy"
         ],
         "1": [
             "flying",
-            "fighting",
-            "psychic",
-            "ghost",
             "normal",
-            "ground",
-            "steel",
             "dark",
             "bug",
-            "grass",
-            "water"
+            "ground",
+            "fighting",
+            "steel",
+            "ghost",
+            "psychic",
+            "water",
+            "grass"
         ],
         "1/2": [
-            "rock",
             "poison",
+            "rock",
             "fire"
         ],
         "1/4": []

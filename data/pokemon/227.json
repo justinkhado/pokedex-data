@@ -49,15 +49,15 @@
         ],
         "1/2": [
             "flying",
-            "fairy",
-            "psychic",
             "normal",
+            "dragon",
+            "fairy",
             "steel",
-            "dragon"
+            "psychic"
         ],
         "1/4": [
-            "grass",
-            "bug"
+            "bug",
+            "grass"
         ]
     }
 }

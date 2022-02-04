@@ -33,19 +33,19 @@
             "psychic"
         ],
         "1": [
-            "rock",
-            "electric",
             "ice",
-            "ghost",
+            "rock",
             "dark",
+            "electric",
             "dragon",
+            "ghost",
             "fighting",
             "grass"
         ],
         "1/2": [
-            "flying",
             "normal",
             "fire",
+            "flying",
             "fairy",
             "bug"
         ],

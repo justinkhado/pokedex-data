@@ -31,21 +31,21 @@
             "bug"
         ],
         "1": [
-            "rock",
-            "fire",
             "poison",
             "grass",
             "ice",
+            "rock",
             "normal",
             "dragon",
+            "fire",
             "water"
         ],
         "1/2": [
-            "flying",
             "steel",
             "electric",
-            "ghost",
-            "dark"
+            "flying",
+            "dark",
+            "ghost"
         ],
         "1/4": []
     }

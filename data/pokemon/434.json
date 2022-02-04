@@ -40,13 +40,13 @@
         ],
         "1": [
             "flying",
-            "rock",
-            "fire",
-            "electric",
             "ice",
+            "rock",
             "normal",
-            "steel",
+            "electric",
             "dragon",
+            "fire",
+            "steel",
             "water",
             "fighting",
             "fairy",
@@ -55,8 +55,8 @@
         "1/2": [
             "poison",
             "grass",
-            "ghost",
-            "dark"
+            "dark",
+            "ghost"
         ],
         "1/4": []
     }

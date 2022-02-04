@@ -31,21 +31,21 @@
     "type_chart": {
         "4": [],
         "2": [
-            "steel",
             "rock",
             "fire",
-            "ghost",
-            "dark"
+            "steel",
+            "dark",
+            "ghost"
         ],
         "1": [
             "flying",
-            "fairy",
             "grass",
-            "electric",
-            "psychic",
             "ground",
+            "electric",
             "dragon",
-            "water"
+            "fairy",
+            "water",
+            "psychic"
         ],
         "1/2": [
             "ice",

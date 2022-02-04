@@ -34,20 +34,20 @@
             "dragon"
         ],
         "1": [
+            "poison",
             "flying",
             "rock",
-            "poison",
             "normal",
             "ground",
             "steel"
         ],
         "1/2": [
-            "ghost",
             "dark",
+            "ghost",
             "water",
             "fire",
-            "grass",
-            "electric"
+            "electric",
+            "grass"
         ],
         "1/4": []
     }

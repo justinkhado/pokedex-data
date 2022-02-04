@@ -50,16 +50,16 @@
             "grass"
         ],
         "1/2": [
-            "fairy",
-            "rock",
-            "psychic",
             "ice",
+            "rock",
+            "bug",
             "dragon",
-            "bug"
+            "fairy",
+            "psychic"
         ],
         "1/4": [
-            "flying",
-            "normal"
+            "normal",
+            "flying"
         ]
     }
 }

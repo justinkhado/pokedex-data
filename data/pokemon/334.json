@@ -33,18 +33,18 @@
             "ice"
         ],
         "2": [
-            "fairy",
             "dragon",
+            "fairy",
             "rock"
         ],
         "1": [
-            "flying",
             "poison",
-            "psychic",
-            "ghost",
+            "flying",
             "normal",
             "dark",
             "steel",
+            "ghost",
+            "psychic",
             "electric"
         ],
         "1/2": [

@@ -34,21 +34,21 @@
         ],
         "1": [
             "poison",
-            "electric",
             "ice",
-            "ghost",
             "normal",
-            "steel",
+            "electric",
             "dragon",
+            "steel",
             "water",
+            "ghost",
             "rock"
         ],
         "1/2": [
             "fighting",
             "ground",
             "grass",
-            "dark",
-            "bug"
+            "bug",
+            "dark"
         ],
         "1/4": []
     }

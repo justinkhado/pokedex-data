@@ -30,16 +30,16 @@
             "fire"
         ],
         "1": [
-            "fairy",
             "poison",
-            "bug",
-            "psychic",
             "ice",
-            "ghost",
             "normal",
+            "bug",
             "dark",
             "dragon",
+            "fairy",
             "water",
+            "ghost",
+            "psychic",
             "ground",
             "flying"
         ],

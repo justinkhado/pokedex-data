@@ -42,18 +42,18 @@
             "rock"
         ],
         "1": [
-            "electric",
-            "psychic",
-            "ghost",
             "dark",
+            "electric",
             "dragon",
+            "ghost",
+            "psychic",
             "steel",
             "grass"
         ],
         "1/2": [
-            "flying",
-            "normal",
             "poison",
+            "normal",
+            "flying",
             "ice",
             "fairy",
             "bug"

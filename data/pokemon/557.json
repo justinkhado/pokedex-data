@@ -41,23 +41,23 @@
             "water"
         ],
         "1": [
-            "fairy",
-            "electric",
-            "psychic",
             "ice",
-            "ghost",
+            "bug",
+            "electric",
             "dark",
             "dragon",
-            "bug",
+            "fairy",
+            "ghost",
+            "psychic",
             "fighting",
             "ground",
             "grass",
-            "flying",
-            "fire"
+            "fire",
+            "flying"
         ],
         "1/2": [
-            "normal",
-            "poison"
+            "poison",
+            "normal"
         ],
         "1/4": []
     }

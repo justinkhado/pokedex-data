@@ -36,21 +36,21 @@
     "type_chart": {
         "4": [],
         "2": [
-            "flying",
             "rock",
             "fire",
+            "flying",
+            "bug",
             "ghost",
-            "dark",
-            "bug"
+            "dark"
         ],
         "1": [
-            "fairy",
             "poison",
-            "electric",
             "ice",
             "normal",
-            "steel",
+            "electric",
             "dragon",
+            "fairy",
+            "steel",
             "water"
         ],
         "1/2": [

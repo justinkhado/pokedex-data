@@ -42,21 +42,21 @@
             "fire"
         ],
         "1": [
-            "fairy",
             "poison",
             "grass",
-            "bug",
-            "psychic",
-            "ghost",
             "normal",
             "dark",
+            "bug",
             "dragon",
+            "fairy",
             "water",
+            "ghost",
+            "psychic",
             "steel"
         ],
         "1/2": [
-            "flying",
             "electric",
+            "flying",
             "ice"
         ],
         "1/4": []

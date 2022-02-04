@@ -39,23 +39,23 @@
         ],
         "1": [
             "flying",
-            "electric",
-            "ghost",
             "normal",
             "dark",
-            "dragon"
+            "electric",
+            "dragon",
+            "ghost"
         ],
         "1/2": [
-            "fighting",
             "poison",
+            "fighting",
             "ice",
-            "steel",
-            "fire"
+            "fire",
+            "steel"
         ],
         "1/4": [
             "fairy",
-            "grass",
-            "bug"
+            "bug",
+            "grass"
         ]
     }
 }

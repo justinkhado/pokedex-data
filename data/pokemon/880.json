@@ -42,21 +42,21 @@
             "dragon"
         ],
         "1": [
-            "fighting",
-            "rock",
             "poison",
-            "psychic",
-            "ghost",
+            "rock",
             "normal",
+            "bug",
             "dark",
-            "bug"
+            "fighting",
+            "ghost",
+            "psychic"
         ],
         "1/2": [
-            "flying",
             "steel",
+            "flying",
             "fire",
-            "grass",
-            "water"
+            "water",
+            "grass"
         ],
         "1/4": [
             "electric"

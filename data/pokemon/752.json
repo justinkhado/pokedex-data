@@ -32,18 +32,18 @@
         "4": [],
         "2": [
             "electric",
-            "flying",
-            "rock"
+            "rock",
+            "flying"
         ],
         "1": [
-            "fairy",
             "poison",
-            "psychic",
-            "ghost",
             "normal",
+            "bug",
             "dark",
             "dragon",
-            "bug",
+            "fairy",
+            "ghost",
+            "psychic",
             "fire",
             "grass"
         ],

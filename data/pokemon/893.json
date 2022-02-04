@@ -31,23 +31,23 @@
             "fighting",
             "fairy",
             "poison",
-            "flying",
             "ice",
-            "fire"
+            "fire",
+            "flying"
         ],
         "1": [
-            "normal",
+            "dragon",
             "rock",
-            "steel",
-            "dragon"
+            "normal",
+            "steel"
         ],
         "1/2": [
-            "ghost",
             "dark",
+            "ghost",
             "water",
             "ground",
-            "grass",
-            "electric"
+            "electric",
+            "grass"
         ],
         "1/4": []
     }

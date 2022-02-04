@@ -43,20 +43,20 @@
             "electric"
         ],
         "1": [
-            "fairy",
             "rock",
-            "psychic",
-            "ghost",
+            "bug",
             "dark",
             "dragon",
-            "bug",
+            "fairy",
+            "ghost",
+            "psychic",
             "steel",
             "water"
         ],
         "1/2": [
-            "flying",
-            "normal",
             "poison",
+            "normal",
+            "flying",
             "ice"
         ],
         "1/4": [

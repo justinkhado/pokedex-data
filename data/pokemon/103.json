@@ -34,24 +34,24 @@
         ],
         "2": [
             "poison",
-            "flying",
             "ice",
             "fire",
-            "ghost",
-            "dark"
+            "flying",
+            "dark",
+            "ghost"
         ],
         "1": [
-            "fairy",
             "rock",
             "normal",
-            "steel",
-            "dragon"
+            "dragon",
+            "fairy",
+            "steel"
         ],
         "1/2": [
             "water",
             "ground",
-            "grass",
             "electric",
+            "grass",
             "fighting",
             "psychic"
         ],

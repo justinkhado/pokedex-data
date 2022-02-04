@@ -35,18 +35,18 @@
             "psychic"
         ],
         "1": [
-            "fighting",
-            "ghost",
             "normal",
-            "steel",
             "dragon",
+            "fighting",
+            "steel",
+            "ghost",
             "bug"
         ],
         "1/2": [
             "water",
             "ground",
-            "grass",
             "electric",
+            "grass",
             "rock",
             "dark"
         ],

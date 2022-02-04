@@ -43,19 +43,19 @@
             "electric"
         ],
         "1": [
-            "fairy",
-            "psychic",
-            "ghost",
             "dark",
             "dragon",
+            "fairy",
+            "ghost",
+            "psychic",
             "fighting",
             "grass"
         ],
         "1/2": [
             "poison",
-            "flying",
             "normal",
             "fire",
+            "flying",
             "bug"
         ],
         "1/4": []

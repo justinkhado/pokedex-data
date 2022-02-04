@@ -32,21 +32,21 @@
             "ground"
         ],
         "1": [
-            "fighting",
-            "rock",
             "poison",
-            "psychic",
-            "ghost",
+            "rock",
             "normal",
+            "bug",
             "dark",
-            "bug"
+            "fighting",
+            "ghost",
+            "psychic"
         ],
         "1/2": [
             "fire",
-            "grass",
             "water",
-            "flying",
-            "steel"
+            "grass",
+            "steel",
+            "flying"
         ],
         "1/4": [
             "electric"

@@ -44,12 +44,12 @@
         ],
         "1": [
             "flying",
+            "normal",
             "fairy",
             "fire",
-            "psychic",
+            "water",
             "ghost",
-            "normal",
-            "water"
+            "psychic"
         ],
         "1/2": [
             "dark",

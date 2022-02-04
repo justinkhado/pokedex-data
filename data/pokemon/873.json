@@ -37,16 +37,16 @@
             "flying"
         ],
         "1": [
-            "fairy",
             "poison",
-            "electric",
-            "bug",
-            "psychic",
-            "ghost",
             "normal",
+            "bug",
+            "electric",
             "dark",
             "dragon",
+            "fairy",
             "water",
+            "ghost",
+            "psychic",
             "fighting"
         ],
         "1/2": [

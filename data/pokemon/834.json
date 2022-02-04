@@ -43,21 +43,21 @@
             "ground"
         ],
         "1": [
-            "fairy",
             "rock",
-            "psychic",
-            "ghost",
+            "bug",
             "dark",
             "dragon",
-            "bug",
+            "fairy",
+            "ghost",
+            "psychic",
             "steel",
             "water"
         ],
         "1/2": [
             "ice",
-            "flying",
+            "poison",
             "normal",
-            "poison"
+            "flying"
         ],
         "1/4": [
             "fire"

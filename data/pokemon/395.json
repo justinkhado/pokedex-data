@@ -36,20 +36,20 @@
             "ground"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "fire",
             "grass"
         ],
         "1/2": [
             "water",
             "flying",
-            "fairy",
             "rock",
-            "psychic",
             "normal",
+            "bug",
             "dragon",
-            "bug"
+            "fairy",
+            "psychic"
         ],
         "1/4": [
             "ice",

@@ -42,19 +42,19 @@
             "flying"
         ],
         "1": [
-            "fire",
-            "electric",
             "ice",
-            "ghost",
             "normal",
-            "steel",
+            "electric",
             "dragon",
+            "fire",
+            "steel",
             "water",
+            "ghost",
             "fairy"
         ],
         "1/2": [
-            "fighting",
             "poison",
+            "fighting",
             "grass",
             "rock",
             "dark"

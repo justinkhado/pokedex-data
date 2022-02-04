@@ -43,20 +43,20 @@
         "1": [
             "flying",
             "rock",
-            "ghost",
             "normal",
             "dark",
             "dragon",
+            "ghost",
             "grass"
         ],
         "1/2": [
             "ice",
-            "steel",
             "fire",
+            "steel",
             "water",
+            "poison",
             "fighting",
             "fairy",
-            "poison",
             "bug"
         ],
         "1/4": []

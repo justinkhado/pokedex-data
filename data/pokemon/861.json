@@ -42,13 +42,13 @@
         ],
         "1": [
             "flying",
-            "rock",
-            "fire",
             "grass",
-            "electric",
             "ice",
+            "rock",
             "normal",
             "ground",
+            "electric",
+            "fire",
             "water",
             "fighting",
             "bug"

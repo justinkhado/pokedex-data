@@ -34,15 +34,15 @@
         "1": [
             "flying",
             "rock",
-            "ghost",
             "normal",
             "dark",
             "steel",
+            "ghost",
             "fairy"
         ],
         "1/2": [
-            "fighting",
             "poison",
+            "fighting",
             "bug",
             "water",
             "fire",

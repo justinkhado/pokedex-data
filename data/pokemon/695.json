@@ -40,23 +40,23 @@
             "fighting"
         ],
         "1": [
-            "fairy",
-            "fire",
-            "rock",
             "poison",
             "grass",
-            "bug",
-            "psychic",
             "ice",
+            "rock",
             "normal",
+            "bug",
             "dark",
             "dragon",
-            "water"
+            "fairy",
+            "fire",
+            "water",
+            "psychic"
         ],
         "1/2": [
-            "flying",
             "steel",
-            "electric"
+            "electric",
+            "flying"
         ],
         "1/4": []
     }
