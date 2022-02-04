@@ -32,5 +32,34 @@
             "effect": "Strengthens critical hits to inflict 3\u00d7 damage rather than 2\u00d7.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "rock",
+            "fire",
+            "psychic"
+        ],
+        "1": [
+            "electric",
+            "ice",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "water",
+            "ground"
+        ],
+        "1/2": [
+            "fairy",
+            "poison",
+            "bug"
+        ],
+        "1/4": [
+            "fighting",
+            "grass"
+        ]
+    }
 }

@@ -22,5 +22,31 @@
             "effect": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fire",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "water",
+            "electric"
+        ],
+        "1/2": [
+            "flying",
+            "fairy",
+            "rock",
+            "grass",
+            "psychic",
+            "ice",
+            "steel",
+            "dragon"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

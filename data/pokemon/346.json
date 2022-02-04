@@ -27,5 +27,33 @@
             "effect": "Redirects single-target water moves to this Pok\u00e9mon where possible.  Absorbs Water moves, raising Special Attack one stage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fighting",
+            "steel",
+            "ice",
+            "bug"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "psychic",
+            "ghost",
+            "dark",
+            "dragon",
+            "poison",
+            "flying",
+            "fire",
+            "ground",
+            "grass",
+            "water"
+        ],
+        "1/2": [
+            "normal",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

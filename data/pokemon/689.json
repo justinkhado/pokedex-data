@@ -32,5 +32,35 @@
             "effect": "Steals attacking Pok\u00e9mon's held items on contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "grass"
+        ],
+        "2": [
+            "fighting",
+            "ground",
+            "electric"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "psychic",
+            "ghost",
+            "dark",
+            "dragon",
+            "bug",
+            "steel",
+            "water"
+        ],
+        "1/2": [
+            "flying",
+            "normal",
+            "poison",
+            "ice"
+        ],
+        "1/4": [
+            "fire"
+        ]
+    }
 }

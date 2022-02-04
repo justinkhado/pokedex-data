@@ -21,5 +21,32 @@
             "effect": "This Pok\u00e9mon always  acts as though it were Asleep.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "bug",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ice",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [],
+        "0": [
+            "ghost"
+        ]
+    }
 }

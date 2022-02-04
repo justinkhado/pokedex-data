@@ -21,5 +21,33 @@
             "effect": "Strengthens fairy moves to 1.33\u00d7 their power for all friendly and opposing Pok\u00e9mon.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "poison",
+            "steel"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "ground",
+            "rock",
+            "ghost",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ice",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "bug",
+            "dark"
+        ],
+        "0": [
+            "dragon"
+        ]
+    }
 }

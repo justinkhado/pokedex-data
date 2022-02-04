@@ -32,5 +32,33 @@
             "effect": "During Hail, this Pok\u00e9mon has double Speed.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fighting",
+            "rock",
+            "fire"
+        ],
+        "1": [
+            "fairy",
+            "poison",
+            "grass",
+            "bug",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "water",
+            "steel"
+        ],
+        "1/2": [
+            "flying",
+            "electric",
+            "ice"
+        ],
+        "1/4": []
+    }
 }

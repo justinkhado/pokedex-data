@@ -22,5 +22,32 @@
             "effect": "This Pok\u00e9mon's Special Attack rises by one stage every time any Pok\u00e9mon faints.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fire"
+        ],
+        "1": [
+            "ghost",
+            "water",
+            "electric",
+            "steel",
+            "fighting"
+        ],
+        "1/2": [
+            "flying",
+            "fairy",
+            "rock",
+            "grass",
+            "psychic",
+            "ice",
+            "normal",
+            "dark"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

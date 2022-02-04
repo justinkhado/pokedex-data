@@ -21,5 +21,33 @@
             "name": "gulp-missile",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "electric"
+        ],
+        "2": [
+            "rock"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "grass",
+            "ice"
+        ],
+        "1/2": [
+            "fighting",
+            "bug",
+            "steel",
+            "fire",
+            "water"
+        ],
+        "1/4": []
+    }
 }

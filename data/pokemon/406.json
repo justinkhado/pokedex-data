@@ -32,5 +32,34 @@
             "effect": "Protects against major status ailments during strong sunlight.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "flying",
+            "fire",
+            "psychic"
+        ],
+        "1": [
+            "rock",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "ground",
+            "poison",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "electric",
+            "fighting",
+            "fairy"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

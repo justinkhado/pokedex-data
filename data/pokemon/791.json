@@ -22,5 +22,33 @@
             "effect": "Other Pok\u00e9mon cannot lower this Pok\u00e9mon's stats.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ground",
+            "fire"
+        ],
+        "1": [
+            "water",
+            "electric",
+            "fighting",
+            "bug"
+        ],
+        "1/2": [
+            "flying",
+            "fairy",
+            "rock",
+            "grass",
+            "ice",
+            "normal",
+            "steel",
+            "dragon"
+        ],
+        "1/4": [
+            "psychic"
+        ]
+    }
 }

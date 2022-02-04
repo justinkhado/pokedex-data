@@ -32,5 +32,31 @@
             "effect": "Reveals an opponent's held item upon entering battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "poison",
+            "steel"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "grass",
+            "electric",
+            "fairy",
+            "psychic",
+            "ice",
+            "normal",
+            "ground",
+            "water",
+            "fighting"
+        ],
+        "1/2": [
+            "dark",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

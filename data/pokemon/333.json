@@ -27,5 +27,31 @@
             "effect": "Negates all effects of weather, but does not prevent the weather itself.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "poison",
+            "psychic",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "water",
+            "fighting"
+        ],
+        "1/2": [
+            "grass",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

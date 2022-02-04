@@ -27,5 +27,31 @@
             "effect": "Protects against friendly Pok\u00e9mon's damaging moves.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ice",
+            "fairy",
+            "dragon"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "psychic",
+            "ground",
+            "steel"
+        ],
+        "1/2": [
+            "poison",
+            "bug",
+            "water",
+            "fire",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

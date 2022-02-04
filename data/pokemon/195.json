@@ -32,5 +32,32 @@
             "effect": "Ignores other Pok\u00e9mon's stat modifiers for damage and accuracy calculation.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "grass"
+        ],
+        "2": [],
+        "1": [
+            "flying",
+            "fighting",
+            "fairy",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "dark",
+            "dragon",
+            "bug",
+            "ice",
+            "water"
+        ],
+        "1/2": [
+            "steel",
+            "fire",
+            "rock",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

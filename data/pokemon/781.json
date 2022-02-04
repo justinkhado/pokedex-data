@@ -22,5 +22,31 @@
             "effect": "This Pok\u00e9mon's Steel moves have 1.5\u00d7 power.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ice",
+            "flying",
+            "fire"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "psychic",
+            "steel",
+            "dragon",
+            "poison",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

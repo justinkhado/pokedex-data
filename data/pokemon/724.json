@@ -27,5 +27,31 @@
             "effect": "This Pok\u00e9mon's moves do not make contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "flying",
+            "fire",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "psychic",
+            "steel",
+            "dragon",
+            "poison",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

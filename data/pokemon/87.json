@@ -32,5 +32,34 @@
             "effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "grass",
+            "electric",
+            "fighting",
+            "rock"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "dark",
+            "dragon",
+            "bug",
+            "steel",
+            "fire"
+        ],
+        "1/2": [
+            "water"
+        ],
+        "1/4": [
+            "ice"
+        ]
+    }
 }

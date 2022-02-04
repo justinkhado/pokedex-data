@@ -60,6 +60,30 @@ def _get_abilities(abilities_raw):
     
     return abilities
 
+def _get_type_chart(types_raw):
+    dirpath = os.path.join(PARPATH, 'data', 'types')
+    types = []
+    for type_ in types_raw:
+        filepath = os.path.join(dirpath, f"{type_['type']['name']}.json")
+        with open(filepath) as f:
+            types.append(json.load(f))
+    
+    if len(types) == 1:
+        return types[0]
+
+    type_chart = {}
+    type_chart['4'] = list(set(types[0]['2']).intersection(set(types[1]['2'])))
+    type_chart['2'] = list(set(types[0]['2']).intersection(set(types[1]['1'])))
+    type_chart['2'] += list(set(types[0]['1']).intersection(set(types[1]['2'])))
+    type_chart['1'] = list(set(types[0]['1']).intersection(set(types[1]['1'])))
+    type_chart['1'] += list(set(types[0]['1/2']).intersection(set(types[1]['2'])))
+    type_chart['1'] += list(set(types[0]['2']).intersection(set(types[1]['1/2'])))
+    type_chart['1/2'] = list(set(types[0]['1/2']).intersection(set(types[1]['1'])))
+    type_chart['1/2'] += list(set(types[0]['1']).intersection(set(types[1]['1/2'])))
+    type_chart['1/4'] = list(set(types[0]['1/2']).intersection(set(types[1]['1/2'])))
+
+    return type_chart
+
 def save_pokemons():
     pokemons = {'pokemons': []}
     for i in range(1, 808):
@@ -87,6 +111,7 @@ def save_each_pokemon():
             pokemon_raw = json.load(f)            
             pokemon = _clean_pokemon_raw(pokemon_raw)
             pokemon['abilities'] = _get_abilities(pokemon_raw['abilities'])
+            pokemon['type_chart'] = _get_type_chart(pokemon_raw['types'])
         
         filepath = os.path.join(PARPATH, 'data', 'pokemon', f'{i}.json')
         with open(filepath, 'w') as f:

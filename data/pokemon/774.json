@@ -22,5 +22,32 @@
             "effect": "Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "steel",
+            "water",
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "fairy",
+            "psychic",
+            "ghost",
+            "dark",
+            "dragon",
+            "fighting",
+            "grass"
+        ],
+        "1/2": [
+            "poison",
+            "flying",
+            "normal",
+            "fire",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

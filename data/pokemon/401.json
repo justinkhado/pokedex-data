@@ -26,5 +26,32 @@
             "effect": "Ensures success fleeing from wild battles.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "flying",
+            "rock",
+            "fire"
+        ],
+        "1": [
+            "normal",
+            "poison",
+            "bug",
+            "ghost",
+            "steel",
+            "water",
+            "electric",
+            "psychic",
+            "ice",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "ground",
+            "grass"
+        ],
+        "0": []
+    }
 }

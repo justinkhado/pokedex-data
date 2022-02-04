@@ -31,5 +31,35 @@
             "effect": "Strengthens physical moves to inflict 1.5\u00d7 damage, but decreases their accuracy to 0.8\u00d7.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ice"
+        ],
+        "2": [
+            "flying",
+            "poison",
+            "bug",
+            "fairy",
+            "dragon"
+        ],
+        "1": [
+            "fighting",
+            "rock",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "fire"
+        ],
+        "1/2": [
+            "ground"
+        ],
+        "1/4": [
+            "water",
+            "grass",
+            "electric"
+        ]
+    }
 }

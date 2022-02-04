@@ -32,5 +32,31 @@
             "effect": "Doubles Attack in battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fighting",
+            "ice",
+            "grass",
+            "water"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "psychic",
+            "normal",
+            "ground",
+            "steel",
+            "dark",
+            "dragon",
+            "bug"
+        ],
+        "1/2": [
+            "rock",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

@@ -32,5 +32,32 @@
             "effect": "Halves damage from fire and ice moves.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fighting",
+            "fire",
+            "steel",
+            "grass",
+            "water"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "dark",
+            "dragon",
+            "bug",
+            "ice",
+            "rock"
+        ],
+        "1/2": [
+            "poison"
+        ],
+        "1/4": []
+    }
 }

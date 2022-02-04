@@ -22,5 +22,34 @@
             "effect": "Prevents opposing Pok\u00e9mon from eating held Berries.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "bug"
+        ],
+        "2": [
+            "ghost",
+            "dark",
+            "poison",
+            "flying",
+            "ice",
+            "fire"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "normal",
+            "steel",
+            "dragon"
+        ],
+        "1/2": [
+            "fighting",
+            "psychic",
+            "water",
+            "ground",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

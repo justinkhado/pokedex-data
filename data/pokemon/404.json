@@ -31,5 +31,32 @@
             "effect": "Increases Attack to 1.5\u00d7 with a major status ailment.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "ground"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "poison",
+            "rock",
+            "bug",
+            "ghost",
+            "fire",
+            "water",
+            "grass",
+            "psychic",
+            "ice",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "flying",
+            "steel",
+            "electric"
+        ],
+        "0": []
+    }
 }

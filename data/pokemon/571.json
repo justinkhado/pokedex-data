@@ -21,5 +21,33 @@
             "effect": "Takes the appearance of the last conscious party Pok\u00e9mon upon being sent out until hit by a damaging move.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "ice",
+            "dragon"
+        ],
+        "1/2": [
+            "ghost",
+            "dark"
+        ],
+        "0": [
+            "psychic"
+        ]
+    }
 }

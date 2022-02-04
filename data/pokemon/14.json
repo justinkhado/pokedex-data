@@ -22,5 +22,34 @@
             "effect": "Has a 33% chance of curing any major status ailment after each turn.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "rock",
+            "fire",
+            "psychic"
+        ],
+        "1": [
+            "electric",
+            "ice",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "water",
+            "ground"
+        ],
+        "1/2": [
+            "fairy",
+            "poison",
+            "bug"
+        ],
+        "1/4": [
+            "fighting",
+            "grass"
+        ]
+    }
 }

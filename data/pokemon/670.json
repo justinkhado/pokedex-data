@@ -26,5 +26,33 @@
             "effect": "Passes the bearer's held item to an ally when the ally uses up its item.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "poison",
+            "steel"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "ground",
+            "rock",
+            "ghost",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ice",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "bug",
+            "dark"
+        ],
+        "0": [
+            "dragon"
+        ]
+    }
 }

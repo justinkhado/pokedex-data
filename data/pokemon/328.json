@@ -31,5 +31,33 @@
             "effect": "Strengthens moves with extra effects to 1.3\u00d7 their power, but prevents their extra effects.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "ground",
+            "bug",
+            "ghost",
+            "steel",
+            "fire",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "poison",
+            "rock"
+        ],
+        "0": [
+            "electric"
+        ]
+    }
 }

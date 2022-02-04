@@ -32,5 +32,34 @@
             "effect": "Strengthens recoil moves to 1.2\u00d7 their power.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "grass",
+            "water"
+        ],
+        "2": [
+            "ice",
+            "fighting",
+            "ground",
+            "steel"
+        ],
+        "1": [
+            "fairy",
+            "psychic",
+            "ghost",
+            "dark",
+            "dragon",
+            "bug"
+        ],
+        "1/2": [
+            "rock",
+            "flying",
+            "normal",
+            "fire"
+        ],
+        "1/4": [
+            "poison"
+        ]
+    }
 }

@@ -31,5 +31,35 @@
             "effect": "Protects against fire moves.  Once one has been blocked, the Pok\u00e9mon's own Fire moves inflict 1.5\u00d7 damage until it leaves battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ground",
+            "water"
+        ],
+        "2": [
+            "fighting",
+            "rock"
+        ],
+        "1": [
+            "electric",
+            "psychic",
+            "ghost",
+            "dark",
+            "dragon",
+            "steel",
+            "grass"
+        ],
+        "1/2": [
+            "flying",
+            "normal",
+            "poison",
+            "ice",
+            "fairy",
+            "bug"
+        ],
+        "1/4": [
+            "fire"
+        ]
+    }
 }

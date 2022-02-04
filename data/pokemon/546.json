@@ -32,5 +32,33 @@
             "effect": "Doubles Speed during strong sunlight.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "poison"
+        ],
+        "2": [
+            "ice",
+            "flying",
+            "fire",
+            "steel"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "psychic",
+            "ghost",
+            "normal",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric",
+            "fighting",
+            "dark"
+        ],
+        "1/4": []
+    }
 }

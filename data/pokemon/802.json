@@ -22,5 +22,32 @@
             "effect": "Strengthens moves of 60 base power or less to 1.5\u00d7 their power.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "fairy",
+            "psychic",
+            "ghost"
+        ],
+        "1": [
+            "fire",
+            "grass",
+            "electric",
+            "ice",
+            "ground",
+            "steel",
+            "dragon",
+            "water",
+            "dark"
+        ],
+        "1/2": [
+            "rock",
+            "poison"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

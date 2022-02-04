@@ -32,5 +32,34 @@
             "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fairy",
+            "dragon"
+        ],
+        "1": [
+            "flying",
+            "fighting",
+            "rock",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "dark",
+            "bug",
+            "ice",
+            "grass",
+            "electric"
+        ],
+        "1/2": [
+            "steel"
+        ],
+        "1/4": [
+            "fire",
+            "water"
+        ]
+    }
 }

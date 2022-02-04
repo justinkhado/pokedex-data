@@ -32,5 +32,33 @@
             "effect": "Prevents friendly Pok\u00e9mon from sleeping.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "rock",
+            "fire",
+            "poison",
+            "steel"
+        ],
+        "1": [
+            "fairy",
+            "electric",
+            "psychic",
+            "ice",
+            "ghost",
+            "normal",
+            "water"
+        ],
+        "1/2": [
+            "ground",
+            "grass",
+            "dark",
+            "bug"
+        ],
+        "1/4": [
+            "fighting"
+        ]
+    }
 }

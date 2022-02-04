@@ -32,5 +32,32 @@
             "effect": "Increases Special Attack to 1.5\u00d7 but costs 1/8 max HP after each turn during strong sunlight.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fighting"
+        ],
+        "1": [
+            "fairy",
+            "fire",
+            "rock",
+            "poison",
+            "grass",
+            "bug",
+            "psychic",
+            "ice",
+            "normal",
+            "dark",
+            "dragon",
+            "water"
+        ],
+        "1/2": [
+            "flying",
+            "steel",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

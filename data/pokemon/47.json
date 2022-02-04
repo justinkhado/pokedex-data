@@ -32,5 +32,35 @@
             "effect": "Prevents self destruct, explosion, and aftermath from working while the Pok\u00e9mon is in battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "flying",
+            "fire"
+        ],
+        "2": [
+            "rock",
+            "ice",
+            "poison",
+            "bug"
+        ],
+        "1": [
+            "fairy",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon"
+        ],
+        "1/2": [
+            "fighting",
+            "water",
+            "electric"
+        ],
+        "1/4": [
+            "ground",
+            "grass"
+        ]
+    }
 }

@@ -32,5 +32,31 @@
             "effect": "Prevents sleep.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ice",
+            "flying",
+            "fire"
+        ],
+        "1": [
+            "fairy",
+            "rock",
+            "psychic",
+            "steel",
+            "dragon",
+            "poison",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

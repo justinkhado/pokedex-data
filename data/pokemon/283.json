@@ -27,5 +27,33 @@
             "effect": "Heals for 1/16 max HP after each turn during rain.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "fairy",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "bug",
+            "grass",
+            "fire"
+        ],
+        "1/2": [
+            "fighting",
+            "ground",
+            "ice",
+            "steel",
+            "water"
+        ],
+        "1/4": []
+    }
 }

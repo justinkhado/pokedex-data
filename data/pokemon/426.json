@@ -32,5 +32,31 @@
             "effect": "Increases Special Attack to 1.5\u00d7 when burned.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "psychic",
+            "steel",
+            "dragon",
+            "water"
+        ],
+        "1/2": [
+            "poison",
+            "grass"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

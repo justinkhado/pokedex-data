@@ -21,5 +21,33 @@
             "effect": "Summons strong sunlight that lasts indefinitely upon entering battle.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "ground",
+            "bug",
+            "ghost",
+            "steel",
+            "fire",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "poison",
+            "rock"
+        ],
+        "0": [
+            "electric"
+        ]
+    }
 }

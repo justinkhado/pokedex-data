@@ -27,5 +27,32 @@
             "effect": "Steals the target's held item when the bearer uses a damaging move.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fire"
+        ],
+        "1": [
+            "ghost",
+            "water",
+            "electric",
+            "steel",
+            "fighting"
+        ],
+        "1/2": [
+            "flying",
+            "fairy",
+            "rock",
+            "grass",
+            "psychic",
+            "ice",
+            "normal",
+            "dark"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

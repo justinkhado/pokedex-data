@@ -31,5 +31,32 @@
             "effect": "The Pok\u00e9mon may pick up honey after battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "bug",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ice",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [],
+        "0": [
+            "ghost"
+        ]
+    }
 }

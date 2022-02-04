@@ -22,5 +22,32 @@
             "effect": "Doubles the chance of moves' extra effects occurring.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "dark",
+            "bug"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "poison",
+            "grass",
+            "electric",
+            "fairy",
+            "ice",
+            "normal",
+            "ground",
+            "steel",
+            "dragon",
+            "water",
+            "fighting"
+        ],
+        "1/2": [
+            "psychic"
+        ],
+        "1/4": []
+    }
 }

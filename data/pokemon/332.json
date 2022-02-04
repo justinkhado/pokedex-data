@@ -27,5 +27,33 @@
             "effect": "Absorbs water moves, healing for 1/4 max HP.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "bug"
+        ],
+        "2": [
+            "poison",
+            "flying",
+            "ice",
+            "fire",
+            "fighting",
+            "fairy"
+        ],
+        "1": [
+            "normal",
+            "rock",
+            "steel",
+            "dragon"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric",
+            "ghost",
+            "dark"
+        ],
+        "1/4": []
+    }
 }

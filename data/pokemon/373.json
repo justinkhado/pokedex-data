@@ -27,5 +27,34 @@
             "effect": "Raises Attack one stage upon KOing a Pok\u00e9mon.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ice"
+        ],
+        "2": [
+            "fairy",
+            "dragon",
+            "rock"
+        ],
+        "1": [
+            "flying",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "electric"
+        ],
+        "1/2": [
+            "fire",
+            "water",
+            "fighting",
+            "bug"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

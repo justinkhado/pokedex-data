@@ -31,5 +31,32 @@
             "effect": "Has a 30% chance of infatuating attacking Pok\u00e9mon on contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "grass",
+            "electric"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "bug",
+            "ghost",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "steel",
+            "fire",
+            "water",
+            "ice"
+        ],
+        "0": []
+    }
 }

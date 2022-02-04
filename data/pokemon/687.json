@@ -32,5 +32,32 @@
             "effect": "Bypasses light screen, reflect, and safeguard.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "bug"
+        ],
+        "2": [
+            "fairy"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "poison",
+            "grass",
+            "electric",
+            "ice",
+            "normal",
+            "ground",
+            "steel",
+            "dragon",
+            "water",
+            "ghost",
+            "dark",
+            "fighting"
+        ],
+        "1/2": [],
+        "1/4": []
+    }
 }

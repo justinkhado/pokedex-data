@@ -27,5 +27,33 @@
             "effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ice"
+        ],
+        "2": [
+            "fairy",
+            "dragon"
+        ],
+        "1": [
+            "flying",
+            "fighting",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "steel",
+            "dark",
+            "bug",
+            "grass",
+            "water"
+        ],
+        "1/2": [
+            "fire",
+            "rock",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

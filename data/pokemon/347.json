@@ -27,5 +27,33 @@
             "effect": "Doubles Speed during rain.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "steel",
+            "water",
+            "rock"
+        ],
+        "1": [
+            "fairy",
+            "electric",
+            "psychic",
+            "ice",
+            "ghost",
+            "dark",
+            "dragon",
+            "bug",
+            "flying",
+            "fire",
+            "fighting",
+            "ground",
+            "grass"
+        ],
+        "1/2": [
+            "normal",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

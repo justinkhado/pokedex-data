@@ -31,5 +31,32 @@
             "effect": "Reflects most non-damaging moves back at their user.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "psychic"
+        ],
+        "0": []
+    }
 }

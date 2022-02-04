@@ -32,5 +32,32 @@
             "effect": "Raises a random stat two stages and lowers another one stage after each turn.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fighting",
+            "grass",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "rock",
+            "poison",
+            "psychic",
+            "normal",
+            "ground",
+            "dark",
+            "dragon",
+            "bug"
+        ],
+        "1/2": [
+            "ice",
+            "steel",
+            "fire",
+            "water"
+        ],
+        "1/4": []
+    }
 }

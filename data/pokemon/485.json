@@ -27,5 +27,34 @@
             "effect": "Has a 30% chance of burning attacking Pok\u00e9mon on contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ground"
+        ],
+        "2": [
+            "water",
+            "fighting"
+        ],
+        "1": [
+            "ghost",
+            "dark",
+            "electric",
+            "fire",
+            "rock"
+        ],
+        "1/2": [
+            "flying",
+            "normal",
+            "psychic",
+            "dragon"
+        ],
+        "1/4": [
+            "fairy",
+            "grass",
+            "ice",
+            "steel",
+            "bug"
+        ]
+    }
 }

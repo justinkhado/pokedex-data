@@ -20,5 +20,33 @@
             "name": "intrepid-sword",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "poison",
+            "steel"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "ground",
+            "rock",
+            "ghost",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ice",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "bug",
+            "dark"
+        ],
+        "0": [
+            "dragon"
+        ]
+    }
 }

@@ -31,5 +31,32 @@
             "effect": "Has a 30% chance of poisoning target Pok\u00e9mon upon contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "ground",
+            "psychic"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "rock",
+            "ghost",
+            "steel",
+            "fire",
+            "water",
+            "electric",
+            "ice",
+            "dragon",
+            "dark"
+        ],
+        "1/2": [
+            "fighting",
+            "poison",
+            "bug",
+            "grass",
+            "fairy"
+        ],
+        "0": []
+    }
 }

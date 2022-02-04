@@ -72,5 +72,17 @@ def download_machines():
         if (i + 1) % 100 == 0:
             time.sleep(60)
 
+def download_type_relations():
+    r = requests.get(f"{BASE_URL}/type")
+    filepath = os.path.join(PARPATH, 'raw_data', 'types', 'types.json')
+    with open(filepath, 'w') as f:
+        json.dump(r.json(), f, indent=4)
+
+    type_list = r.json()['results']
+    for type_url in type_list:
+        r = requests.get(type_url['url'])
+        type_ = r.json()
+        _download_resource('types', type_)
+
 if __name__ == '__main__':
-    download_machines()
+    download_type_relations()

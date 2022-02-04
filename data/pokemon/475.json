@@ -27,5 +27,33 @@
             "effect": "Raises Attack one stage upon taking damage from a dark move.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "flying",
+            "fairy"
+        ],
+        "1": [
+            "fire",
+            "poison",
+            "grass",
+            "electric",
+            "ice",
+            "normal",
+            "ground",
+            "steel",
+            "dragon",
+            "water",
+            "psychic",
+            "dark",
+            "bug"
+        ],
+        "1/2": [
+            "fighting",
+            "rock"
+        ],
+        "1/4": []
+    }
 }

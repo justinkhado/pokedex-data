@@ -32,5 +32,32 @@
             "effect": "Increases evasion to 1.25\u00d7 during a sandstorm.  Protects against sandstorm damage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "grass",
+            "water",
+            "ground"
+        ],
+        "1": [
+            "fighting",
+            "fairy",
+            "fire",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "bug"
+        ],
+        "1/2": [
+            "rock",
+            "poison",
+            "flying",
+            "steel"
+        ],
+        "1/4": []
+    }
 }

@@ -27,5 +27,34 @@
             "effect": "Summons hail that lasts indefinitely upon entering battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fighting",
+            "steel"
+        ],
+        "2": [
+            "ground",
+            "grass",
+            "water",
+            "rock"
+        ],
+        "1": [
+            "fairy",
+            "electric",
+            "psychic",
+            "ghost",
+            "dark",
+            "dragon",
+            "bug",
+            "fire"
+        ],
+        "1/2": [
+            "flying",
+            "normal",
+            "poison",
+            "ice"
+        ],
+        "1/4": []
+    }
 }

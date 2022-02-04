@@ -27,5 +27,34 @@
             "effect": "Protects against bullet, ball, and bomb-based moves.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "flying"
+        ],
+        "2": [
+            "poison",
+            "ice",
+            "fire",
+            "fairy",
+            "psychic"
+        ],
+        "1": [
+            "fighting",
+            "ghost",
+            "normal",
+            "steel",
+            "dragon",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric",
+            "rock",
+            "dark"
+        ],
+        "1/4": []
+    }
 }

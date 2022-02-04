@@ -22,5 +22,33 @@
             "effect": "Increases moves' accuracy to 1.1\u00d7 for friendly Pok\u00e9mon.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ground",
+            "rock",
+            "water"
+        ],
+        "1": [
+            "flying",
+            "poison",
+            "electric",
+            "normal",
+            "dragon",
+            "bug"
+        ],
+        "1/2": [
+            "fighting",
+            "psychic",
+            "fairy",
+            "fire",
+            "grass",
+            "ice",
+            "steel"
+        ],
+        "1/4": []
+    }
 }

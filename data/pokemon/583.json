@@ -31,5 +31,32 @@
             "effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting",
+            "rock",
+            "steel",
+            "fire"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ground",
+            "bug",
+            "ghost",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "ice"
+        ],
+        "0": []
+    }
 }

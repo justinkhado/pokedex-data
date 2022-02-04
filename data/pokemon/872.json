@@ -26,5 +26,34 @@
             "name": "ice-scales",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "rock",
+            "fire"
+        ],
+        "2": [
+            "steel",
+            "flying"
+        ],
+        "1": [
+            "fairy",
+            "poison",
+            "electric",
+            "bug",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "water",
+            "fighting"
+        ],
+        "1/2": [
+            "ice",
+            "ground",
+            "grass"
+        ],
+        "1/4": []
+    }
 }

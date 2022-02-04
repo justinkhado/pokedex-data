@@ -27,5 +27,34 @@
             "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fire"
+        ],
+        "2": [
+            "fighting"
+        ],
+        "1": [
+            "ghost",
+            "dark",
+            "ground",
+            "ice",
+            "flying",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "electric",
+            "fairy",
+            "rock",
+            "psychic",
+            "normal",
+            "steel",
+            "dragon"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

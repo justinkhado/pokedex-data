@@ -27,5 +27,35 @@
             "effect": "Strengthens bug moves to inflict 1.5\u00d7 damage at 1/3 max HP or less.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "rock"
+        ],
+        "2": [
+            "flying",
+            "water"
+        ],
+        "1": [
+            "poison",
+            "electric",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "ground",
+            "fire"
+        ],
+        "1/2": [
+            "fighting",
+            "ice",
+            "fairy",
+            "steel",
+            "bug"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

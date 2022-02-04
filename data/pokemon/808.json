@@ -21,5 +21,33 @@
             "effect": "Prevents steel opponents from fleeing or switching out.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting",
+            "ground",
+            "fire"
+        ],
+        "1": [
+            "ghost",
+            "water",
+            "electric",
+            "dark"
+        ],
+        "1/2": [
+            "normal",
+            "flying",
+            "rock",
+            "bug",
+            "steel",
+            "grass",
+            "psychic",
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "0": [
+            "poison"
+        ]
+    }
 }

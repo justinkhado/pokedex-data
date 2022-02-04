@@ -22,5 +22,33 @@
             "effect": "Makes dark aura and fairy aura weaken moves of their respective types.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ice"
+        ],
+        "2": [
+            "fairy",
+            "dragon"
+        ],
+        "1": [
+            "flying",
+            "fighting",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "steel",
+            "dark",
+            "bug",
+            "grass",
+            "water"
+        ],
+        "1/2": [
+            "fire",
+            "rock",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

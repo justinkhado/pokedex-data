@@ -22,5 +22,30 @@
             "effect": "Prevents the first instance of battle damage.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "steel"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "grass",
+            "electric",
+            "fairy",
+            "psychic",
+            "ice",
+            "ground",
+            "water",
+            "poison",
+            "dark"
+        ],
+        "1/2": [],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

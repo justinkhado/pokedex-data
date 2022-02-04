@@ -22,5 +22,34 @@
             "effect": "Protects against critical hits.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "rock",
+            "dragon"
+        ],
+        "1": [
+            "flying",
+            "fighting",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "ice",
+            "fairy",
+            "water"
+        ],
+        "1/2": [
+            "steel",
+            "bug",
+            "electric"
+        ],
+        "1/4": [
+            "fire",
+            "grass"
+        ]
+    }
 }

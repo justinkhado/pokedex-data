@@ -32,5 +32,33 @@
             "effect": "Prevents confusion.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "water"
+        ],
+        "2": [
+            "ground"
+        ],
+        "1": [
+            "flying",
+            "fighting",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "ice",
+            "grass",
+            "rock"
+        ],
+        "1/2": [
+            "steel",
+            "fairy",
+            "fire",
+            "bug",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

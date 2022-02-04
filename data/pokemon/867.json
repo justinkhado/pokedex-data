@@ -21,5 +21,31 @@
             "name": "wandering-spirit",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "grass",
+            "water",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "psychic",
+            "ground",
+            "steel",
+            "dragon"
+        ],
+        "1/2": [
+            "rock",
+            "bug"
+        ],
+        "1/4": [
+            "poison"
+        ]
+    }
 }

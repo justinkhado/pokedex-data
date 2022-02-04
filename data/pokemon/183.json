@@ -32,5 +32,32 @@
             "effect": "Absorbs grass moves, raising Attack one stage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "grass",
+            "electric",
+            "poison"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "rock",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "steel"
+        ],
+        "1/2": [
+            "ice",
+            "fire",
+            "water",
+            "fighting",
+            "dark",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

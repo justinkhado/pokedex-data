@@ -27,5 +27,34 @@
             "effect": "Raises Speed one stage after each turn.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "water",
+            "flying",
+            "psychic"
+        ],
+        "1": [
+            "fighting",
+            "poison",
+            "electric",
+            "ghost",
+            "normal",
+            "dragon",
+            "fairy",
+            "rock"
+        ],
+        "1/2": [
+            "ice",
+            "steel",
+            "fire",
+            "grass",
+            "dark"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

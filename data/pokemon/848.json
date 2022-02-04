@@ -32,5 +32,34 @@
             "effect": "Prevents the Pok\u00e9mon from using its held item in battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ground"
+        ],
+        "2": [
+            "psychic"
+        ],
+        "1": [
+            "rock",
+            "fire",
+            "ice",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "water"
+        ],
+        "1/2": [
+            "flying",
+            "steel",
+            "electric",
+            "fighting",
+            "fairy",
+            "poison",
+            "grass",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

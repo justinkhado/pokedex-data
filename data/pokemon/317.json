@@ -31,5 +31,32 @@
             "effect": "Makes the Pok\u00e9mon eat any held Berry triggered by low HP below 1/2 its max HP.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "ground",
+            "psychic"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "rock",
+            "ghost",
+            "steel",
+            "fire",
+            "water",
+            "electric",
+            "ice",
+            "dragon",
+            "dark"
+        ],
+        "1/2": [
+            "fighting",
+            "poison",
+            "bug",
+            "grass",
+            "fairy"
+        ],
+        "0": []
+    }
 }

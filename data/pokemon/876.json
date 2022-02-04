@@ -32,5 +32,32 @@
             "effect": "When this Pok\u00e9mon enters battle, it changes the terrain to Psychic Terrain.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "dark",
+            "bug"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "poison",
+            "grass",
+            "electric",
+            "fairy",
+            "ice",
+            "normal",
+            "ground",
+            "steel",
+            "dragon",
+            "water",
+            "fighting"
+        ],
+        "1/2": [
+            "psychic"
+        ],
+        "1/4": []
+    }
 }

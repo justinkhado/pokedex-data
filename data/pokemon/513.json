@@ -26,5 +26,32 @@
             "effect": "Strengthens fire moves to inflict 1.5\u00d7 damage at 1/3 max HP or less.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "ground",
+            "rock",
+            "water"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "poison",
+            "ghost",
+            "electric",
+            "psychic",
+            "dragon",
+            "dark"
+        ],
+        "1/2": [
+            "bug",
+            "steel",
+            "fire",
+            "grass",
+            "ice",
+            "fairy"
+        ],
+        "0": []
+    }
 }

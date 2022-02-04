@@ -32,5 +32,33 @@
             "effect": "Inverts stat changes.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "rock",
+            "steel",
+            "water"
+        ],
+        "1": [
+            "fairy",
+            "electric",
+            "psychic",
+            "ice",
+            "ghost",
+            "dark",
+            "dragon",
+            "bug",
+            "fighting",
+            "ground",
+            "grass",
+            "flying",
+            "fire"
+        ],
+        "1/2": [
+            "normal",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

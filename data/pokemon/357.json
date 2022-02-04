@@ -32,5 +32,34 @@
             "effect": "Has a 50% chance of restoring a used Berry after each turn if the Pok\u00e9mon has held no items in the meantime.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ice"
+        ],
+        "2": [
+            "poison",
+            "flying",
+            "fire",
+            "rock"
+        ],
+        "1": [
+            "fairy",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "electric",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "fighting"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

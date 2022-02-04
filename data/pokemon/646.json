@@ -22,5 +22,33 @@
             "effect": "Increases the PP cost of moves targetting the Pok\u00e9mon by one.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fairy",
+            "dragon",
+            "fighting",
+            "rock",
+            "steel"
+        ],
+        "1": [
+            "flying",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "ground",
+            "dark",
+            "bug",
+            "fire",
+            "ice"
+        ],
+        "1/2": [
+            "water",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

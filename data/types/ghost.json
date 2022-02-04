@@ -1,0 +1,28 @@
+{
+    "2": [
+        "ghost",
+        "dark"
+    ],
+    "1": [
+        "flying",
+        "ground",
+        "rock",
+        "steel",
+        "fire",
+        "water",
+        "grass",
+        "electric",
+        "psychic",
+        "ice",
+        "dragon",
+        "fairy"
+    ],
+    "1/2": [
+        "poison",
+        "bug"
+    ],
+    "0": [
+        "normal",
+        "fighting"
+    ]
+}

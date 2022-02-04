@@ -31,5 +31,33 @@
             "effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "flying",
+            "ground",
+            "rock",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "1/2": [
+            "poison",
+            "bug"
+        ],
+        "0": [
+            "normal",
+            "fighting"
+        ]
+    }
 }

@@ -32,5 +32,33 @@
             "effect": "Doubles the Pok\u00e9mon's weight.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fire",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "water",
+            "electric",
+            "bug",
+            "fighting"
+        ],
+        "1/2": [
+            "flying",
+            "fairy",
+            "rock",
+            "grass",
+            "ice",
+            "normal",
+            "steel",
+            "dragon"
+        ],
+        "1/4": [
+            "psychic"
+        ]
+    }
 }

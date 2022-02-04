@@ -27,5 +27,35 @@
             "effect": "Prevents infatuation and protects against captivate.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ground"
+        ],
+        "2": [
+            "psychic",
+            "rock",
+            "water"
+        ],
+        "1": [
+            "flying",
+            "electric",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon"
+        ],
+        "1/2": [
+            "fighting",
+            "poison",
+            "ice",
+            "steel",
+            "fire"
+        ],
+        "1/4": [
+            "fairy",
+            "grass",
+            "bug"
+        ]
+    }
 }

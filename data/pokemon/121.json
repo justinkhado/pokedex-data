@@ -32,5 +32,33 @@
             "effect": "Strengthens moves to 1.3\u00d7 their power when moving last.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "grass",
+            "electric",
+            "ghost",
+            "dark",
+            "bug"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "rock",
+            "poison",
+            "normal",
+            "ground",
+            "dragon"
+        ],
+        "1/2": [
+            "ice",
+            "steel",
+            "fire",
+            "water",
+            "fighting",
+            "psychic"
+        ],
+        "1/4": []
+    }
 }

@@ -27,5 +27,32 @@
             "effect": "Has a 30% chance of paralyzing attacking Pok\u00e9mon on contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "rock"
+        ],
+        "1": [
+            "fairy",
+            "fire",
+            "poison",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "water",
+            "electric"
+        ],
+        "1/2": [
+            "flying",
+            "steel",
+            "fighting",
+            "grass",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

@@ -21,5 +21,32 @@
             "effect": "Strengthens aura and pulse moves to 1.5\u00d7 their power.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "grass",
+            "electric"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "bug",
+            "ghost",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "steel",
+            "fire",
+            "water",
+            "ice"
+        ],
+        "0": []
+    }
 }

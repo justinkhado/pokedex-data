@@ -31,5 +31,33 @@
             "effect": "Protects against Defense drops.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "rock",
+            "electric",
+            "ice"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ghost",
+            "steel",
+            "fire",
+            "water",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "bug",
+            "grass"
+        ],
+        "0": [
+            "ground"
+        ]
+    }
 }

@@ -22,5 +22,33 @@
             "effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fire"
+        ],
+        "2": [],
+        "1": [
+            "ghost",
+            "water",
+            "dark",
+            "electric",
+            "fighting",
+            "ground",
+            "flying",
+            "rock"
+        ],
+        "1/2": [
+            "fairy",
+            "psychic",
+            "ice",
+            "normal",
+            "steel",
+            "dragon",
+            "bug"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

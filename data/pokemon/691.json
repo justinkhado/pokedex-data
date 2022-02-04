@@ -32,5 +32,34 @@
             "effect": "Increases the same-type attack bonus from 1.5\u00d7 to 2\u00d7.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "psychic",
+            "ice",
+            "dragon"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "poison",
+            "bug",
+            "water",
+            "fire",
+            "electric"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

@@ -32,5 +32,32 @@
             "effect": "Raises moves' critical hit rates one stage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "poison",
+            "steel",
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "psychic",
+            "ghost",
+            "normal",
+            "water"
+        ],
+        "1/2": [
+            "dark",
+            "grass"
+        ],
+        "1/4": [
+            "fighting",
+            "bug"
+        ]
+    }
 }

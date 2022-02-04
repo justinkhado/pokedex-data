@@ -22,5 +22,31 @@
             "effect": "When this Pok\u00e9mon has full HP, regular damage from moves is halved.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ghost",
+            "dark"
+        ],
+        "2": [],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "grass",
+            "electric",
+            "fairy",
+            "ice",
+            "ground",
+            "steel",
+            "dragon",
+            "water",
+            "bug"
+        ],
+        "1/2": [
+            "psychic",
+            "poison"
+        ],
+        "1/4": []
+    }
 }

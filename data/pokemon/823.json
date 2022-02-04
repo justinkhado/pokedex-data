@@ -31,5 +31,32 @@
             "name": "mirror-armor",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "electric",
+            "fire"
+        ],
+        "1": [
+            "ghost",
+            "dark",
+            "water",
+            "fighting",
+            "ice",
+            "rock"
+        ],
+        "1/2": [
+            "flying",
+            "fairy",
+            "psychic",
+            "normal",
+            "steel",
+            "dragon"
+        ],
+        "1/4": [
+            "grass",
+            "bug"
+        ]
+    }
 }

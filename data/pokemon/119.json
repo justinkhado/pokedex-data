@@ -31,5 +31,32 @@
             "effect": "Redirects single-target electric moves to this Pok\u00e9mon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "grass",
+            "electric"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "bug",
+            "ghost",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "steel",
+            "fire",
+            "water",
+            "ice"
+        ],
+        "0": []
+    }
 }

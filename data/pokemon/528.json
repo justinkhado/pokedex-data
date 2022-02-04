@@ -32,5 +32,33 @@
             "effect": "Doubles the Pok\u00e9mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "poison",
+            "normal",
+            "steel",
+            "dragon",
+            "water",
+            "bug"
+        ],
+        "1/2": [
+            "psychic",
+            "grass"
+        ],
+        "1/4": [
+            "fighting"
+        ]
+    }
 }

@@ -26,5 +26,32 @@
             "effect": "Increases Defense to 1.5\u00d7 with a major status ailment.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "bug",
+            "ghost",
+            "steel",
+            "psychic",
+            "dark"
+        ],
+        "1/2": [
+            "fire",
+            "water",
+            "grass",
+            "electric"
+        ],
+        "0": []
+    }
 }

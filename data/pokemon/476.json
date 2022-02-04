@@ -32,5 +32,34 @@
             "effect": "Strengthens rock, ground, and steel moves to 1.3\u00d7 their power during a sandstorm.  Protects against sandstorm damage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fighting",
+            "ground"
+        ],
+        "2": [
+            "water"
+        ],
+        "1": [
+            "ghost",
+            "dark",
+            "electric",
+            "fire",
+            "steel",
+            "grass"
+        ],
+        "1/2": [
+            "fairy",
+            "rock",
+            "psychic",
+            "ice",
+            "dragon",
+            "bug"
+        ],
+        "1/4": [
+            "flying",
+            "normal"
+        ]
+    }
 }

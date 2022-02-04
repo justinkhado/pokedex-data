@@ -27,5 +27,33 @@
             "effect": "Halves damage taken from full HP.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ghost",
+            "dark",
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "poison",
+            "normal",
+            "steel",
+            "dragon",
+            "water",
+            "bug"
+        ],
+        "1/2": [
+            "psychic",
+            "grass"
+        ],
+        "1/4": [
+            "fighting"
+        ]
+    }
 }

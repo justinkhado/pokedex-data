@@ -31,5 +31,33 @@
             "effect": "Prevents stats from being lowered by other Pok\u00e9mon.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting",
+            "ground",
+            "fire"
+        ],
+        "1": [
+            "ghost",
+            "water",
+            "electric",
+            "dark"
+        ],
+        "1/2": [
+            "normal",
+            "flying",
+            "rock",
+            "bug",
+            "steel",
+            "grass",
+            "psychic",
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "0": [
+            "poison"
+        ]
+    }
 }

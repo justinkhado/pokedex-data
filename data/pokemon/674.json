@@ -31,5 +31,32 @@
             "effect": "Lets the Pok\u00e9mon's normal and fighting moves hit ghost Pok\u00e9mon.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "poison",
+            "ground",
+            "ghost",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "ice",
+            "dragon"
+        ],
+        "1/2": [
+            "rock",
+            "bug",
+            "dark"
+        ],
+        "0": []
+    }
 }

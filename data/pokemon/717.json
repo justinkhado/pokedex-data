@@ -22,5 +22,31 @@
             "effect": "Strengthens dark moves to 1.33\u00d7 their power for all friendly and opposing Pok\u00e9mon.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fairy",
+            "ice",
+            "rock",
+            "electric"
+        ],
+        "1": [
+            "flying",
+            "fire",
+            "poison",
+            "normal",
+            "steel",
+            "dragon",
+            "water",
+            "fighting",
+            "bug"
+        ],
+        "1/2": [
+            "ghost",
+            "dark",
+            "grass"
+        ],
+        "1/4": []
+    }
 }

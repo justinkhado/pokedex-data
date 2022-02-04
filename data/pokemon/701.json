@@ -32,5 +32,33 @@
             "effect": "Bypasses targets' abilities if they could hinder or prevent a move.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "fairy",
+            "psychic",
+            "ice",
+            "electric"
+        ],
+        "1": [
+            "fire",
+            "poison",
+            "ghost",
+            "normal",
+            "steel",
+            "dragon",
+            "water",
+            "rock"
+        ],
+        "1/2": [
+            "dark",
+            "fighting",
+            "grass"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

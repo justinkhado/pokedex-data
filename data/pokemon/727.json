@@ -27,5 +27,32 @@
             "effect": "Lowers opponents' Attack one stage upon entering battle.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "rock",
+            "water",
+            "fighting"
+        ],
+        "1": [
+            "flying",
+            "poison",
+            "electric",
+            "normal",
+            "dragon",
+            "fairy",
+            "bug"
+        ],
+        "1/2": [
+            "ice",
+            "steel",
+            "fire",
+            "grass",
+            "ghost",
+            "dark"
+        ],
+        "1/4": []
+    }
 }

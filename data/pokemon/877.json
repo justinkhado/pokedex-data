@@ -21,5 +21,32 @@
             "name": "hunger-switch",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "fighting",
+            "fairy",
+            "bug"
+        ],
+        "1": [
+            "rock",
+            "fire",
+            "poison",
+            "grass",
+            "ice",
+            "normal",
+            "dragon",
+            "water"
+        ],
+        "1/2": [
+            "flying",
+            "steel",
+            "electric",
+            "ghost",
+            "dark"
+        ],
+        "1/4": []
+    }
 }

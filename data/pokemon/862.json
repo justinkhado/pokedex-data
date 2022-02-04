@@ -32,5 +32,32 @@
             "effect": "Raises Attack two stages upon having any stat lowered.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fighting"
+        ],
+        "2": [
+            "fairy",
+            "bug"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "fire",
+            "poison",
+            "grass",
+            "electric",
+            "ice",
+            "normal",
+            "ground",
+            "steel",
+            "dragon",
+            "water"
+        ],
+        "1/2": [
+            "dark"
+        ],
+        "1/4": []
+    }
 }

@@ -32,5 +32,34 @@
             "effect": "Prevents accuracy from being lowered.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "psychic",
+            "flying",
+            "rock",
+            "fire"
+        ],
+        "1": [
+            "electric",
+            "ice",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "water",
+            "ground"
+        ],
+        "1/2": [
+            "fairy",
+            "poison",
+            "bug"
+        ],
+        "1/4": [
+            "fighting",
+            "grass"
+        ]
+    }
 }

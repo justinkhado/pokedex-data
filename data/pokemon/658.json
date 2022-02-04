@@ -27,5 +27,32 @@
             "effect": "Changes the bearer's type to match each move it uses.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "grass",
+            "electric",
+            "fighting",
+            "fairy",
+            "bug"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "poison",
+            "normal",
+            "ground",
+            "dragon"
+        ],
+        "1/2": [
+            "ice",
+            "steel",
+            "fire",
+            "water",
+            "ghost",
+            "dark"
+        ],
+        "1/4": []
+    }
 }

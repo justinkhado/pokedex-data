@@ -31,5 +31,32 @@
             "effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
+        "1": [
+            "rock",
+            "bug",
+            "ghost",
+            "electric",
+            "psychic",
+            "ice",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "normal",
+            "flying",
+            "poison",
+            "fire"
+        ],
+        "0": []
+    }
 }

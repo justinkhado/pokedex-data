@@ -22,5 +22,32 @@
             "effect": "Raises this Pok\u00e9mon's highest stat by one stage when it faints another Pok\u00e9mon.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ground",
+            "rock",
+            "water",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "flying",
+            "dragon",
+            "psychic",
+            "electric"
+        ],
+        "1/2": [
+            "fairy",
+            "fire",
+            "grass",
+            "ice",
+            "steel",
+            "poison"
+        ],
+        "1/4": [
+            "bug"
+        ]
+    }
 }

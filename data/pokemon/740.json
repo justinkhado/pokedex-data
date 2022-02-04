@@ -32,5 +32,33 @@
             "effect": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "flying",
+            "fairy",
+            "psychic",
+            "fighting",
+            "fire",
+            "steel"
+        ],
+        "1": [
+            "poison",
+            "grass",
+            "electric",
+            "ghost",
+            "normal",
+            "ground",
+            "dragon",
+            "water",
+            "rock"
+        ],
+        "1/2": [
+            "dark",
+            "bug",
+            "ice"
+        ],
+        "1/4": []
+    }
 }

@@ -27,5 +27,34 @@
             "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pok\u00e9mon on contact.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "flying",
+            "fire",
+            "psychic"
+        ],
+        "1": [
+            "rock",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "ground",
+            "poison",
+            "bug"
+        ],
+        "1/2": [
+            "water",
+            "electric",
+            "fighting",
+            "fairy"
+        ],
+        "1/4": [
+            "grass"
+        ]
+    }
 }

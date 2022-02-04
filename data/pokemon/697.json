@@ -27,5 +27,34 @@
             "effect": "Protects against recoil damage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "fighting",
+            "ground",
+            "steel",
+            "ice",
+            "fairy",
+            "dragon"
+        ],
+        "1": [
+            "rock",
+            "psychic",
+            "ghost",
+            "dark",
+            "bug",
+            "grass",
+            "water"
+        ],
+        "1/2": [
+            "flying",
+            "normal",
+            "poison",
+            "electric"
+        ],
+        "1/4": [
+            "fire"
+        ]
+    }
 }

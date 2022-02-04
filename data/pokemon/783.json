@@ -32,5 +32,34 @@
             "effect": "Protects against damage from weather.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fairy"
+        ],
+        "2": [
+            "ice",
+            "dragon",
+            "flying",
+            "psychic"
+        ],
+        "1": [
+            "fighting",
+            "poison",
+            "ghost",
+            "normal",
+            "ground",
+            "steel"
+        ],
+        "1/2": [
+            "water",
+            "fire",
+            "grass",
+            "electric",
+            "rock",
+            "dark",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

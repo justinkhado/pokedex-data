@@ -27,5 +27,34 @@
             "effect": "Protects against sound-based moves.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "fire"
+        ],
+        "2": [
+            "flying",
+            "poison",
+            "bug",
+            "fighting",
+            "rock",
+            "steel"
+        ],
+        "1": [
+            "fairy",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "dragon",
+            "ice"
+        ],
+        "1/2": [
+            "water",
+            "ground",
+            "grass",
+            "electric"
+        ],
+        "1/4": []
+    }
 }

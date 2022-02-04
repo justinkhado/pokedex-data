@@ -21,5 +21,33 @@
             "effect": "Strengthens punch-based moves to 1.2\u00d7 their power.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "fighting",
+            "ground",
+            "fire"
+        ],
+        "1": [
+            "ghost",
+            "water",
+            "electric",
+            "dark"
+        ],
+        "1/2": [
+            "normal",
+            "flying",
+            "rock",
+            "bug",
+            "steel",
+            "grass",
+            "psychic",
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "0": [
+            "poison"
+        ]
+    }
 }

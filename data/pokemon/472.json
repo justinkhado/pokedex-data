@@ -32,5 +32,32 @@
             "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [
+            "ice"
+        ],
+        "2": [
+            "water"
+        ],
+        "1": [
+            "flying",
+            "fairy",
+            "fire",
+            "psychic",
+            "ghost",
+            "normal",
+            "dark",
+            "steel",
+            "dragon",
+            "rock",
+            "grass"
+        ],
+        "1/2": [
+            "poison",
+            "fighting",
+            "bug"
+        ],
+        "1/4": []
+    }
 }

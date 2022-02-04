@@ -22,5 +22,33 @@
             "effect": "Evades ground moves.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "4": [],
+        "2": [
+            "ice",
+            "fairy",
+            "dragon",
+            "ghost",
+            "dark",
+            "bug"
+        ],
+        "1": [
+            "flying",
+            "rock",
+            "poison",
+            "normal",
+            "ground",
+            "steel"
+        ],
+        "1/2": [
+            "water",
+            "fire",
+            "grass",
+            "electric",
+            "fighting",
+            "psychic"
+        ],
+        "1/4": []
+    }
 }

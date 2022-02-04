@@ -26,5 +26,32 @@
             "effect": "Strengthens grass moves to inflict 1.5\u00d7 damage at 1/3 max HP or less.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "flying",
+            "poison",
+            "bug",
+            "fire",
+            "ice"
+        ],
+        "1": [
+            "normal",
+            "fighting",
+            "rock",
+            "ghost",
+            "steel",
+            "psychic",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "ground",
+            "water",
+            "grass",
+            "electric"
+        ],
+        "0": []
+    }
 }

@@ -31,5 +31,32 @@
             "effect": "Ensures all moves used by and against the Pok\u00e9mon hit.",
             "hidden": true
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "flying",
+            "rock",
+            "fire"
+        ],
+        "1": [
+            "normal",
+            "poison",
+            "bug",
+            "ghost",
+            "steel",
+            "water",
+            "electric",
+            "psychic",
+            "ice",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "ground",
+            "grass"
+        ],
+        "0": []
+    }
 }

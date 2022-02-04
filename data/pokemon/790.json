@@ -21,5 +21,32 @@
             "effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
             "hidden": false
         }
-    ]
+    ],
+    "type_chart": {
+        "2": [
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "1": [
+            "normal",
+            "flying",
+            "poison",
+            "ground",
+            "rock",
+            "steel",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "1/2": [
+            "fighting",
+            "psychic"
+        ],
+        "0": []
+    }
 }
