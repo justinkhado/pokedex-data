@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "612"
+                    "id": "612",
+                    "name": "haxorus"
                 }
             ],
-            "id": "611"
+            "id": "611",
+            "name": "fraxure"
         }
     ],
-    "id": "610"
+    "id": "610",
+    "name": "axew"
 }

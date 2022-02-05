@@ -18,11 +18,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "230"
+                    "id": "230",
+                    "name": "kingdra"
                 }
             ],
-            "id": "117"
+            "id": "117",
+            "name": "seadra"
         }
     ],
-    "id": "116"
+    "id": "116",
+    "name": "horsea"
 }

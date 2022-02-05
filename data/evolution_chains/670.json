@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "671"
+                    "id": "671",
+                    "name": "florges"
                 }
             ],
-            "id": "670"
+            "id": "670",
+            "name": "floette"
         }
     ],
-    "id": "669"
+    "id": "669",
+    "name": "flabebe"
 }

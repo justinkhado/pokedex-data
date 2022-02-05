@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "448"
+            "id": "448",
+            "name": "lucario"
         }
     ],
-    "id": "447"
+    "id": "447",
+    "name": "riolu"
 }

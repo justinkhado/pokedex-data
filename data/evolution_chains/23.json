@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "24"
+            "id": "24",
+            "name": "arbok"
         }
     ],
-    "id": "23"
+    "id": "23",
+    "name": "ekans"
 }

@@ -7,7 +7,8 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "80"
+            "id": "80",
+            "name": "slowbro"
         },
         {
             "evolution_details": [
@@ -19,8 +20,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "199"
+            "id": "199",
+            "name": "slowking"
         }
     ],
-    "id": "79"
+    "id": "79",
+    "name": "slowpoke"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "628"
+            "id": "628",
+            "name": "braviary"
         }
     ],
-    "id": "627"
+    "id": "627",
+    "name": "rufflet"
 }

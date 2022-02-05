@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "226"
+            "id": "226",
+            "name": "mantine"
         }
     ],
-    "id": "458"
+    "id": "458",
+    "name": "mantyke"
 }

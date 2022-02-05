@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "202"
+            "id": "202",
+            "name": "wobbuffet"
         }
     ],
-    "id": "360"
+    "id": "360",
+    "name": "wynaut"
 }

@@ -11,8 +11,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "461"
+            "id": "461",
+            "name": "weavile"
         }
     ],
-    "id": "215"
+    "id": "215",
+    "name": "sneasel"
 }

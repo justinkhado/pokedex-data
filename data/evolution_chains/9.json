@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "9"
+                    "id": "9",
+                    "name": "blastoise"
                 }
             ],
-            "id": "8"
+            "id": "8",
+            "name": "wartortle"
         }
     ],
-    "id": "7"
+    "id": "7",
+    "name": "squirtle"
 }

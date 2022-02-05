@@ -6,7 +6,8 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "841"
+            "id": "841",
+            "name": "flapple"
         },
         {
             "evolution_details": [
@@ -14,8 +15,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "842"
+            "id": "842",
+            "name": "appletun"
         }
     ],
-    "id": "840"
+    "id": "840",
+    "name": "applin"
 }

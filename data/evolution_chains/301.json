@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "301"
+            "id": "301",
+            "name": "delcatty"
         }
     ],
-    "id": "300"
+    "id": "300",
+    "name": "skitty"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "395"
+                    "id": "395",
+                    "name": "empoleon"
                 }
             ],
-            "id": "394"
+            "id": "394",
+            "name": "prinplup"
         }
     ],
-    "id": "393"
+    "id": "393",
+    "name": "piplup"
 }

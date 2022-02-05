@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "232"
+            "id": "232",
+            "name": "donphan"
         }
     ],
-    "id": "231"
+    "id": "231",
+    "name": "phanpy"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "319"
+            "id": "319",
+            "name": "sharpedo"
         }
     ],
-    "id": "318"
+    "id": "318",
+    "name": "carvanha"
 }

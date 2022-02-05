@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "567"
+            "id": "567",
+            "name": "archeops"
         }
     ],
-    "id": "566"
+    "id": "566",
+    "name": "archen"
 }

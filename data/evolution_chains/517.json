@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "518"
+            "id": "518",
+            "name": "musharna"
         }
     ],
-    "id": "517"
+    "id": "517",
+    "name": "munna"
 }

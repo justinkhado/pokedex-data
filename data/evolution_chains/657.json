@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "658"
+                    "id": "658",
+                    "name": "greninja"
                 }
             ],
-            "id": "657"
+            "id": "657",
+            "name": "frogadier"
         }
     ],
-    "id": "656"
+    "id": "656",
+    "name": "froakie"
 }

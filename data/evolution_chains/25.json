@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "26"
+                    "id": "26",
+                    "name": "raichu"
                 }
             ],
-            "id": "25"
+            "id": "25",
+            "name": "pikachu"
         }
     ],
-    "id": "172"
+    "id": "172",
+    "name": "pichu"
 }

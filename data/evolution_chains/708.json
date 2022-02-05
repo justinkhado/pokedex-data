@@ -6,8 +6,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "709"
+            "id": "709",
+            "name": "trevenant"
         }
     ],
-    "id": "708"
+    "id": "708",
+    "name": "phantump"
 }

@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "463"
+            "id": "463",
+            "name": "lickilicky"
         }
     ],
-    "id": "108"
+    "id": "108",
+    "name": "lickitung"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "257"
+                    "id": "257",
+                    "name": "blaziken"
                 }
             ],
-            "id": "256"
+            "id": "256",
+            "name": "combusken"
         }
     ],
-    "id": "255"
+    "id": "255",
+    "name": "torchic"
 }

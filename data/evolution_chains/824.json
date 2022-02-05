@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "826"
+                    "id": "826",
+                    "name": "orbeetle"
                 }
             ],
-            "id": "825"
+            "id": "825",
+            "name": "dottler"
         }
     ],
-    "id": "824"
+    "id": "824",
+    "name": "blipbug"
 }

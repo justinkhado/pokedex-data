@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "630"
+            "id": "630",
+            "name": "mandibuzz"
         }
     ],
-    "id": "629"
+    "id": "629",
+    "name": "vullaby"
 }

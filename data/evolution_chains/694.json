@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "695"
+            "id": "695",
+            "name": "heliolisk"
         }
     ],
-    "id": "694"
+    "id": "694",
+    "name": "helioptile"
 }

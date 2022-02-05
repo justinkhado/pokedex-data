@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "497"
+                    "id": "497",
+                    "name": "serperior"
                 }
             ],
-            "id": "496"
+            "id": "496",
+            "name": "servine"
         }
     ],
-    "id": "495"
+    "id": "495",
+    "name": "snivy"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "666"
+                    "id": "666",
+                    "name": "vivillon"
                 }
             ],
-            "id": "665"
+            "id": "665",
+            "name": "spewpa"
         }
     ],
-    "id": "664"
+    "id": "664",
+    "name": "scatterbug"
 }

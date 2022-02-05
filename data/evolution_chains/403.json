@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "405"
+                    "id": "405",
+                    "name": "luxray"
                 }
             ],
-            "id": "404"
+            "id": "404",
+            "name": "luxio"
         }
     ],
-    "id": "403"
+    "id": "403",
+    "name": "shinx"
 }

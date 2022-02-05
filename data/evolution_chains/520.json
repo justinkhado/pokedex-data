@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "521"
+                    "id": "521",
+                    "name": "unfezant"
                 }
             ],
-            "id": "520"
+            "id": "520",
+            "name": "tranquill"
         }
     ],
-    "id": "519"
+    "id": "519",
+    "name": "pidove"
 }

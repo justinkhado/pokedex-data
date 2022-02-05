@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "468"
+                    "id": "468",
+                    "name": "togekiss"
                 }
             ],
-            "id": "176"
+            "id": "176",
+            "name": "togetic"
         }
     ],
-    "id": "175"
+    "id": "175",
+    "name": "togepi"
 }

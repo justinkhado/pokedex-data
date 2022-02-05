@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "342"
+            "id": "342",
+            "name": "crawdaunt"
         }
     ],
-    "id": "341"
+    "id": "341",
+    "name": "corphish"
 }

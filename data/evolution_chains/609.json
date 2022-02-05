@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "609"
+                    "id": "609",
+                    "name": "chandelure"
                 }
             ],
-            "id": "608"
+            "id": "608",
+            "name": "lampent"
         }
     ],
-    "id": "607"
+    "id": "607",
+    "name": "litwick"
 }

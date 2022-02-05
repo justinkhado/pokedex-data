@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "40"
+                    "id": "40",
+                    "name": "wigglytuff"
                 }
             ],
-            "id": "39"
+            "id": "39",
+            "name": "jigglypuff"
         }
     ],
-    "id": "174"
+    "id": "174",
+    "name": "igglybuff"
 }

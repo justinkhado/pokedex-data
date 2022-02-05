@@ -25,11 +25,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "738"
+                    "id": "738",
+                    "name": "vikavolt"
                 }
             ],
-            "id": "737"
+            "id": "737",
+            "name": "charjabug"
         }
     ],
-    "id": "736"
+    "id": "736",
+    "name": "grubbin"
 }

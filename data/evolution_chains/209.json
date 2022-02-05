@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "210"
+            "id": "210",
+            "name": "granbull"
         }
     ],
-    "id": "209"
+    "id": "209",
+    "name": "snubbull"
 }

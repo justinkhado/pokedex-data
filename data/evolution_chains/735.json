@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "735"
+            "id": "735",
+            "name": "gumshoos"
         }
     ],
-    "id": "734"
+    "id": "734",
+    "name": "yungoos"
 }

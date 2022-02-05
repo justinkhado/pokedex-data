@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "423"
+            "id": "423",
+            "name": "gastrodon"
         }
     ],
-    "id": "422"
+    "id": "422",
+    "name": "shellos"
 }

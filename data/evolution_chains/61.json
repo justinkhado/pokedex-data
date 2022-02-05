@@ -18,7 +18,8 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "62"
+                    "id": "62",
+                    "name": "poliwrath"
                 },
                 {
                     "evolution_details": [
@@ -30,11 +31,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "186"
+                    "id": "186",
+                    "name": "politoed"
                 }
             ],
-            "id": "61"
+            "id": "61",
+            "name": "poliwhirl"
         }
     ],
-    "id": "60"
+    "id": "60",
+    "name": "poliwag"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "334"
+            "id": "334",
+            "name": "altaria"
         }
     ],
-    "id": "333"
+    "id": "333",
+    "name": "swablu"
 }

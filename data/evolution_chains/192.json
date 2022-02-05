@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "192"
+            "id": "192",
+            "name": "sunflora"
         }
     ],
-    "id": "191"
+    "id": "191",
+    "name": "sunkern"
 }

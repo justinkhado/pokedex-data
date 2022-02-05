@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "804"
+            "id": "804",
+            "name": "naganadel"
         }
     ],
-    "id": "803"
+    "id": "803",
+    "name": "poipole"
 }

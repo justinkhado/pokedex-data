@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "411"
+            "id": "411",
+            "name": "bastiodon"
         }
     ],
-    "id": "410"
+    "id": "410",
+    "name": "shieldon"
 }

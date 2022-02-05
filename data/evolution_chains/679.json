@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "681"
+                    "id": "681",
+                    "name": "aegislash"
                 }
             ],
-            "id": "680"
+            "id": "680",
+            "name": "doublade"
         }
     ],
-    "id": "679"
+    "id": "679",
+    "name": "honedge"
 }

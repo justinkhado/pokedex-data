@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "537"
+                    "id": "537",
+                    "name": "seismitoad"
                 }
             ],
-            "id": "536"
+            "id": "536",
+            "name": "palpitoad"
         }
     ],
-    "id": "535"
+    "id": "535",
+    "name": "tympole"
 }

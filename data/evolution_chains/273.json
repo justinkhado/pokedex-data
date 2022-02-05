@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "275"
+                    "id": "275",
+                    "name": "shiftry"
                 }
             ],
-            "id": "274"
+            "id": "274",
+            "name": "nuzleaf"
         }
     ],
-    "id": "273"
+    "id": "273",
+    "name": "seedot"
 }

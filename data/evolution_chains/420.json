@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "421"
+            "id": "421",
+            "name": "cherrim"
         }
     ],
-    "id": "420"
+    "id": "420",
+    "name": "cherubi"
 }

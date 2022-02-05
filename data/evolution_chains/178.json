@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "178"
+            "id": "178",
+            "name": "xatu"
         }
     ],
-    "id": "177"
+    "id": "177",
+    "name": "natu"
 }

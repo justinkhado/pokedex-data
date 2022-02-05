@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "171"
+            "id": "171",
+            "name": "lanturn"
         }
     ],
-    "id": "170"
+    "id": "170",
+    "name": "chinchou"
 }

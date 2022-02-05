@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "435"
+            "id": "435",
+            "name": "skuntank"
         }
     ],
-    "id": "434"
+    "id": "434",
+    "name": "stunky"
 }

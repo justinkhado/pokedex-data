@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "22"
+            "id": "22",
+            "name": "fearow"
         }
     ],
-    "id": "21"
+    "id": "21",
+    "name": "spearow"
 }

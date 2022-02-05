@@ -15,7 +15,8 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "282"
+                    "id": "282",
+                    "name": "gardevoir"
                 },
                 {
                     "evolution_details": [
@@ -28,11 +29,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "475"
+                    "id": "475",
+                    "name": "gallade"
                 }
             ],
-            "id": "281"
+            "id": "281",
+            "name": "kirlia"
         }
     ],
-    "id": "280"
+    "id": "280",
+    "name": "ralts"
 }

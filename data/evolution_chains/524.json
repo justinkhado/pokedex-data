@@ -14,11 +14,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "526"
+                    "id": "526",
+                    "name": "gigalith"
                 }
             ],
-            "id": "525"
+            "id": "525",
+            "name": "boldore"
         }
     ],
-    "id": "524"
+    "id": "524",
+    "name": "roggenrola"
 }

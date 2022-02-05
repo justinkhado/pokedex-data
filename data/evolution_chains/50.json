@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "51"
+            "id": "51",
+            "name": "dugtrio"
         }
     ],
-    "id": "50"
+    "id": "50",
+    "name": "diglett"
 }

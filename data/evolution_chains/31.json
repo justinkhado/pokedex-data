@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "31"
+                    "id": "31",
+                    "name": "nidoqueen"
                 }
             ],
-            "id": "30"
+            "id": "30",
+            "name": "nidorina"
         }
     ],
-    "id": "29"
+    "id": "29",
+    "name": "nidoran-f"
 }

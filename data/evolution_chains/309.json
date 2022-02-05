@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "310"
+            "id": "310",
+            "name": "manectric"
         }
     ],
-    "id": "309"
+    "id": "309",
+    "name": "electrike"
 }

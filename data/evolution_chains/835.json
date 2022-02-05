@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "836"
+            "id": "836",
+            "name": "boltund"
         }
     ],
-    "id": "835"
+    "id": "835",
+    "name": "yamper"
 }

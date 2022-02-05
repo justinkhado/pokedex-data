@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "55"
+            "id": "55",
+            "name": "golduck"
         }
     ],
-    "id": "54"
+    "id": "54",
+    "name": "psyduck"
 }

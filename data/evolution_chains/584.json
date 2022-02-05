@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "584"
+                    "id": "584",
+                    "name": "vanilluxe"
                 }
             ],
-            "id": "583"
+            "id": "583",
+            "name": "vanillish"
         }
     ],
-    "id": "582"
+    "id": "582",
+    "name": "vanillite"
 }

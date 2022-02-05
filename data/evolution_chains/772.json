@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "773"
+            "id": "773",
+            "name": "silvally"
         }
     ],
-    "id": "772"
+    "id": "772",
+    "name": "type-null"
 }

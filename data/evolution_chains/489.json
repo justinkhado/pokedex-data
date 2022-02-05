@@ -2,8 +2,10 @@
     "evolves_to": [
         {
             "evolution_details": [],
-            "id": "490"
+            "id": "490",
+            "name": "manaphy"
         }
     ],
-    "id": "489"
+    "id": "489",
+    "name": "phione"
 }

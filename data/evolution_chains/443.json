@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "445"
+                    "id": "445",
+                    "name": "garchomp"
                 }
             ],
-            "id": "444"
+            "id": "444",
+            "name": "gabite"
         }
     ],
-    "id": "443"
+    "id": "443",
+    "name": "gible"
 }

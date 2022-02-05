@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "601"
+                    "id": "601",
+                    "name": "klinklang"
                 }
             ],
-            "id": "600"
+            "id": "600",
+            "name": "klang"
         }
     ],
-    "id": "599"
+    "id": "599",
+    "name": "klink"
 }

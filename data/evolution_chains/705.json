@@ -16,11 +16,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "706"
+                    "id": "706",
+                    "name": "goodra"
                 }
             ],
-            "id": "705"
+            "id": "705",
+            "name": "sliggoo"
         }
     ],
-    "id": "704"
+    "id": "704",
+    "name": "goomy"
 }

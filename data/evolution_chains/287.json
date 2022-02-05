@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "289"
+                    "id": "289",
+                    "name": "slaking"
                 }
             ],
-            "id": "288"
+            "id": "288",
+            "name": "vigoroth"
         }
     ],
-    "id": "287"
+    "id": "287",
+    "name": "slakoth"
 }

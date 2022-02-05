@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "460"
+            "id": "460",
+            "name": "abomasnow"
         }
     ],
-    "id": "459"
+    "id": "459",
+    "name": "snover"
 }

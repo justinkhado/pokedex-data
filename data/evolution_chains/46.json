@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "47"
+            "id": "47",
+            "name": "parasect"
         }
     ],
-    "id": "46"
+    "id": "46",
+    "name": "paras"
 }

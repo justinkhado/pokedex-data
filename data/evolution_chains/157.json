@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "157"
+                    "id": "157",
+                    "name": "typhlosion"
                 }
             ],
-            "id": "156"
+            "id": "156",
+            "name": "quilava"
         }
     ],
-    "id": "155"
+    "id": "155",
+    "name": "cyndaquil"
 }

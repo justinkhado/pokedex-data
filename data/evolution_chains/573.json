@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "573"
+            "id": "573",
+            "name": "cinccino"
         }
     ],
-    "id": "572"
+    "id": "572",
+    "name": "minccino"
 }

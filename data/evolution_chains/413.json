@@ -8,7 +8,8 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "413"
+            "id": "413",
+            "name": "wormadam"
         },
         {
             "evolution_details": [
@@ -18,8 +19,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "414"
+            "id": "414",
+            "name": "mothim"
         }
     ],
-    "id": "412"
+    "id": "412",
+    "name": "burmy"
 }

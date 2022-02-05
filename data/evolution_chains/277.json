@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "277"
+            "id": "277",
+            "name": "swellow"
         }
     ],
-    "id": "276"
+    "id": "276",
+    "name": "taillow"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "143"
+            "id": "143",
+            "name": "snorlax"
         }
     ],
-    "id": "446"
+    "id": "446",
+    "name": "munchlax"
 }

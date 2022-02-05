@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "713"
+            "id": "713",
+            "name": "avalugg"
         }
     ],
-    "id": "712"
+    "id": "712",
+    "name": "bergmite"
 }

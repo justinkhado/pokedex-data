@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "49"
+            "id": "49",
+            "name": "venomoth"
         }
     ],
-    "id": "48"
+    "id": "48",
+    "name": "venonat"
 }

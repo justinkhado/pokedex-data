@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "523"
+            "id": "523",
+            "name": "zebstrika"
         }
     ],
-    "id": "522"
+    "id": "522",
+    "name": "blitzle"
 }

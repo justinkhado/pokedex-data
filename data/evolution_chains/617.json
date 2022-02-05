@@ -10,8 +10,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "617"
+            "id": "617",
+            "name": "accelgor"
         }
     ],
-    "id": "616"
+    "id": "616",
+    "name": "shelmet"
 }

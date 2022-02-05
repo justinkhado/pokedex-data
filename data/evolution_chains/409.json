@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "409"
+            "id": "409",
+            "name": "rampardos"
         }
     ],
-    "id": "408"
+    "id": "408",
+    "name": "cranidos"
 }

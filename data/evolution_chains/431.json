@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "432"
+            "id": "432",
+            "name": "purugly"
         }
     ],
-    "id": "431"
+    "id": "431",
+    "name": "glameow"
 }

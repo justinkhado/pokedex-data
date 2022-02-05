@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "308"
+            "id": "308",
+            "name": "medicham"
         }
     ],
-    "id": "307"
+    "id": "307",
+    "name": "meditite"
 }

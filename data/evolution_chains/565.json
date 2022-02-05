@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "565"
+            "id": "565",
+            "name": "carracosta"
         }
     ],
-    "id": "564"
+    "id": "564",
+    "name": "tirtouga"
 }

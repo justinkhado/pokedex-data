@@ -7,7 +7,8 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "291"
+            "id": "291",
+            "name": "ninjask"
         },
         {
             "evolution_details": [
@@ -15,8 +16,10 @@
                     "trigger": "have 1+ pokeballs and 1+ spaces in party while evolving Nincada to Ninjask"
                 }
             ],
-            "id": "292"
+            "id": "292",
+            "name": "shedinja"
         }
     ],
-    "id": "290"
+    "id": "290",
+    "name": "nincada"
 }

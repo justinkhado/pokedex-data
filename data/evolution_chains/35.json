@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "36"
+                    "id": "36",
+                    "name": "clefable"
                 }
             ],
-            "id": "35"
+            "id": "35",
+            "name": "clefairy"
         }
     ],
-    "id": "173"
+    "id": "173",
+    "name": "cleffa"
 }

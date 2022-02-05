@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "576"
+                    "id": "576",
+                    "name": "gothitelle"
                 }
             ],
-            "id": "575"
+            "id": "575",
+            "name": "gothorita"
         }
     ],
-    "id": "574"
+    "id": "574",
+    "name": "gothita"
 }

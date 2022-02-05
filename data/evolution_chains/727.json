@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "727"
+                    "id": "727",
+                    "name": "incineroar"
                 }
             ],
-            "id": "726"
+            "id": "726",
+            "name": "torracat"
         }
     ],
-    "id": "725"
+    "id": "725",
+    "name": "litten"
 }

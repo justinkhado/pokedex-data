@@ -10,8 +10,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "589"
+            "id": "589",
+            "name": "escavalier"
         }
     ],
-    "id": "588"
+    "id": "588",
+    "name": "karrablast"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "733"
+                    "id": "733",
+                    "name": "toucannon"
                 }
             ],
-            "id": "732"
+            "id": "732",
+            "name": "trumbeak"
         }
     ],
-    "id": "731"
+    "id": "731",
+    "name": "pikipek"
 }

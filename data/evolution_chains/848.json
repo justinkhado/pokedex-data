@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "849"
+            "id": "849",
+            "name": "toxtricity"
         }
     ],
-    "id": "848"
+    "id": "848",
+    "name": "toxel"
 }

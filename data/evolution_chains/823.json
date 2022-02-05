@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "823"
+                    "id": "823",
+                    "name": "corviknight"
                 }
             ],
-            "id": "822"
+            "id": "822",
+            "name": "corvisquire"
         }
     ],
-    "id": "821"
+    "id": "821",
+    "name": "rookidee"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "340"
+            "id": "340",
+            "name": "whiscash"
         }
     ],
-    "id": "339"
+    "id": "339",
+    "name": "barboach"
 }

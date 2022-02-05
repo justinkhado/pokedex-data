@@ -10,7 +10,8 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "367"
+            "id": "367",
+            "name": "huntail"
         },
         {
             "evolution_details": [
@@ -22,8 +23,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "368"
+            "id": "368",
+            "name": "gorebyss"
         }
     ],
-    "id": "366"
+    "id": "366",
+    "name": "clamperl"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "248"
+                    "id": "248",
+                    "name": "tyranitar"
                 }
             ],
-            "id": "247"
+            "id": "247",
+            "name": "pupitar"
         }
     ],
-    "id": "246"
+    "id": "246",
+    "name": "larvitar"
 }

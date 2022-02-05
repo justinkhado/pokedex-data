@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "87"
+            "id": "87",
+            "name": "dewgong"
         }
     ],
-    "id": "86"
+    "id": "86",
+    "name": "seel"
 }

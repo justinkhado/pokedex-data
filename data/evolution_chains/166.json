@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "166"
+            "id": "166",
+            "name": "ledian"
         }
     ],
-    "id": "165"
+    "id": "165",
+    "name": "ledyba"
 }

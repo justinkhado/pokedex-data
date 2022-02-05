@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "306"
+                    "id": "306",
+                    "name": "aggron"
                 }
             ],
-            "id": "305"
+            "id": "305",
+            "name": "lairon"
         }
     ],
-    "id": "304"
+    "id": "304",
+    "name": "aron"
 }

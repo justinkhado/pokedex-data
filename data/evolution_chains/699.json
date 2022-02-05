@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "699"
+            "id": "699",
+            "name": "aurorus"
         }
     ],
-    "id": "698"
+    "id": "698",
+    "name": "amaura"
 }

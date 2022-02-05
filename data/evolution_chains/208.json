@@ -10,8 +10,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "208"
+            "id": "208",
+            "name": "steelix"
         }
     ],
-    "id": "95"
+    "id": "95",
+    "name": "onix"
 }

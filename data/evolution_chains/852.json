@@ -6,8 +6,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "853"
+            "id": "853",
+            "name": "grapploct"
         }
     ],
-    "id": "852"
+    "id": "852",
+    "name": "clobbopus"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "20"
+            "id": "20",
+            "name": "raticate"
         }
     ],
-    "id": "19"
+    "id": "19",
+    "name": "rattata"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "784"
+                    "id": "784",
+                    "name": "kommo-o"
                 }
             ],
-            "id": "783"
+            "id": "783",
+            "name": "hakamo-o"
         }
     ],
-    "id": "782"
+    "id": "782",
+    "name": "jangmo-o"
 }

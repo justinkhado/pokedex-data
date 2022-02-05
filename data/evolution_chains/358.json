@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "358"
+            "id": "358",
+            "name": "chimecho"
         }
     ],
-    "id": "433"
+    "id": "433",
+    "name": "chingling"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "437"
+            "id": "437",
+            "name": "bronzong"
         }
     ],
-    "id": "436"
+    "id": "436",
+    "name": "bronzor"
 }

@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "873"
+            "id": "873",
+            "name": "frosmoth"
         }
     ],
-    "id": "872"
+    "id": "872",
+    "name": "snom"
 }

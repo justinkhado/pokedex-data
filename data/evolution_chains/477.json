@@ -18,11 +18,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "477"
+                    "id": "477",
+                    "name": "dusknoir"
                 }
             ],
-            "id": "356"
+            "id": "356",
+            "name": "dusclops"
         }
     ],
-    "id": "355"
+    "id": "355",
+    "name": "duskull"
 }

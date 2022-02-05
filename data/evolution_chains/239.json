@@ -18,11 +18,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "466"
+                    "id": "466",
+                    "name": "electivire"
                 }
             ],
-            "id": "125"
+            "id": "125",
+            "name": "electabuzz"
         }
     ],
-    "id": "239"
+    "id": "239",
+    "name": "elekid"
 }

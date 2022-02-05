@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "217"
+            "id": "217",
+            "name": "ursaring"
         }
     ],
-    "id": "216"
+    "id": "216",
+    "name": "teddiursa"
 }

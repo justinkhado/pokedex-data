@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "124"
+            "id": "124",
+            "name": "jynx"
         }
     ],
-    "id": "238"
+    "id": "238",
+    "name": "smoochum"
 }

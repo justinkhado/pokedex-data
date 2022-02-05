@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "514"
+            "id": "514",
+            "name": "simisear"
         }
     ],
-    "id": "513"
+    "id": "513",
+    "name": "pansear"
 }

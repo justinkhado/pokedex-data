@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "6"
+                    "id": "6",
+                    "name": "charizard"
                 }
             ],
-            "id": "5"
+            "id": "5",
+            "name": "charmeleon"
         }
     ],
-    "id": "4"
+    "id": "4",
+    "name": "charmander"
 }

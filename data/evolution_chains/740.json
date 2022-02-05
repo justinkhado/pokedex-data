@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "740"
+            "id": "740",
+            "name": "crabominable"
         }
     ],
-    "id": "739"
+    "id": "739",
+    "name": "crabrawler"
 }

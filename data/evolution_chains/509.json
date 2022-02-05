@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "510"
+            "id": "510",
+            "name": "liepard"
         }
     ],
-    "id": "509"
+    "id": "509",
+    "name": "purrloin"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "815"
+                    "id": "815",
+                    "name": "cinderace"
                 }
             ],
-            "id": "814"
+            "id": "814",
+            "name": "raboot"
         }
     ],
-    "id": "813"
+    "id": "813",
+    "name": "scorbunny"
 }

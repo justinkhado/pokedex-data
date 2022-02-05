@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "34"
+                    "id": "34",
+                    "name": "nidoking"
                 }
             ],
-            "id": "33"
+            "id": "33",
+            "name": "nidorino"
         }
     ],
-    "id": "32"
+    "id": "32",
+    "name": "nidoran-m"
 }

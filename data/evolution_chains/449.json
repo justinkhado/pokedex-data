@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "450"
+            "id": "450",
+            "name": "hippowdon"
         }
     ],
-    "id": "449"
+    "id": "449",
+    "name": "hippopotas"
 }

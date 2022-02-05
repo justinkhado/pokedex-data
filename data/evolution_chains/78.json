@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "78"
+            "id": "78",
+            "name": "rapidash"
         }
     ],
-    "id": "77"
+    "id": "77",
+    "name": "ponyta"
 }

@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "416"
+            "id": "416",
+            "name": "vespiquen"
         }
     ],
-    "id": "415"
+    "id": "415",
+    "name": "combee"
 }

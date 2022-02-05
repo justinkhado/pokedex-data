@@ -18,7 +18,8 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "45"
+                    "id": "45",
+                    "name": "vileplume"
                 },
                 {
                     "evolution_details": [
@@ -30,11 +31,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "182"
+                    "id": "182",
+                    "name": "bellossom"
                 }
             ],
-            "id": "44"
+            "id": "44",
+            "name": "gloom"
         }
     ],
-    "id": "43"
+    "id": "43",
+    "name": "oddish"
 }

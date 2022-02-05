@@ -7,7 +7,8 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "53"
+            "id": "53",
+            "name": "persian"
         },
         {
             "evolution_details": [
@@ -16,8 +17,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "863"
+            "id": "863",
+            "name": "perrserker"
         }
     ],
-    "id": "52"
+    "id": "52",
+    "name": "meowth"
 }

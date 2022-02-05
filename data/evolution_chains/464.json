@@ -18,11 +18,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "464"
+                    "id": "464",
+                    "name": "rhyperior"
                 }
             ],
-            "id": "112"
+            "id": "112",
+            "name": "rhydon"
         }
     ],
-    "id": "111"
+    "id": "111",
+    "name": "rhyhorn"
 }

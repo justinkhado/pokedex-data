@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "130"
+            "id": "130",
+            "name": "gyarados"
         }
     ],
-    "id": "129"
+    "id": "129",
+    "name": "magikarp"
 }

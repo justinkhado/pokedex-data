@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "168"
+            "id": "168",
+            "name": "ariados"
         }
     ],
-    "id": "167"
+    "id": "167",
+    "name": "spinarak"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "119"
+            "id": "119",
+            "name": "seaking"
         }
     ],
-    "id": "118"
+    "id": "118",
+    "name": "goldeen"
 }

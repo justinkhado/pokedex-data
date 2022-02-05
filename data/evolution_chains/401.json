@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "402"
+            "id": "402",
+            "name": "kricketune"
         }
     ],
-    "id": "401"
+    "id": "401",
+    "name": "kricketot"
 }

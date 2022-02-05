@@ -14,11 +14,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "534"
+                    "id": "534",
+                    "name": "conkeldurr"
                 }
             ],
-            "id": "533"
+            "id": "533",
+            "name": "gurdurr"
         }
     ],
-    "id": "532"
+    "id": "532",
+    "name": "timburr"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "830"
+            "id": "830",
+            "name": "eldegoss"
         }
     ],
-    "id": "829"
+    "id": "829",
+    "name": "gossifleur"
 }

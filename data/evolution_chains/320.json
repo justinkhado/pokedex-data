@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "321"
+            "id": "321",
+            "name": "wailord"
         }
     ],
-    "id": "320"
+    "id": "320",
+    "name": "wailmer"
 }

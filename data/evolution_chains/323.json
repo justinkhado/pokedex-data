@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "323"
+            "id": "323",
+            "name": "camerupt"
         }
     ],
-    "id": "322"
+    "id": "322",
+    "name": "numel"
 }

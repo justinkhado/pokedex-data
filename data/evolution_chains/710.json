@@ -6,8 +6,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "711"
+            "id": "711",
+            "name": "gourgeist"
         }
     ],
-    "id": "710"
+    "id": "710",
+    "name": "pumpkaboo"
 }

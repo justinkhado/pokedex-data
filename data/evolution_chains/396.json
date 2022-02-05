@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "398"
+                    "id": "398",
+                    "name": "staraptor"
                 }
             ],
-            "id": "397"
+            "id": "397",
+            "name": "staravia"
         }
     ],
-    "id": "396"
+    "id": "396",
+    "name": "starly"
 }

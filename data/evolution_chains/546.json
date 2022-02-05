@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "547"
+            "id": "547",
+            "name": "whimsicott"
         }
     ],
-    "id": "546"
+    "id": "546",
+    "name": "cottonee"
 }

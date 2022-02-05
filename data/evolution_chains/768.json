@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "768"
+            "id": "768",
+            "name": "golisopod"
         }
     ],
-    "id": "767"
+    "id": "767",
+    "name": "wimpod"
 }

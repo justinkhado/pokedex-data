@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "625"
+            "id": "625",
+            "name": "bisharp"
         }
     ],
-    "id": "624"
+    "id": "624",
+    "name": "pawniard"
 }

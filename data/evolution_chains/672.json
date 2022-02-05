@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "673"
+            "id": "673",
+            "name": "gogoat"
         }
     ],
-    "id": "672"
+    "id": "672",
+    "name": "skiddo"
 }

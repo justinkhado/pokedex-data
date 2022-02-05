@@ -14,11 +14,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "68"
+                    "id": "68",
+                    "name": "machamp"
                 }
             ],
-            "id": "67"
+            "id": "67",
+            "name": "machoke"
         }
     ],
-    "id": "66"
+    "id": "66",
+    "name": "machop"
 }

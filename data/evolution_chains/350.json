@@ -14,8 +14,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "350"
+            "id": "350",
+            "name": "milotic"
         }
     ],
-    "id": "349"
+    "id": "349",
+    "name": "feebas"
 }

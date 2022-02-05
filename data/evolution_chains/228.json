@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "229"
+            "id": "229",
+            "name": "houndoom"
         }
     ],
-    "id": "228"
+    "id": "228",
+    "name": "houndour"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "154"
+                    "id": "154",
+                    "name": "meganium"
                 }
             ],
-            "id": "153"
+            "id": "153",
+            "name": "bayleef"
         }
     ],
-    "id": "152"
+    "id": "152",
+    "name": "chikorita"
 }

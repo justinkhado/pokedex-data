@@ -15,7 +15,8 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "791"
+                    "id": "791",
+                    "name": "solgaleo"
                 },
                 {
                     "evolution_details": [
@@ -24,11 +25,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "792"
+                    "id": "792",
+                    "name": "lunala"
                 }
             ],
-            "id": "790"
+            "id": "790",
+            "name": "cosmoem"
         }
     ],
-    "id": "789"
+    "id": "789",
+    "name": "cosmog"
 }

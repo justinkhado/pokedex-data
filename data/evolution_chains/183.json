@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "184"
+                    "id": "184",
+                    "name": "azumarill"
                 }
             ],
-            "id": "183"
+            "id": "183",
+            "name": "marill"
         }
     ],
-    "id": "298"
+    "id": "298",
+    "name": "azurill"
 }

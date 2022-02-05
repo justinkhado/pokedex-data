@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "476"
+            "id": "476",
+            "name": "probopass"
         }
     ],
-    "id": "299"
+    "id": "299",
+    "name": "nosepass"
 }

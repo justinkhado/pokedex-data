@@ -11,8 +11,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "675"
+            "id": "675",
+            "name": "pangoro"
         }
     ],
-    "id": "674"
+    "id": "674",
+    "name": "pancham"
 }

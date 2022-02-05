@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "861"
+                    "id": "861",
+                    "name": "grimmsnarl"
                 }
             ],
-            "id": "860"
+            "id": "860",
+            "name": "morgrem"
         }
     ],
-    "id": "859"
+    "id": "859",
+    "name": "impidimp"
 }

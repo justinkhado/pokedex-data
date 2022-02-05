@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "59"
+            "id": "59",
+            "name": "arcanine"
         }
     ],
-    "id": "58"
+    "id": "58",
+    "name": "growlithe"
 }

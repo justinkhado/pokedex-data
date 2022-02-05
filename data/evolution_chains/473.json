@@ -18,11 +18,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "473"
+                    "id": "473",
+                    "name": "mamoswine"
                 }
             ],
-            "id": "221"
+            "id": "221",
+            "name": "piloswine"
         }
     ],
-    "id": "220"
+    "id": "220",
+    "name": "swinub"
 }

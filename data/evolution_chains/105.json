@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "105"
+            "id": "105",
+            "name": "marowak"
         }
     ],
-    "id": "104"
+    "id": "104",
+    "name": "cubone"
 }

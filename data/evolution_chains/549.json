@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "549"
+            "id": "549",
+            "name": "lilligant"
         }
     ],
-    "id": "548"
+    "id": "548",
+    "name": "petilil"
 }

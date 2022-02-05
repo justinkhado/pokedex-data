@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "185"
+            "id": "185",
+            "name": "sudowoodo"
         }
     ],
-    "id": "438"
+    "id": "438",
+    "name": "bonsly"
 }

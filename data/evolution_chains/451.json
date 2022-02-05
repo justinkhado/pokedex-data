@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "452"
+            "id": "452",
+            "name": "drapion"
         }
     ],
-    "id": "451"
+    "id": "451",
+    "name": "skorupi"
 }

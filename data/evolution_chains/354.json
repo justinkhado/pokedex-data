@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "354"
+            "id": "354",
+            "name": "banette"
         }
     ],
-    "id": "353"
+    "id": "353",
+    "name": "shuppet"
 }

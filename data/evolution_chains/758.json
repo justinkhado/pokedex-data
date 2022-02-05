@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "758"
+            "id": "758",
+            "name": "salazzle"
         }
     ],
-    "id": "757"
+    "id": "757",
+    "name": "salandit"
 }

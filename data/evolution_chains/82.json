@@ -25,11 +25,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "462"
+                    "id": "462",
+                    "name": "magnezone"
                 }
             ],
-            "id": "82"
+            "id": "82",
+            "name": "magneton"
         }
     ],
-    "id": "81"
+    "id": "81",
+    "name": "magnemite"
 }

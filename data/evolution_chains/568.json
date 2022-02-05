@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "569"
+            "id": "569",
+            "name": "garbodor"
         }
     ],
-    "id": "568"
+    "id": "568",
+    "name": "trubbish"
 }

@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "38"
+            "id": "38",
+            "name": "ninetales"
         }
     ],
-    "id": "37"
+    "id": "37",
+    "name": "vulpix"
 }

@@ -14,11 +14,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "94"
+                    "id": "94",
+                    "name": "gengar"
                 }
             ],
-            "id": "93"
+            "id": "93",
+            "name": "haunter"
         }
     ],
-    "id": "92"
+    "id": "92",
+    "name": "gastly"
 }

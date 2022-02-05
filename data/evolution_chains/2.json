@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "3"
+                    "id": "3",
+                    "name": "venusaur"
                 }
             ],
-            "id": "2"
+            "id": "2",
+            "name": "ivysaur"
         }
     ],
-    "id": "1"
+    "id": "1",
+    "name": "bulbasaur"
 }

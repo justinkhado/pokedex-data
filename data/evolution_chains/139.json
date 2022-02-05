@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "139"
+            "id": "139",
+            "name": "omastar"
         }
     ],
-    "id": "138"
+    "id": "138",
+    "name": "omanyte"
 }

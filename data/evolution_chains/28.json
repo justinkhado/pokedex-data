@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "28"
+            "id": "28",
+            "name": "sandslash"
         }
     ],
-    "id": "27"
+    "id": "27",
+    "name": "sandshrew"
 }

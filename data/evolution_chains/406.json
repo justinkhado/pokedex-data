@@ -19,11 +19,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "407"
+                    "id": "407",
+                    "name": "roserade"
                 }
             ],
-            "id": "315"
+            "id": "315",
+            "name": "roselia"
         }
     ],
-    "id": "406"
+    "id": "406",
+    "name": "budew"
 }

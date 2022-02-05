@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "373"
+                    "id": "373",
+                    "name": "salamence"
                 }
             ],
-            "id": "372"
+            "id": "372",
+            "name": "shelgon"
         }
     ],
-    "id": "371"
+    "id": "371",
+    "name": "bagon"
 }

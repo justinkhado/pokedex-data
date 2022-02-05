@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "162"
+            "id": "162",
+            "name": "furret"
         }
     ],
-    "id": "161"
+    "id": "161",
+    "name": "sentret"
 }

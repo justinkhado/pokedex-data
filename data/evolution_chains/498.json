@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "500"
+                    "id": "500",
+                    "name": "emboar"
                 }
             ],
-            "id": "499"
+            "id": "499",
+            "name": "pignite"
         }
     ],
-    "id": "498"
+    "id": "498",
+    "name": "tepig"
 }

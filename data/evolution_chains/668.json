@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "668"
+            "id": "668",
+            "name": "pyroar"
         }
     ],
-    "id": "667"
+    "id": "667",
+    "name": "litleo"
 }

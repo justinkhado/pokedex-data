@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "503"
+                    "id": "503",
+                    "name": "samurott"
                 }
             ],
-            "id": "502"
+            "id": "502",
+            "name": "dewott"
         }
     ],
-    "id": "501"
+    "id": "501",
+    "name": "oshawott"
 }

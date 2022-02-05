@@ -11,8 +11,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "472"
+            "id": "472",
+            "name": "gliscor"
         }
     ],
-    "id": "207"
+    "id": "207",
+    "name": "gligar"
 }

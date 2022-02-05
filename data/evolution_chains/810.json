@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "812"
+                    "id": "812",
+                    "name": "rillaboom"
                 }
             ],
-            "id": "811"
+            "id": "811",
+            "name": "thwackey"
         }
     ],
-    "id": "810"
+    "id": "810",
+    "name": "grookey"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "330"
+                    "id": "330",
+                    "name": "flygon"
                 }
             ],
-            "id": "329"
+            "id": "329",
+            "name": "vibrava"
         }
     ],
-    "id": "328"
+    "id": "328",
+    "name": "trapinch"
 }

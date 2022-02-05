@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "693"
+            "id": "693",
+            "name": "clawitzer"
         }
     ],
-    "id": "692"
+    "id": "692",
+    "name": "clauncher"
 }

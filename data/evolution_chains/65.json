@@ -14,11 +14,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "65"
+                    "id": "65",
+                    "name": "alakazam"
                 }
             ],
-            "id": "64"
+            "id": "64",
+            "name": "kadabra"
         }
     ],
-    "id": "63"
+    "id": "63",
+    "name": "abra"
 }

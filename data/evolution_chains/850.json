@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "851"
+            "id": "851",
+            "name": "centiskorch"
         }
     ],
-    "id": "850"
+    "id": "850",
+    "name": "sizzlipede"
 }

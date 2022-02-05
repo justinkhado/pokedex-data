@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "12"
+                    "id": "12",
+                    "name": "butterfree"
                 }
             ],
-            "id": "11"
+            "id": "11",
+            "name": "metapod"
         }
     ],
-    "id": "10"
+    "id": "10",
+    "name": "caterpie"
 }

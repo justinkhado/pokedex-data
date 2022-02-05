@@ -18,11 +18,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "866"
+                    "id": "866",
+                    "name": "mr-rime"
                 }
             ],
-            "id": "122"
+            "id": "122",
+            "name": "mr-mime"
         }
     ],
-    "id": "439"
+    "id": "439",
+    "name": "mime-jr"
 }

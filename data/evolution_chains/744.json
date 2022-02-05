@@ -8,8 +8,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "745"
+            "id": "745",
+            "name": "lycanroc"
         }
     ],
-    "id": "744"
+    "id": "744",
+    "name": "rockruff"
 }

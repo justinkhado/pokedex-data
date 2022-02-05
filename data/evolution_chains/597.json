@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "598"
+            "id": "598",
+            "name": "ferrothorn"
         }
     ],
-    "id": "597"
+    "id": "597",
+    "name": "ferroseed"
 }

@@ -10,8 +10,10 @@
                     "trigger": "trade"
                 }
             ],
-            "id": "212"
+            "id": "212",
+            "name": "scizor"
         }
     ],
-    "id": "123"
+    "id": "123",
+    "name": "scyther"
 }

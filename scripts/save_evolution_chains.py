@@ -65,7 +65,7 @@ def _handle_special_evolutions(evolution_chain, id):
 
 def _clean_evolution_chain(evolution_chain, id):
     evolution_chain['id'] = id
-    # evolution_chain['name'] = evolution_chain['species']['name']
+    evolution_chain['name'] = evolution_chain['species']['name']
     evolution_chain.pop('species')
     evolution_chain.pop('is_baby')
     if len(evolution_chain['evolves_to']) == 0:

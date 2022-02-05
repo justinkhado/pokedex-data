@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "530"
+            "id": "530",
+            "name": "excadrill"
         }
     ],
-    "id": "529"
+    "id": "529",
+    "name": "drilbur"
 }

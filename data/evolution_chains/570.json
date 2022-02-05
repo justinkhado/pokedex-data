@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "571"
+            "id": "571",
+            "name": "zoroark"
         }
     ],
-    "id": "570"
+    "id": "570",
+    "name": "zorua"
 }

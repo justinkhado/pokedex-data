@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "752"
+            "id": "752",
+            "name": "araquanid"
         }
     ],
-    "id": "751"
+    "id": "751",
+    "name": "dewpider"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "678"
+            "id": "678",
+            "name": "meowstic"
         }
     ],
-    "id": "677"
+    "id": "677",
+    "name": "espurr"
 }

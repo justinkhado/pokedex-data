@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "348"
+            "id": "348",
+            "name": "armaldo"
         }
     ],
-    "id": "347"
+    "id": "347",
+    "name": "anorith"
 }

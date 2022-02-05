@@ -14,11 +14,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "76"
+                    "id": "76",
+                    "name": "golem"
                 }
             ],
-            "id": "75"
+            "id": "75",
+            "name": "graveler"
         }
     ],
-    "id": "74"
+    "id": "74",
+    "name": "geodude"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "295"
+                    "id": "295",
+                    "name": "exploud"
                 }
             ],
-            "id": "294"
+            "id": "294",
+            "name": "loudred"
         }
     ],
-    "id": "293"
+    "id": "293",
+    "name": "whismur"
 }

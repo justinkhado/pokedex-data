@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "655"
+                    "id": "655",
+                    "name": "delphox"
                 }
             ],
-            "id": "654"
+            "id": "654",
+            "name": "braixen"
         }
     ],
-    "id": "653"
+    "id": "653",
+    "name": "fennekin"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "169"
+                    "id": "169",
+                    "name": "crobat"
                 }
             ],
-            "id": "42"
+            "id": "42",
+            "name": "golbat"
         }
     ],
-    "id": "41"
+    "id": "41",
+    "name": "zubat"
 }

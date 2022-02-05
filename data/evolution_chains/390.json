@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "392"
+                    "id": "392",
+                    "name": "infernape"
                 }
             ],
-            "id": "391"
+            "id": "391",
+            "name": "monferno"
         }
     ],
-    "id": "390"
+    "id": "390",
+    "name": "chimchar"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "141"
+            "id": "141",
+            "name": "kabutops"
         }
     ],
-    "id": "140"
+    "id": "140",
+    "name": "kabuto"
 }

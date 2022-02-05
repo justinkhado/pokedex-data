@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "57"
+            "id": "57",
+            "name": "primeape"
         }
     ],
-    "id": "56"
+    "id": "56",
+    "name": "mankey"
 }

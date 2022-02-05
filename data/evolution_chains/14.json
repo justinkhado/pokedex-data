@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "15"
+                    "id": "15",
+                    "name": "beedrill"
                 }
             ],
-            "id": "14"
+            "id": "14",
+            "name": "kakuna"
         }
     ],
-    "id": "13"
+    "id": "13",
+    "name": "weedle"
 }

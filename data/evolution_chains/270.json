@@ -18,11 +18,14 @@
                             "trigger": "use-item"
                         }
                     ],
-                    "id": "272"
+                    "id": "272",
+                    "name": "ludicolo"
                 }
             ],
-            "id": "271"
+            "id": "271",
+            "name": "lombre"
         }
     ],
-    "id": "270"
+    "id": "270",
+    "name": "lotad"
 }

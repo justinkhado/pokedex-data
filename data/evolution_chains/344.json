@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "344"
+            "id": "344",
+            "name": "claydol"
         }
     ],
-    "id": "343"
+    "id": "343",
+    "name": "baltoy"
 }

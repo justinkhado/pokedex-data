@@ -21,11 +21,14 @@
                             "trigger": "trade"
                         }
                     ],
-                    "id": "474"
+                    "id": "474",
+                    "name": "porygon-z"
                 }
             ],
-            "id": "233"
+            "id": "233",
+            "name": "porygon2"
         }
     ],
-    "id": "137"
+    "id": "137",
+    "name": "porygon"
 }

@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "858"
+                    "id": "858",
+                    "name": "hatterene"
                 }
             ],
-            "id": "857"
+            "id": "857",
+            "name": "hattrem"
         }
     ],
-    "id": "856"
+    "id": "856",
+    "name": "hatenna"
 }

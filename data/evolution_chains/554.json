@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "555"
+            "id": "555",
+            "name": "darmanitan"
         }
     ],
-    "id": "554"
+    "id": "554",
+    "name": "darumaka"
 }

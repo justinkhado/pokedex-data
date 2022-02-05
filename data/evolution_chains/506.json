@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "508"
+                    "id": "508",
+                    "name": "stoutland"
                 }
             ],
-            "id": "507"
+            "id": "507",
+            "name": "herdier"
         }
     ],
-    "id": "506"
+    "id": "506",
+    "name": "lillipup"
 }

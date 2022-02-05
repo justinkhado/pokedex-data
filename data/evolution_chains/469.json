@@ -10,8 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "469"
+            "id": "469",
+            "name": "yanmega"
         }
     ],
-    "id": "193"
+    "id": "193",
+    "name": "yanma"
 }

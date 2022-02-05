@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "181"
+                    "id": "181",
+                    "name": "ampharos"
                 }
             ],
-            "id": "180"
+            "id": "180",
+            "name": "flaaffy"
         }
     ],
-    "id": "179"
+    "id": "179",
+    "name": "mareep"
 }

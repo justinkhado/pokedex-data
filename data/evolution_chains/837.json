@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "839"
+                    "id": "839",
+                    "name": "coalossal"
                 }
             ],
-            "id": "838"
+            "id": "838",
+            "name": "carkol"
         }
     ],
-    "id": "837"
+    "id": "837",
+    "name": "rolycoly"
 }

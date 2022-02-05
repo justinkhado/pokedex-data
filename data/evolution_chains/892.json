@@ -6,8 +6,10 @@
                     "trigger": "other"
                 }
             ],
-            "id": "892"
+            "id": "892",
+            "name": "urshifu"
         }
     ],
-    "id": "891"
+    "id": "891",
+    "name": "kubfu"
 }

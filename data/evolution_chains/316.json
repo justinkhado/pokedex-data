@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "317"
+            "id": "317",
+            "name": "swalot"
         }
     ],
-    "id": "316"
+    "id": "316",
+    "name": "gulpin"
 }

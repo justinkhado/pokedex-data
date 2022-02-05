@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "18"
+                    "id": "18",
+                    "name": "pidgeot"
                 }
             ],
-            "id": "17"
+            "id": "17",
+            "name": "pidgeotto"
         }
     ],
-    "id": "16"
+    "id": "16",
+    "name": "pidgey"
 }

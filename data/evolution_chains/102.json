@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "103"
+            "id": "103",
+            "name": "exeggutor"
         }
     ],
-    "id": "102"
+    "id": "102",
+    "name": "exeggcute"
 }

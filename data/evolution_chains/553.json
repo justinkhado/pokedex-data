@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "553"
+                    "id": "553",
+                    "name": "krookodile"
                 }
             ],
-            "id": "552"
+            "id": "552",
+            "name": "krokorok"
         }
     ],
-    "id": "551"
+    "id": "551",
+    "name": "sandile"
 }

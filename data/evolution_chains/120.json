@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "121"
+            "id": "121",
+            "name": "starmie"
         }
     ],
-    "id": "120"
+    "id": "120",
+    "name": "staryu"
 }

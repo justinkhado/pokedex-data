@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "715"
+            "id": "715",
+            "name": "noivern"
         }
     ],
-    "id": "714"
+    "id": "714",
+    "name": "noibat"
 }

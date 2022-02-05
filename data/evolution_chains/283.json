@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "284"
+            "id": "284",
+            "name": "masquerain"
         }
     ],
-    "id": "283"
+    "id": "283",
+    "name": "surskit"
 }

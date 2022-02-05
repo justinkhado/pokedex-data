@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "545"
+                    "id": "545",
+                    "name": "scolipede"
                 }
             ],
-            "id": "544"
+            "id": "544",
+            "name": "whirlipede"
         }
     ],
-    "id": "543"
+    "id": "543",
+    "name": "venipede"
 }

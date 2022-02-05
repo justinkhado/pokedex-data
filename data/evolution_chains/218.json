@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "219"
+            "id": "219",
+            "name": "magcargo"
         }
     ],
-    "id": "218"
+    "id": "218",
+    "name": "slugma"
 }

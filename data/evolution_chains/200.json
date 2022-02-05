@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "429"
+            "id": "429",
+            "name": "mismagius"
         }
     ],
-    "id": "200"
+    "id": "200",
+    "name": "misdreavus"
 }

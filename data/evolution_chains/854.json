@@ -6,8 +6,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "855"
+            "id": "855",
+            "name": "polteageist"
         }
     ],
-    "id": "854"
+    "id": "854",
+    "name": "sinistea"
 }

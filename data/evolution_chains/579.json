@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "579"
+                    "id": "579",
+                    "name": "reuniclus"
                 }
             ],
-            "id": "578"
+            "id": "578",
+            "name": "duosion"
         }
     ],
-    "id": "577"
+    "id": "577",
+    "name": "solosis"
 }

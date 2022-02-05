@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "844"
+            "id": "844",
+            "name": "sandaconda"
         }
     ],
-    "id": "843"
+    "id": "843",
+    "name": "silicobra"
 }

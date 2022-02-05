@@ -15,10 +15,12 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "267"
+                    "id": "267",
+                    "name": "beautifly"
                 }
             ],
-            "id": "266"
+            "id": "266",
+            "name": "silcoon"
         },
         {
             "evolution_details": [
@@ -35,11 +37,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "269"
+                    "id": "269",
+                    "name": "dustox"
                 }
             ],
-            "id": "268"
+            "id": "268",
+            "name": "cascoon"
         }
     ],
-    "id": "265"
+    "id": "265",
+    "name": "wurmple"
 }

@@ -7,8 +7,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "id": "73"
+            "id": "73",
+            "name": "tentacruel"
         }
     ],
-    "id": "72"
+    "id": "72",
+    "name": "tentacool"
 }

@@ -10,8 +10,10 @@
                     "trigger": "use-item"
                 }
             ],
-            "id": "430"
+            "id": "430",
+            "name": "honchkrow"
         }
     ],
-    "id": "198"
+    "id": "198",
+    "name": "murkrow"
 }

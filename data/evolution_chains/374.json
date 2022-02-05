@@ -15,11 +15,14 @@
                             "trigger": "level-up"
                         }
                     ],
-                    "id": "376"
+                    "id": "376",
+                    "name": "metagross"
                 }
             ],
-            "id": "375"
+            "id": "375",
+            "name": "metang"
         }
     ],
-    "id": "374"
+    "id": "374",
+    "name": "beldum"
 }
