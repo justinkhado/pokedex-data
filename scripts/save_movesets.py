@@ -17,7 +17,15 @@ def _sort_moveset(moveset):
             if method == 'level-up':
                 moveset[version][method] = sorted(moveset[version][method], key = lambda x: x['level'])
             elif method == 'machine':
-                moveset[version][method] = sorted(moveset[version][method], key = lambda x: x['machine'])            
+                moveset[version][method] = sorted(moveset[version][method], key = lambda x: x['machine'])
+
+def _get_empty_gen_list(moveset):
+    empty_gens = []
+    for gen in moveset:
+        if len(moveset[gen]['level-up']) + len(moveset[gen]['egg']) + len(moveset[gen]['tutor']) + len(moveset[gen]['machine']) == 0:
+            empty_gens.append(gen)
+
+    return empty_gens
 
 def _get_moveset(moves_list):
     versions = ('yellow', 'crystal', 'emerald', 'platinum', 'black-2-white-2', 'x-y', 'ultra-sun-ultra-moon')
@@ -52,6 +60,9 @@ def _get_moveset(moves_list):
     moves['v'] = moves.pop('black-2-white-2')
     moves['vi'] = moves.pop('x-y')
     moves['vii'] = moves.pop('ultra-sun-ultra-moon')
+
+    empty_gens = _get_empty_gen_list(moves)
+    [moves.pop(gen) for gen in empty_gens]
     
     return moves
                 
