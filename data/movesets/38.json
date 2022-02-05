@@ -1,5 +1,5 @@
 {
-    "yellow": {
+    "i": {
         "level-up": [
             {
                 "id": 39,
@@ -267,7 +267,7 @@
             }
         ]
     },
-    "crystal": {
+    "ii": {
         "level-up": [
             {
                 "id": 52,
@@ -626,7 +626,7 @@
             }
         ]
     },
-    "emerald": {
+    "iii": {
         "level-up": [
             {
                 "id": 52,
@@ -1055,7 +1055,7 @@
             }
         ]
     },
-    "platinum": {
+    "iv": {
         "level-up": [
             {
                 "id": 52,
@@ -1630,7 +1630,7 @@
             }
         ]
     },
-    "black-2-white-2": {
+    "v": {
         "level-up": [
             {
                 "id": 52,
@@ -2239,7 +2239,7 @@
             }
         ]
     },
-    "x-y": {
+    "vi": {
         "level-up": [
             {
                 "id": 53,
@@ -2767,7 +2767,7 @@
             }
         ]
     },
-    "ultra-sun-ultra-moon": {
+    "vii": {
         "level-up": [
             {
                 "id": 53,
@@ -3268,11 +3268,5 @@
                 "machine": "tm97"
             }
         ]
-    },
-    "sword-shield": {
-        "level-up": [],
-        "egg": [],
-        "tutor": [],
-        "machine": []
     }
 }

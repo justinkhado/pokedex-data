@@ -1,35 +1,35 @@
 {
-    "yellow": {
+    "i": {
         "level-up": [],
         "egg": [],
         "tutor": [],
         "machine": []
     },
-    "crystal": {
+    "ii": {
         "level-up": [],
         "egg": [],
         "tutor": [],
         "machine": []
     },
-    "emerald": {
+    "iii": {
         "level-up": [],
         "egg": [],
         "tutor": [],
         "machine": []
     },
-    "platinum": {
+    "iv": {
         "level-up": [],
         "egg": [],
         "tutor": [],
         "machine": []
     },
-    "black-2-white-2": {
+    "v": {
         "level-up": [],
         "egg": [],
         "tutor": [],
         "machine": []
     },
-    "x-y": {
+    "vi": {
         "level-up": [
             {
                 "id": 33,
@@ -125,7 +125,7 @@
         "tutor": [],
         "machine": []
     },
-    "ultra-sun-ultra-moon": {
+    "vii": {
         "level-up": [
             {
                 "id": 33,
@@ -218,12 +218,6 @@
                 "effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome."
             }
         ],
-        "tutor": [],
-        "machine": []
-    },
-    "sword-shield": {
-        "level-up": [],
-        "egg": [],
         "tutor": [],
         "machine": []
     }

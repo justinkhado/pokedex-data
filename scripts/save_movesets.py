@@ -20,7 +20,7 @@ def _sort_moveset(moveset):
                 moveset[version][method] = sorted(moveset[version][method], key = lambda x: x['machine'])            
 
 def _get_moveset(moves_list):
-    versions = ('yellow', 'crystal', 'emerald', 'platinum', 'black-2-white-2', 'x-y', 'ultra-sun-ultra-moon', 'sword-shield')
+    versions = ('yellow', 'crystal', 'emerald', 'platinum', 'black-2-white-2', 'x-y', 'ultra-sun-ultra-moon')
     moves = {version: {'level-up': [], 'egg': [], 'tutor': [], 'machine': []} for version in versions}    
     for move_raw in moves_list:
         for version_group_detail in move_raw['version_group_details']:
@@ -44,6 +44,14 @@ def _get_moveset(moves_list):
                             **move_details_without_machines,
                             'machine': move_details['machines'][version]
                         })
+
+    moves['i'] = moves.pop('yellow')
+    moves['ii'] = moves.pop('crystal')
+    moves['iii'] = moves.pop('emerald')
+    moves['iv'] = moves.pop('platinum')
+    moves['v'] = moves.pop('black-2-white-2')
+    moves['vi'] = moves.pop('x-y')
+    moves['vii'] = moves.pop('ultra-sun-ultra-moon')
     
     return moves
                 
