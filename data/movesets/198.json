@@ -1539,19 +1539,6 @@
                 "machine": "hm02"
             },
             {
-                "id": 432,
-                "name": "defog",
-                "power": null,
-                "accuracy": null,
-                "pp": 15,
-                "priority": 0,
-                "type": "flying",
-                "damage_class": "status",
-                "description": "A strong wind blows away the target\u2019s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget\u2019s evasiveness.",
-                "effect": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
-                "machine": "hm05"
-            },
-            {
                 "id": 347,
                 "name": "calm-mind",
                 "power": null,
@@ -1563,6 +1550,19 @@
                 "description": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
                 "effect": "Raises the user's Special Attack and Special Defense by one stage each.",
                 "machine": "tm04"
+            },
+            {
+                "id": 432,
+                "name": "defog",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "status",
+                "description": "A strong wind blows away the target\u2019s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget\u2019s evasiveness.",
+                "effect": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
+                "machine": "hm05"
             },
             {
                 "id": 92,
@@ -3351,19 +3351,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3752,6 +3739,19 @@
                 "description": "The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm97"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -4189,19 +4189,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -4590,6 +4577,19 @@
                 "description": "The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm97"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

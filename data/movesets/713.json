@@ -344,19 +344,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 58,
                 "name": "ice-beam",
                 "power": 90,
@@ -719,6 +706,19 @@
                 "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
                 "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
                 "machine": "tm94"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -1093,19 +1093,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 58,
                 "name": "ice-beam",
                 "power": 90,
@@ -1455,6 +1442,19 @@
                 "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
                 "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
                 "machine": "tm94"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

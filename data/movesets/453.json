@@ -478,45 +478,6 @@
         ],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
-                "id": 431,
-                "name": "rock-climb",
-                "power": 90,
-                "accuracy": 85,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
-                "machine": "hm08"
-            },
-            {
                 "id": 264,
                 "name": "focus-punch",
                 "power": 150,
@@ -528,6 +489,19 @@
                 "description": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
                 "effect": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
                 "machine": "tm01"
+            },
+            {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
             },
             {
                 "id": 92,
@@ -543,6 +517,19 @@
                 "machine": "tm06"
             },
             {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
+            },
+            {
                 "id": 339,
                 "name": "bulk-up",
                 "power": null,
@@ -554,6 +541,19 @@
                 "description": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
                 "effect": "Raises the user's Attack and Defense by one stage each.",
                 "machine": "tm08"
+            },
+            {
+                "id": 431,
+                "name": "rock-climb",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
+                "machine": "hm08"
             },
             {
                 "id": 237,
@@ -2569,19 +2569,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3048,6 +3035,19 @@
                 "description": "Striking opponents over and over makes the user\u2019s\nfists harder. Hitting a target raises the Attack stat.",
                 "effect": "Inflicts regular damage.  Raises the user's Attack by one stage.",
                 "machine": "tm98"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -3512,19 +3512,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3939,6 +3926,19 @@
                 "description": "The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm97"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

@@ -497,19 +497,6 @@
                 "machine": "hm05"
             },
             {
-                "id": 291,
-                "name": "dive",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 10,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "physical",
-                "description": "Diving on the first turn, the user floats up and\nattacks on the next turn.",
-                "effect": "Inflicts regular damage.  User dives underwater for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, surf, and whirlpool still hit the user normally, and their power is doubled if appropriate.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be selected by sleep talk.",
-                "machine": "hm06"
-            },
-            {
                 "id": 92,
                 "name": "toxic",
                 "power": null,
@@ -521,6 +508,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 291,
+                "name": "dive",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 10,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "physical",
+                "description": "Diving on the first turn, the user floats up and\nattacks on the next turn.",
+                "effect": "Inflicts regular damage.  User dives underwater for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, surf, and whirlpool still hit the user normally, and their power is doubled if appropriate.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be selected by sleep talk.",
+                "machine": "hm06"
             },
             {
                 "id": 237,
@@ -1276,19 +1276,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 58,
                 "name": "ice-beam",
                 "power": 90,
@@ -1612,6 +1599,19 @@
                 "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
                 "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
                 "machine": "tm94"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -2015,19 +2015,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 58,
                 "name": "ice-beam",
                 "power": 90,
@@ -2351,6 +2338,19 @@
                 "description": "The user charges at the target and may make\nit flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm98"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

@@ -941,19 +941,6 @@
         ],
         "machine": [
             {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
                 "id": 352,
                 "name": "water-pulse",
                 "power": 60,
@@ -978,6 +965,19 @@
                 "description": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
                 "effect": "Raises the user's Special Attack and Special Defense by one stage each.",
                 "machine": "tm04"
+            },
+            {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
             },
             {
                 "id": 92,
@@ -3367,19 +3367,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 58,
                 "name": "ice-beam",
                 "power": 90,
@@ -3742,6 +3729,19 @@
                 "description": "The user creates a bizarre area in which slower\nPok\u00e9mon get to move first for five turns.",
                 "effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect.",
                 "machine": "tm92"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -4109,19 +4109,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 58,
                 "name": "ice-beam",
                 "power": 90,
@@ -4484,6 +4471,19 @@
                 "description": "The user creates a bizarre area in which slower\nPok\u00e9mon get to move first for five turns.",
                 "effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect.",
                 "machine": "tm92"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

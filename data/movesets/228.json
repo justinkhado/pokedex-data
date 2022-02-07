@@ -952,19 +952,6 @@
         ],
         "machine": [
             {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 46,
                 "name": "roar",
                 "power": null,
@@ -989,6 +976,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 237,
@@ -1684,19 +1684,6 @@
         ],
         "machine": [
             {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 46,
                 "name": "roar",
                 "power": null,
@@ -1721,6 +1708,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 237,
@@ -3497,19 +3497,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3911,6 +3898,19 @@
                 "description": "The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm97"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -4337,19 +4337,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -4712,6 +4699,19 @@
                 "description": "The user releases a horrible aura imbued with dark\nthoughts. This may also make the target flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm97"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

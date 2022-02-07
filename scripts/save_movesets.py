@@ -17,7 +17,7 @@ def _sort_moveset(moveset):
             if method == 'level-up':
                 moveset[version][method] = sorted(moveset[version][method], key = lambda x: x['level'])
             elif method == 'machine':
-                moveset[version][method] = sorted(moveset[version][method], key = lambda x: x['machine'])
+                moveset[version][method] = sorted(moveset[version][method], key = lambda x: int(x['machine'][2:]))
 
 def _get_empty_gen_list(moveset):
     empty_gens = []

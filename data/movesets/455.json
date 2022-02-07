@@ -1891,19 +1891,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -2227,6 +2214,19 @@
                 "description": "This attack makes use of nature\u2019s power. Its\neffects vary depending on the user\u2019s environment.",
                 "effect": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | tri attack\nCave                      | rock slide\nDeep water                | hydro pump\nDesert                    | earthquake\nGrass                     | seed bomb\nMountain                  | rock slide\nRoad                      | earthquake\nShallow water             | hydro pump\nSnow                      | blizzard\nTall grass                | seed bomb\nelectric terrain | thunderbolt\ngrassy terrain   | energy ball\nmisty terrain    | moonblast\n\nIn Pok\u00e9mon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | tri attack\nCrystal        | rock slide\nGateway        | hydro pump\nMagma          | rock slide\nMain Street    | tri attack\nNeon           | tri attack\nStargazer      | rock slide\nSunny Park     | seed bomb\nSunset         | earthquake\nWaterfall      | seed bomb\n\nThis move cannot be copied by mirror move.",
                 "machine": "tm96"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -2590,19 +2590,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -2913,6 +2900,19 @@
                 "description": "This attack makes use of nature\u2019s power. Its\neffects vary depending on the user\u2019s environment.",
                 "effect": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | tri attack\nCave                      | rock slide\nDeep water                | hydro pump\nDesert                    | earthquake\nGrass                     | seed bomb\nMountain                  | rock slide\nRoad                      | earthquake\nShallow water             | hydro pump\nSnow                      | blizzard\nTall grass                | seed bomb\nelectric terrain | thunderbolt\ngrassy terrain   | energy ball\nmisty terrain    | moonblast\n\nIn Pok\u00e9mon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | tri attack\nCrystal        | rock slide\nGateway        | hydro pump\nMagma          | rock slide\nMain Street    | tri attack\nNeon           | tri attack\nStargazer      | rock slide\nSunny Park     | seed bomb\nSunset         | earthquake\nWaterfall      | seed bomb\n\nThis move cannot be copied by mirror move.",
                 "machine": "tm96"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

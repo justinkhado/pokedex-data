@@ -123,32 +123,6 @@
         "tutor": [],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
                 "id": 5,
                 "name": "mega-punch",
                 "power": 80,
@@ -162,6 +136,19 @@
                 "machine": "tm01"
             },
             {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
+            },
+            {
                 "id": 25,
                 "name": "mega-kick",
                 "power": 120,
@@ -173,6 +160,19 @@
                 "description": "The target is attacked by a kick launched with\nmuscle-packed power.",
                 "effect": "Inflicts regular damage.",
                 "machine": "tm05"
+            },
+            {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
             },
             {
                 "id": 92,
@@ -766,32 +766,6 @@
         ],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
                 "id": 223,
                 "name": "dynamic-punch",
                 "power": 100,
@@ -829,6 +803,32 @@
                 "description": "A move that works differently for the Ghost type\nthan for all other types.",
                 "effect": "If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn.\nOtherwise: Lowers the user's Speed by one stage, and raises its Attack and Defense by one stage each.\n\nThe curse effect is passed on by baton pass.\n\nThis move cannot be copied by mirror move.",
                 "machine": "tm03"
+            },
+            {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
+            },
+            {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
             },
             {
                 "id": 92,
@@ -1688,45 +1688,6 @@
         ],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 264,
                 "name": "focus-punch",
                 "power": 150,
@@ -1753,6 +1714,19 @@
                 "machine": "tm03"
             },
             {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
+            },
+            {
                 "id": 347,
                 "name": "calm-mind",
                 "power": null,
@@ -1766,6 +1740,19 @@
                 "machine": "tm04"
             },
             {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
+            },
+            {
                 "id": 92,
                 "name": "toxic",
                 "power": null,
@@ -1777,6 +1764,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 258,
@@ -2609,45 +2609,6 @@
         ],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
-                "id": 431,
-                "name": "rock-climb",
-                "power": 90,
-                "accuracy": 85,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
-                "machine": "hm08"
-            },
-            {
                 "id": 264,
                 "name": "focus-punch",
                 "power": 150,
@@ -2672,6 +2633,19 @@
                 "description": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
                 "machine": "tm03"
+            },
+            {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
             },
             {
                 "id": 347,
@@ -2700,6 +2674,19 @@
                 "machine": "tm06"
             },
             {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
+            },
+            {
                 "id": 258,
                 "name": "hail",
                 "power": null,
@@ -2724,6 +2711,19 @@
                 "description": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
                 "effect": "Raises the user's Attack and Defense by one stage each.",
                 "machine": "tm08"
+            },
+            {
+                "id": 431,
+                "name": "rock-climb",
+                "power": 90,
+                "accuracy": 85,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
+                "machine": "hm08"
             },
             {
                 "id": 237,
@@ -3987,19 +3987,6 @@
         ],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
                 "id": 473,
                 "name": "psyshock",
                 "power": 80,
@@ -4011,6 +3998,19 @@
                 "description": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
                 "effect": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.",
                 "machine": "tm03"
+            },
+            {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
             },
             {
                 "id": 347,
@@ -4996,19 +4996,6 @@
         "tutor": [],
         "machine": [
             {
-                "id": 70,
-                "name": "strength",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "physical",
-                "description": "The target is slugged with a punch thrown at\nmaximum power.",
-                "effect": "Inflicts regular damage.",
-                "machine": "hm04"
-            },
-            {
                 "id": 473,
                 "name": "psyshock",
                 "power": 80,
@@ -5020,6 +5007,19 @@
                 "description": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
                 "effect": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.",
                 "machine": "tm03"
+            },
+            {
+                "id": 70,
+                "name": "strength",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "physical",
+                "description": "The target is slugged with a punch thrown at\nmaximum power.",
+                "effect": "Inflicts regular damage.",
+                "machine": "hm04"
             },
             {
                 "id": 347,
@@ -5085,19 +5085,6 @@
                 "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
                 "effect": "Inflicts regular damage.  Power and type are determined by the user's IVs.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
                 "machine": "tm10"
-            },
-            {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
             },
             {
                 "id": 241,
@@ -5787,6 +5774,19 @@
                 "description": "Striking opponents over and over makes the user\u2019s\nfists harder. Hitting a target raises the Attack stat.",
                 "effect": "Inflicts regular damage.  Raises the user's Attack by one stage.",
                 "machine": "tm98"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -6133,19 +6133,6 @@
                 "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
                 "effect": "Inflicts regular damage.  Power and type are determined by the user's IVs.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
                 "machine": "tm10"
-            },
-            {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
             },
             {
                 "id": 241,
@@ -6796,6 +6783,19 @@
                 "description": "The user creates a bizarre area in which slower\nPok\u00e9mon get to move first for five turns.",
                 "effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect.",
                 "machine": "tm92"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

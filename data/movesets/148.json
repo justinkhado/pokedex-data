@@ -623,32 +623,6 @@
         ],
         "machine": [
             {
-                "id": 57,
-                "name": "surf",
-                "power": 90,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "special",
-                "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
-                "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
-                "machine": "hm03"
-            },
-            {
-                "id": 127,
-                "name": "waterfall",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "physical",
-                "description": "The user charges at the target and may make\nit flinch.",
-                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
-                "machine": "hm07"
-            },
-            {
                 "id": 29,
                 "name": "headbutt",
                 "power": 70,
@@ -660,6 +634,19 @@
                 "description": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.",
                 "effect": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
                 "machine": "tm02"
+            },
+            {
+                "id": 57,
+                "name": "surf",
+                "power": 90,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "special",
+                "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+                "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+                "machine": "hm03"
             },
             {
                 "id": 174,
@@ -686,6 +673,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 127,
+                "name": "waterfall",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "physical",
+                "description": "The user charges at the target and may make\nit flinch.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+                "machine": "hm07"
             },
             {
                 "id": 192,
@@ -1271,19 +1271,6 @@
                 "machine": "hm03"
             },
             {
-                "id": 127,
-                "name": "waterfall",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "physical",
-                "description": "The user charges at the target and may make\nit flinch.",
-                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
-                "machine": "hm07"
-            },
-            {
                 "id": 352,
                 "name": "water-pulse",
                 "power": 60,
@@ -1308,6 +1295,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 127,
+                "name": "waterfall",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "physical",
+                "description": "The user charges at the target and may make\nit flinch.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+                "machine": "hm07"
             },
             {
                 "id": 258,
@@ -1897,19 +1897,6 @@
                 "machine": "hm03"
             },
             {
-                "id": 127,
-                "name": "waterfall",
-                "power": 80,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "physical",
-                "description": "The user charges at the target and may make\nit flinch.",
-                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
-                "machine": "hm07"
-            },
-            {
                 "id": 352,
                 "name": "water-pulse",
                 "power": 60,
@@ -1934,6 +1921,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 127,
+                "name": "waterfall",
+                "power": 80,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "physical",
+                "description": "The user charges at the target and may make\nit flinch.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
+                "machine": "hm07"
             },
             {
                 "id": 258,
@@ -3322,19 +3322,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3658,6 +3645,19 @@
                 "description": "The user creates a substitute for itself using some of\nits HP. The substitute serves as the user\u2019s decoy.",
                 "effect": "Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field, the doll will vanish.  If the user cannot pay the HP cost, this move will fail.\n\nThe doll takes damage as normal, using the user's stats and types, and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.\n\nThe doll will block major status effects, confusion, and flinching.  The effects of smelling salts and wake up slap do not trigger against a doll, even if the Pok\u00e9mon behind the doll has the appropriate major status effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage, but the multi-turn trapping and damage effects will not activate.\n\nMoves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such, e.g., avalanche, counter, or a rowap berry.  magic coat still works as normal, even against moves the doll would block.  Opposing Pok\u00e9mon that damage the doll with a leech move like absorb are healed as normal.\n\nIt will also block acupressure, block, the curse effect of curse, dream eater, embargo, flatter, gastro acid, grudge, heal block, leech seed, lock on, mean look, mimic, mind reader, nightmare, pain split, psycho shift, spider web, sketch, swagger, switcheroo, trick, worry seed, and yawn.  A Pok\u00e9mon affected by yawn before summoning the doll will still fall to sleep.\n\nThe doll blocks intimidate, but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt absorb absorbing thunder wave), such moves will not be blocked.\n\nlife orb and berries that cause confusion still work as normal, but their respective HP loss and confusion are absorbed/blocked by the doll.\n\nThe user is still vulnerable to damage inflicted when entering or leaving the field, such as by pursuit or spikes; however, the doll will block the poison effect of toxic spikes.\n\nThe doll is passed on by baton pass.  It keeps its existing HP, but uses the replacement Pok\u00e9mon's stats and types for damage calculation.\n\nAll other effects work as normal.",
                 "machine": "tm90"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -3926,19 +3926,6 @@
                 "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
                 "effect": "Inflicts regular damage.  Power and type are determined by the user's IVs.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
                 "machine": "tm10"
-            },
-            {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
             },
             {
                 "id": 241,
@@ -4290,6 +4277,19 @@
                 "description": "The user charges at the target and may make\nit flinch.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to make the target flinch.",
                 "machine": "tm98"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

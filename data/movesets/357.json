@@ -382,32 +382,6 @@
                 "machine": "hm04"
             },
             {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 46,
                 "name": "roar",
                 "power": null,
@@ -421,6 +395,19 @@
                 "machine": "tm05"
             },
             {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
+            },
+            {
                 "id": 92,
                 "name": "toxic",
                 "power": null,
@@ -432,6 +419,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 331,
@@ -1103,32 +1103,6 @@
                 "machine": "hm04"
             },
             {
-                "id": 432,
-                "name": "defog",
-                "power": null,
-                "accuracy": null,
-                "pp": 15,
-                "priority": 0,
-                "type": "flying",
-                "damage_class": "status",
-                "description": "A strong wind blows away the target\u2019s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget\u2019s evasiveness.",
-                "effect": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
-                "machine": "hm05"
-            },
-            {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 46,
                 "name": "roar",
                 "power": null,
@@ -1142,6 +1116,19 @@
                 "machine": "tm05"
             },
             {
+                "id": 432,
+                "name": "defog",
+                "power": null,
+                "accuracy": null,
+                "pp": 15,
+                "priority": 0,
+                "type": "flying",
+                "damage_class": "status",
+                "description": "A strong wind blows away the target\u2019s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget\u2019s evasiveness.",
+                "effect": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
+                "machine": "hm05"
+            },
+            {
                 "id": 92,
                 "name": "toxic",
                 "power": null,
@@ -1153,6 +1140,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 331,
@@ -2895,19 +2895,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3257,6 +3244,19 @@
                 "description": "This attack makes use of nature\u2019s power. Its\neffects vary depending on the user\u2019s environment.",
                 "effect": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | tri attack\nCave                      | rock slide\nDeep water                | hydro pump\nDesert                    | earthquake\nGrass                     | seed bomb\nMountain                  | rock slide\nRoad                      | earthquake\nShallow water             | hydro pump\nSnow                      | blizzard\nTall grass                | seed bomb\nelectric terrain | thunderbolt\ngrassy terrain   | energy ball\nmisty terrain    | moonblast\n\nIn Pok\u00e9mon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | tri attack\nCrystal        | rock slide\nGateway        | hydro pump\nMagma          | rock slide\nMain Street    | tri attack\nNeon           | tri attack\nStargazer      | rock slide\nSunny Park     | seed bomb\nSunset         | earthquake\nWaterfall      | seed bomb\n\nThis move cannot be copied by mirror move.",
                 "machine": "tm96"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -3684,19 +3684,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -4046,6 +4033,19 @@
                 "description": "This attack makes use of nature\u2019s power. Its\neffects vary depending on the user\u2019s environment.",
                 "effect": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | tri attack\nCave                      | rock slide\nDeep water                | hydro pump\nDesert                    | earthquake\nGrass                     | seed bomb\nMountain                  | rock slide\nRoad                      | earthquake\nShallow water             | hydro pump\nSnow                      | blizzard\nTall grass                | seed bomb\nelectric terrain | thunderbolt\ngrassy terrain   | energy ball\nmisty terrain    | moonblast\n\nIn Pok\u00e9mon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | tri attack\nCrystal        | rock slide\nGateway        | hydro pump\nMagma          | rock slide\nMain Street    | tri attack\nNeon           | tri attack\nStargazer      | rock slide\nSunny Park     | seed bomb\nSunset         | earthquake\nWaterfall      | seed bomb\n\nThis move cannot be copied by mirror move.",
                 "machine": "tm96"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

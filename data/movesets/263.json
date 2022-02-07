@@ -430,19 +430,6 @@
                 "machine": "hm03"
             },
             {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 352,
                 "name": "water-pulse",
                 "power": 60,
@@ -467,6 +454,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 237,
@@ -1150,19 +1150,6 @@
                 "machine": "hm03"
             },
             {
-                "id": 249,
-                "name": "rock-smash",
-                "power": 40,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
-                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
-                "machine": "hm06"
-            },
-            {
                 "id": 352,
                 "name": "water-pulse",
                 "power": 60,
@@ -1187,6 +1174,19 @@
                 "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
                 "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
                 "machine": "tm06"
+            },
+            {
+                "id": 249,
+                "name": "rock-smash",
+                "power": 40,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
+                "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
+                "machine": "hm06"
             },
             {
                 "id": 237,
@@ -2036,19 +2036,6 @@
                 "machine": "hm01"
             },
             {
-                "id": 57,
-                "name": "surf",
-                "power": 90,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "special",
-                "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
-                "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
-                "machine": "hm03"
-            },
-            {
                 "id": 468,
                 "name": "hone-claws",
                 "power": null,
@@ -2060,6 +2047,19 @@
                 "description": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
                 "effect": "Raises the user's Attack and accuracy by one stage.",
                 "machine": "tm01"
+            },
+            {
+                "id": 57,
+                "name": "surf",
+                "power": 90,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "special",
+                "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+                "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+                "machine": "hm03"
             },
             {
                 "id": 92,
@@ -2764,19 +2764,6 @@
                 "machine": "hm01"
             },
             {
-                "id": 57,
-                "name": "surf",
-                "power": 90,
-                "accuracy": 100,
-                "pp": 15,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "special",
-                "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
-                "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
-                "machine": "hm03"
-            },
-            {
                 "id": 468,
                 "name": "hone-claws",
                 "power": null,
@@ -2788,6 +2775,19 @@
                 "description": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
                 "effect": "Raises the user's Attack and accuracy by one stage.",
                 "machine": "tm01"
+            },
+            {
+                "id": 57,
+                "name": "surf",
+                "power": 90,
+                "accuracy": 100,
+                "pp": 15,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "special",
+                "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+                "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+                "machine": "hm03"
             },
             {
                 "id": 92,
@@ -2814,19 +2814,6 @@
                 "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
                 "effect": "Inflicts regular damage.  Power and type are determined by the user's IVs.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
                 "machine": "tm10"
-            },
-            {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
             },
             {
                 "id": 241,
@@ -3178,6 +3165,19 @@
                 "description": "The user attacks with a punch. This may also lower\nthe target\u2019s Defense stat.",
                 "effect": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.",
                 "machine": "tm94"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -3556,19 +3556,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3892,6 +3879,19 @@
                 "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
                 "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
                 "machine": "tm94"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

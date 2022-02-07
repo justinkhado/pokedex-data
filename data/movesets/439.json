@@ -2579,19 +2579,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3032,6 +3019,19 @@
                 "description": "The user creates a bizarre area in which slower\nPok\u00e9mon get to move first for five turns.",
                 "effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect.",
                 "machine": "tm92"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -3522,19 +3522,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3962,6 +3949,19 @@
                 "description": "The user creates a bizarre area in which slower\nPok\u00e9mon get to move first for five turns.",
                 "effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect.",
                 "machine": "tm92"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

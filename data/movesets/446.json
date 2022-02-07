@@ -455,6 +455,19 @@
         ],
         "machine": [
             {
+                "id": 264,
+                "name": "focus-punch",
+                "power": 150,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": -3,
+                "type": "fighting",
+                "damage_class": "physical",
+                "description": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+                "effect": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+                "machine": "tm01"
+            },
+            {
                 "id": 57,
                 "name": "surf",
                 "power": 90,
@@ -468,6 +481,19 @@
                 "machine": "hm03"
             },
             {
+                "id": 352,
+                "name": "water-pulse",
+                "power": 60,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "water",
+                "damage_class": "special",
+                "description": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+                "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
+                "machine": "tm03"
+            },
+            {
                 "id": 70,
                 "name": "strength",
                 "power": 80,
@@ -479,6 +505,19 @@
                 "description": "The target is slugged with a punch thrown at\nmaximum power.",
                 "effect": "Inflicts regular damage.",
                 "machine": "hm04"
+            },
+            {
+                "id": 92,
+                "name": "toxic",
+                "power": null,
+                "accuracy": 90,
+                "pp": 10,
+                "priority": 0,
+                "type": "poison",
+                "damage_class": "status",
+                "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+                "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
+                "machine": "tm06"
             },
             {
                 "id": 249,
@@ -505,45 +544,6 @@
                 "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
                 "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
                 "machine": "hm08"
-            },
-            {
-                "id": 264,
-                "name": "focus-punch",
-                "power": 150,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": -3,
-                "type": "fighting",
-                "damage_class": "physical",
-                "description": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
-                "effect": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
-                "machine": "tm01"
-            },
-            {
-                "id": 352,
-                "name": "water-pulse",
-                "power": 60,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "water",
-                "damage_class": "special",
-                "description": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
-                "effect": "Inflicts regular damage.  Has a 20% chance to confuse the target.",
-                "machine": "tm03"
-            },
-            {
-                "id": 92,
-                "name": "toxic",
-                "power": null,
-                "accuracy": 90,
-                "pp": 10,
-                "priority": 0,
-                "type": "poison",
-                "damage_class": "status",
-                "description": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
-                "effect": "Badly poisons the target.  Never misses when used by a poison-type Pok\u00e9mon.",
-                "machine": "tm06"
             },
             {
                 "id": 237,
@@ -2488,19 +2488,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -2928,6 +2915,19 @@
                 "description": "Striking opponents over and over makes the user\u2019s\nfists harder. Hitting a target raises the Attack stat.",
                 "effect": "Inflicts regular damage.  Raises the user's Attack by one stage.",
                 "machine": "tm98"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -3382,19 +3382,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3783,6 +3770,19 @@
                 "description": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
                 "effect": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
                 "machine": "tm94"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }

@@ -158,19 +158,6 @@
         "tutor": [],
         "machine": [
             {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
                 "id": 29,
                 "name": "headbutt",
                 "power": 70,
@@ -208,6 +195,19 @@
                 "description": "The target is scared off, and a different Pok\u00e9mon is\ndragged out. In the wild, this ends a battle against a\nsingle Pok\u00e9mon.",
                 "effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pok\u00e9mon with suction cups or under the effect of ingrain.",
                 "machine": "tm05"
+            },
+            {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
             },
             {
                 "id": 92,
@@ -864,19 +864,6 @@
         ],
         "machine": [
             {
-                "id": 148,
-                "name": "flash",
-                "power": null,
-                "accuracy": 100,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
-                "effect": "Lowers the target's accuracy by one stage.",
-                "machine": "hm05"
-            },
-            {
                 "id": 347,
                 "name": "calm-mind",
                 "power": null,
@@ -901,6 +888,19 @@
                 "description": "The target is scared off, and a different Pok\u00e9mon is\ndragged out. In the wild, this ends a battle against a\nsingle Pok\u00e9mon.",
                 "effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pok\u00e9mon with suction cups or under the effect of ingrain.",
                 "machine": "tm05"
+            },
+            {
+                "id": 148,
+                "name": "flash",
+                "power": null,
+                "accuracy": 100,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "This move can\u2019t be used.\nIt\u2019s recommended that this move is forgotten.\nOnce forgotten, this move can\u2019t be remembered.",
+                "effect": "Lowers the target's accuracy by one stage.",
+                "machine": "hm05"
             },
             {
                 "id": 92,
@@ -3556,19 +3556,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -3996,6 +3983,19 @@
                 "description": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
                 "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
                 "machine": "tm93"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     },
@@ -4425,19 +4425,6 @@
                 "machine": "tm10"
             },
             {
-                "id": 590,
-                "name": "confide",
-                "power": null,
-                "accuracy": null,
-                "pp": 20,
-                "priority": 0,
-                "type": "normal",
-                "damage_class": "status",
-                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
-                "effect": "Lowers the target's Special Attack by one stage.",
-                "machine": "tm100"
-            },
-            {
                 "id": 241,
                 "name": "sunny-day",
                 "power": null,
@@ -4839,6 +4826,19 @@
                 "description": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
                 "effect": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
                 "machine": "tm93"
+            },
+            {
+                "id": 590,
+                "name": "confide",
+                "power": null,
+                "accuracy": null,
+                "pp": 20,
+                "priority": 0,
+                "type": "normal",
+                "damage_class": "status",
+                "description": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target\u2019s Sp. Atk stat.",
+                "effect": "Lowers the target's Special Attack by one stage.",
+                "machine": "tm100"
             }
         ]
     }
