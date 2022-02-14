@@ -1022,7 +1022,7 @@
             "gen": 1
         },
         {
-            "name": "mr-mime",
+            "name": "mr. mime",
             "id": 122,
             "types": [
                 "psychic",
@@ -3263,7 +3263,7 @@
             "gen": 3
         },
         {
-            "name": "deoxys-normal",
+            "name": "deoxys",
             "id": 386,
             "types": [
                 "psychic"
@@ -3491,7 +3491,7 @@
             "gen": 4
         },
         {
-            "name": "wormadam-plant",
+            "name": "wormadam",
             "id": 413,
             "types": [
                 "bug",
@@ -3711,7 +3711,7 @@
             "gen": 4
         },
         {
-            "name": "mime-jr",
+            "name": "mime jr.",
             "id": 439,
             "types": [
                 "psychic",
@@ -4123,7 +4123,7 @@
             "gen": 4
         },
         {
-            "name": "giratina-altered",
+            "name": "giratina",
             "id": 487,
             "types": [
                 "ghost",
@@ -4164,7 +4164,7 @@
             "gen": 4
         },
         {
-            "name": "shaymin-land",
+            "name": "shaymin",
             "id": 492,
             "types": [
                 "grass"
@@ -4647,7 +4647,7 @@
             "gen": 5
         },
         {
-            "name": "basculin-red-striped",
+            "name": "basculin",
             "id": 550,
             "types": [
                 "water"
@@ -4690,7 +4690,7 @@
             "gen": 5
         },
         {
-            "name": "darmanitan-standard",
+            "name": "darmanitan",
             "id": 555,
             "types": [
                 "fire"
@@ -5422,7 +5422,7 @@
             "gen": 5
         },
         {
-            "name": "tornadus-incarnate",
+            "name": "tornadus",
             "id": 641,
             "types": [
                 "flying"
@@ -5430,7 +5430,7 @@
             "gen": 5
         },
         {
-            "name": "thundurus-incarnate",
+            "name": "thundurus",
             "id": 642,
             "types": [
                 "electric",
@@ -5457,7 +5457,7 @@
             "gen": 5
         },
         {
-            "name": "landorus-incarnate",
+            "name": "landorus",
             "id": 645,
             "types": [
                 "ground",
@@ -5475,7 +5475,7 @@
             "gen": 5
         },
         {
-            "name": "keldeo-ordinary",
+            "name": "keldeo",
             "id": 647,
             "types": [
                 "water",
@@ -5737,7 +5737,7 @@
             "gen": 6
         },
         {
-            "name": "meowstic-male",
+            "name": "meowstic",
             "id": 678,
             "types": [
                 "psychic"
@@ -5763,7 +5763,7 @@
             "gen": 6
         },
         {
-            "name": "aegislash-shield",
+            "name": "aegislash",
             "id": 681,
             "types": [
                 "steel",
@@ -6014,7 +6014,7 @@
             "gen": 6
         },
         {
-            "name": "pumpkaboo-average",
+            "name": "pumpkaboo",
             "id": 710,
             "types": [
                 "ghost",
@@ -6023,7 +6023,7 @@
             "gen": 6
         },
         {
-            "name": "gourgeist-average",
+            "name": "gourgeist",
             "id": 711,
             "types": [
                 "ghost",
@@ -6282,7 +6282,7 @@
             "gen": 7
         },
         {
-            "name": "oricorio-baile",
+            "name": "oricorio",
             "id": 741,
             "types": [
                 "fire",
@@ -6317,7 +6317,7 @@
             "gen": 7
         },
         {
-            "name": "lycanroc-midday",
+            "name": "lycanroc",
             "id": 745,
             "types": [
                 "rock"
@@ -6325,7 +6325,7 @@
             "gen": 7
         },
         {
-            "name": "wishiwashi-solo",
+            "name": "wishiwashi",
             "id": 746,
             "types": [
                 "water"
@@ -6564,7 +6564,7 @@
             "gen": 7
         },
         {
-            "name": "minior-red-meteor",
+            "name": "minior",
             "id": 774,
             "types": [
                 "rock",
@@ -6599,7 +6599,7 @@
             "gen": 7
         },
         {
-            "name": "mimikyu-disguised",
+            "name": "mimikyu",
             "id": 778,
             "types": [
                 "ghost",

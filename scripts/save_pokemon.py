@@ -107,7 +107,8 @@ def save_pokemons():
         filepath = os.path.join(PARPATH, 'data', 'pokemon', f'{i}.json')
         with open(filepath) as f:
             pokemon_untrimmed = json.load(f)
-            for attr in ('name', 'id', 'types'):
+            pokemon['name'] = get_pokemon_name(pokemon_untrimmed['name'])
+            for attr in ('id', 'types'):
                 pokemon[attr] = pokemon_untrimmed[attr]
             pokemon['gen'] = _get_generation(pokemon['id'])
             
@@ -134,4 +135,4 @@ def save_each_pokemon():
             json.dump(pokemon, f, indent=4)
 
 if __name__ == '__main__':
-    save_each_pokemon()
+    save_pokemons()
