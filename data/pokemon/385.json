@@ -1,6 +1,6 @@
 {
-    "name": "jirachi",
     "id": 385,
+    "name": "jirachi",
     "height": "0'12\"",
     "weight": "2.4 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
             "ground",
+            "fire",
             "dark",
             "ghost"
         ],
         "1": [
-            "electric",
             "water",
+            "electric",
             "bug",
             "fighting"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
             "normal",
             "dragon",
+            "flying",
+            "steel",
             "fairy",
-            "steel"
+            "rock",
+            "ice"
         ],
         "1/4": [
             "psychic"
-        ]
+        ],
+        "0": []
     }
 }

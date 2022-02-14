@@ -1,6 +1,6 @@
 {
-    "name": "helioptile",
     "id": 694,
+    "name": "helioptile",
     "height": "1'8\"",
     "weight": "13.2 lbs",
     "types": [
@@ -40,24 +40,25 @@
             "fighting"
         ],
         "1": [
-            "poison",
             "grass",
-            "ice",
-            "rock",
+            "psychic",
             "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
             "water",
-            "psychic"
+            "bug",
+            "dragon",
+            "dark",
+            "poison",
+            "fire",
+            "fairy",
+            "rock",
+            "ice"
         ],
         "1/2": [
-            "steel",
+            "flying",
             "electric",
-            "flying"
+            "steel"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

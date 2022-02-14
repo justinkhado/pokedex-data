@@ -1,6 +1,6 @@
 {
-    "name": "decidueye",
     "id": 724,
+    "name": "decidueye",
     "height": "5'3\"",
     "weight": "80.7 lbs",
     "types": [
@@ -31,27 +31,28 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "ice",
             "fire",
-            "flying",
             "dark",
             "ghost"
         ],
         "1": [
-            "rock",
-            "dragon",
-            "fairy",
-            "steel",
             "psychic",
+            "dragon",
+            "steel",
+            "fairy",
+            "rock",
             "poison",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "altaria",
     "id": 334,
+    "name": "altaria",
     "height": "3'7\"",
     "weight": "45.4 lbs",
     "types": [
@@ -33,28 +33,29 @@
             "ice"
         ],
         "2": [
-            "dragon",
             "fairy",
+            "dragon",
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
             "electric"
         ],
         "1/2": [
-            "fire",
             "water",
+            "fire",
             "fighting",
             "bug"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

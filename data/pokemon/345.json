@@ -1,6 +1,6 @@
 {
-    "name": "lileep",
     "id": 345,
+    "name": "lileep",
     "height": "3'3\"",
     "weight": "52.5 lbs",
     "types": [
@@ -33,27 +33,28 @@
         "2": [
             "fighting",
             "steel",
-            "ice",
-            "bug"
+            "bug",
+            "ice"
         ],
         "1": [
-            "rock",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "ghost",
+            "dragon",
+            "dark",
+            "fairy",
+            "rock",
+            "flying",
             "poison",
             "fire",
-            "flying",
             "ground",
-            "water",
-            "grass"
+            "grass",
+            "water"
         ],
         "1/2": [
             "normal",
             "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

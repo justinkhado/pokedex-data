@@ -1,6 +1,6 @@
 {
-    "name": "tapu-fini",
     "id": 788,
+    "name": "tapu-fini",
     "height": "4'3\"",
     "weight": "46.7 lbs",
     "types": [
@@ -31,28 +31,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "electric",
             "grass",
+            "electric",
             "poison"
         ],
         "1": [
-            "flying",
-            "rock",
-            "normal",
             "ground",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "flying",
+            "fairy",
+            "rock",
             "steel"
         ],
         "1/2": [
-            "ice",
-            "fire",
             "water",
+            "fire",
+            "ice",
+            "dark",
             "fighting",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

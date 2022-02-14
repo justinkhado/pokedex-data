@@ -1,6 +1,6 @@
 {
-    "name": "moltres",
     "id": 146,
+    "name": "moltres",
     "height": "6'7\"",
     "weight": "132.3 lbs",
     "types": [
@@ -37,24 +37,25 @@
             "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
             "ice"
         ],
         "1/2": [
             "fairy",
-            "fire",
             "steel",
+            "fire",
             "fighting"
         ],
         "1/4": [
-            "bug",
-            "grass"
-        ]
+            "grass",
+            "bug"
+        ],
+        "0": []
     }
 }

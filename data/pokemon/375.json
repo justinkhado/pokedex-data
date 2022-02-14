@@ -1,6 +1,6 @@
 {
-    "name": "metang",
     "id": 375,
+    "name": "metang",
     "height": "3'11\"",
     "weight": "446.4 lbs",
     "types": [
@@ -31,29 +31,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
             "ground",
+            "fire",
             "dark",
             "ghost"
         ],
         "1": [
-            "electric",
             "water",
+            "electric",
             "bug",
             "fighting"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
             "normal",
             "dragon",
+            "flying",
+            "steel",
             "fairy",
-            "steel"
+            "rock",
+            "ice"
         ],
         "1/4": [
             "psychic"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "bewear",
     "id": 760,
+    "name": "bewear",
     "height": "6'11\"",
     "weight": "297.6 lbs",
     "types": [
@@ -42,22 +42,23 @@
             "psychic"
         ],
         "1": [
-            "poison",
-            "grass",
-            "ice",
-            "normal",
             "ground",
-            "electric",
+            "grass",
+            "normal",
+            "water",
             "dragon",
-            "fire",
+            "poison",
+            "electric",
             "steel",
-            "water"
+            "fire",
+            "ice"
         ],
         "1/2": [
+            "dark",
             "rock",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

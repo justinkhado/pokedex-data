@@ -1,6 +1,6 @@
 {
-    "name": "sneasel",
     "id": 215,
+    "name": "sneasel",
     "height": "2'11\"",
     "weight": "61.7 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "fairy",
             "bug",
             "rock",
-            "fire",
-            "steel"
+            "steel",
+            "fire"
         ],
         "1": [
-            "poison",
-            "flying",
+            "ground",
             "grass",
             "normal",
-            "ground",
-            "electric",
+            "water",
             "dragon",
-            "water"
+            "flying",
+            "poison",
+            "electric"
         ],
         "1/2": [
             "dark",
             "ghost",
             "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

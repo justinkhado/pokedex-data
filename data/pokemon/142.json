@@ -1,6 +1,6 @@
 {
-    "name": "aerodactyl",
     "id": 142,
+    "name": "aerodactyl",
     "height": "5'11\"",
     "weight": "130.1 lbs",
     "types": [
@@ -36,28 +36,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "steel",
             "water",
-            "ice",
+            "steel",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "fighting",
-            "grass"
+            "ghost",
+            "dragon",
+            "dark",
+            "fairy",
+            "grass",
+            "fighting"
         ],
         "1/2": [
-            "poison",
-            "normal",
-            "fire",
             "flying",
+            "normal",
+            "poison",
+            "fire",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

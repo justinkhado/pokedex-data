@@ -1,6 +1,6 @@
 {
-    "name": "salamence",
     "id": 373,
+    "name": "salamence",
     "height": "4'11\"",
     "weight": "226.2 lbs",
     "types": [
@@ -33,28 +33,29 @@
             "ice"
         ],
         "2": [
-            "dragon",
             "fairy",
+            "dragon",
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
             "electric"
         ],
         "1/2": [
-            "fire",
             "water",
+            "fire",
             "fighting",
             "bug"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

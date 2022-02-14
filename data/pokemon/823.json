@@ -1,6 +1,6 @@
 {
-    "name": "corviknight",
     "id": 823,
+    "name": "corviknight",
     "height": "7'3\"",
     "weight": "165.3 lbs",
     "types": [
@@ -39,24 +39,25 @@
             "fire"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "water",
             "fighting",
-            "ice",
-            "rock"
+            "rock",
+            "ice"
         ],
         "1/2": [
-            "flying",
+            "psychic",
             "normal",
             "dragon",
-            "fairy",
+            "flying",
             "steel",
-            "psychic"
+            "fairy"
         ],
         "1/4": [
-            "bug",
-            "grass"
-        ]
+            "grass",
+            "bug"
+        ],
+        "0": []
     }
 }

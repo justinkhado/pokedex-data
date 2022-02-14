@@ -1,6 +1,6 @@
 {
-    "name": "reshiram",
     "id": 643,
+    "name": "reshiram",
     "height": "10'6\"",
     "weight": "727.5 lbs",
     "types": [
@@ -27,20 +27,20 @@
         "4": [],
         "2": [
             "dragon",
-            "rock",
-            "ground"
+            "ground",
+            "rock"
         ],
         "1": [
-            "poison",
-            "flying",
+            "psychic",
             "normal",
+            "ghost",
             "dark",
             "fighting",
-            "ghost",
-            "psychic",
+            "flying",
+            "poison",
             "water",
-            "ice",
-            "fairy"
+            "fairy",
+            "ice"
         ],
         "1/2": [
             "electric",
@@ -48,8 +48,9 @@
             "bug"
         ],
         "1/4": [
-            "fire",
-            "grass"
-        ]
+            "grass",
+            "fire"
+        ],
+        "0": []
     }
 }

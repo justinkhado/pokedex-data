@@ -2,20 +2,20 @@ import os
 import json
 
 from settings import PARPATH
+from save_pokemon import get_pokemon_name
 
 def _handle_special_evolutions(evolution_chain, id):
-    special_evolution_details = [
-        '462',      # magneton -> magnezone     chain-id: 34 
-        '105',      # cubone -> marowak         chain-id: 46
-        '470',      # eevee -> leafeon          chain-id: 67
-        '471',      # eevee -> glaceon          chain-id: 67
-        '292',      # nincada -> shedinja       chain-id: 144
-        '476',      # nosepass -> probopass     chain-id: 147
-        '350',      # feebas -> milotic         chain-id: 178
-        '678',      # espurr -> meowstic        chain-id: 348
-        '738',      # charjabug -> vikavolt     chain-id: 379
-        '745',      # rockruff -> lycanroc      chain-id: 383
-    ]
+    # special evolution methods
+        # 462   magneton -> magnezone     chain-id: 34 
+        # 105   cubone -> marowak         chain-id: 46
+        # 470   eevee -> leafeon          chain-id: 67
+        # 471   eevee -> glaceon          chain-id: 67
+        # 292   nincada -> shedinja       chain-id: 144
+        # 476   nosepass -> probopass     chain-id: 147
+        # 350   feebas -> milotic         chain-id: 178
+        # 678   espurr -> meowstic        chain-id: 348
+        # 738   charjabug -> vikavolt     chain-id: 379
+        # 745   rockruff -> lycanroc      chain-id: 383
 
     thunder_stone = {
         'item': {
@@ -45,7 +45,7 @@ def _handle_special_evolutions(evolution_chain, id):
         evolution_chain['evolution_details'].append(thunder_stone)
     elif id == '105':
         evolution_chain['evolution_details'].pop()
-    elif id in ['470', '471']:
+    elif id in ('470', '471'):
         del evolution_chain['evolution_details'][:-1]
     elif id == '292':
         evolution_chain['evolution_details'][0]['trigger']['name'] = 'have 1+ pokeballs and 1+ spaces in party while evolving Nincada to Ninjask'
@@ -65,7 +65,7 @@ def _handle_special_evolutions(evolution_chain, id):
 
 def _clean_evolution_chain(evolution_chain, id):
     evolution_chain['id'] = id
-    evolution_chain['name'] = evolution_chain['species']['name']
+    evolution_chain['name'] = get_pokemon_name(evolution_chain['species']['name'])
     evolution_chain.pop('species')
     evolution_chain.pop('is_baby')
     if len(evolution_chain['evolves_to']) == 0:
@@ -83,6 +83,19 @@ def _clean_evolution_chain(evolution_chain, id):
     for evolution_detail in evolution_chain['evolution_details']:
         evolution_detail['trigger'] = evolution_detail['trigger']['name']
 
+def _remove_galarian_evolutions(evolution_chain):
+    # Galarian evolutions
+        # 52,53     meowth,persian      chain-id: 22       
+        # 83        farfetch'd          chain-id: 35
+        # 122,439   mr-mime,mime-jr     chain-id: 57
+        # 222       corsola             chain-id: 113
+        # 263, 264  zigzagoon,linoone   chain-id: 134
+        # 562,563   yamask,confagrigus  chain-id: 287
+
+    if evolution_chain['id'] in (22, 35, 113, 287):
+        evolution_chain['chain']['evolves_to'].pop()
+    elif evolution_chain['id'] in (57, 134):
+        evolution_chain['chain']['evolves_to'][0]['evolves_to'].pop()
 
 def save_each_evolution_chain():
     dirpath = os.path.join(PARPATH, 'raw_data', 'evolution_chains')
@@ -90,9 +103,11 @@ def save_each_evolution_chain():
         evolution_chain = {}
         file_names = []
         with open(os.path.join(dirpath, file)) as f:
-            chain_object = json.load(f)
-            evolution_chain = dict(chain_object['chain'])
+            chain_object = json.load(f)            
             print(f"{chain_object['id']}: ", end='')
+            evolution_chain = dict(chain_object)
+            _remove_galarian_evolutions(evolution_chain)
+            evolution_chain = evolution_chain['chain']
             
             pokemon_id = str(evolution_chain['species']['url'].split('/')[-2])
             file_names.append(pokemon_id)

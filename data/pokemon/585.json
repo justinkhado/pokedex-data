@@ -1,6 +1,6 @@
 {
-    "name": "deerling",
     "id": 585,
+    "name": "deerling",
     "height": "1'12\"",
     "weight": "43.0 lbs",
     "types": [
@@ -37,27 +37,28 @@
         "4": [],
         "2": [
             "fighting",
-            "poison",
-            "flying",
-            "ice",
             "bug",
-            "fire"
+            "flying",
+            "poison",
+            "fire",
+            "ice"
         ],
         "1": [
-            "rock",
+            "psychic",
             "normal",
-            "dark",
             "dragon",
-            "fairy",
+            "dark",
             "steel",
-            "psychic"
+            "fairy",
+            "rock"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

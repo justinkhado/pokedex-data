@@ -1,6 +1,6 @@
 {
-    "name": "genesect",
     "id": 649,
+    "name": "genesect",
     "height": "4'11\"",
     "weight": "181.9 lbs",
     "types": [
@@ -29,26 +29,27 @@
         ],
         "2": [],
         "1": [
-            "ghost",
-            "electric",
             "dark",
+            "ghost",
             "water",
-            "fighting",
+            "electric",
             "ground",
-            "rock",
-            "flying"
+            "fighting",
+            "flying",
+            "rock"
         ],
         "1/2": [
-            "ice",
+            "psychic",
             "normal",
             "bug",
             "dragon",
-            "fairy",
             "steel",
-            "psychic"
+            "fairy",
+            "ice"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

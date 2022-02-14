@@ -1,6 +1,6 @@
 {
-    "name": "ninjask",
     "id": 291,
+    "name": "ninjask",
     "height": "2'7\"",
     "weight": "26.5 lbs",
     "types": [
@@ -33,28 +33,29 @@
             "rock"
         ],
         "2": [
-            "fire",
             "flying",
-            "ice",
-            "electric"
+            "fire",
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
+            "psychic",
             "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
-            "water",
             "ghost",
-            "psychic"
+            "water",
+            "dragon",
+            "dark",
+            "poison",
+            "steel",
+            "fairy"
         ],
         "1/2": [
             "bug"
         ],
         "1/4": [
-            "fighting",
-            "grass"
-        ]
+            "grass",
+            "fighting"
+        ],
+        "0": []
     }
 }

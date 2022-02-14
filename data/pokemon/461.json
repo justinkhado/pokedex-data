@@ -1,6 +1,6 @@
 {
-    "name": "weavile",
     "id": 461,
+    "name": "weavile",
     "height": "3'7\"",
     "weight": "75.0 lbs",
     "types": [
@@ -36,24 +36,25 @@
             "fairy",
             "bug",
             "rock",
-            "fire",
-            "steel"
+            "steel",
+            "fire"
         ],
         "1": [
-            "poison",
-            "flying",
+            "ground",
             "grass",
             "normal",
-            "ground",
-            "electric",
+            "water",
             "dragon",
-            "water"
+            "flying",
+            "poison",
+            "electric"
         ],
         "1/2": [
             "dark",
             "ghost",
             "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "heliolisk",
     "id": 695,
+    "name": "heliolisk",
     "height": "3'3\"",
     "weight": "46.3 lbs",
     "types": [
@@ -40,24 +40,25 @@
             "fighting"
         ],
         "1": [
-            "poison",
             "grass",
-            "ice",
-            "rock",
+            "psychic",
             "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
             "water",
-            "psychic"
+            "bug",
+            "dragon",
+            "dark",
+            "poison",
+            "fire",
+            "fairy",
+            "rock",
+            "ice"
         ],
         "1/2": [
-            "steel",
+            "flying",
             "electric",
-            "flying"
+            "steel"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "salazzle",
     "id": 758,
+    "name": "salazzle",
     "height": "3'11\"",
     "weight": "48.9 lbs",
     "types": [
@@ -38,24 +38,25 @@
             "water"
         ],
         "1": [
-            "flying",
             "normal",
-            "dark",
-            "electric",
+            "ghost",
             "dragon",
-            "ghost"
+            "dark",
+            "flying",
+            "electric"
         ],
         "1/2": [
-            "poison",
             "fighting",
+            "poison",
             "ice",
-            "fire",
-            "steel"
+            "steel",
+            "fire"
         ],
         "1/4": [
             "fairy",
-            "bug",
-            "grass"
-        ]
+            "grass",
+            "bug"
+        ],
+        "0": []
     }
 }

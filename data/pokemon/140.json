@@ -1,6 +1,6 @@
 {
-    "name": "kabuto",
     "id": 140,
+    "name": "kabuto",
     "height": "1'8\"",
     "weight": "25.4 lbs",
     "types": [
@@ -38,29 +38,30 @@
             "grass"
         ],
         "2": [
-            "fighting",
             "ground",
+            "fighting",
             "electric"
         ],
         "1": [
-            "rock",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "steel",
-            "water"
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "fairy",
+            "rock",
+            "water",
+            "steel"
         ],
         "1/2": [
-            "poison",
-            "normal",
             "flying",
+            "normal",
+            "poison",
             "ice"
         ],
         "1/4": [
             "fire"
-        ]
+        ],
+        "0": []
     }
 }

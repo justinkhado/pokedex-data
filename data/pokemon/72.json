@@ -1,6 +1,6 @@
 {
-    "name": "tentacool",
     "id": 72,
+    "name": "tentacool",
     "height": "2'11\"",
     "weight": "100.3 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "psychic"
         ],
         "1": [
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
             "flying",
             "rock",
-            "normal",
-            "dark",
-            "dragon",
-            "ghost",
             "grass"
         ],
         "1/2": [
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water",
-            "poison",
-            "fighting",
+            "ice",
             "fairy",
+            "fighting",
+            "poison",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

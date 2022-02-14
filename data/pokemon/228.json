@@ -1,6 +1,6 @@
 {
-    "name": "houndour",
     "id": 228,
+    "name": "houndour",
     "height": "1'12\"",
     "weight": "23.8 lbs",
     "types": [
@@ -37,16 +37,16 @@
         "4": [],
         "2": [
             "fighting",
-            "rock",
             "ground",
+            "rock",
             "water"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "electric",
             "dragon",
+            "flying",
+            "poison",
+            "electric",
             "fairy",
             "bug"
         ],
@@ -54,10 +54,11 @@
             "dark",
             "ghost",
             "ice",
-            "fire",
+            "grass",
             "steel",
-            "grass"
+            "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

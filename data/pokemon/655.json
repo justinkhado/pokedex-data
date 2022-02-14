@@ -1,6 +1,6 @@
 {
-    "name": "delphox",
     "id": 655,
+    "name": "delphox",
     "height": "4'11\"",
     "weight": "86.0 lbs",
     "types": [
@@ -31,29 +31,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "water",
             "dark",
             "ghost"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "electric",
             "dragon",
+            "flying",
+            "poison",
+            "electric",
             "bug"
         ],
         "1/2": [
             "grass",
-            "ice",
-            "fairy",
-            "fire",
             "steel",
+            "fire",
+            "fairy",
+            "ice",
             "fighting",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

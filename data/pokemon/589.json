@@ -1,6 +1,6 @@
 {
-    "name": "escavalier",
     "id": 589,
+    "name": "escavalier",
     "height": "3'3\"",
     "weight": "72.8 lbs",
     "types": [
@@ -39,26 +39,27 @@
         ],
         "2": [],
         "1": [
-            "ghost",
-            "electric",
             "dark",
+            "ghost",
             "water",
-            "fighting",
+            "electric",
             "ground",
-            "rock",
-            "flying"
+            "fighting",
+            "flying",
+            "rock"
         ],
         "1/2": [
-            "ice",
+            "psychic",
             "normal",
             "bug",
             "dragon",
-            "fairy",
             "steel",
-            "psychic"
+            "fairy",
+            "ice"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

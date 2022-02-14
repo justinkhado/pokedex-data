@@ -1,6 +1,6 @@
 {
-    "name": "pawniard",
     "id": 624,
+    "name": "pawniard",
     "height": "1'8\"",
     "weight": "22.5 lbs",
     "types": [
@@ -38,26 +38,27 @@
             "fighting"
         ],
         "2": [
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ],
         "1": [
-            "electric",
             "water",
+            "electric",
             "fairy",
             "bug"
         ],
         "1/2": [
             "dark",
             "ghost",
-            "flying",
             "grass",
-            "ice",
-            "rock",
             "normal",
             "dragon",
-            "steel"
+            "flying",
+            "steel",
+            "rock",
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

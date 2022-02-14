@@ -1,6 +1,6 @@
 {
-    "name": "medicham",
     "id": 308,
+    "name": "medicham",
     "height": "4'3\"",
     "weight": "69.4 lbs",
     "types": [
@@ -36,24 +36,25 @@
             "ghost"
         ],
         "1": [
-            "poison",
-            "grass",
-            "ice",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
-            "bug",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "dark",
+            "bug",
             "psychic"
         ],
         "1/2": [
             "rock",
             "fighting"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

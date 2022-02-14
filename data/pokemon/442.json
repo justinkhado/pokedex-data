@@ -1,6 +1,6 @@
 {
-    "name": "spiritomb",
     "id": 442,
+    "name": "spiritomb",
     "height": "3'3\"",
     "weight": "238.1 lbs",
     "types": [
@@ -34,16 +34,16 @@
             "fairy"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
             "water",
+            "dragon",
+            "flying",
+            "electric",
+            "steel",
+            "fire",
+            "rock",
+            "ice",
             "bug",
             "dark",
             "ghost"
@@ -51,6 +51,7 @@
         "1/2": [
             "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

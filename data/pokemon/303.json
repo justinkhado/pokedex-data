@@ -1,6 +1,6 @@
 {
-    "name": "mawile",
     "id": 303,
+    "name": "mawile",
     "height": "1'12\"",
     "weight": "25.4 lbs",
     "types": [
@@ -36,28 +36,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ],
         "1": [
             "ghost",
-            "electric",
             "water",
+            "electric",
             "steel",
             "fighting"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
-            "normal",
-            "fairy",
             "psychic",
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "ice",
             "dark"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

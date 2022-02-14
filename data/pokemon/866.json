@@ -1,6 +1,6 @@
 {
-    "name": "mr-rime",
     "id": 866,
+    "name": "mr-rime",
     "height": "4'11\"",
     "weight": "128.3 lbs",
     "types": [
@@ -36,28 +36,29 @@
         "4": [],
         "2": [
             "rock",
-            "fire",
             "steel",
-            "bug",
+            "fire",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "poison",
-            "flying",
+            "ground",
             "grass",
             "normal",
-            "ground",
-            "electric",
-            "dragon",
-            "fairy",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "electric",
+            "fairy",
             "fighting"
         ],
         "1/2": [
             "ice",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

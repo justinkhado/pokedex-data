@@ -1,6 +1,6 @@
 {
-    "name": "ivysaur",
     "id": 2,
+    "name": "ivysaur",
     "height": "3'3\"",
     "weight": "28.7 lbs",
     "types": [
@@ -31,18 +31,18 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "ice",
             "fire",
-            "flying",
             "psychic"
         ],
         "1": [
-            "rock",
             "normal",
-            "dark",
-            "dragon",
-            "steel",
             "ghost",
+            "dragon",
+            "dark",
+            "steel",
+            "rock",
             "ground",
             "poison",
             "bug"
@@ -50,11 +50,12 @@
         "1/2": [
             "water",
             "electric",
-            "fighting",
-            "fairy"
+            "fairy",
+            "fighting"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

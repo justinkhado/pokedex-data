@@ -1,6 +1,6 @@
 {
-    "name": "scraggy",
     "id": 559,
+    "name": "scraggy",
     "height": "1'12\"",
     "weight": "26.0 lbs",
     "types": [
@@ -42,16 +42,16 @@
             "flying"
         ],
         "1": [
-            "poison",
-            "grass",
-            "ice",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "bug"
         ],
         "1/2": [
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

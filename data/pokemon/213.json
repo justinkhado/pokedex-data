@@ -1,6 +1,6 @@
 {
-    "name": "shuckle",
     "id": 213,
+    "name": "shuckle",
     "height": "1'12\"",
     "weight": "45.2 lbs",
     "types": [
@@ -37,28 +37,29 @@
         "4": [],
         "2": [
             "rock",
-            "steel",
-            "water"
+            "water",
+            "steel"
         ],
         "1": [
-            "ice",
-            "bug",
-            "electric",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "fighting",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "electric",
+            "fairy",
+            "ice",
             "ground",
             "grass",
-            "fire",
-            "flying"
+            "fighting",
+            "flying",
+            "fire"
         ],
         "1/2": [
-            "poison",
-            "normal"
+            "normal",
+            "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "zubat",
     "id": 41,
+    "name": "zubat",
     "height": "2'7\"",
     "weight": "16.5 lbs",
     "types": [
@@ -32,28 +32,29 @@
         "4": [],
         "2": [
             "psychic",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "flying",
             "normal",
-            "dark",
-            "dragon",
-            "fire",
-            "steel",
+            "ghost",
             "water",
-            "ghost"
+            "dragon",
+            "dark",
+            "flying",
+            "steel",
+            "fire"
         ],
         "1/2": [
-            "poison",
-            "fairy"
+            "fairy",
+            "poison"
         ],
         "1/4": [
+            "grass",
             "fighting",
-            "bug",
-            "grass"
-        ]
+            "bug"
+        ],
+        "0": []
     }
 }

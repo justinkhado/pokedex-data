@@ -1,6 +1,6 @@
 {
-    "name": "dialga",
     "id": 483,
+    "name": "dialga",
     "height": "17'9\"",
     "weight": "1505.7 lbs",
     "types": [
@@ -31,29 +31,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "1": [
             "dark",
             "ghost",
-            "ice",
             "fairy",
+            "ice",
             "dragon",
             "fire"
         ],
         "1/2": [
-            "flying",
-            "rock",
+            "psychic",
             "normal",
             "bug",
+            "flying",
             "steel",
-            "psychic",
+            "rock",
             "water",
             "electric"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

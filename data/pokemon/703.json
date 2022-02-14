@@ -1,6 +1,6 @@
 {
-    "name": "carbink",
     "id": 703,
+    "name": "carbink",
     "height": "0'12\"",
     "weight": "12.6 lbs",
     "types": [
@@ -34,26 +34,27 @@
         ],
         "2": [
             "ground",
-            "water",
-            "grass"
+            "grass",
+            "water"
         ],
         "1": [
-            "ice",
-            "rock",
+            "psychic",
+            "ghost",
             "electric",
             "fairy",
-            "ghost",
-            "psychic",
+            "rock",
+            "ice",
             "poison",
             "fighting"
         ],
         "1/2": [
+            "flying",
             "normal",
             "fire",
-            "flying",
-            "bug",
-            "dark"
+            "dark",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

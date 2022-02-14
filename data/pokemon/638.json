@@ -1,6 +1,6 @@
 {
-    "name": "cobalion",
     "id": 638,
+    "name": "cobalion",
     "height": "6'11\"",
     "weight": "551.1 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
+            "ground",
             "fighting",
-            "fire",
-            "ground"
+            "fire"
         ],
         "1": [
             "ghost",
-            "electric",
             "water",
+            "electric",
             "fairy",
             "flying",
             "psychic"
         ],
         "1/2": [
             "grass",
-            "ice",
             "normal",
             "dragon",
             "steel",
+            "ice",
             "dark"
         ],
         "1/4": [
             "rock",
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

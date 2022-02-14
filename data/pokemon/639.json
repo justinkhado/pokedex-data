@@ -1,6 +1,6 @@
 {
-    "name": "terrakion",
     "id": 639,
+    "name": "terrakion",
     "height": "6'3\"",
     "weight": "573.2 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "grass",
             "ground",
+            "grass",
+            "water",
             "fighting",
             "steel",
-            "water",
             "fairy",
             "psychic"
         ],
         "1": [
             "ghost",
-            "ice",
             "electric",
+            "ice",
             "dragon",
             "flying"
         ],
         "1/2": [
-            "poison",
             "normal",
+            "poison",
             "fire",
+            "dark",
             "rock",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

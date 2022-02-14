@@ -1,6 +1,6 @@
 {
-    "name": "lanturn",
     "id": 171,
+    "name": "lanturn",
     "height": "3'11\"",
     "weight": "49.6 lbs",
     "types": [
@@ -40,26 +40,27 @@
             "ground"
         ],
         "1": [
-            "poison",
-            "rock",
-            "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fighting",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "fighting",
+            "poison",
+            "fairy",
+            "rock",
             "electric"
         ],
         "1/2": [
-            "ice",
-            "fire",
             "water",
+            "fire",
+            "ice",
             "flying"
         ],
         "1/4": [
             "steel"
-        ]
+        ],
+        "0": []
     }
 }

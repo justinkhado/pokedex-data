@@ -1,6 +1,6 @@
 {
-    "name": "crabominable",
     "id": 740,
+    "name": "crabominable",
     "height": "5'7\"",
     "weight": "396.8 lbs",
     "types": [
@@ -40,25 +40,26 @@
             "flying",
             "psychic",
             "fighting",
-            "fire",
-            "steel"
+            "steel",
+            "fire"
         ],
         "1": [
-            "poison",
+            "ground",
             "grass",
             "normal",
-            "ground",
-            "electric",
-            "dragon",
-            "water",
             "ghost",
+            "water",
+            "dragon",
+            "poison",
+            "electric",
             "rock"
         ],
         "1/2": [
-            "bug",
             "dark",
+            "bug",
             "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

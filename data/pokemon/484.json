@@ -1,6 +1,6 @@
 {
-    "name": "palkia",
     "id": 484,
+    "name": "palkia",
     "height": "13'9\"",
     "weight": "740.7 lbs",
     "types": [
@@ -31,30 +31,31 @@
     "type_chart": {
         "4": [],
         "2": [
-            "dragon",
-            "fairy"
+            "fairy",
+            "dragon"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
+            "psychic",
+            "normal",
+            "ghost",
             "bug",
             "dark",
             "fighting",
-            "ghost",
-            "psychic",
+            "flying",
+            "poison",
+            "rock",
             "ice",
-            "electric",
-            "grass"
+            "grass",
+            "electric"
         ],
         "1/2": [
             "steel"
         ],
         "1/4": [
-            "fire",
-            "water"
-        ]
+            "water",
+            "fire"
+        ],
+        "0": []
     }
 }

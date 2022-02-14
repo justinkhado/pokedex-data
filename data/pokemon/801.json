@@ -1,6 +1,6 @@
 {
-    "name": "magearna",
     "id": 801,
+    "name": "magearna",
     "height": "3'3\"",
     "weight": "177.5 lbs",
     "types": [
@@ -26,28 +26,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ],
         "1": [
             "ghost",
-            "electric",
             "water",
+            "electric",
             "steel",
             "fighting"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
-            "normal",
-            "fairy",
             "psychic",
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "ice",
             "dark"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

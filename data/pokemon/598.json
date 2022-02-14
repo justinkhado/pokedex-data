@@ -1,6 +1,6 @@
 {
-    "name": "ferrothorn",
     "id": 598,
+    "name": "ferrothorn",
     "height": "3'3\"",
     "weight": "242.5 lbs",
     "types": [
@@ -39,22 +39,23 @@
             "dark",
             "ghost",
             "ground",
-            "ice",
+            "flying",
             "bug",
-            "flying"
+            "ice"
         ],
         "1/2": [
-            "electric",
             "water",
-            "rock",
+            "electric",
+            "psychic",
             "normal",
             "dragon",
-            "fairy",
             "steel",
-            "psychic"
+            "fairy",
+            "rock"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

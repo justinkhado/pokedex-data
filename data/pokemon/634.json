@@ -1,6 +1,6 @@
 {
-    "name": "zweilous",
     "id": 634,
+    "name": "zweilous",
     "height": "4'7\"",
     "weight": "110.2 lbs",
     "types": [
@@ -34,21 +34,22 @@
             "dragon"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
-            "steel"
+            "normal",
+            "flying",
+            "poison",
+            "steel",
+            "rock"
         ],
         "1/2": [
             "dark",
             "ghost",
+            "grass",
             "water",
-            "fire",
             "electric",
-            "grass"
+            "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "bibarel",
     "id": 400,
+    "name": "bibarel",
     "height": "3'3\"",
     "weight": "69.4 lbs",
     "types": [
@@ -37,27 +37,28 @@
         "4": [],
         "2": [
             "fighting",
-            "electric",
-            "grass"
+            "grass",
+            "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
+            "psychic",
+            "normal",
             "bug",
-            "dark",
             "dragon",
+            "dark",
+            "flying",
+            "poison",
             "fairy",
-            "psychic"
+            "rock"
         ],
         "1/2": [
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water"
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

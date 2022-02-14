@@ -1,6 +1,6 @@
 {
-    "name": "drifblim",
     "id": 426,
+    "name": "drifblim",
     "height": "3'11\"",
     "weight": "33.1 lbs",
     "types": [
@@ -38,18 +38,18 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "flying",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
+            "psychic",
             "water",
-            "psychic"
+            "dragon",
+            "flying",
+            "steel",
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "poison",
@@ -57,6 +57,7 @@
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "lotad",
     "id": 270,
+    "name": "lotad",
     "height": "1'8\"",
     "weight": "5.7 lbs",
     "types": [
@@ -36,23 +36,23 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "poison",
-            "bug",
-            "flying"
+            "bug"
         ],
         "1": [
-            "rock",
+            "psychic",
             "normal",
-            "dark",
+            "ghost",
             "dragon",
+            "dark",
             "fighting",
             "fairy",
-            "ghost",
-            "psychic",
-            "ice",
+            "rock",
             "fire",
-            "electric",
-            "grass"
+            "ice",
+            "grass",
+            "electric"
         ],
         "1/2": [
             "steel",
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "water"
-        ]
+        ],
+        "0": []
     }
 }

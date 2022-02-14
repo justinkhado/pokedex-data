@@ -1,6 +1,6 @@
 {
-    "name": "froslass",
     "id": 478,
+    "name": "froslass",
     "height": "4'3\"",
     "weight": "58.6 lbs",
     "types": [
@@ -32,26 +32,27 @@
         "4": [],
         "2": [
             "rock",
-            "fire",
             "steel",
+            "fire",
             "dark",
             "ghost"
         ],
         "1": [
-            "flying",
-            "grass",
             "ground",
-            "electric",
-            "dragon",
-            "fairy",
+            "grass",
+            "psychic",
             "water",
-            "psychic"
+            "dragon",
+            "flying",
+            "electric",
+            "fairy"
         ],
         "1/2": [
             "ice",
             "poison",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

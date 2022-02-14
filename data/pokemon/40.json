@@ -1,6 +1,6 @@
 {
-    "name": "wigglytuff",
     "id": 40,
+    "name": "wigglytuff",
     "height": "3'3\"",
     "weight": "26.5 lbs",
     "types": [
@@ -40,23 +40,24 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
-            "electric",
-            "fairy",
-            "fire",
-            "water",
+            "grass",
             "psychic",
+            "normal",
+            "water",
+            "flying",
+            "electric",
+            "fire",
+            "fairy",
+            "rock",
+            "ice",
             "fighting"
         ],
         "1/2": [
-            "bug",
-            "dark"
+            "dark",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

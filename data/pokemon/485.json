@@ -1,6 +1,6 @@
 {
-    "name": "heatran",
     "id": 485,
+    "name": "heatran",
     "height": "5'7\"",
     "weight": "948.0 lbs",
     "types": [
@@ -37,24 +37,25 @@
             "fighting"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "electric",
             "fire",
             "rock"
         ],
         "1/2": [
-            "dragon",
-            "normal",
+            "psychic",
             "flying",
-            "psychic"
+            "normal",
+            "dragon"
         ],
         "1/4": [
             "grass",
-            "ice",
             "bug",
+            "steel",
             "fairy",
-            "steel"
-        ]
+            "ice"
+        ],
+        "0": []
     }
 }

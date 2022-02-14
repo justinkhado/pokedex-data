@@ -1,6 +1,6 @@
 {
-    "name": "impidimp",
     "id": 859,
+    "name": "impidimp",
     "height": "1'4\"",
     "weight": "12.1 lbs",
     "types": [
@@ -41,15 +41,15 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
+            "grass",
+            "normal",
+            "water",
+            "flying",
             "electric",
             "fire",
-            "water",
+            "rock",
+            "ice",
             "fighting",
             "bug"
         ],
@@ -58,6 +58,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

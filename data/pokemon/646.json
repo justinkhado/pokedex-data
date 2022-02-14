@@ -1,6 +1,6 @@
 {
-    "name": "kyurem",
     "id": 646,
+    "name": "kyurem",
     "height": "9'10\"",
     "weight": "716.5 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "dragon",
             "fairy",
+            "dragon",
             "fighting",
-            "rock",
-            "steel"
+            "steel",
+            "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "bug",
             "ground",
-            "dark",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "bug",
+            "dark",
+            "flying",
+            "poison",
             "fire",
             "ice"
         ],
         "1/2": [
+            "grass",
             "water",
-            "electric",
-            "grass"
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "urshifu-single-strike",
     "id": 892,
+    "name": "urshifu-single-strike",
     "height": "6'3\"",
     "weight": "231.5 lbs",
     "types": [
@@ -31,16 +31,16 @@
             "fighting"
         ],
         "1": [
-            "poison",
-            "grass",
-            "ice",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "bug"
         ],
         "1/2": [
@@ -49,6 +49,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "mantine",
     "id": 226,
+    "name": "mantine",
     "height": "6'11\"",
     "weight": "485.0 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
             "ice",
             "grass"
         ],
         "1/2": [
-            "fire",
-            "steel",
             "water",
+            "steel",
+            "fire",
             "fighting",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

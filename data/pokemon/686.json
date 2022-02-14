@@ -1,6 +1,6 @@
 {
-    "name": "inkay",
     "id": 686,
+    "name": "inkay",
     "height": "1'4\"",
     "weight": "7.7 lbs",
     "types": [
@@ -41,23 +41,24 @@
             "fairy"
         ],
         "1": [
-            "poison",
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "rock",
+            "ice",
             "dark",
             "ghost",
             "fighting"
         ],
         "1/2": [],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

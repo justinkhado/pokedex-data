@@ -1,6 +1,6 @@
 {
-    "name": "virizion",
     "id": 640,
+    "name": "virizion",
     "height": "6'7\"",
     "weight": "440.9 lbs",
     "types": [
@@ -36,20 +36,21 @@
         ],
         "1": [
             "normal",
+            "ghost",
             "dragon",
             "fighting",
             "steel",
-            "ghost",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
             "grass",
-            "rock",
-            "dark"
+            "water",
+            "electric",
+            "dark",
+            "rock"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

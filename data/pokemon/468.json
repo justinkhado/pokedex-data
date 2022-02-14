@@ -1,6 +1,6 @@
 {
-    "name": "togekiss",
     "id": 468,
+    "name": "togekiss",
     "height": "4'11\"",
     "weight": "83.8 lbs",
     "types": [
@@ -38,18 +38,18 @@
         "2": [
             "poison",
             "steel",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "flying",
+            "psychic",
             "normal",
-            "fairy",
-            "fire",
-            "water",
             "ghost",
-            "psychic"
+            "water",
+            "flying",
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "dark",
@@ -58,6 +58,7 @@
         "1/4": [
             "fighting",
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

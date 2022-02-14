@@ -1,6 +1,6 @@
 {
-    "name": "mareanie",
     "id": 747,
+    "name": "mareanie",
     "height": "1'4\"",
     "weight": "17.6 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "electric"
         ],
         "1": [
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
             "flying",
             "rock",
-            "normal",
-            "dark",
-            "dragon",
-            "ghost",
             "grass"
         ],
         "1/2": [
-            "poison",
-            "fighting",
             "fairy",
+            "fighting",
+            "poison",
             "bug",
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water"
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

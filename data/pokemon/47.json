@@ -1,6 +1,6 @@
 {
-    "name": "parasect",
     "id": 47,
+    "name": "parasect",
     "height": "3'3\"",
     "weight": "65.0 lbs",
     "types": [
@@ -35,23 +35,23 @@
     ],
     "type_chart": {
         "4": [
-            "fire",
-            "flying"
+            "flying",
+            "fire"
         ],
         "2": [
             "rock",
             "poison",
-            "ice",
-            "bug"
+            "bug",
+            "ice"
         ],
         "1": [
+            "psychic",
             "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
             "ghost",
-            "psychic"
+            "dragon",
+            "dark",
+            "steel",
+            "fairy"
         ],
         "1/2": [
             "fighting",
@@ -61,6 +61,7 @@
         "1/4": [
             "ground",
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

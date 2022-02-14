@@ -1,6 +1,6 @@
 {
-    "name": "togetic",
     "id": 176,
+    "name": "togetic",
     "height": "1'12\"",
     "weight": "7.1 lbs",
     "types": [
@@ -38,18 +38,18 @@
         "2": [
             "poison",
             "steel",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "flying",
+            "psychic",
             "normal",
-            "fairy",
-            "fire",
-            "water",
             "ghost",
-            "psychic"
+            "water",
+            "flying",
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "dark",
@@ -58,6 +58,7 @@
         "1/4": [
             "fighting",
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

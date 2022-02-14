@@ -1,6 +1,6 @@
 {
-    "name": "marshadow",
     "id": 802,
+    "name": "marshadow",
     "height": "2'4\"",
     "weight": "48.9 lbs",
     "types": [
@@ -32,14 +32,14 @@
             "ghost"
         ],
         "1": [
-            "grass",
-            "ice",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
             "water",
+            "dragon",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "dark"
         ],
         "1/2": [
@@ -48,6 +48,7 @@
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

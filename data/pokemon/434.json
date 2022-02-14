@@ -1,6 +1,6 @@
 {
-    "name": "stunky",
     "id": 434,
+    "name": "stunky",
     "height": "1'4\"",
     "weight": "42.3 lbs",
     "types": [
@@ -39,25 +39,26 @@
             "ground"
         ],
         "1": [
-            "flying",
-            "ice",
-            "rock",
             "normal",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
             "water",
-            "fighting",
+            "dragon",
+            "flying",
+            "electric",
+            "steel",
+            "fire",
+            "rock",
+            "ice",
             "fairy",
+            "fighting",
             "bug"
         ],
         "1/2": [
-            "poison",
             "grass",
+            "poison",
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

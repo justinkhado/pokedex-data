@@ -1,6 +1,6 @@
 {
-    "name": "rufflet",
     "id": 627,
+    "name": "rufflet",
     "height": "1'8\"",
     "weight": "23.1 lbs",
     "types": [
@@ -36,27 +36,28 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
-            "water",
             "psychic",
+            "normal",
+            "water",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
+            "fire",
+            "fairy",
             "fighting"
         ],
         "1/2": [
-            "bug",
-            "grass"
+            "grass",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "giratina-altered",
     "id": 487,
+    "name": "giratina",
     "height": "14'9\"",
     "weight": "1653.4 lbs",
     "types": [
@@ -33,25 +33,26 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
             "fairy",
+            "ice",
             "dragon"
         ],
         "1": [
-            "flying",
-            "rock",
             "ground",
+            "psychic",
+            "flying",
             "steel",
-            "psychic"
+            "rock"
         ],
         "1/2": [
             "poison",
             "bug",
+            "grass",
             "water",
-            "fire",
             "electric",
-            "grass"
+            "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

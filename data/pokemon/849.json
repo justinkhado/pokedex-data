@@ -1,6 +1,6 @@
 {
-    "name": "toxtricity-amped",
     "id": 849,
+    "name": "toxtricity-amped",
     "height": "5'3\"",
     "weight": "88.2 lbs",
     "types": [
@@ -40,25 +40,26 @@
             "psychic"
         ],
         "1": [
-            "ice",
-            "rock",
             "normal",
-            "dark",
-            "dragon",
-            "fire",
+            "ghost",
             "water",
-            "ghost"
+            "dragon",
+            "dark",
+            "fire",
+            "rock",
+            "ice"
         ],
         "1/2": [
-            "steel",
-            "electric",
             "flying",
-            "poison",
+            "electric",
+            "steel",
             "grass",
             "bug",
             "fighting",
+            "poison",
             "fairy"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

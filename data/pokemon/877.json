@@ -1,6 +1,6 @@
 {
-    "name": "morpeko",
     "id": 877,
+    "name": "morpeko",
     "height": "0'12\"",
     "weight": "6.6 lbs",
     "types": [
@@ -26,27 +26,28 @@
         "4": [],
         "2": [
             "ground",
-            "fighting",
             "fairy",
+            "fighting",
             "bug"
         ],
         "1": [
-            "poison",
             "grass",
-            "ice",
-            "rock",
             "normal",
+            "water",
             "dragon",
+            "poison",
             "fire",
-            "water"
+            "rock",
+            "ice"
         ],
         "1/2": [
-            "steel",
-            "electric",
             "flying",
+            "electric",
+            "steel",
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

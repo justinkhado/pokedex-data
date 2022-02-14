@@ -1,6 +1,6 @@
 {
-    "name": "hoopa",
     "id": 720,
+    "name": "hoopa",
     "height": "1'8\"",
     "weight": "19.8 lbs",
     "types": [
@@ -30,23 +30,24 @@
         ],
         "2": [],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
             "ground",
-            "electric",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
+            "grass",
             "water",
+            "dragon",
+            "flying",
+            "electric",
+            "steel",
+            "fire",
+            "fairy",
+            "rock",
+            "ice",
             "bug"
         ],
         "1/2": [
             "psychic",
             "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "dottler",
     "id": 825,
+    "name": "dottler",
     "height": "1'4\"",
     "weight": "43.0 lbs",
     "types": [
@@ -36,22 +36,22 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "rock",
             "fire",
-            "flying",
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "poison",
-            "ice",
             "normal",
-            "electric",
+            "water",
             "dragon",
-            "fairy",
+            "poison",
+            "electric",
             "steel",
-            "water"
+            "fairy",
+            "ice"
         ],
         "1/2": [
             "ground",
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "fighting"
-        ]
+        ],
+        "0": []
     }
 }

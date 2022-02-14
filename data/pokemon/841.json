@@ -1,6 +1,6 @@
 {
-    "name": "flapple",
     "id": 841,
+    "name": "flapple",
     "height": "0'12\"",
     "weight": "2.2 lbs",
     "types": [
@@ -37,29 +37,30 @@
             "ice"
         ],
         "2": [
+            "flying",
             "poison",
             "bug",
-            "flying",
-            "dragon",
-            "fairy"
+            "fairy",
+            "dragon"
         ],
         "1": [
-            "rock",
+            "psychic",
             "normal",
+            "ghost",
             "dark",
             "fighting",
             "steel",
-            "ghost",
-            "psychic",
+            "rock",
             "fire"
         ],
         "1/2": [
             "ground"
         ],
         "1/4": [
+            "grass",
             "water",
-            "electric",
-            "grass"
-        ]
+            "electric"
+        ],
+        "0": []
     }
 }

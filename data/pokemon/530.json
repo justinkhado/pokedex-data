@@ -1,6 +1,6 @@
 {
-    "name": "excadrill",
     "id": 530,
+    "name": "excadrill",
     "height": "2'4\"",
     "weight": "89.1 lbs",
     "types": [
@@ -37,27 +37,28 @@
         "4": [],
         "2": [
             "water",
+            "ground",
             "fighting",
-            "fire",
-            "ground"
+            "fire"
         ],
         "1": [
             "dark",
             "ghost",
-            "ice",
-            "grass"
+            "grass",
+            "ice"
         ],
         "1/2": [
-            "flying",
+            "psychic",
             "normal",
             "bug",
             "dragon",
-            "fairy",
+            "flying",
             "steel",
-            "psychic"
+            "fairy"
         ],
         "1/4": [
             "rock"
-        ]
+        ],
+        "0": []
     }
 }

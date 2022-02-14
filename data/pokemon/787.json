@@ -1,6 +1,6 @@
 {
-    "name": "tapu-bulu",
     "id": 787,
+    "name": "tapu-bulu",
     "height": "6'3\"",
     "weight": "100.3 lbs",
     "types": [
@@ -33,27 +33,28 @@
             "poison"
         ],
         "2": [
+            "flying",
             "ice",
             "fire",
-            "flying",
             "steel"
         ],
         "1": [
-            "rock",
-            "normal",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "fairy",
+            "rock",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
             "grass",
-            "fighting",
-            "dark"
+            "water",
+            "electric",
+            "dark",
+            "fighting"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

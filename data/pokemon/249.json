@@ -1,6 +1,6 @@
 {
-    "name": "lugia",
     "id": 249,
+    "name": "lugia",
     "height": "17'1\"",
     "weight": "476.2 lbs",
     "types": [
@@ -33,19 +33,19 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "steel",
+            "fire",
+            "fairy",
             "bug"
         ],
         "1/2": [
@@ -54,6 +54,7 @@
         ],
         "1/4": [
             "fighting"
-        ]
+        ],
+        "0": []
     }
 }

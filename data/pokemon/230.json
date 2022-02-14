@@ -1,6 +1,6 @@
 {
-    "name": "kingdra",
     "id": 230,
+    "name": "kingdra",
     "height": "5'11\"",
     "weight": "335.1 lbs",
     "types": [
@@ -36,30 +36,31 @@
     "type_chart": {
         "4": [],
         "2": [
-            "dragon",
-            "fairy"
+            "fairy",
+            "dragon"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
+            "psychic",
+            "normal",
+            "ghost",
             "bug",
             "dark",
             "fighting",
-            "ghost",
-            "psychic",
+            "flying",
+            "poison",
+            "rock",
             "ice",
-            "electric",
-            "grass"
+            "grass",
+            "electric"
         ],
         "1/2": [
             "steel"
         ],
         "1/4": [
-            "fire",
-            "water"
-        ]
+            "water",
+            "fire"
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "jumpluff",
     "id": 189,
+    "name": "jumpluff",
     "height": "2'7\"",
     "weight": "6.6 lbs",
     "types": [
@@ -38,19 +38,19 @@
             "ice"
         ],
         "2": [
+            "flying",
             "poison",
             "fire",
-            "flying",
             "rock"
         ],
         "1": [
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "steel",
+            "fairy",
             "electric",
             "bug"
         ],
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

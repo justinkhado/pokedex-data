@@ -1,6 +1,6 @@
 {
-    "name": "nidoqueen",
     "id": 31,
+    "name": "nidoqueen",
     "height": "4'3\"",
     "weight": "132.3 lbs",
     "types": [
@@ -38,27 +38,28 @@
         "2": [
             "ground",
             "psychic",
-            "ice",
-            "water"
+            "water",
+            "ice"
         ],
         "1": [
-            "flying",
             "normal",
-            "dark",
-            "dragon",
-            "fire",
-            "steel",
             "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "steel",
+            "fire",
             "grass"
         ],
         "1/2": [
-            "fighting",
             "fairy",
+            "fighting",
             "bug",
             "rock"
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

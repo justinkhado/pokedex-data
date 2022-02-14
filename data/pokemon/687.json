@@ -1,6 +1,6 @@
 {
-    "name": "malamar",
     "id": 687,
+    "name": "malamar",
     "height": "4'11\"",
     "weight": "103.6 lbs",
     "types": [
@@ -41,23 +41,24 @@
             "fairy"
         ],
         "1": [
-            "poison",
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "rock",
+            "ice",
             "dark",
             "ghost",
             "fighting"
         ],
         "1/2": [],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

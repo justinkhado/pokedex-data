@@ -1,6 +1,6 @@
 {
-    "name": "hakamo-o",
     "id": 783,
+    "name": "hakamo-o",
     "height": "3'11\"",
     "weight": "103.6 lbs",
     "types": [
@@ -44,22 +44,23 @@
             "psychic"
         ],
         "1": [
-            "poison",
-            "normal",
             "ground",
+            "normal",
+            "ghost",
             "fighting",
-            "steel",
-            "ghost"
+            "poison",
+            "steel"
         ],
         "1/2": [
-            "water",
-            "fire",
-            "electric",
             "grass",
+            "water",
+            "electric",
+            "fire",
+            "dark",
             "rock",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

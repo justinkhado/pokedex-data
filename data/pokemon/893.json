@@ -1,6 +1,6 @@
 {
-    "name": "zarude",
     "id": 893,
+    "name": "zarude",
     "height": "5'11\"",
     "weight": "154.3 lbs",
     "types": [
@@ -28,27 +28,28 @@
             "bug"
         ],
         "2": [
-            "fighting",
             "fairy",
+            "fighting",
+            "flying",
             "poison",
             "ice",
-            "fire",
-            "flying"
+            "fire"
         ],
         "1": [
-            "dragon",
-            "rock",
             "normal",
-            "steel"
+            "rock",
+            "steel",
+            "dragon"
         ],
         "1/2": [
             "dark",
             "ghost",
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

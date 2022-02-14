@@ -10,22 +10,10 @@
                     "trigger": "level-up"
                 }
             ],
-            "evolves_to": [
-                {
-                    "evolution_details": [
-                        {
-                            "min_level": 42,
-                            "trigger": "level-up"
-                        }
-                    ],
-                    "id": "866",
-                    "name": "mr-rime"
-                }
-            ],
             "id": "122",
-            "name": "mr-mime"
+            "name": "mr. mime"
         }
     ],
     "id": "439",
-    "name": "mime-jr"
+    "name": "mime jr."
 }

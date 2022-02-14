@@ -1,6 +1,6 @@
 {
-    "name": "incineroar",
     "id": 727,
+    "name": "incineroar",
     "height": "5'11\"",
     "weight": "183.0 lbs",
     "types": [
@@ -31,28 +31,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "water",
             "fighting"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "electric",
             "dragon",
+            "flying",
+            "poison",
+            "electric",
             "fairy",
             "bug"
         ],
         "1/2": [
             "ice",
-            "fire",
-            "steel",
             "grass",
+            "steel",
+            "fire",
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

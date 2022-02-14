@@ -1,6 +1,6 @@
 {
-    "name": "sharpedo",
     "id": 319,
+    "name": "sharpedo",
     "height": "5'11\"",
     "weight": "195.8 lbs",
     "types": [
@@ -31,28 +31,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "electric",
             "grass",
-            "fighting",
+            "electric",
             "fairy",
+            "fighting",
             "bug"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
-            "dragon"
+            "normal",
+            "dragon",
+            "flying",
+            "poison",
+            "rock"
         ],
         "1/2": [
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water",
+            "ice",
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

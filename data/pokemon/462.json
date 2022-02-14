@@ -1,6 +1,6 @@
 {
-    "name": "magnezone",
     "id": 462,
+    "name": "magnezone",
     "height": "3'11\"",
     "weight": "396.8 lbs",
     "types": [
@@ -42,24 +42,25 @@
             "fire"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "water"
         ],
         "1/2": [
             "electric",
             "grass",
-            "ice",
-            "rock",
+            "psychic",
             "normal",
             "bug",
             "dragon",
             "fairy",
-            "psychic"
+            "rock",
+            "ice"
         ],
         "1/4": [
-            "steel",
-            "flying"
-        ]
+            "flying",
+            "steel"
+        ],
+        "0": []
     }
 }

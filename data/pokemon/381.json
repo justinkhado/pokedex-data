@@ -1,6 +1,6 @@
 {
-    "name": "latios",
     "id": 381,
+    "name": "latios",
     "height": "6'7\"",
     "weight": "132.3 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
             "fairy",
+            "ice",
             "dragon",
-            "bug",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
-            "steel"
+            "normal",
+            "flying",
+            "poison",
+            "steel",
+            "rock"
         ],
         "1/2": [
-            "water",
-            "fire",
-            "electric",
             "grass",
+            "water",
+            "electric",
+            "fire",
             "fighting",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

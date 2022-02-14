@@ -1,6 +1,6 @@
 {
-    "name": "dewgong",
     "id": 87,
+    "name": "dewgong",
     "height": "5'7\"",
     "weight": "264.6 lbs",
     "types": [
@@ -36,30 +36,31 @@
     "type_chart": {
         "4": [],
         "2": [
-            "electric",
             "grass",
+            "electric",
             "fighting",
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "bug",
             "ground",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "fire",
-            "steel"
+            "normal",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
+            "steel",
+            "fire"
         ],
         "1/2": [
             "water"
         ],
         "1/4": [
             "ice"
-        ]
+        ],
+        "0": []
     }
 }

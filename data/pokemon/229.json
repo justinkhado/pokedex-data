@@ -1,6 +1,6 @@
 {
-    "name": "houndoom",
     "id": 229,
+    "name": "houndoom",
     "height": "4'7\"",
     "weight": "77.2 lbs",
     "types": [
@@ -37,16 +37,16 @@
         "4": [],
         "2": [
             "fighting",
-            "rock",
             "ground",
+            "rock",
             "water"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "electric",
             "dragon",
+            "flying",
+            "poison",
+            "electric",
             "fairy",
             "bug"
         ],
@@ -54,10 +54,11 @@
             "dark",
             "ghost",
             "ice",
-            "fire",
+            "grass",
             "steel",
-            "grass"
+            "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

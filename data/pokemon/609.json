@@ -1,6 +1,6 @@
 {
-    "name": "chandelure",
     "id": 609,
+    "name": "chandelure",
     "height": "3'3\"",
     "weight": "75.6 lbs",
     "types": [
@@ -38,26 +38,27 @@
         "2": [
             "dark",
             "ghost",
-            "rock",
             "ground",
+            "rock",
             "water"
         ],
         "1": [
-            "dragon",
-            "electric",
             "flying",
-            "psychic"
+            "psychic",
+            "electric",
+            "dragon"
         ],
         "1/2": [
             "poison",
             "grass",
-            "ice",
-            "fairy",
+            "steel",
             "fire",
-            "steel"
+            "fairy",
+            "ice"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

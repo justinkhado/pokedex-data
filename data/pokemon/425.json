@@ -1,6 +1,6 @@
 {
-    "name": "drifloon",
     "id": 425,
+    "name": "drifloon",
     "height": "1'4\"",
     "weight": "2.6 lbs",
     "types": [
@@ -38,18 +38,18 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "flying",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
+            "psychic",
             "water",
-            "psychic"
+            "dragon",
+            "flying",
+            "steel",
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "poison",
@@ -57,6 +57,7 @@
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

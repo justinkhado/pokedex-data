@@ -1,6 +1,6 @@
 {
-    "name": "claydol",
     "id": 344,
+    "name": "claydol",
     "height": "4'11\"",
     "weight": "238.1 lbs",
     "types": [
@@ -26,21 +26,21 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
-            "water",
             "grass",
-            "bug",
+            "water",
+            "ice",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "flying",
-            "normal",
             "ground",
+            "normal",
             "dragon",
-            "fairy",
+            "flying",
+            "steel",
             "fire",
-            "steel"
+            "fairy"
         ],
         "1/2": [
             "poison",
@@ -48,6 +48,7 @@
             "fighting",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

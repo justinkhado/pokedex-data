@@ -1,6 +1,6 @@
 {
-    "name": "sizzlipede",
     "id": 850,
+    "name": "sizzlipede",
     "height": "2'4\"",
     "weight": "2.2 lbs",
     "types": [
@@ -42,25 +42,26 @@
             "flying"
         ],
         "1": [
-            "poison",
-            "normal",
-            "dark",
-            "electric",
-            "dragon",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "poison",
+            "electric",
             "fire",
             "ground"
         ],
         "1/2": [
-            "ice",
             "fairy",
             "steel",
             "bug",
+            "ice",
             "fighting"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

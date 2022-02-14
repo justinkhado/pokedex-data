@@ -1,6 +1,6 @@
 {
-    "name": "trumbeak",
     "id": 732,
+    "name": "trumbeak",
     "height": "1'12\"",
     "weight": "32.6 lbs",
     "types": [
@@ -36,27 +36,28 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
-            "water",
             "psychic",
+            "normal",
+            "water",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
+            "fire",
+            "fairy",
             "fighting"
         ],
         "1/2": [
-            "bug",
-            "grass"
+            "grass",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

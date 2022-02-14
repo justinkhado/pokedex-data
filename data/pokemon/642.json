@@ -1,6 +1,6 @@
 {
-    "name": "thundurus-incarnate",
     "id": 642,
+    "name": "thundurus",
     "height": "4'11\"",
     "weight": "134.5 lbs",
     "types": [
@@ -31,28 +31,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
-            "rock"
+            "rock",
+            "ice"
         ],
         "1": [
-            "poison",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
-            "water",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "water",
+            "dragon",
+            "dark",
+            "poison",
+            "fire",
+            "fairy",
             "electric"
         ],
         "1/2": [
-            "steel",
             "flying",
+            "steel",
+            "grass",
             "fighting",
-            "bug",
-            "grass"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

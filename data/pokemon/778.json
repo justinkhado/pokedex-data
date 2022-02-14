@@ -1,6 +1,6 @@
 {
-    "name": "mimikyu-disguised",
     "id": 778,
+    "name": "mimikyu",
     "height": "0'8\"",
     "weight": "1.5 lbs",
     "types": [
@@ -30,22 +30,23 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
             "ground",
-            "electric",
-            "fairy",
-            "fire",
-            "water",
+            "grass",
             "psychic",
+            "water",
+            "flying",
+            "electric",
+            "fire",
+            "fairy",
+            "rock",
+            "ice",
             "poison",
             "dark"
         ],
         "1/2": [],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

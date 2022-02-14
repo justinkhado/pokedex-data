@@ -1,6 +1,6 @@
 {
-    "name": "klefki",
     "id": 707,
+    "name": "klefki",
     "height": "0'8\"",
     "weight": "6.6 lbs",
     "types": [
@@ -31,28 +31,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ],
         "1": [
             "ghost",
-            "electric",
             "water",
+            "electric",
             "steel",
             "fighting"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
-            "normal",
-            "fairy",
             "psychic",
+            "normal",
+            "flying",
+            "fairy",
+            "rock",
+            "ice",
             "dark"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

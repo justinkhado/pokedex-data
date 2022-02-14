@@ -1,6 +1,6 @@
 {
-    "name": "haunter",
     "id": 93,
+    "name": "haunter",
     "height": "5'3\"",
     "weight": "0.2 lbs",
     "types": [
@@ -32,14 +32,14 @@
             "psychic"
         ],
         "1": [
-            "flying",
-            "ice",
-            "rock",
-            "electric",
+            "water",
             "dragon",
-            "fire",
+            "flying",
+            "electric",
             "steel",
-            "water"
+            "fire",
+            "rock",
+            "ice"
         ],
         "1/2": [
             "fairy",
@@ -48,6 +48,7 @@
         "1/4": [
             "poison",
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

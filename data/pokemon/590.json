@@ -1,6 +1,6 @@
 {
-    "name": "foongus",
     "id": 590,
+    "name": "foongus",
     "height": "0'8\"",
     "weight": "2.2 lbs",
     "types": [
@@ -31,18 +31,18 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "ice",
             "fire",
-            "flying",
             "psychic"
         ],
         "1": [
-            "rock",
             "normal",
-            "dark",
-            "dragon",
-            "steel",
             "ghost",
+            "dragon",
+            "dark",
+            "steel",
+            "rock",
             "ground",
             "poison",
             "bug"
@@ -50,11 +50,12 @@
         "1/2": [
             "water",
             "electric",
-            "fighting",
-            "fairy"
+            "fairy",
+            "fighting"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "dartrix",
     "id": 723,
+    "name": "dartrix",
     "height": "2'4\"",
     "weight": "35.3 lbs",
     "types": [
@@ -33,19 +33,19 @@
             "ice"
         ],
         "2": [
+            "flying",
             "poison",
             "fire",
-            "flying",
             "rock"
         ],
         "1": [
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "steel",
+            "fairy",
             "electric",
             "bug"
         ],
@@ -55,6 +55,7 @@
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

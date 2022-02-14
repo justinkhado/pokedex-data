@@ -1,6 +1,6 @@
 {
-    "name": "bastiodon",
     "id": 411,
+    "name": "bastiodon",
     "height": "4'3\"",
     "weight": "329.6 lbs",
     "types": [
@@ -30,31 +30,32 @@
     ],
     "type_chart": {
         "4": [
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "2": [
             "water"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "electric",
             "fire",
-            "steel",
-            "grass"
+            "grass",
+            "steel"
         ],
         "1/2": [
-            "ice",
-            "rock",
+            "psychic",
             "bug",
             "dragon",
             "fairy",
-            "psychic"
+            "rock",
+            "ice"
         ],
         "1/4": [
-            "normal",
-            "flying"
-        ]
+            "flying",
+            "normal"
+        ],
+        "0": []
     }
 }

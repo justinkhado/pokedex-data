@@ -1,6 +1,6 @@
 {
-    "name": "gourgeist-average",
     "id": 711,
+    "name": "gourgeist",
     "height": "2'11\"",
     "weight": "27.6 lbs",
     "types": [
@@ -38,25 +38,26 @@
         "2": [
             "dark",
             "ghost",
+            "flying",
             "ice",
-            "fire",
-            "flying"
+            "fire"
         ],
         "1": [
-            "rock",
-            "dragon",
-            "fairy",
-            "steel",
             "psychic",
+            "dragon",
+            "steel",
+            "fairy",
+            "rock",
             "poison",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "scrafty",
     "id": 560,
+    "name": "scrafty",
     "height": "3'7\"",
     "weight": "66.1 lbs",
     "types": [
@@ -42,16 +42,16 @@
             "flying"
         ],
         "1": [
-            "poison",
-            "grass",
-            "ice",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "bug"
         ],
         "1/2": [
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

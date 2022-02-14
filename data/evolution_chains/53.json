@@ -9,16 +9,6 @@
             ],
             "id": "53",
             "name": "persian"
-        },
-        {
-            "evolution_details": [
-                {
-                    "min_level": 28,
-                    "trigger": "level-up"
-                }
-            ],
-            "id": "863",
-            "name": "perrserker"
         }
     ],
     "id": "52",

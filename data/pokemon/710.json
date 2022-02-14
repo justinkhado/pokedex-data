@@ -1,6 +1,6 @@
 {
-    "name": "pumpkaboo-average",
     "id": 710,
+    "name": "pumpkaboo",
     "height": "1'4\"",
     "weight": "11.0 lbs",
     "types": [
@@ -38,25 +38,26 @@
         "2": [
             "dark",
             "ghost",
+            "flying",
             "ice",
-            "fire",
-            "flying"
+            "fire"
         ],
         "1": [
-            "rock",
-            "dragon",
-            "fairy",
-            "steel",
             "psychic",
+            "dragon",
+            "steel",
+            "fairy",
+            "rock",
             "poison",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

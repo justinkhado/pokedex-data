@@ -1,6 +1,6 @@
 {
-    "name": "heracross",
     "id": 214,
+    "name": "heracross",
     "height": "4'11\"",
     "weight": "119.0 lbs",
     "types": [
@@ -43,23 +43,24 @@
             "psychic"
         ],
         "1": [
-            "poison",
-            "ice",
             "normal",
-            "electric",
-            "dragon",
-            "steel",
-            "water",
             "ghost",
+            "water",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "ice",
             "rock"
         ],
         "1/2": [
-            "fighting",
             "ground",
             "grass",
-            "bug",
-            "dark"
+            "fighting",
+            "dark",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

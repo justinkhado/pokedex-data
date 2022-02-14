@@ -1,6 +1,6 @@
 {
-    "name": "exeggcute",
     "id": 102,
+    "name": "exeggcute",
     "height": "1'4\"",
     "weight": "5.5 lbs",
     "types": [
@@ -33,28 +33,29 @@
             "bug"
         ],
         "2": [
+            "flying",
             "poison",
             "ice",
             "fire",
-            "flying",
             "dark",
             "ghost"
         ],
         "1": [
-            "rock",
             "normal",
             "dragon",
+            "steel",
             "fairy",
-            "steel"
+            "rock"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
             "grass",
+            "water",
+            "electric",
             "fighting",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

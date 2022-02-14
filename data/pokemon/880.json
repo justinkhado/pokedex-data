@@ -1,6 +1,6 @@
 {
-    "name": "dracozolt",
     "id": 880,
+    "name": "dracozolt",
     "height": "5'11\"",
     "weight": "418.9 lbs",
     "types": [
@@ -37,29 +37,30 @@
         "4": [],
         "2": [
             "ground",
-            "ice",
             "fairy",
+            "ice",
             "dragon"
         ],
         "1": [
-            "poison",
-            "rock",
+            "psychic",
             "normal",
+            "ghost",
             "bug",
             "dark",
             "fighting",
-            "ghost",
-            "psychic"
+            "poison",
+            "rock"
         ],
         "1/2": [
-            "steel",
             "flying",
-            "fire",
+            "steel",
+            "grass",
             "water",
-            "grass"
+            "fire"
         ],
         "1/4": [
             "electric"
-        ]
+        ],
+        "0": []
     }
 }

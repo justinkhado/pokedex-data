@@ -1,6 +1,6 @@
 {
-    "name": "obstagoon",
     "id": 862,
+    "name": "obstagoon",
     "height": "5'3\"",
     "weight": "101.4 lbs",
     "types": [
@@ -42,22 +42,23 @@
             "bug"
         ],
         "1": [
-            "poison",
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
-            "electric",
+            "grass",
+            "normal",
+            "water",
             "dragon",
-            "fire",
+            "flying",
+            "poison",
+            "electric",
             "steel",
-            "water"
+            "fire",
+            "rock",
+            "ice"
         ],
         "1/2": [
             "dark"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

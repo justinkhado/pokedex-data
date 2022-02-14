@@ -1,6 +1,6 @@
 {
-    "name": "skarmory",
     "id": 227,
+    "name": "skarmory",
     "height": "5'7\"",
     "weight": "111.3 lbs",
     "types": [
@@ -40,24 +40,25 @@
             "electric"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "water",
-            "ice",
             "rock",
+            "ice",
             "fighting"
         ],
         "1/2": [
-            "flying",
+            "psychic",
             "normal",
             "dragon",
-            "fairy",
+            "flying",
             "steel",
-            "psychic"
+            "fairy"
         ],
         "1/4": [
-            "bug",
-            "grass"
-        ]
+            "grass",
+            "bug"
+        ],
+        "0": []
     }
 }

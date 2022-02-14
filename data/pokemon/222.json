@@ -1,6 +1,6 @@
 {
-    "name": "corsola",
     "id": 222,
+    "name": "corsola",
     "height": "1'12\"",
     "weight": "11.0 lbs",
     "types": [
@@ -39,28 +39,29 @@
         ],
         "2": [
             "electric",
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "1": [
-            "rock",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "steel",
-            "water"
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "fairy",
+            "rock",
+            "water",
+            "steel"
         ],
         "1/2": [
             "ice",
-            "poison",
+            "flying",
             "normal",
-            "flying"
+            "poison"
         ],
         "1/4": [
             "fire"
-        ]
+        ],
+        "0": []
     }
 }

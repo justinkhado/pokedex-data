@@ -1,16 +1,4 @@
 {
-    "evolves_to": [
-        {
-            "evolution_details": [
-                {
-                    "min_level": 38,
-                    "trigger": "level-up"
-                }
-            ],
-            "id": "864",
-            "name": "cursola"
-        }
-    ],
     "id": "222",
     "name": "corsola"
 }

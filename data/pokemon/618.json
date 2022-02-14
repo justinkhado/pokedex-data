@@ -1,6 +1,6 @@
 {
-    "name": "stunfisk",
     "id": 618,
+    "name": "stunfisk",
     "height": "2'4\"",
     "weight": "24.3 lbs",
     "types": [
@@ -36,28 +36,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
-            "water",
             "grass",
+            "water",
+            "ice",
             "ground"
         ],
         "1": [
+            "psychic",
             "normal",
+            "ghost",
             "bug",
-            "dark",
             "dragon",
+            "dark",
             "fighting",
             "fire",
-            "fairy",
-            "ghost",
-            "psychic"
+            "fairy"
         ],
         "1/2": [
             "poison",
             "rock",
-            "steel",
-            "flying"
+            "flying",
+            "steel"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

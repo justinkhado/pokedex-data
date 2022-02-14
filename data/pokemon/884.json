@@ -1,6 +1,6 @@
 {
-    "name": "duraludon",
     "id": 884,
+    "name": "duraludon",
     "height": "5'11\"",
     "weight": "88.2 lbs",
     "types": [
@@ -35,29 +35,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "1": [
             "dark",
             "ghost",
-            "ice",
             "fairy",
+            "ice",
             "dragon",
             "fire"
         ],
         "1/2": [
-            "flying",
-            "rock",
+            "psychic",
             "normal",
             "bug",
+            "flying",
             "steel",
-            "psychic",
+            "rock",
             "water",
             "electric"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

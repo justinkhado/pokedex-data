@@ -1,6 +1,6 @@
 {
-    "name": "empoleon",
     "id": 395,
+    "name": "empoleon",
     "height": "5'7\"",
     "weight": "186.3 lbs",
     "types": [
@@ -32,8 +32,8 @@
         "4": [],
         "2": [
             "electric",
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "1": [
             "dark",
@@ -43,17 +43,18 @@
         ],
         "1/2": [
             "water",
-            "flying",
-            "rock",
+            "psychic",
             "normal",
             "bug",
             "dragon",
+            "flying",
             "fairy",
-            "psychic"
+            "rock"
         ],
         "1/4": [
-            "ice",
-            "steel"
-        ]
+            "steel",
+            "ice"
+        ],
+        "0": []
     }
 }

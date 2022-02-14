@@ -1,6 +1,6 @@
 {
-    "name": "nincada",
     "id": 290,
+    "name": "nincada",
     "height": "1'8\"",
     "weight": "12.1 lbs",
     "types": [
@@ -31,28 +31,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
             "flying",
-            "ice",
-            "water"
+            "fire",
+            "water",
+            "ice"
         ],
         "1": [
-            "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "steel",
+            "fairy",
             "grass",
             "rock"
         ],
         "1/2": [
-            "fighting",
             "ground",
+            "fighting",
             "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

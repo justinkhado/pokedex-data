@@ -1,6 +1,6 @@
 {
-    "name": "applin",
     "id": 840,
+    "name": "applin",
     "height": "0'8\"",
     "weight": "1.1 lbs",
     "types": [
@@ -37,29 +37,30 @@
             "ice"
         ],
         "2": [
+            "flying",
             "poison",
             "bug",
-            "flying",
-            "dragon",
-            "fairy"
+            "fairy",
+            "dragon"
         ],
         "1": [
-            "rock",
+            "psychic",
             "normal",
+            "ghost",
             "dark",
             "fighting",
             "steel",
-            "ghost",
-            "psychic",
+            "rock",
             "fire"
         ],
         "1/2": [
             "ground"
         ],
         "1/4": [
+            "grass",
             "water",
-            "electric",
-            "grass"
-        ]
+            "electric"
+        ],
+        "0": []
     }
 }

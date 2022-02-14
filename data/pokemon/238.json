@@ -1,6 +1,6 @@
 {
-    "name": "smoochum",
     "id": 238,
+    "name": "smoochum",
     "height": "1'4\"",
     "weight": "13.2 lbs",
     "types": [
@@ -37,28 +37,29 @@
         "4": [],
         "2": [
             "rock",
-            "fire",
             "steel",
-            "bug",
+            "fire",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "poison",
-            "flying",
+            "ground",
             "grass",
             "normal",
-            "ground",
-            "electric",
-            "dragon",
-            "fairy",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "electric",
+            "fairy",
             "fighting"
         ],
         "1/2": [
             "ice",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

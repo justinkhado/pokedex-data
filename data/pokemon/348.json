@@ -1,6 +1,6 @@
 {
-    "name": "armaldo",
     "id": 348,
+    "name": "armaldo",
     "height": "4'11\"",
     "weight": "150.4 lbs",
     "types": [
@@ -31,29 +31,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "steel",
             "water",
+            "steel",
             "rock"
         ],
         "1": [
-            "ice",
-            "bug",
-            "electric",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "fire",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "electric",
+            "fairy",
+            "ice",
             "flying",
-            "fighting",
+            "fire",
             "ground",
-            "grass"
+            "grass",
+            "fighting"
         ],
         "1/2": [
-            "poison",
-            "normal"
+            "normal",
+            "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

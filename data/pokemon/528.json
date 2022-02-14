@@ -1,6 +1,6 @@
 {
-    "name": "swoobat",
     "id": 528,
+    "name": "swoobat",
     "height": "2'11\"",
     "weight": "23.1 lbs",
     "types": [
@@ -38,19 +38,19 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "steel",
+            "fire",
+            "fairy",
             "bug"
         ],
         "1/2": [
@@ -59,6 +59,7 @@
         ],
         "1/4": [
             "fighting"
-        ]
+        ],
+        "0": []
     }
 }

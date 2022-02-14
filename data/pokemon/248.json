@@ -1,6 +1,6 @@
 {
-    "name": "tyranitar",
     "id": 248,
+    "name": "tyranitar",
     "height": "6'7\"",
     "weight": "445.3 lbs",
     "types": [
@@ -33,27 +33,28 @@
             "fighting"
         ],
         "2": [
-            "steel",
             "ground",
-            "water",
             "grass",
+            "water",
+            "steel",
             "fairy",
             "bug"
         ],
         "1": [
-            "ice",
             "rock",
             "electric",
+            "ice",
             "dragon"
         ],
         "1/2": [
-            "poison",
-            "normal",
-            "fire",
             "flying",
+            "normal",
+            "poison",
+            "fire",
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

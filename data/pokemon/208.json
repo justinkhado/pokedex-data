@@ -1,6 +1,6 @@
 {
-    "name": "steelix",
     "id": 208,
+    "name": "steelix",
     "height": "30'2\"",
     "weight": "881.8 lbs",
     "types": [
@@ -36,28 +36,29 @@
     "type_chart": {
         "4": [],
         "2": [
+            "ground",
             "fighting",
             "fire",
-            "ground",
             "water"
         ],
         "1": [
             "dark",
             "ghost",
-            "ice",
-            "grass"
+            "grass",
+            "ice"
         ],
         "1/2": [
-            "flying",
+            "psychic",
             "normal",
             "bug",
             "dragon",
-            "fairy",
+            "flying",
             "steel",
-            "psychic"
+            "fairy"
         ],
         "1/4": [
             "rock"
-        ]
+        ],
+        "0": []
     }
 }

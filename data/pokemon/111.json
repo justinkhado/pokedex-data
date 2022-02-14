@@ -1,6 +1,6 @@
 {
-    "name": "rhyhorn",
     "id": 111,
+    "name": "rhyhorn",
     "height": "3'3\"",
     "weight": "253.5 lbs",
     "types": [
@@ -35,31 +35,32 @@
     ],
     "type_chart": {
         "4": [
-            "water",
-            "grass"
+            "grass",
+            "water"
         ],
         "2": [
             "ice",
+            "ground",
             "fighting",
-            "steel",
-            "ground"
+            "steel"
         ],
         "1": [
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
+            "psychic",
             "ghost",
-            "psychic"
+            "bug",
+            "dragon",
+            "dark",
+            "fairy"
         ],
         "1/2": [
             "rock",
+            "flying",
             "normal",
-            "fire",
-            "flying"
+            "fire"
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

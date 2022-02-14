@@ -1,6 +1,6 @@
 {
-    "name": "cutiefly",
     "id": 742,
+    "name": "cutiefly",
     "height": "0'4\"",
     "weight": "0.4 lbs",
     "types": [
@@ -36,29 +36,30 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "rock",
             "fire",
-            "flying",
             "poison",
             "steel"
         ],
         "1": [
-            "ice",
+            "psychic",
             "normal",
+            "ghost",
+            "water",
             "electric",
             "fairy",
-            "water",
-            "ghost",
-            "psychic"
+            "ice"
         ],
         "1/2": [
             "ground",
             "grass",
-            "bug",
-            "dark"
+            "dark",
+            "bug"
         ],
         "1/4": [
             "fighting"
-        ]
+        ],
+        "0": []
     }
 }

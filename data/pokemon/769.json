@@ -1,6 +1,6 @@
 {
-    "name": "sandygast",
     "id": 769,
+    "name": "sandygast",
     "height": "1'8\"",
     "weight": "154.3 lbs",
     "types": [
@@ -33,18 +33,18 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
+            "grass",
             "water",
-            "grass"
+            "ice"
         ],
         "1": [
-            "flying",
             "ground",
+            "psychic",
             "dragon",
-            "fairy",
-            "fire",
+            "flying",
             "steel",
-            "psychic"
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "bug",
@@ -52,6 +52,7 @@
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

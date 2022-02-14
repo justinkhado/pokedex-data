@@ -1,6 +1,6 @@
 {
-    "name": "hawlucha",
     "id": 701,
+    "name": "hawlucha",
     "height": "2'7\"",
     "weight": "47.4 lbs",
     "types": [
@@ -39,26 +39,27 @@
             "fairy",
             "flying",
             "psychic",
-            "ice",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
             "normal",
-            "dragon",
-            "fire",
-            "steel",
-            "water",
             "ghost",
+            "water",
+            "dragon",
+            "poison",
+            "steel",
+            "fire",
             "rock"
         ],
         "1/2": [
             "dark",
-            "fighting",
-            "grass"
+            "grass",
+            "fighting"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "noivern",
     "id": 715,
+    "name": "noivern",
     "height": "4'11\"",
     "weight": "187.4 lbs",
     "types": [
@@ -39,27 +39,28 @@
         ],
         "2": [
             "rock",
-            "dragon",
-            "fairy"
+            "fairy",
+            "dragon"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
             "electric"
         ],
         "1/2": [
             "fighting",
             "bug",
-            "fire",
-            "water"
+            "water",
+            "fire"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

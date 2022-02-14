@@ -1,6 +1,6 @@
 {
-    "name": "aegislash-shield",
     "id": 681,
+    "name": "aegislash",
     "height": "5'7\"",
     "weight": "116.8 lbs",
     "types": [
@@ -26,27 +26,28 @@
     "type_chart": {
         "4": [],
         "2": [
-            "fire",
             "ground",
+            "fire",
             "dark",
             "ghost"
         ],
         "1": [
-            "electric",
-            "water"
+            "water",
+            "electric"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
+            "psychic",
             "dragon",
-            "fairy",
+            "flying",
             "steel",
-            "psychic"
+            "fairy",
+            "rock",
+            "ice"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

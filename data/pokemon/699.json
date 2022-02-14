@@ -1,6 +1,6 @@
 {
-    "name": "aurorus",
     "id": 699,
+    "name": "aurorus",
     "height": "8'10\"",
     "weight": "496.0 lbs",
     "types": [
@@ -35,26 +35,27 @@
         ],
         "2": [
             "ground",
-            "water",
             "grass",
+            "water",
             "rock"
         ],
         "1": [
-            "bug",
-            "electric",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "electric",
+            "fairy",
             "fire"
         ],
         "1/2": [
-            "poison",
-            "normal",
             "flying",
+            "normal",
+            "poison",
             "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

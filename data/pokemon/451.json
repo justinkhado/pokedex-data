@@ -1,6 +1,6 @@
 {
-    "name": "skorupi",
     "id": 451,
+    "name": "skorupi",
     "height": "2'7\"",
     "weight": "26.5 lbs",
     "types": [
@@ -37,29 +37,30 @@
         "4": [],
         "2": [
             "psychic",
+            "flying",
             "rock",
-            "fire",
-            "flying"
+            "fire"
         ],
         "1": [
-            "ice",
             "normal",
+            "ghost",
+            "water",
+            "dragon",
             "dark",
             "electric",
-            "dragon",
             "steel",
-            "water",
-            "ghost",
+            "ice",
             "ground"
         ],
         "1/2": [
-            "poison",
             "fairy",
+            "poison",
             "bug"
         ],
         "1/4": [
-            "fighting",
-            "grass"
-        ]
+            "grass",
+            "fighting"
+        ],
+        "0": []
     }
 }

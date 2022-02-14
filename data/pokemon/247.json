@@ -1,6 +1,6 @@
 {
-    "name": "pupitar",
     "id": 247,
+    "name": "pupitar",
     "height": "3'11\"",
     "weight": "335.1 lbs",
     "types": [
@@ -25,31 +25,32 @@
     ],
     "type_chart": {
         "4": [
-            "water",
-            "grass"
+            "grass",
+            "water"
         ],
         "2": [
+            "ground",
             "fighting",
             "steel",
-            "ground",
             "ice"
         ],
         "1": [
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
+            "psychic",
             "ghost",
-            "psychic"
+            "bug",
+            "dragon",
+            "dark",
+            "fairy"
         ],
         "1/2": [
+            "flying",
             "normal",
             "fire",
-            "flying",
             "rock"
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

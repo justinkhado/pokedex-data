@@ -1,6 +1,6 @@
 {
-    "name": "morgrem",
     "id": 860,
+    "name": "morgrem",
     "height": "2'7\"",
     "weight": "27.6 lbs",
     "types": [
@@ -41,15 +41,15 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
+            "grass",
+            "normal",
+            "water",
+            "flying",
             "electric",
             "fire",
-            "water",
+            "rock",
+            "ice",
             "fighting",
             "bug"
         ],
@@ -58,6 +58,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

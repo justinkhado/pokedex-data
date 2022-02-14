@@ -1,6 +1,6 @@
 {
-    "name": "wormadam-plant",
     "id": 413,
+    "name": "wormadam",
     "height": "1'8\"",
     "weight": "14.3 lbs",
     "types": [
@@ -30,23 +30,23 @@
     ],
     "type_chart": {
         "4": [
-            "fire",
-            "flying"
+            "flying",
+            "fire"
         ],
         "2": [
             "rock",
             "poison",
-            "ice",
-            "bug"
+            "bug",
+            "ice"
         ],
         "1": [
+            "psychic",
             "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
             "ghost",
-            "psychic"
+            "dragon",
+            "dark",
+            "steel",
+            "fairy"
         ],
         "1/2": [
             "fighting",
@@ -56,6 +56,7 @@
         "1/4": [
             "ground",
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

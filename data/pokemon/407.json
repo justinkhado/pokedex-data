@@ -1,6 +1,6 @@
 {
-    "name": "roserade",
     "id": 407,
+    "name": "roserade",
     "height": "2'11\"",
     "weight": "32.0 lbs",
     "types": [
@@ -36,18 +36,18 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "ice",
             "fire",
-            "flying",
             "psychic"
         ],
         "1": [
-            "rock",
             "normal",
-            "dark",
-            "dragon",
-            "steel",
             "ghost",
+            "dragon",
+            "dark",
+            "steel",
+            "rock",
             "ground",
             "poison",
             "bug"
@@ -55,11 +55,12 @@
         "1/2": [
             "water",
             "electric",
-            "fighting",
-            "fairy"
+            "fairy",
+            "fighting"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

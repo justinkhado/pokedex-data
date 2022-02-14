@@ -1,6 +1,6 @@
 {
-    "name": "articuno",
     "id": 144,
+    "name": "articuno",
     "height": "5'7\"",
     "weight": "122.1 lbs",
     "types": [
@@ -33,27 +33,28 @@
             "rock"
         ],
         "2": [
-            "fire",
             "steel",
+            "fire",
             "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "water",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "water",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
             "ice",
             "fighting"
         ],
         "1/2": [
-            "bug",
-            "grass"
+            "grass",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

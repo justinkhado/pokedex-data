@@ -1,6 +1,6 @@
 {
-    "name": "volcarona",
     "id": 637,
+    "name": "volcarona",
     "height": "5'3\"",
     "weight": "101.4 lbs",
     "types": [
@@ -37,25 +37,26 @@
             "water"
         ],
         "1": [
-            "poison",
-            "normal",
-            "dark",
-            "electric",
-            "dragon",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "poison",
+            "electric",
             "ground",
             "fire"
         ],
         "1/2": [
             "fighting",
-            "ice",
             "fairy",
             "steel",
-            "bug"
+            "bug",
+            "ice"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

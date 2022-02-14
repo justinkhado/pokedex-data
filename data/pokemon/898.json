@@ -1,6 +1,6 @@
 {
-    "name": "calyrex",
     "id": 898,
+    "name": "calyrex",
     "height": "3'7\"",
     "weight": "17.0 lbs",
     "types": [
@@ -30,26 +30,27 @@
         "2": [
             "dark",
             "ghost",
+            "flying",
             "poison",
             "ice",
-            "fire",
-            "flying"
+            "fire"
         ],
         "1": [
-            "rock",
             "normal",
             "dragon",
+            "steel",
             "fairy",
-            "steel"
+            "rock"
         ],
         "1/2": [
             "fighting",
             "psychic",
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

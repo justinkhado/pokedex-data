@@ -1,6 +1,6 @@
 {
-    "name": "combusken",
     "id": 256,
+    "name": "combusken",
     "height": "2'11\"",
     "weight": "43.0 lbs",
     "types": [
@@ -37,24 +37,25 @@
             "psychic"
         ],
         "1": [
-            "poison",
             "normal",
-            "electric",
+            "ghost",
             "dragon",
             "fighting",
-            "ghost",
+            "poison",
+            "electric",
             "fairy",
             "rock"
         ],
         "1/2": [
             "ice",
-            "fire",
-            "steel",
             "grass",
+            "steel",
+            "fire",
             "dark"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

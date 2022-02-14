@@ -1,6 +1,6 @@
 {
-    "name": "dragonite",
     "id": 149,
+    "name": "dragonite",
     "height": "7'3\"",
     "weight": "463.0 lbs",
     "types": [
@@ -33,28 +33,29 @@
             "ice"
         ],
         "2": [
-            "dragon",
             "fairy",
+            "dragon",
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
             "electric"
         ],
         "1/2": [
-            "fire",
             "water",
+            "fire",
             "fighting",
             "bug"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

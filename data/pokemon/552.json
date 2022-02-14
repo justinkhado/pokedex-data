@@ -1,6 +1,6 @@
 {
-    "name": "krokorok",
     "id": 552,
+    "name": "krokorok",
     "height": "3'3\"",
     "weight": "73.6 lbs",
     "types": [
@@ -36,20 +36,20 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
-            "water",
             "grass",
-            "fighting",
+            "water",
+            "ice",
             "fairy",
+            "fighting",
             "bug"
         ],
         "1": [
-            "flying",
-            "normal",
             "ground",
+            "normal",
             "dragon",
-            "fire",
-            "steel"
+            "flying",
+            "steel",
+            "fire"
         ],
         "1/2": [
             "poison",
@@ -57,6 +57,7 @@
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

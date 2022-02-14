@@ -1,6 +1,6 @@
 {
-    "name": "ralts",
     "id": 280,
+    "name": "ralts",
     "height": "1'4\"",
     "weight": "14.6 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
-            "electric",
-            "fairy",
-            "fire",
+            "grass",
+            "normal",
             "water",
-            "bug",
-            "dark"
+            "flying",
+            "electric",
+            "fire",
+            "fairy",
+            "rock",
+            "ice",
+            "dark",
+            "bug"
         ],
         "1/2": [
             "psychic"
         ],
         "1/4": [
             "fighting"
-        ]
+        ],
+        "0": []
     }
 }

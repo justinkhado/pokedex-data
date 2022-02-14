@@ -1,6 +1,6 @@
 {
-    "name": "torterra",
     "id": 389,
+    "name": "torterra",
     "height": "7'3\"",
     "weight": "683.4 lbs",
     "types": [
@@ -33,27 +33,28 @@
             "ice"
         ],
         "2": [
-            "fire",
+            "flying",
             "bug",
-            "flying"
+            "fire"
         ],
         "1": [
-            "normal",
-            "dark",
-            "dragon",
-            "fighting",
-            "fairy",
-            "steel",
-            "ghost",
             "psychic",
-            "water",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "fighting",
+            "steel",
+            "fairy",
             "grass",
+            "water",
             "poison"
         ],
         "1/2": [
             "ground",
             "rock"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

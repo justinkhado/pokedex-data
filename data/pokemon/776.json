@@ -1,6 +1,6 @@
 {
-    "name": "turtonator",
     "id": 776,
+    "name": "turtonator",
     "height": "6'7\"",
     "weight": "467.4 lbs",
     "types": [
@@ -26,20 +26,20 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "dragon"
         ],
         "1": [
-            "poison",
-            "flying",
+            "psychic",
             "normal",
+            "ghost",
             "dark",
             "fighting",
-            "ghost",
-            "psychic",
-            "ice",
+            "flying",
+            "poison",
             "fairy",
+            "ice",
             "water"
         ],
         "1/2": [
@@ -48,8 +48,9 @@
             "electric"
         ],
         "1/4": [
-            "fire",
-            "grass"
-        ]
+            "grass",
+            "fire"
+        ],
+        "0": []
     }
 }

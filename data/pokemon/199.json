@@ -1,6 +1,6 @@
 {
-    "name": "slowking",
     "id": 199,
+    "name": "slowking",
     "height": "6'7\"",
     "weight": "175.3 lbs",
     "types": [
@@ -36,29 +36,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "electric",
             "grass",
-            "bug",
+            "electric",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
+            "normal",
             "dragon",
-            "fairy"
+            "flying",
+            "poison",
+            "fairy",
+            "rock"
         ],
         "1/2": [
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water",
+            "ice",
             "fighting",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

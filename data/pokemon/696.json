@@ -1,6 +1,6 @@
 {
-    "name": "tyrunt",
     "id": 696,
+    "name": "tyrunt",
     "height": "2'7\"",
     "weight": "57.3 lbs",
     "types": [
@@ -31,30 +31,31 @@
     "type_chart": {
         "4": [],
         "2": [
+            "ground",
             "fighting",
             "steel",
-            "ground",
-            "ice",
             "fairy",
+            "ice",
             "dragon"
         ],
         "1": [
-            "rock",
+            "psychic",
+            "ghost",
             "bug",
             "dark",
-            "ghost",
-            "psychic",
-            "water",
-            "grass"
+            "rock",
+            "grass",
+            "water"
         ],
         "1/2": [
-            "poison",
-            "normal",
             "flying",
+            "normal",
+            "poison",
             "electric"
         ],
         "1/4": [
             "fire"
-        ]
+        ],
+        "0": []
     }
 }

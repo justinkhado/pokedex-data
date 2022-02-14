@@ -3,10 +3,25 @@ import json
 
 from settings import TOTAL_POKEMON, PARPATH
 
+def get_pokemon_name(pokemon_name):
+    dashed_names = ('deoxys', 'wormadam', 'giratina', 'shaymin', 'basculin', 'darmanitan', 'tornadus', 'thundurus', 'landorus', 'keldeo', 'meleotta', 'meowstic', 'aegislash', 'pumpkaboo', 'gourgeist', 'oricorio', 'lycanroc', 'wishiwashi', 'minior', 'mimikyu')
+    for name in dashed_names:
+        if name in pokemon_name:
+            return pokemon_name.split('-')[0]
+
+    if pokemon_name == 'mr-mime':
+        return 'mr. mime'
+    elif pokemon_name == 'mime-jr':
+        return 'mime jr.'
+
+    return pokemon_name
+    
+
 def _clean_pokemon_raw(pokemon_raw):
     pokemon = {}
-    for attr in ('name', 'id'):
-        pokemon[attr] = pokemon_raw[attr]
+
+    pokemon['id'] = pokemon_raw['id']
+    pokemon['name'] = get_pokemon_name(pokemon_raw['name'])
     
     # convert decimeter to ft and inches
     pokemon['height'] = f"{int(pokemon_raw['height'] * 3.937 // 12)}\'{round(pokemon_raw['height'] * 3.937 % 12)}\""
@@ -43,8 +58,8 @@ def _get_generation(id):
         return 6
     elif id <= 809:
         return 7
-    elif id <= 898:
-        return 8
+    else:
+        return None
 
 def _get_abilities(abilities_raw):
     dirpath = os.path.join(PARPATH, 'data', 'abilities')
@@ -81,6 +96,7 @@ def _get_type_chart(types_raw):
     type_chart['1/2'] = list(set(types[0]['1/2']).intersection(set(types[1]['1'])))
     type_chart['1/2'] += list(set(types[0]['1']).intersection(set(types[1]['1/2'])))
     type_chart['1/4'] = list(set(types[0]['1/2']).intersection(set(types[1]['1/2'])))
+    type_chart['0'] = list(set(types[0]['0']).intersection(set(types[1]['0'])))
 
     return type_chart
 

@@ -1,6 +1,6 @@
 {
-    "name": "bisharp",
     "id": 625,
+    "name": "bisharp",
     "height": "5'3\"",
     "weight": "154.3 lbs",
     "types": [
@@ -38,26 +38,27 @@
             "fighting"
         ],
         "2": [
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ],
         "1": [
-            "electric",
             "water",
+            "electric",
             "fairy",
             "bug"
         ],
         "1/2": [
             "dark",
             "ghost",
-            "flying",
             "grass",
-            "ice",
-            "rock",
             "normal",
             "dragon",
-            "steel"
+            "flying",
+            "steel",
+            "rock",
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

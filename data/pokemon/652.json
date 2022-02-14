@@ -1,6 +1,6 @@
 {
-    "name": "chesnaught",
     "id": 652,
+    "name": "chesnaught",
     "height": "5'3\"",
     "weight": "198.4 lbs",
     "types": [
@@ -41,20 +41,21 @@
         ],
         "1": [
             "normal",
+            "ghost",
             "dragon",
             "fighting",
             "steel",
-            "ghost",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
             "grass",
-            "rock",
-            "dark"
+            "water",
+            "electric",
+            "dark",
+            "rock"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

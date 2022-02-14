@@ -1,6 +1,6 @@
 {
-    "name": "palossand",
     "id": 770,
+    "name": "palossand",
     "height": "4'3\"",
     "weight": "551.1 lbs",
     "types": [
@@ -33,18 +33,18 @@
         "2": [
             "dark",
             "ghost",
-            "ice",
+            "grass",
             "water",
-            "grass"
+            "ice"
         ],
         "1": [
-            "flying",
             "ground",
+            "psychic",
             "dragon",
-            "fairy",
-            "fire",
+            "flying",
             "steel",
-            "psychic"
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "bug",
@@ -52,6 +52,7 @@
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

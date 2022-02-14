@@ -1,6 +1,6 @@
 {
-    "name": "golisopod",
     "id": 768,
+    "name": "golisopod",
     "height": "6'7\"",
     "weight": "238.1 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "flying",
+            "rock",
             "electric"
         ],
         "1": [
-            "poison",
-            "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "poison",
+            "fairy",
             "grass",
             "fire"
         ],
         "1/2": [
-            "fighting",
             "ground",
-            "ice",
+            "fighting",
+            "water",
             "steel",
-            "water"
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "litwick",
     "id": 607,
+    "name": "litwick",
     "height": "0'12\"",
     "weight": "6.8 lbs",
     "types": [
@@ -38,26 +38,27 @@
         "2": [
             "dark",
             "ghost",
-            "rock",
             "ground",
+            "rock",
             "water"
         ],
         "1": [
-            "dragon",
-            "electric",
             "flying",
-            "psychic"
+            "psychic",
+            "electric",
+            "dragon"
         ],
         "1/2": [
             "poison",
             "grass",
-            "ice",
-            "fairy",
+            "steel",
             "fire",
-            "steel"
+            "fairy",
+            "ice"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

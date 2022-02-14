@@ -1,6 +1,6 @@
 {
-    "name": "diggersby",
     "id": 660,
+    "name": "diggersby",
     "height": "3'3\"",
     "weight": "93.5 lbs",
     "types": [
@@ -37,26 +37,27 @@
         "4": [],
         "2": [
             "fighting",
-            "ice",
+            "grass",
             "water",
-            "grass"
+            "ice"
         ],
         "1": [
-            "flying",
-            "normal",
-            "dark",
             "ground",
+            "psychic",
+            "normal",
             "bug",
             "dragon",
-            "fairy",
-            "fire",
+            "dark",
+            "flying",
             "steel",
-            "psychic"
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "poison",
             "rock"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "cramorant",
     "id": 845,
+    "name": "cramorant",
     "height": "2'7\"",
     "weight": "39.7 lbs",
     "types": [
@@ -30,24 +30,25 @@
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
             "grass",
             "ice"
         ],
         "1/2": [
             "fighting",
             "bug",
-            "fire",
+            "water",
             "steel",
-            "water"
+            "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

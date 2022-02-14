@@ -1,6 +1,6 @@
 {
-    "name": "araquanid",
     "id": 752,
+    "name": "araquanid",
     "height": "5'11\"",
     "weight": "180.8 lbs",
     "types": [
@@ -32,28 +32,29 @@
         "4": [],
         "2": [
             "electric",
-            "rock",
-            "flying"
+            "flying",
+            "rock"
         ],
         "1": [
-            "poison",
-            "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "poison",
+            "fairy",
             "fire",
             "grass"
         ],
         "1/2": [
-            "ice",
-            "steel",
             "water",
-            "fighting",
-            "ground"
+            "steel",
+            "ice",
+            "ground",
+            "fighting"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "palpitoad",
     "id": 536,
+    "name": "palpitoad",
     "height": "2'7\"",
     "weight": "37.5 lbs",
     "types": [
@@ -39,25 +39,26 @@
         ],
         "2": [],
         "1": [
-            "flying",
-            "normal",
-            "dark",
             "ground",
+            "psychic",
+            "normal",
+            "ghost",
             "bug",
             "dragon",
+            "dark",
             "fighting",
+            "flying",
             "fairy",
-            "ghost",
-            "psychic",
-            "ice",
-            "water"
+            "water",
+            "ice"
         ],
         "1/2": [
-            "fire",
             "steel",
+            "fire",
             "poison",
             "rock"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

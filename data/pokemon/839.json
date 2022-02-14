@@ -1,6 +1,6 @@
 {
-    "name": "coalossal",
     "id": 839,
+    "name": "coalossal",
     "height": "9'2\"",
     "weight": "684.5 lbs",
     "types": [
@@ -42,24 +42,25 @@
             "rock"
         ],
         "1": [
+            "psychic",
+            "ghost",
+            "dragon",
             "dark",
             "electric",
-            "dragon",
-            "ghost",
-            "psychic",
-            "steel",
-            "grass"
+            "grass",
+            "steel"
         ],
         "1/2": [
-            "poison",
-            "normal",
             "flying",
-            "ice",
+            "normal",
+            "poison",
             "fairy",
-            "bug"
+            "bug",
+            "ice"
         ],
         "1/4": [
             "fire"
-        ]
+        ],
+        "0": []
     }
 }

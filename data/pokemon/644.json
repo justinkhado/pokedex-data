@@ -1,6 +1,6 @@
 {
-    "name": "zekrom",
     "id": 644,
+    "name": "zekrom",
     "height": "9'6\"",
     "weight": "760.6 lbs",
     "types": [
@@ -26,30 +26,31 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
             "fairy",
+            "ice",
             "dragon",
             "ground"
         ],
         "1": [
-            "poison",
-            "rock",
+            "psychic",
             "normal",
+            "ghost",
             "bug",
             "dark",
             "fighting",
-            "ghost",
-            "psychic"
+            "poison",
+            "rock"
         ],
         "1/2": [
-            "fire",
-            "water",
             "grass",
-            "steel",
-            "flying"
+            "water",
+            "fire",
+            "flying",
+            "steel"
         ],
         "1/4": [
             "electric"
-        ]
+        ],
+        "0": []
     }
 }

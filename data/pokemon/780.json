@@ -1,6 +1,6 @@
 {
-    "name": "drampa",
     "id": 780,
+    "name": "drampa",
     "height": "9'10\"",
     "weight": "407.8 lbs",
     "types": [
@@ -37,27 +37,28 @@
         "4": [],
         "2": [
             "fighting",
-            "ice",
             "fairy",
+            "ice",
             "dragon"
         ],
         "1": [
-            "poison",
-            "flying",
-            "rock",
-            "normal",
             "ground",
+            "psychic",
+            "normal",
             "bug",
             "dark",
+            "flying",
+            "poison",
             "steel",
-            "psychic"
+            "rock"
         ],
         "1/2": [
+            "grass",
             "water",
-            "fire",
             "electric",
-            "grass"
+            "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "vibrava",
     "id": 329,
+    "name": "vibrava",
     "height": "3'7\"",
     "weight": "33.7 lbs",
     "types": [
@@ -28,27 +28,28 @@
             "ice"
         ],
         "2": [
-            "dragon",
-            "fairy"
+            "fairy",
+            "dragon"
         ],
         "1": [
-            "flying",
-            "normal",
-            "dark",
-            "bug",
             "ground",
-            "fighting",
-            "steel",
-            "ghost",
             "psychic",
-            "water",
-            "grass"
+            "normal",
+            "ghost",
+            "bug",
+            "dark",
+            "fighting",
+            "flying",
+            "steel",
+            "grass",
+            "water"
         ],
         "1/2": [
             "poison",
             "rock",
             "fire"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

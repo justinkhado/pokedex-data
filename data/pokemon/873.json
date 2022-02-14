@@ -1,6 +1,6 @@
 {
-    "name": "frosmoth",
     "id": 873,
+    "name": "frosmoth",
     "height": "4'3\"",
     "weight": "92.6 lbs",
     "types": [
@@ -37,16 +37,16 @@
             "flying"
         ],
         "1": [
-            "poison",
-            "normal",
-            "bug",
-            "electric",
-            "dark",
-            "dragon",
-            "fairy",
-            "water",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "water",
+            "bug",
+            "dragon",
+            "dark",
+            "poison",
+            "electric",
+            "fairy",
             "fighting"
         ],
         "1/2": [
@@ -54,6 +54,7 @@
             "ground",
             "grass"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

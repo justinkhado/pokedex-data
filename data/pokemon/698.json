@@ -1,6 +1,6 @@
 {
-    "name": "amaura",
     "id": 698,
+    "name": "amaura",
     "height": "4'3\"",
     "weight": "55.6 lbs",
     "types": [
@@ -35,26 +35,27 @@
         ],
         "2": [
             "ground",
-            "water",
             "grass",
+            "water",
             "rock"
         ],
         "1": [
-            "bug",
-            "electric",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "electric",
+            "fairy",
             "fire"
         ],
         "1/2": [
-            "poison",
-            "normal",
             "flying",
+            "normal",
+            "poison",
             "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

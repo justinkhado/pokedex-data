@@ -1,6 +1,6 @@
 {
-    "name": "skrelp",
     "id": 690,
+    "name": "skrelp",
     "height": "1'8\"",
     "weight": "16.1 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "electric"
         ],
         "1": [
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
             "flying",
             "rock",
-            "normal",
-            "dark",
-            "dragon",
-            "ghost",
             "grass"
         ],
         "1/2": [
-            "poison",
-            "fighting",
             "fairy",
+            "fighting",
+            "poison",
             "bug",
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water"
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

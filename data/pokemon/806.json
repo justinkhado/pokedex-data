@@ -1,6 +1,6 @@
 {
-    "name": "blacephalon",
     "id": 806,
+    "name": "blacephalon",
     "height": "5'11\"",
     "weight": "28.7 lbs",
     "types": [
@@ -26,28 +26,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "water",
             "dark",
             "ghost"
         ],
         "1": [
-            "dragon",
-            "electric",
             "flying",
-            "psychic"
+            "psychic",
+            "electric",
+            "dragon"
         ],
         "1/2": [
             "grass",
-            "ice",
-            "fairy",
-            "fire",
             "steel",
+            "fire",
+            "fairy",
+            "ice",
             "poison"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

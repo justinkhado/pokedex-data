@@ -1,6 +1,6 @@
 {
-    "name": "tropius",
     "id": 357,
+    "name": "tropius",
     "height": "6'7\"",
     "weight": "220.5 lbs",
     "types": [
@@ -38,19 +38,19 @@
             "ice"
         ],
         "2": [
+            "flying",
             "poison",
             "fire",
-            "flying",
             "rock"
         ],
         "1": [
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "steel",
+            "fairy",
             "electric",
             "bug"
         ],
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

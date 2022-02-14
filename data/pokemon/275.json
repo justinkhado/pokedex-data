@@ -1,6 +1,6 @@
 {
-    "name": "shiftry",
     "id": 275,
+    "name": "shiftry",
     "height": "4'3\"",
     "weight": "131.4 lbs",
     "types": [
@@ -38,27 +38,28 @@
             "bug"
         ],
         "2": [
+            "flying",
             "poison",
             "ice",
             "fire",
-            "flying",
-            "fighting",
-            "fairy"
+            "fairy",
+            "fighting"
         ],
         "1": [
-            "dragon",
-            "rock",
             "normal",
-            "steel"
+            "rock",
+            "steel",
+            "dragon"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
             "grass",
+            "water",
+            "electric",
             "dark",
             "ghost"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "lairon",
     "id": 305,
+    "name": "lairon",
     "height": "2'11\"",
     "weight": "264.6 lbs",
     "types": [
@@ -35,31 +35,32 @@
     ],
     "type_chart": {
         "4": [
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "2": [
             "water"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "electric",
-            "steel",
             "grass",
+            "steel",
             "fire"
         ],
         "1/2": [
-            "ice",
-            "rock",
+            "psychic",
             "bug",
             "dragon",
             "fairy",
-            "psychic"
+            "rock",
+            "ice"
         ],
         "1/4": [
-            "normal",
-            "flying"
-        ]
+            "flying",
+            "normal"
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "pelipper",
     "id": 279,
+    "name": "pelipper",
     "height": "3'11\"",
     "weight": "61.7 lbs",
     "types": [
@@ -41,24 +41,25 @@
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
             "ice",
             "grass"
         ],
         "1/2": [
-            "fire",
-            "steel",
             "water",
+            "steel",
+            "fire",
             "fighting",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "tapu-lele",
     "id": 786,
+    "name": "tapu-lele",
     "height": "3'11\"",
     "weight": "41.0 lbs",
     "types": [
@@ -36,24 +36,25 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
-            "electric",
-            "fairy",
-            "fire",
+            "grass",
+            "normal",
             "water",
-            "bug",
-            "dark"
+            "flying",
+            "electric",
+            "fire",
+            "fairy",
+            "rock",
+            "ice",
+            "dark",
+            "bug"
         ],
         "1/2": [
             "psychic"
         ],
         "1/4": [
             "fighting"
-        ]
+        ],
+        "0": []
     }
 }

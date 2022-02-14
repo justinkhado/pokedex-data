@@ -1,6 +1,6 @@
 {
-    "name": "sealeo",
     "id": 364,
+    "name": "sealeo",
     "height": "3'7\"",
     "weight": "193.1 lbs",
     "types": [
@@ -38,28 +38,29 @@
         "2": [
             "fighting",
             "rock",
-            "electric",
-            "grass"
+            "grass",
+            "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "bug",
             "ground",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
-            "fire",
-            "steel"
+            "normal",
+            "ghost",
+            "bug",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
+            "steel",
+            "fire"
         ],
         "1/2": [
             "water"
         ],
         "1/4": [
             "ice"
-        ]
+        ],
+        "0": []
     }
 }

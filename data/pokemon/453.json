@@ -1,6 +1,6 @@
 {
-    "name": "croagunk",
     "id": 453,
+    "name": "croagunk",
     "height": "2'4\"",
     "weight": "50.7 lbs",
     "types": [
@@ -42,25 +42,26 @@
             "flying"
         ],
         "1": [
-            "ice",
             "normal",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
-            "water",
             "ghost",
+            "water",
+            "dragon",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "fairy"
         ],
         "1/2": [
-            "poison",
-            "fighting",
             "grass",
-            "rock",
-            "dark"
+            "fighting",
+            "poison",
+            "dark",
+            "rock"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

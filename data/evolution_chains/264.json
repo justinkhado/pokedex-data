@@ -7,18 +7,6 @@
                     "trigger": "level-up"
                 }
             ],
-            "evolves_to": [
-                {
-                    "evolution_details": [
-                        {
-                            "min_level": 35,
-                            "trigger": "level-up"
-                        }
-                    ],
-                    "id": "862",
-                    "name": "obstagoon"
-                }
-            ],
             "id": "264",
             "name": "linoone"
         }

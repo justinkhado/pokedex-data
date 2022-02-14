@@ -1,6 +1,6 @@
 {
-    "name": "yveltal",
     "id": 717,
+    "name": "yveltal",
     "height": "19'0\"",
     "weight": "447.5 lbs",
     "types": [
@@ -27,18 +27,18 @@
         "4": [],
         "2": [
             "fairy",
-            "ice",
             "rock",
-            "electric"
+            "electric",
+            "ice"
         ],
         "1": [
-            "poison",
-            "flying",
             "normal",
-            "dragon",
-            "fire",
-            "steel",
             "water",
+            "dragon",
+            "flying",
+            "poison",
+            "steel",
+            "fire",
             "fighting",
             "bug"
         ],
@@ -47,6 +47,7 @@
             "ghost",
             "grass"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

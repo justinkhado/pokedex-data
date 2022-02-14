@@ -1,6 +1,6 @@
 {
-    "name": "weedle",
     "id": 13,
+    "name": "weedle",
     "height": "0'12\"",
     "weight": "7.1 lbs",
     "types": [
@@ -31,30 +31,31 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "rock",
             "fire",
-            "flying",
             "psychic"
         ],
         "1": [
-            "ice",
             "normal",
+            "ghost",
+            "water",
+            "dragon",
             "dark",
             "electric",
-            "dragon",
             "steel",
-            "water",
-            "ghost",
+            "ice",
             "ground"
         ],
         "1/2": [
-            "poison",
             "fairy",
+            "poison",
             "bug"
         ],
         "1/4": [
-            "fighting",
-            "grass"
-        ]
+            "grass",
+            "fighting"
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "toxel",
     "id": 848,
+    "name": "toxel",
     "height": "1'4\"",
     "weight": "24.3 lbs",
     "types": [
@@ -41,25 +41,26 @@
             "psychic"
         ],
         "1": [
-            "ice",
-            "rock",
             "normal",
-            "dark",
-            "dragon",
-            "fire",
+            "ghost",
             "water",
-            "ghost"
+            "dragon",
+            "dark",
+            "fire",
+            "rock",
+            "ice"
         ],
         "1/2": [
-            "steel",
-            "electric",
             "flying",
-            "poison",
+            "electric",
+            "steel",
             "grass",
             "bug",
             "fighting",
+            "poison",
             "fairy"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

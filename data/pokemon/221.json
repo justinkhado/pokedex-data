@@ -1,6 +1,6 @@
 {
-    "name": "piloswine",
     "id": 221,
+    "name": "piloswine",
     "height": "3'7\"",
     "weight": "123.0 lbs",
     "types": [
@@ -37,27 +37,28 @@
         "4": [],
         "2": [
             "fighting",
-            "fire",
             "steel",
-            "water",
-            "grass"
+            "fire",
+            "grass",
+            "water"
         ],
         "1": [
-            "flying",
-            "normal",
-            "dark",
             "ground",
+            "psychic",
+            "normal",
+            "ghost",
             "bug",
             "dragon",
+            "dark",
+            "flying",
             "fairy",
-            "ghost",
-            "psychic",
             "ice",
             "rock"
         ],
         "1/2": [
             "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

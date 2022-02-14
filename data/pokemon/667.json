@@ -1,6 +1,6 @@
 {
-    "name": "litleo",
     "id": 667,
+    "name": "litleo",
     "height": "1'12\"",
     "weight": "29.8 lbs",
     "types": [
@@ -36,28 +36,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "water",
             "fighting"
         ],
         "1": [
-            "poison",
-            "flying",
+            "psychic",
             "normal",
-            "dark",
-            "electric",
             "dragon",
-            "psychic"
+            "dark",
+            "flying",
+            "poison",
+            "electric"
         ],
         "1/2": [
             "grass",
-            "ice",
             "bug",
-            "fairy",
+            "steel",
             "fire",
-            "steel"
+            "fairy",
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

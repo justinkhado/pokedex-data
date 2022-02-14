@@ -1,6 +1,6 @@
 {
-    "name": "morelull",
     "id": 755,
+    "name": "morelull",
     "height": "0'8\"",
     "weight": "3.3 lbs",
     "types": [
@@ -38,27 +38,28 @@
             "poison"
         ],
         "2": [
+            "flying",
             "ice",
             "fire",
-            "flying",
             "steel"
         ],
         "1": [
-            "rock",
-            "normal",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "fairy",
+            "rock",
             "bug"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
             "grass",
-            "fighting",
-            "dark"
+            "water",
+            "electric",
+            "dark",
+            "fighting"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

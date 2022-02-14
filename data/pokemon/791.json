@@ -1,6 +1,6 @@
 {
-    "name": "solgaleo",
     "id": 791,
+    "name": "solgaleo",
     "height": "11'2\"",
     "weight": "507.1 lbs",
     "types": [
@@ -28,27 +28,28 @@
         "2": [
             "dark",
             "ghost",
-            "fire",
-            "ground"
+            "ground",
+            "fire"
         ],
         "1": [
-            "electric",
             "water",
+            "electric",
             "fighting",
             "bug"
         ],
         "1/2": [
-            "flying",
             "grass",
-            "ice",
-            "rock",
             "normal",
             "dragon",
+            "flying",
+            "steel",
             "fairy",
-            "steel"
+            "rock",
+            "ice"
         ],
         "1/4": [
             "psychic"
-        ]
+        ],
+        "0": []
     }
 }

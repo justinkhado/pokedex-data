@@ -1,6 +1,6 @@
 {
-    "name": "rayquaza",
     "id": 384,
+    "name": "rayquaza",
     "height": "22'12\"",
     "weight": "455.2 lbs",
     "types": [
@@ -28,28 +28,29 @@
             "ice"
         ],
         "2": [
-            "dragon",
             "fairy",
+            "dragon",
             "rock"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dark",
+            "flying",
+            "poison",
+            "steel",
             "electric"
         ],
         "1/2": [
-            "fire",
             "water",
+            "fire",
             "fighting",
             "bug"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "landorus-incarnate",
     "id": 645,
+    "name": "landorus",
     "height": "4'11\"",
     "weight": "149.9 lbs",
     "types": [
@@ -36,15 +36,15 @@
             "water"
         ],
         "1": [
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "steel",
+            "fire",
+            "fairy",
             "rock",
             "grass"
         ],
@@ -53,6 +53,7 @@
             "fighting",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

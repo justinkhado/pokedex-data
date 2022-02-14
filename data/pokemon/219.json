@@ -1,6 +1,6 @@
 {
-    "name": "magcargo",
     "id": 219,
+    "name": "magcargo",
     "height": "2'7\"",
     "weight": "121.3 lbs",
     "types": [
@@ -43,24 +43,25 @@
             "fighting"
         ],
         "1": [
+            "psychic",
+            "ghost",
+            "dragon",
             "dark",
             "electric",
-            "dragon",
-            "ghost",
-            "psychic",
-            "steel",
-            "grass"
+            "grass",
+            "steel"
         ],
         "1/2": [
-            "ice",
             "fairy",
             "bug",
-            "poison",
+            "ice",
+            "flying",
             "normal",
-            "flying"
+            "poison"
         ],
         "1/4": [
             "fire"
-        ]
+        ],
+        "0": []
     }
 }

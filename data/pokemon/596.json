@@ -1,6 +1,6 @@
 {
-    "name": "galvantula",
     "id": 596,
+    "name": "galvantula",
     "height": "2'7\"",
     "weight": "31.5 lbs",
     "types": [
@@ -40,25 +40,26 @@
             "fire"
         ],
         "1": [
-            "poison",
-            "ice",
-            "normal",
-            "bug",
-            "dark",
-            "dragon",
-            "fairy",
-            "water",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "water",
+            "bug",
+            "dragon",
+            "dark",
+            "poison",
+            "fairy",
+            "ice",
             "ground",
             "flying"
         ],
         "1/2": [
-            "fighting",
             "grass",
-            "steel",
-            "electric"
+            "fighting",
+            "electric",
+            "steel"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

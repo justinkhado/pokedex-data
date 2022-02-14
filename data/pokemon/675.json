@@ -1,6 +1,6 @@
 {
-    "name": "pangoro",
     "id": 675,
+    "name": "pangoro",
     "height": "6'11\"",
     "weight": "299.8 lbs",
     "types": [
@@ -42,16 +42,16 @@
             "fighting"
         ],
         "1": [
-            "poison",
-            "grass",
-            "ice",
-            "normal",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
+            "normal",
             "water",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "fire",
+            "ice",
             "bug"
         ],
         "1/2": [
@@ -60,6 +60,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

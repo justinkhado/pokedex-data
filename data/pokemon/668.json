@@ -1,6 +1,6 @@
 {
-    "name": "pyroar",
     "id": 668,
+    "name": "pyroar",
     "height": "4'11\"",
     "weight": "179.7 lbs",
     "types": [
@@ -36,28 +36,29 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "water",
             "fighting"
         ],
         "1": [
-            "poison",
-            "flying",
+            "psychic",
             "normal",
-            "dark",
-            "electric",
             "dragon",
-            "psychic"
+            "dark",
+            "flying",
+            "poison",
+            "electric"
         ],
         "1/2": [
             "grass",
-            "ice",
             "bug",
-            "fairy",
+            "steel",
             "fire",
-            "steel"
+            "fairy",
+            "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

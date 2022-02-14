@@ -1,6 +1,6 @@
 {
-    "name": "shedinja",
     "id": 292,
+    "name": "shedinja",
     "height": "2'7\"",
     "weight": "2.6 lbs",
     "types": [
@@ -26,20 +26,20 @@
     "type_chart": {
         "4": [],
         "2": [
+            "flying",
             "rock",
             "fire",
-            "flying",
             "dark",
             "ghost"
         ],
         "1": [
-            "ice",
-            "electric",
-            "dragon",
-            "fairy",
-            "steel",
+            "psychic",
             "water",
-            "psychic"
+            "dragon",
+            "electric",
+            "steel",
+            "fairy",
+            "ice"
         ],
         "1/2": [
             "ground",
@@ -47,6 +47,7 @@
             "poison",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

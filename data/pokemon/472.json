@@ -1,6 +1,6 @@
 {
-    "name": "gliscor",
     "id": 472,
+    "name": "gliscor",
     "height": "6'7\"",
     "weight": "93.7 lbs",
     "types": [
@@ -41,15 +41,15 @@
             "water"
         ],
         "1": [
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "fire",
-            "steel",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "steel",
+            "fire",
+            "fairy",
             "rock",
             "grass"
         ],
@@ -58,6 +58,7 @@
             "fighting",
             "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

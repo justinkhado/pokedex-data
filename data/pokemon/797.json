@@ -1,6 +1,6 @@
 {
-    "name": "celesteela",
     "id": 797,
+    "name": "celesteela",
     "height": "30'2\"",
     "weight": "2204.4 lbs",
     "types": [
@@ -30,24 +30,25 @@
             "electric"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "water",
-            "ice",
             "rock",
+            "ice",
             "fighting"
         ],
         "1/2": [
-            "flying",
+            "psychic",
             "normal",
             "dragon",
-            "fairy",
+            "flying",
             "steel",
-            "psychic"
+            "fairy"
         ],
         "1/4": [
-            "bug",
-            "grass"
-        ]
+            "grass",
+            "bug"
+        ],
+        "0": []
     }
 }

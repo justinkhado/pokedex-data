@@ -1,6 +1,6 @@
 {
-    "name": "runerigus",
     "id": 867,
+    "name": "runerigus",
     "height": "5'3\"",
     "weight": "146.8 lbs",
     "types": [
@@ -25,20 +25,20 @@
     "type_chart": {
         "4": [],
         "2": [
-            "ice",
-            "water",
             "grass",
+            "water",
+            "ice",
             "dark",
             "ghost"
         ],
         "1": [
-            "flying",
             "ground",
+            "psychic",
             "dragon",
-            "fairy",
-            "fire",
+            "flying",
             "steel",
-            "psychic"
+            "fire",
+            "fairy"
         ],
         "1/2": [
             "rock",
@@ -46,6 +46,7 @@
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

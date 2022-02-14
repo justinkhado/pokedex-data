@@ -1,6 +1,6 @@
 {
-    "name": "poliwrath",
     "id": 62,
+    "name": "poliwrath",
     "height": "4'3\"",
     "weight": "119.0 lbs",
     "types": [
@@ -36,29 +36,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "electric",
             "grass",
+            "electric",
             "fairy",
             "flying",
             "psychic"
         ],
         "1": [
-            "poison",
-            "normal",
             "ground",
+            "normal",
+            "ghost",
             "dragon",
             "fighting",
-            "ghost"
+            "poison"
         ],
         "1/2": [
-            "ice",
+            "water",
             "fire",
             "steel",
-            "water",
+            "ice",
+            "dark",
             "rock",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

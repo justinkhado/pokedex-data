@@ -1,6 +1,6 @@
 {
-    "name": "lampent",
     "id": 608,
+    "name": "lampent",
     "height": "1'12\"",
     "weight": "28.7 lbs",
     "types": [
@@ -38,26 +38,27 @@
         "2": [
             "dark",
             "ghost",
-            "rock",
             "ground",
+            "rock",
             "water"
         ],
         "1": [
-            "dragon",
-            "electric",
             "flying",
-            "psychic"
+            "psychic",
+            "electric",
+            "dragon"
         ],
         "1/2": [
             "poison",
             "grass",
-            "ice",
-            "fairy",
+            "steel",
             "fire",
-            "steel"
+            "fairy",
+            "ice"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "gengar",
     "id": 94,
+    "name": "gengar",
     "height": "4'11\"",
     "weight": "89.3 lbs",
     "types": [
@@ -32,14 +32,14 @@
             "psychic"
         ],
         "1": [
-            "flying",
-            "ice",
-            "rock",
-            "electric",
+            "water",
             "dragon",
-            "fire",
+            "flying",
+            "electric",
             "steel",
-            "water"
+            "fire",
+            "rock",
+            "ice"
         ],
         "1/2": [
             "fairy",
@@ -48,6 +48,7 @@
         "1/4": [
             "poison",
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

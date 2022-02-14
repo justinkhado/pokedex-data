@@ -1,6 +1,6 @@
 {
-    "name": "emboar",
     "id": 500,
+    "name": "emboar",
     "height": "5'3\"",
     "weight": "330.7 lbs",
     "types": [
@@ -37,24 +37,25 @@
             "psychic"
         ],
         "1": [
-            "poison",
             "normal",
-            "electric",
+            "ghost",
             "dragon",
             "fighting",
-            "ghost",
+            "poison",
+            "electric",
             "fairy",
             "rock"
         ],
         "1/2": [
             "ice",
-            "fire",
-            "steel",
             "grass",
+            "steel",
+            "fire",
             "dark"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

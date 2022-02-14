@@ -1,6 +1,6 @@
 {
-    "name": "aggron",
     "id": 306,
+    "name": "aggron",
     "height": "6'11\"",
     "weight": "793.7 lbs",
     "types": [
@@ -35,31 +35,32 @@
     ],
     "type_chart": {
         "4": [
-            "fighting",
-            "ground"
+            "ground",
+            "fighting"
         ],
         "2": [
             "water"
         ],
         "1": [
-            "ghost",
             "dark",
+            "ghost",
             "electric",
-            "steel",
             "grass",
+            "steel",
             "fire"
         ],
         "1/2": [
-            "ice",
-            "rock",
+            "psychic",
             "bug",
             "dragon",
             "fairy",
-            "psychic"
+            "rock",
+            "ice"
         ],
         "1/4": [
-            "normal",
-            "flying"
-        ]
+            "flying",
+            "normal"
+        ],
+        "0": []
     }
 }

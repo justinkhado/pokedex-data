@@ -1,15 +1,4 @@
 {
-    "evolves_to": [
-        {
-            "evolution_details": [
-                {
-                    "trigger": "other"
-                }
-            ],
-            "id": "865",
-            "name": "sirfetchd"
-        }
-    ],
     "id": "83",
     "name": "farfetchd"
 }

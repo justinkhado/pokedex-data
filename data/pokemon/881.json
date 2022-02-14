@@ -1,6 +1,6 @@
 {
-    "name": "arctozolt",
     "id": 881,
+    "name": "arctozolt",
     "height": "7'7\"",
     "weight": "330.7 lbs",
     "types": [
@@ -42,23 +42,24 @@
             "fire"
         ],
         "1": [
-            "poison",
             "grass",
             "normal",
-            "dark",
-            "bug",
-            "dragon",
-            "fairy",
-            "water",
             "ghost",
+            "water",
+            "bug",
             "psychic",
+            "dragon",
+            "dark",
+            "poison",
+            "fairy",
             "steel"
         ],
         "1/2": [
-            "electric",
             "flying",
+            "electric",
             "ice"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

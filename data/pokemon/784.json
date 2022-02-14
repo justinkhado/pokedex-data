@@ -1,6 +1,6 @@
 {
-    "name": "kommo-o",
     "id": 784,
+    "name": "kommo-o",
     "height": "5'3\"",
     "weight": "172.4 lbs",
     "types": [
@@ -44,22 +44,23 @@
             "psychic"
         ],
         "1": [
-            "poison",
-            "normal",
             "ground",
+            "normal",
+            "ghost",
             "fighting",
-            "steel",
-            "ghost"
+            "poison",
+            "steel"
         ],
         "1/2": [
-            "water",
-            "fire",
-            "electric",
             "grass",
+            "water",
+            "electric",
+            "fire",
+            "dark",
             "rock",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

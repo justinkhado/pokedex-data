@@ -1,6 +1,6 @@
 {
-    "name": "pheromosa",
     "id": 795,
+    "name": "pheromosa",
     "height": "5'11\"",
     "weight": "55.1 lbs",
     "types": [
@@ -33,23 +33,24 @@
             "psychic"
         ],
         "1": [
-            "poison",
-            "ice",
             "normal",
-            "electric",
-            "dragon",
-            "steel",
-            "water",
             "ghost",
+            "water",
+            "dragon",
+            "poison",
+            "electric",
+            "steel",
+            "ice",
             "rock"
         ],
         "1/2": [
-            "fighting",
             "ground",
             "grass",
-            "bug",
-            "dark"
+            "fighting",
+            "dark",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

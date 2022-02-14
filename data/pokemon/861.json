@@ -1,6 +1,6 @@
 {
-    "name": "grimmsnarl",
     "id": 861,
+    "name": "grimmsnarl",
     "height": "4'11\"",
     "weight": "134.5 lbs",
     "types": [
@@ -41,15 +41,15 @@
             "steel"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
-            "normal",
             "ground",
+            "grass",
+            "normal",
+            "water",
+            "flying",
             "electric",
             "fire",
-            "water",
+            "rock",
+            "ice",
             "fighting",
             "bug"
         ],
@@ -58,6 +58,7 @@
         ],
         "1/4": [
             "dark"
-        ]
+        ],
+        "0": []
     }
 }

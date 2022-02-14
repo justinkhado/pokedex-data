@@ -1,6 +1,6 @@
 {
-    "name": "ho-oh",
     "id": 250,
+    "name": "ho-oh",
     "height": "12'6\"",
     "weight": "438.7 lbs",
     "types": [
@@ -37,24 +37,25 @@
             "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
             "ice"
         ],
         "1/2": [
             "fairy",
-            "fire",
             "steel",
+            "fire",
             "fighting"
         ],
         "1/4": [
-            "bug",
-            "grass"
-        ]
+            "grass",
+            "bug"
+        ],
+        "0": []
     }
 }

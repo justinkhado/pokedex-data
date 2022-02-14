@@ -1,6 +1,6 @@
 {
-    "name": "delibird",
     "id": 225,
+    "name": "delibird",
     "height": "2'11\"",
     "weight": "35.3 lbs",
     "types": [
@@ -38,27 +38,28 @@
             "rock"
         ],
         "2": [
-            "fire",
             "steel",
+            "fire",
             "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "water",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "water",
+            "dragon",
+            "dark",
+            "flying",
+            "poison",
+            "fairy",
             "ice",
             "fighting"
         ],
         "1/2": [
-            "bug",
-            "grass"
+            "grass",
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

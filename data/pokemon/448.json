@@ -1,6 +1,6 @@
 {
-    "name": "lucario",
     "id": 448,
+    "name": "lucario",
     "height": "3'11\"",
     "weight": "119.0 lbs",
     "types": [
@@ -36,14 +36,14 @@
     "type_chart": {
         "4": [],
         "2": [
+            "ground",
             "fighting",
-            "fire",
-            "ground"
+            "fire"
         ],
         "1": [
             "ghost",
-            "electric",
             "water",
+            "electric",
             "fairy",
             "flying",
             "psychic"
@@ -51,14 +51,15 @@
         "1/2": [
             "dark",
             "grass",
-            "ice",
             "normal",
             "dragon",
-            "steel"
+            "steel",
+            "ice"
         ],
         "1/4": [
             "rock",
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

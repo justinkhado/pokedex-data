@@ -1,6 +1,6 @@
 {
-    "name": "nihilego",
     "id": 793,
+    "name": "nihilego",
     "height": "3'11\"",
     "weight": "122.4 lbs",
     "types": [
@@ -28,29 +28,30 @@
             "ground"
         ],
         "2": [
-            "steel",
             "water",
+            "steel",
             "psychic"
         ],
         "1": [
-            "ice",
-            "rock",
+            "ghost",
+            "dragon",
             "dark",
             "electric",
-            "dragon",
-            "ghost",
-            "fighting",
-            "grass"
+            "rock",
+            "ice",
+            "grass",
+            "fighting"
         ],
         "1/2": [
+            "flying",
             "normal",
             "fire",
-            "flying",
             "fairy",
             "bug"
         ],
         "1/4": [
             "poison"
-        ]
+        ],
+        "0": []
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "naganadel",
     "id": 804,
+    "name": "naganadel",
     "height": "11'10\"",
     "weight": "330.7 lbs",
     "types": [
@@ -32,24 +32,25 @@
             "dragon"
         ],
         "1": [
-            "flying",
-            "rock",
             "normal",
-            "dark",
-            "steel",
             "ghost",
+            "dark",
+            "flying",
+            "steel",
+            "rock",
             "fairy"
         ],
         "1/2": [
-            "poison",
             "fighting",
+            "poison",
             "bug",
             "water",
-            "fire",
-            "electric"
+            "electric",
+            "fire"
         ],
         "1/4": [
             "grass"
-        ]
+        ],
+        "0": []
     }
 }

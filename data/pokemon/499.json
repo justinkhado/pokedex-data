@@ -1,6 +1,6 @@
 {
-    "name": "pignite",
     "id": 499,
+    "name": "pignite",
     "height": "3'3\"",
     "weight": "122.4 lbs",
     "types": [
@@ -37,24 +37,25 @@
             "psychic"
         ],
         "1": [
-            "poison",
             "normal",
-            "electric",
+            "ghost",
             "dragon",
             "fighting",
-            "ghost",
+            "poison",
+            "electric",
             "fairy",
             "rock"
         ],
         "1/2": [
             "ice",
-            "fire",
-            "steel",
             "grass",
+            "steel",
+            "fire",
             "dark"
         ],
         "1/4": [
             "bug"
-        ]
+        ],
+        "0": []
     }
 }

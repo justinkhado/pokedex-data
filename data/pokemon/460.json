@@ -1,6 +1,6 @@
 {
-    "name": "abomasnow",
     "id": 460,
+    "name": "abomasnow",
     "height": "7'3\"",
     "weight": "298.7 lbs",
     "types": [
@@ -33,28 +33,29 @@
             "fire"
         ],
         "2": [
+            "flying",
             "poison",
             "bug",
-            "flying",
             "fighting",
-            "rock",
-            "steel"
+            "steel",
+            "rock"
         ],
         "1": [
-            "normal",
-            "dark",
-            "dragon",
-            "fairy",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "fairy",
             "ice"
         ],
         "1/2": [
-            "water",
             "ground",
-            "electric",
-            "grass"
+            "grass",
+            "water",
+            "electric"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

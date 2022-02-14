@@ -1,6 +1,6 @@
 {
-    "name": "solrock",
     "id": 338,
+    "name": "solrock",
     "height": "3'11\"",
     "weight": "339.5 lbs",
     "types": [
@@ -26,29 +26,30 @@
     "type_chart": {
         "4": [],
         "2": [
-            "steel",
             "ground",
-            "water",
             "grass",
-            "bug",
+            "water",
+            "steel",
+            "dark",
             "ghost",
-            "dark"
+            "bug"
         ],
         "1": [
-            "ice",
-            "rock",
-            "electric",
             "dragon",
+            "electric",
             "fairy",
+            "rock",
+            "ice",
             "fighting"
         ],
         "1/2": [
-            "poison",
-            "normal",
-            "fire",
             "flying",
+            "normal",
+            "poison",
+            "fire",
             "psychic"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

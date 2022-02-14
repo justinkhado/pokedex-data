@@ -1,6 +1,6 @@
 {
-    "name": "sableye",
     "id": 302,
+    "name": "sableye",
     "height": "1'8\"",
     "weight": "24.3 lbs",
     "types": [
@@ -39,16 +39,16 @@
             "fairy"
         ],
         "1": [
-            "flying",
-            "grass",
-            "ice",
-            "rock",
             "ground",
-            "electric",
-            "dragon",
-            "fire",
-            "steel",
+            "grass",
             "water",
+            "dragon",
+            "flying",
+            "electric",
+            "steel",
+            "fire",
+            "rock",
+            "ice",
             "dark",
             "ghost",
             "bug"
@@ -56,6 +56,7 @@
         "1/2": [
             "poison"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }

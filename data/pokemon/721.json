@@ -1,6 +1,6 @@
 {
-    "name": "volcanion",
     "id": 721,
+    "name": "volcanion",
     "height": "5'7\"",
     "weight": "429.9 lbs",
     "types": [
@@ -26,19 +26,19 @@
     "type_chart": {
         "4": [],
         "2": [
-            "rock",
             "ground",
+            "rock",
             "electric"
         ],
         "1": [
-            "poison",
-            "flying",
-            "normal",
-            "dark",
-            "dragon",
-            "fighting",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "dragon",
+            "dark",
+            "fighting",
+            "flying",
+            "poison",
             "grass",
             "water"
         ],
@@ -47,9 +47,10 @@
             "bug"
         ],
         "1/4": [
-            "ice",
             "fire",
-            "steel"
-        ]
+            "steel",
+            "ice"
+        ],
+        "0": []
     }
 }

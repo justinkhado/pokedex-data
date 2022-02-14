@@ -1,6 +1,6 @@
 {
-    "name": "tapu-koko",
     "id": 785,
+    "name": "tapu-koko",
     "height": "5'11\"",
     "weight": "45.2 lbs",
     "types": [
@@ -36,23 +36,24 @@
         ],
         "1": [
             "grass",
-            "ice",
-            "rock",
-            "normal",
-            "fairy",
-            "fire",
-            "water",
-            "ghost",
             "psychic",
+            "normal",
+            "ghost",
+            "water",
+            "fire",
+            "fairy",
+            "rock",
+            "ice",
             "steel"
         ],
         "1/2": [
-            "electric",
             "flying",
+            "electric",
+            "dark",
             "fighting",
-            "bug",
-            "dark"
+            "bug"
         ],
-        "1/4": []
+        "1/4": [],
+        "0": []
     }
 }
