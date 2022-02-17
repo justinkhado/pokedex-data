@@ -4,7 +4,7 @@ import json
 from settings import TOTAL_POKEMON, PARPATH
 
 def get_pokemon_name(pokemon_name):
-    dashed_names = ('deoxys', 'wormadam', 'giratina', 'shaymin', 'basculin', 'darmanitan', 'tornadus', 'thundurus', 'landorus', 'keldeo', 'meleotta', 'meowstic', 'aegislash', 'pumpkaboo', 'gourgeist', 'oricorio', 'lycanroc', 'wishiwashi', 'minior', 'mimikyu')
+    dashed_names = ('deoxys', 'wormadam', 'giratina', 'shaymin', 'basculin', 'darmanitan', 'tornadus', 'thundurus', 'landorus', 'keldeo', 'meloetta', 'meowstic', 'aegislash', 'pumpkaboo', 'gourgeist', 'oricorio', 'lycanroc', 'wishiwashi', 'minior', 'mimikyu')
     for name in dashed_names:
         if name in pokemon_name:
             return pokemon_name.split('-')[0]
